@@ -1,0 +1,3634 @@
+"","category","word","mean_rating"
+"1","deadline","accomplish",8.77777777777778
+"2","deadline","action",7.6
+"3","deadline","anxieti",7.82352941176471
+"4","deadline","anxious",8.31578947368421
+"5","deadline","approach",7.625
+"6","deadline","arrang",7.66666666666667
+"7","deadline","articl",7.77777777777778
+"8","deadline","assign",7.35135135135135
+"9","deadline","backbreak",7.66666666666667
+"10","deadline","befor",7.1
+"11","deadline","boss",7.3125
+"12","deadline","boundari",8.1
+"13","deadline","busi",8.84615384615385
+"14","deadline","calendar",8.90476190476191
+"15","deadline","clock",7.90909090909091
+"16","deadline","clock time",8.5
+"17","deadline","close",8.64705882352941
+"18","deadline","commit",7.47826086956522
+"19","deadline","complet",8.51282051282051
+"20","deadline","concentr",7.5
+"21","deadline","conclud",7.19047619047619
+"22","deadline","conclus",8.33333333333333
+"23","deadline","date",8.26666666666667
+"24","deadline","date stamp",7.27272727272727
+"25","deadline","day of the month",7.71428571428571
+"26","deadline","decis",8.66666666666667
+"27","deadline","demand",8.53333333333333
+"28","deadline","dissert",7.05263157894737
+"29","deadline","do work",9.5
+"30","deadline","document",7.47368421052632
+"31","deadline","done",7.63636363636364
+"32","deadline","due",9
+"33","deadline","due date",10
+"34","deadline","employ",7.11111111111111
+"35","deadline","end",8.69444444444444
+"36","deadline","end goal",9.57142857142857
+"37","deadline","end is in sight",8.28571428571429
+"38","deadline","enforc",7.94117647058824
+"39","deadline","essay",7.47368421052632
+"40","deadline","expect",8.18181818181818
+"41","deadline","extend",7.36666666666667
+"42","deadline","extens",8.09523809523809
+"43","deadline","final",7.83870967741935
+"44","deadline","final exam",9
+"45","deadline","final examin",8.5
+"46","deadline","final stage",8.25
+"47","deadline","fini",9.2
+"48","deadline","finish",8.86046511627907
+"49","deadline","finish up",8.6
+"50","deadline","focus",7.59259259259259
+"51","deadline","form",7.9
+"52","deadline","forthcom",8
+"53","deadline","goal",8.5
+"54","deadline","hast",7.85714285714286
+"55","deadline","hasten",7.16666666666667
+"56","deadline","homework",9
+"57","deadline","hurri",9.3
+"58","deadline","immin",8.8
+"59","deadline","impend",7.5
+"60","deadline","import",9.4
+"61","deadline","job",7.90476190476191
+"62","deadline","limit",7.76923076923077
+"63","deadline","limit point",7.63636363636364
+"64","deadline","loom",8.37037037037037
+"65","deadline","make",8
+"66","deadline","manag",7.34545454545455
+"67","deadline","matur date",8.14285714285714
+"68","deadline","meet",7.61904761904762
+"69","deadline","militari mission",7.25
+"70","deadline","miss",7.13636363636364
+"71","deadline","motiv",7.77777777777778
+"72","deadline","must",7.57142857142857
+"73","deadline","near",8.26315789473684
+"74","deadline","nervous",7.05882352941176
+"75","deadline","newspap",8
+"76","deadline","newspap publish",8.54545454545454
+"77","deadline","oblig",8.42857142857143
+"78","deadline","overdu",7.44444444444444
+"79","deadline","paper",7.52631578947368
+"80","deadline","particular date",9.90909090909091
+"81","deadline","piec of work",9.33333333333333
+"82","deadline","plan",7.57142857142857
+"83","deadline","prepar",8.14285714285714
+"84","deadline","prepared",8.11111111111111
+"85","deadline","pressur",9.125
+"86","deadline","pressur level",9.375
+"87","deadline","pressur sensat",7.6
+"88","deadline","procrastin",8.66666666666667
+"89","deadline","project",7.64285714285714
+"90","deadline","public",7.5
+"91","deadline","quick",7.2
+"92","deadline","rapid",7.6
+"93","deadline","reach",7.44444444444444
+"94","deadline","report",8.2
+"95","deadline","requir",7.92857142857143
+"96","deadline","respons",7.05263157894737
+"97","deadline","rigid",8
+"98","deadline","rule",8
+"99","deadline","rush",8.62068965517241
+"100","deadline","schedul",8
+"101","deadline","school day",7.75
+"102","deadline","schoolwork",9.4
+"103","deadline","send off",8.44444444444444
+"104","deadline","set",8
+"105","deadline","step on it",7.25
+"106","deadline","stop",8
+"107","deadline","stop point",8.22222222222222
+"108","deadline","stricter",7.72727272727273
+"109","deadline","student",7.46666666666667
+"110","deadline","supervisor",8.26315789473684
+"111","deadline","tardili",7.33333333333333
+"112","deadline","target",7.28571428571429
+"113","deadline","task",9
+"114","deadline","teamwork",7.2
+"115","deadline","termin point",7.54545454545455
+"116","deadline","terminus ad quem",8.8
+"117","deadline","time",7.5
+"118","deadline","time consum",7.41666666666667
+"119","deadline","time limit",9.77777777777778
+"120","deadline","time manag",9.63636363636364
+"121","deadline","time pressur",9.58333333333333
+"122","deadline","time run out",9.5
+"123","deadline","undertak",7.11111111111111
+"124","deadline","univers",8.66666666666667
+"125","deadline","upcom",9.44444444444444
+"126","deadline","well-organis",7.375
+"127","deadline","work",7.23076923076923
+"128","deadline","work on",9.375
+"129","deadline","work toward",7.33333333333333
+"130","deadline","workplac",9.44444444444444
+"131","desperation","agit",7.63636363636364
+"132","desperation","agoni",8.88888888888889
+"133","desperation","alcohol",7.46666666666667
+"134","desperation","anger",8.85714285714286
+"135","desperation","anguish",7.875
+"136","desperation","anxious",7.68421052631579
+"137","desperation","aw",7.375
+"138","desperation","beg",8.93939393939394
+"139","desperation","beggar",7.5
+"140","desperation","broke",7.7
+"141","desperation","chanc",7.5
+"142","desperation","chao",7.84615384615385
+"143","desperation","cri",8.45454545454546
+"144","desperation","cri out",9.3
+"145","desperation","depriv",7.77777777777778
+"146","desperation","desir",7.36363636363636
+"147","desperation","despair",9.11111111111111
+"148","desperation","desper",9.51724137931035
+"149","desperation","destitut",8.85714285714286
+"150","desperation","difficulti",7.68421052631579
+"151","desperation","dire",9
+"152","desperation","discomfort",7.36363636363636
+"153","desperation","dismay",7.63636363636364
+"154","desperation","distraught",7.5
+"155","desperation","distress",9.23529411764706
+"156","desperation","do-or-di",7.55555555555556
+"157","desperation","doom",7.375
+"158","desperation","emerg",7.72727272727273
+"159","desperation","emot",8.08
+"160","desperation","empti",7.6
+"161","desperation","exasper",7.22222222222222
+"162","desperation","failur",7.5
+"163","desperation","fed up",7.1
+"164","desperation","feel",7.625
+"165","desperation","final stage",7.92307692307692
+"166","desperation","frantic",9.36363636363636
+"167","desperation","frustrat",8.36842105263158
+"168","desperation","give up",7.94444444444444
+"169","desperation","gloomi",7.33333333333333
+"170","desperation","great depress",7.55555555555556
+"171","desperation","hard time",9.33333333333333
+"172","desperation","harm",7.66666666666667
+"173","desperation","hast",7.6
+"174","desperation","heartach",7.3
+"175","desperation","helpless",8.625
+"176","desperation","homeless",8
+"177","desperation","hopeless",7.79310344827586
+"178","desperation","hunger",8
+"179","desperation","hurt",7.39285714285714
+"180","desperation","impati",8.14285714285714
+"181","desperation","isol",7.27272727272727
+"182","desperation","last chanc",8.44444444444444
+"183","desperation","last choic",8.66666666666667
+"184","desperation","last hope",9.18181818181818
+"185","desperation","last resort",9.84615384615385
+"186","desperation","law-break",7.5
+"187","desperation","loneli",7.44444444444444
+"188","desperation","lost",7.77777777777778
+"189","desperation","low",7.3
+"190","desperation","miseri",7.27272727272727
+"191","desperation","mixed-up",8.33333333333333
+"192","desperation","natur depress",7.25
+"193","desperation","need",7.75609756097561
+"194","desperation","needi",8.4
+"195","desperation","neediest",7.54545454545455
+"196","desperation","nervous",7.88888888888889
+"197","desperation","no escap",8.22222222222222
+"198","desperation","no way out",8.71428571428571
+"199","desperation","outcri",8.90909090909091
+"200","desperation","panic",8
+"201","desperation","panick",8.1
+"202","desperation","pauper",8
+"203","desperation","plea",8.4
+"204","desperation","plead",8.43243243243243
+"205","desperation","pleas",8.42857142857143
+"206","desperation","poverty-stricken",7.85714285714286
+"207","desperation","powerless",8.08333333333333
+"208","desperation","pressur",7.125
+"209","desperation","problem",8.41176470588235
+"210","desperation","psychiatr",7.1
+"211","desperation","rash decis",7.22222222222222
+"212","desperation","reckless",7.73684210526316
+"213","desperation","risk",7.25
+"214","desperation","sad",7.4
+"215","desperation","scari",7.45454545454545
+"216","desperation","scrambl",7.5
+"217","desperation","scream",8
+"218","desperation","shout out",8
+"219","desperation","sorrow",8.23529411764706
+"220","desperation","starv",7.20689655172414
+"221","desperation","strand",9
+"222","desperation","stress",8.13333333333333
+"223","desperation","struggl",8.96774193548387
+"224","desperation","suffer",8.2
+"225","desperation","suffoc",7.1
+"226","desperation","surrend",7.44444444444444
+"227","desperation","surviv",7.7
+"228","desperation","tear",7.90909090909091
+"229","desperation","terrifi",8.26666666666667
+"230","desperation","threat",7.41176470588235
+"231","desperation","throw in the towel",8.88888888888889
+"232","desperation","torment",7.95
+"233","desperation","tragic",7.11111111111111
+"234","desperation","tri anyth",9
+"235","desperation","tri everyth",9.28571428571429
+"236","desperation","tri time",8
+"237","desperation","troubl",7.18181818181818
+"238","desperation","unhappi",7.75
+"239","desperation","urgent",8.75
+"240","desperation","vulner",7.2
+"241","desperation","want",7.14285714285714
+"242","desperation","weep",8
+"243","desperation","wish",8.09523809523809
+"244","desperation","worri",7.52631578947368
+"245","desperation","yell",7.55
+"246","fixation","all-encompass",8.625
+"247","fixation","attent",7.41666666666667
+"248","fixation","badger",7.85714285714286
+"249","fixation","behaviour",7.42105263157895
+"250","fixation","center of attent",7.63636363636364
+"251","fixation","center on",9
+"252","fixation","compuls",7.94444444444444
+"253","fixation","concentr",7.48387096774194
+"254","fixation","concentr on",9.22222222222222
+"255","fixation","creepi",7.875
+"256","fixation","delus",8.09090909090909
+"257","fixation","desir",8
+"258","fixation","driven",8
+"259","fixation","eager",7.3
+"260","fixation","engross",8.5
+"261","fixation","entranc",7.25
+"262","fixation","fanat",7.60714285714286
+"263","fixation","fascin",7.61111111111111
+"264","fixation","feel",7.36363636363636
+"265","fixation","fixat",9.8
+"266","fixation","focal point",7.7
+"267","fixation","focus",8.73684210526316
+"268","fixation","focus on",10
+"269","fixation","focuss",8.77777777777778
+"270","fixation","gaze",8
+"271","fixation","groupi",7.3
+"272","fixation","habit",7.11111111111111
+"273","fixation","harass",7.77777777777778
+"274","fixation","hold",7.625
+"275","fixation","infatu",9.47368421052632
+"276","fixation","jealous",8.22222222222222
+"277","fixation","jealousi",7.33333333333333
+"278","fixation","keep an eye on",7.63636363636364
+"279","fixation","lover",7.44444444444444
+"280","fixation","lust",7.75
+"281","fixation","narcissist",7.28571428571429
+"282","fixation","obsess",9.52830188679245
+"283","fixation","obsession",9.25
+"284","fixation","obsessive-compuls",9.9
+"285","fixation","ocd",9.44444444444444
+"286","fixation","overwhelm",7.71428571428571
+"287","fixation","paranoia",8.42857142857143
+"288","fixation","passion",8.44444444444444
+"289","fixation","possess",7.8
+"290","fixation","preoccup",8.875
+"291","fixation","pursual",8.16666666666667
+"292","fixation","rigid mind-set",7.22222222222222
+"293","fixation","sociopath",7.2
+"294","fixation","stalk",8.3
+"295","fixation","stalker",8.09090909090909
+"296","fixation","stare",7.20512820512821
+"297","fixation","think",7.88888888888889
+"298","fixation","thought",9.125
+"299","fixation","unblink",9
+"300","fixation","uptight",8
+"301","fixation","want",8.375
+"302","fixation","watch",8
+"303","fixation","watch over",7.71428571428571
+"304","frustration","aggress",7.44
+"305","frustration","aggriev",9.11111111111111
+"306","frustration","agit",8.25
+"307","frustration","anger",8.65
+"308","frustration","angri",9.4375
+"309","frustration","angst",7.18181818181818
+"310","frustration","anguish",7.08333333333333
+"311","frustration","annoy",9.32
+"312","frustration","anxieti",7.84210526315789
+"313","frustration","anxious",7.11764705882353
+"314","frustration","bankruptci",7.14285714285714
+"315","frustration","bemoan",7.63636363636364
+"316","frustration","bewilder",7.25
+"317","frustration","bother",7.69230769230769
+"318","frustration","bottl up",7.15384615384615
+"319","frustration","build up",7.08333333333333
+"320","frustration","come on",8
+"321","frustration","complain",7.55555555555556
+"322","frustration","cri",8.09523809523809
+"323","frustration","crisi",7.625
+"324","frustration","defeat",7.58333333333333
+"325","frustration","despair",9.4
+"326","frustration","difficult",7.76923076923077
+"327","frustration","disappoint",8.47619047619048
+"328","frustration","discomfort",7.22222222222222
+"329","frustration","disconcert",7.625
+"330","frustration","discont",8.15
+"331","frustration","disench",7.25
+"332","frustration","disgruntl",8.33333333333333
+"333","frustration","displeas",7.73333333333333
+"334","frustration","displeasur",8.42857142857143
+"335","frustration","distraught",7.63636363636364
+"336","frustration","distress",8.45454545454546
+"337","frustration","embitt",7.2
+"338","frustration","emot",7.69230769230769
+"339","frustration","end of tether",7.28571428571429
+"340","frustration","envious",7.11111111111111
+"341","frustration","escal",7.44444444444444
+"342","frustration","exasper",9
+"343","frustration","feel",8.11111111111111
+"344","frustration","frustrat",10
+"345","frustration","furi",7.23076923076923
+"346","frustration","furious",8.8
+"347","frustration","give up",7.31578947368421
+"348","frustration","gloomi",7.25
+"349","frustration","goddam",7.5
+"350","frustration","goddamn",7.4
+"351","frustration","grievanc",7.57894736842105
+"352","frustration","helpless",7.04761904761905
+"353","frustration","hold back",7.33333333333333
+"354","frustration","hopeless",8.47058823529412
+"355","frustration","impati",8.875
+"356","frustration","infuri",7.57142857142857
+"357","frustration","irat",8.38461538461539
+"358","frustration","ire",8.6
+"359","frustration","irk",8.44444444444444
+"360","frustration","irrit",9.16
+"361","frustration","kibosh",7.66666666666667
+"362","frustration","lash out",9.57142857142857
+"363","frustration","lose hope",8.25
+"364","frustration","mif",7.4
+"365","frustration","mood",7.25
+"366","frustration","negat",8.05555555555556
+"367","frustration","negativ",7.625
+"368","frustration","nuisanc",7.45454545454545
+"369","frustration","outburst",8.66666666666667
+"370","frustration","pain",7.54545454545455
+"371","frustration","pain in the ass",8.77777777777778
+"372","frustration","pain in the neck",8.22222222222222
+"373","frustration","piss",8.54545454545454
+"374","frustration","piss off",9.77777777777778
+"375","frustration","powerless",8.45
+"376","frustration","problem",8.93333333333333
+"377","frustration","rage",7.8
+"378","frustration","red-fac",7.2
+"379","frustration","regret",7.14285714285714
+"380","frustration","resign",7.875
+"381","frustration","restless",7.55555555555556
+"382","frustration","roil",8.83333333333333
+"383","frustration","sad",8.28571428571429
+"384","frustration","see red",8.9
+"385","frustration","shaki",7.125
+"386","frustration","shock",7.2
+"387","frustration","short fuse",9.54545454545454
+"388","frustration","snappish",9
+"389","frustration","stalem",8.375
+"390","frustration","strain",7.44444444444444
+"391","frustration","stress",8.96875
+"392","frustration","suffer",7.66666666666667
+"393","frustration","suppress",7.125
+"394","frustration","tantrum",9.25
+"395","frustration","tear",8.66666666666667
+"396","frustration","temper",8
+"397","frustration","tempera",7.77777777777778
+"398","frustration","tens",8.38888888888889
+"399","frustration","tens up",8
+"400","frustration","tension",8.3
+"401","frustration","throw in the towel",9
+"402","frustration","troubl",7.3
+"403","frustration","unhappi",8.625
+"404","frustration","unsatisfi",8.2
+"405","frustration","unwilling",7.3
+"406","frustration","upset",8.85
+"407","frustration","vex",9
+"408","frustration","vexat",7.85714285714286
+"409","frustration","violent",7.25
+"410","frustration","walk away",8.85714285714286
+"411","frustration","walk off",7.81818181818182
+"412","god","abid by",7.2
+"413","god","al-qur'an",8.42857142857143
+"414","god","all-mighti",9.875
+"415","god","all-pow",8.25
+"416","god","allah",9.66666666666667
+"417","god","almighti",8.66666666666667
+"418","god","ancient",7.625
+"419","god","angel",9
+"420","god","anglican",8
+"421","god","apocalyps",8.25
+"422","god","apostl",9.5
+"423","god","apostol",7.25
+"424","god","archbishop",7.75
+"425","god","armageddon",7.5
+"426","god","baptist",7.85714285714286
+"427","god","belief",9.6
+"428","god","believ",8.83333333333333
+"429","god","bibl",9.81818181818182
+"430","god","biblic",9.88888888888889
+"431","god","bless",8.73809523809524
+"432","god","brother love",7.45454545454545
+"433","god","buddhism",8.66666666666667
+"434","god","cathedr",9.72727272727273
+"435","god","cathol",9
+"436","god","catholic",9.25
+"437","god","chapel",9.27272727272727
+"438","god","chaplain",7.66666666666667
+"439","god","charit",7.11111111111111
+"440","god","christ",9.75
+"441","god","christendom",9.36363636363636
+"442","god","christian",9.54838709677419
+"443","god","christian bibl",9.3
+"444","god","christian church",9.8
+"445","god","christian religion",9.25
+"446","god","church",9.72727272727273
+"447","god","church build",9.55555555555556
+"448","god","church servic",10
+"449","god","churchman",7.375
+"450","god","clemenc",7.5
+"451","god","clergi",9.5
+"452","god","clergyman",9.3
+"453","god","cleric",7.9
+"454","god","compass",8.6
+"455","god","congreg",8.31578947368421
+"456","god","consecr",7.66666666666667
+"457","god","creation",8.28571428571429
+"458","god","creator",9.23529411764706
+"459","god","crown of thorn",9.5
+"460","god","crucifi",8.33333333333333
+"461","god","crucifixion",7.72727272727273
+"462","god","dedic",8.125
+"463","god","deiti",9.47368421052632
+"464","god","devoted",9
+"465","god","diocesan",7.25
+"466","god","divin",8
+"467","god","drive forc",7.6
+"468","god","ecclesiast",8.16666666666667
+"469","god","eden",8.66666666666667
+"470","god","elysian",8
+"471","god","entiti",8.6875
+"472","god","etern",8.875
+"473","god","ethic code",8
+"474","god","evangel",9.14285714285714
+"475","god","extremist",7.77777777777778
+"476","god","fabl",7.5
+"477","god","faith",9.125
+"478","god","father",9.44444444444444
+"479","god","follow",7.6
+"480","god","forgiv",9.75
+"481","god","gabriel",7.27272727272727
+"482","god","ganesha",10
+"483","god","god",9.88461538461539
+"484","god","god almighti",8.7
+"485","god","god will",9.1
+"486","god","goddess",9.43478260869565
+"487","god","godless",7.22222222222222
+"488","god","godlik",8.75
+"489","god","good shepherd",7.14285714285714
+"490","god","grace",9.33333333333333
+"491","god","great power",9.71428571428571
+"492","god","greatest",7.125
+"493","god","hade",8.6
+"494","god","happi",9.2
+"495","god","heaven",9.28571428571429
+"496","god","hell",7.18181818181818
+"497","god","herculean",7.88888888888889
+"498","god","higher be",9.90909090909091
+"499","god","holi",9.75
+"500","god","holi book",10
+"501","god","holi man",9.45454545454546
+"502","god","holi person",9.77777777777778
+"503","god","holi place",8.9
+"504","god","holi scriptur",9.77777777777778
+"505","god","holi word",8.4
+"506","god","holi writ",8.375
+"507","god","ideolog",8.8125
+"508","god","idolatri",7.28571428571429
+"509","god","idolis",7.11111111111111
+"510","god","immort",8.27777777777778
+"511","god","invinc",7.15384615384615
+"512","god","invis",9.875
+"513","god","jehovah",8.81818181818182
+"514","god","jesus",9.88888888888889
+"515","god","jesus christ",9.6
+"516","god","jesus of nazareth",9.75
+"517","god","judaism",8.38461538461539
+"518","god","koran",8.22222222222222
+"519","god","lord",9.33333333333333
+"520","god","love",7.90909090909091
+"521","god","loving-kind",8.27272727272727
+"522","god","loyalti",7.33333333333333
+"523","god","major power",9.22222222222222
+"524","god","maker",7.5
+"525","god","masjid",10
+"526","god","mass",7.44444444444444
+"527","god","messiah",8.8
+"528","god","mighti",9.55555555555556
+"529","god","mind",8.57142857142857
+"530","god","missionari work",8.22222222222222
+"531","god","monasteri",9.5
+"532","god","moral",7.2258064516129
+"533","god","moral principl",7.90909090909091
+"534","god","moslem",9.4
+"535","god","mosqu",8.52631578947368
+"536","god","muhammad",9.125
+"537","god","myth",8
+"538","god","mytholog",8.45454545454546
+"539","god","nonexist",7.25
+"540","god","omnipot",7.28571428571429
+"541","god","oracl",7.75
+"542","god","organis religion",9.55555555555556
+"543","god","padr",9.66666666666667
+"544","god","pantheism",7.875
+"545","god","paradis",8.33333333333333
+"546","god","parish",8.66666666666667
+"547","god","passion",8.33333333333333
+"548","god","pastor",8.68421052631579
+"549","god","peac",7.83333333333333
+"550","god","pharo",8
+"551","god","philosoph system",7.6
+"552","god","philosophi",9
+"553","god","pilgrimag",8.4
+"554","god","polyth",9
+"555","god","power",8.59459459459459
+"556","god","pray",9.44444444444444
+"557","god","prayer",9.75
+"558","god","preach",8.02857142857143
+"559","god","preacher",8.92307692307692
+"560","god","priest",9.5
+"561","god","promis land",8
+"562","god","propheci",8.6
+"563","god","prophesi",7.88888888888889
+"564","god","prophet",9.05263157894737
+"565","god","protest",7.8
+"566","god","protestant",7.9
+"567","god","qaida",10
+"568","god","quran",9
+"569","god","rabbin",10
+"570","god","raptur",7.71428571428571
+"571","god","rector",8
+"572","god","religi",9.75
+"573","god","religi belief",9.45454545454546
+"574","god","religion",9.86363636363636
+"575","god","respect",7.63636363636364
+"576","god","resurrect",8.85714285714286
+"577","god","rite",7.57142857142857
+"578","god","ritual",8.95
+"579","god","rule",7.41176470588235
+"580","god","sacr",9.28571428571429
+"581","god","saint",8.55555555555556
+"582","god","sanctifi",7.8
+"583","god","saviour",9.57142857142857
+"584","god","sermon",9.29411764705882
+"585","god","shiva",9.33333333333333
+"586","god","sin",8.08333333333333
+"587","god","societi",7.33333333333333
+"588","god","soul",7.66666666666667
+"589","god","spirit",9.11111111111111
+"590","god","spiritu",9.44444444444444
+"591","god","supernatur",7.875
+"592","god","superpow",8.14285714285714
+"593","god","surveil",8
+"594","god","synagogu",8.63157894736842
+"595","god","templ",9.1875
+"596","god","testament",9.41666666666667
+"597","god","the nazaren",8.875
+"598","god","theism",8.33333333333333
+"599","god","theist",9.14285714285714
+"600","god","theolog",9.22222222222222
+"601","god","throne",7.45454545454545
+"602","god","torah",8.14285714285714
+"603","god","tradit",8.85714285714286
+"604","god","trust",7.28
+"605","god","trusting",8.11111111111111
+"606","god","univers",7.22222222222222
+"607","god","unseen",8.81818181818182
+"608","god","vaticin",8.66666666666667
+"609","god","vener",8
+"610","god","vicar",8.33333333333333
+"611","god","vishnu",9.18181818181818
+"612","god","wonder",7.85714285714286
+"613","god","word of god",9.27272727272727
+"614","god","worship",9.48717948717949
+"615","god","worshipp",9.22222222222222
+"616","god","zeus",10
+"617","grievance","aggriev",7.8
+"618","grievance","agoni",7.3
+"619","grievance","air out",9
+"620","grievance","anger",8.54545454545454
+"621","grievance","angst",7.63636363636364
+"622","grievance","apologis",7.16666666666667
+"623","grievance","assault",7.375
+"624","grievance","complain",9.375
+"625","grievance","complaint",8.78947368421053
+"626","grievance","despair",7.57142857142857
+"627","grievance","differ",7.44444444444444
+"628","grievance","difficult",8.88888888888889
+"629","grievance","disappoint",7.42105263157895
+"630","grievance","discrimin",8.28571428571429
+"631","grievance","discriminatori",7.09090909090909
+"632","grievance","disgruntl",9
+"633","grievance","displeas",8.88888888888889
+"634","grievance","dissatisfact",8.45454545454546
+"635","grievance","distress",8.33333333333333
+"636","grievance","embitt",8.08333333333333
+"637","grievance","feel",7.44444444444444
+"638","grievance","fragil",7.11111111111111
+"639","grievance","frustrat",7.6
+"640","grievance","grief",9.75
+"641","grievance","horribl",7.88888888888889
+"642","grievance","hurt",8.77777777777778
+"643","grievance","infract",7.33333333333333
+"644","grievance","injustic",8.29411764705882
+"645","grievance","ire",7.375
+"646","grievance","irk",7.55555555555556
+"647","grievance","lawsuit",7.29411764705882
+"648","grievance","loneli",8.375
+"649","grievance","lose",7.55555555555556
+"650","grievance","lugubri",9
+"651","grievance","mif",7.125
+"652","grievance","mishandl",7.625
+"653","grievance","murder",7.375
+"654","grievance","negat",8.36363636363636
+"655","grievance","pain",7.1
+"656","grievance","peev",8.625
+"657","grievance","perturb",7.8
+"658","grievance","piss",7.25
+"659","grievance","piss off",8.375
+"660","grievance","problem",9.27777777777778
+"661","grievance","resent",7.54545454545455
+"662","grievance","sad",8.1578947368421
+"663","grievance","somber",8
+"664","grievance","struggl",7.25
+"665","grievance","stung",7.36363636363636
+"666","grievance","suffer",9.05714285714286
+"667","grievance","tragic",7.4
+"668","grievance","transgress",7.75
+"669","grievance","troubl",7.85714285714286
+"670","grievance","unfair",7.1304347826087
+"671","grievance","unhappi",9
+"672","grievance","unjust",8.77777777777778
+"673","grievance","unsatisfi",8.44444444444444
+"674","grievance","upset",8.70588235294118
+"675","grievance","vengeanc",7.44444444444444
+"676","grievance","vent",7.22222222222222
+"677","grievance","victim",7.36363636363636
+"678","grievance","woe",7.58333333333333
+"679","grievance","worri",7.21052631578947
+"680","grievance","wrong",7.43478260869565
+"681","hate","abhor",9.57142857142857
+"682","hate","acrid",8.16666666666667
+"683","hate","act of terror",9.375
+"684","hate","advers",7.25
+"685","hate","aggress",8.83783783783784
+"686","hate","agit",7.52941176470588
+"687","hate","anger",8.8421052631579
+"688","hate","angri",9.57142857142857
+"689","hate","annoy",7.55555555555556
+"690","hate","anti-semit",8.72727272727273
+"691","hate","anti-soci",7.3
+"692","hate","argu",7.29032258064516
+"693","hate","arrog",7.90909090909091
+"694","hate","assault",8.44444444444444
+"695","hate","attack",8.53488372093023
+"696","hate","aw",7.09090909090909
+"697","hate","begrudg",7.5
+"698","hate","bigotri",9.36363636363636
+"699","hate","bitchi",8.125
+"700","hate","bitter",7.85714285714286
+"701","hate","bloodsh",7.42857142857143
+"702","hate","bomb",7.75862068965517
+"703","hate","brutal",8.5
+"704","hate","brutish",7.25
+"705","hate","bulli",7.95121951219512
+"706","hate","bullyrag",8.6
+"707","hate","conflict",8.75
+"708","hate","contemn",7.75
+"709","hate","controversi",7.4
+"710","hate","corros",7.55555555555556
+"711","hate","corrupt",7.14285714285714
+"712","hate","crime",8.45
+"713","hate","cruel",7.94444444444444
+"714","hate","cruelti",9.44444444444444
+"715","hate","cult",7.6
+"716","hate","damag",7.1
+"717","hate","danger",7.57142857142857
+"718","hate","deplor",8.875
+"719","hate","despic",7.14285714285714
+"720","hate","despis",10
+"721","hate","destruct",8.3
+"722","hate","detest",10
+"723","hate","discont",8.375
+"724","hate","discrimin",8
+"725","hate","disfavour",8.6
+"726","hate","disgust",8.52941176470588
+"727","hate","dislik",9.15
+"728","hate","disson",7.6
+"729","hate","distast",9.55555555555556
+"730","hate","distress",7.45454545454545
+"731","hate","distrust",7.58333333333333
+"732","hate","disturb",7.5
+"733","hate","enemi",9.7
+"734","hate","enrag",9
+"735","hate","envi",7.38461538461539
+"736","hate","evil",8.45454545454546
+"737","hate","execr",7.44444444444444
+"738","hate","extrem",8.8
+"739","hate","extremist",8.75
+"740","hate","feel",8.52631578947368
+"741","hate","feroc",7.375
+"742","hate","fierc",7.42105263157895
+"743","hate","fight",7.85714285714286
+"744","hate","fight down",8
+"745","hate","foe",8.26315789473684
+"746","hate","foeman",8
+"747","hate","frustrat",7.4
+"748","hate","furi",9
+"749","hate","furious",8.68421052631579
+"750","hate","harass",8.8
+"751","hate","harm",7.92307692307692
+"752","hate","harsh",7.33333333333333
+"753","hate","hate",9.76470588235294
+"754","hate","hate crime",10
+"755","hate","hatr",9.92307692307692
+"756","hate","hoi polloi",10
+"757","hate","holi terror",7.22222222222222
+"758","hate","homophobia",8.9
+"759","hate","horribl",8.3
+"760","hate","hostil",8.75
+"761","hate","hurt",7.75862068965517
+"762","hate","ignor",8.375
+"763","hate","illog",7.125
+"764","hate","inhuman treatment",7.75
+"765","hate","injustic",7.63157894736842
+"766","hate","insensit",7.16666666666667
+"767","hate","intimid",7.875
+"768","hate","intoler",8.55555555555556
+"769","hate","invect",9
+"770","hate","ire",9.33333333333333
+"771","hate","jealousi",8.75
+"772","hate","judgement",8.6
+"773","hate","judgment",7.22222222222222
+"774","hate","kill",7.64814814814815
+"775","hate","lash out",8.18181818181818
+"776","hate","loath",9.9
+"777","hate","mad",7.21052631578947
+"778","hate","malef",7.5
+"779","hate","malic",9.41666666666667
+"780","hate","malici",9
+"781","hate","menac",7.5
+"782","hate","merciless",7.85714285714286
+"783","hate","misgiv",7.8
+"784","hate","misogyni",8.44444444444444
+"785","hate","murder",8.21052631578947
+"786","hate","narcissist",7.6
+"787","hate","nasti",8.61904761904762
+"788","hate","negat",9.8
+"789","hate","negat charg",7.1
+"790","hate","negat emot",9.75
+"791","hate","nemesi",9
+"792","hate","obliter",7.22222222222222
+"793","hate","offenc",7.4
+"794","hate","offend",7.5
+"795","hate","oppos",7.16666666666667
+"796","hate","oppress",8.2
+"797","hate","outrag",7.61111111111111
+"798","hate","passion",8.33333333333333
+"799","hate","polit sympathi",8.42857142857143
+"800","hate","prejudic",8.94117647058824
+"801","hate","protest",8.25
+"802","hate","put to death",7.90909090909091
+"803","hate","qaeda",7.33333333333333
+"804","hate","racial",8.08333333333333
+"805","hate","racial discrimin",10
+"806","hate","racism",9.85714285714286
+"807","hate","rage",9.28571428571429
+"808","hate","repel",8.1
+"809","hate","resent",8.89473684210526
+"810","hate","revuls",9.6
+"811","hate","rotten",7.3
+"812","hate","savageri",8
+"813","hate","scath",7.05882352941176
+"814","hate","scorn",7.22222222222222
+"815","hate","scourg",7.85714285714286
+"816","hate","see red",8.5
+"817","hate","segreg",8.7
+"818","hate","self-destruct",8.66666666666667
+"819","hate","shoot",7.42857142857143
+"820","hate","sicken",7.07692307692308
+"821","hate","sociopath",8
+"822","hate","spite",8.64705882352941
+"823","hate","state of war",8.55555555555556
+"824","hate","struggl",7.125
+"825","hate","suffer",7.10526315789474
+"826","hate","sur",7.2
+"827","hate","taunt",7.09090909090909
+"828","hate","terror",8.60869565217391
+"829","hate","terrorist",8.22222222222222
+"830","hate","terrorist act",9
+"831","hate","thought",7.5
+"832","hate","threat",8.55555555555556
+"833","hate","tyranni",8.5
+"834","hate","ugli",7.75
+"835","hate","unhappi",8.66666666666667
+"836","hate","unhing",7.4
+"837","hate","unlik",7.5
+"838","hate","unrest",8.09090909090909
+"839","hate","vehement",9.16666666666667
+"840","hate","venom",7.71428571428571
+"841","hate","vicious",9.27272727272727
+"842","hate","vile",8.27272727272727
+"843","hate","villain",7.45454545454545
+"844","hate","violenc",10
+"845","hate","violent",8.77777777777778
+"846","hate","vitriol",7.83333333333333
+"847","hate","vitup",7.33333333333333
+"848","hate","war",7.7
+"849","hate","warfar",8.44444444444444
+"850","hate","weapon",7.85714285714286
+"851","hate","wick",8.72727272727273
+"852","hate","wicked",8.11111111111111
+"853","hate","worthless",7.71428571428571
+"854","hate","wrath",9
+"855","hate","wretch",7.75
+"856","hate","xenophobia",9.66666666666667
+"857","hate","yob",8.71428571428571
+"858","help","911",10
+"859","help","accid",7.47058823529412
+"860","help","accompani",7.5
+"861","help","aid",9.85714285714286
+"862","help","alert",7.07692307692308
+"863","help","alli",8.63636363636364
+"864","help","ambul",8.41176470588235
+"865","help","amelior",8.66666666666667
+"866","help","amend",7.14285714285714
+"867","help","answer",8.5
+"868","help","ask",8.42105263157895
+"869","help","assist",9.87878787878788
+"870","help","attend",7.15789473684211
+"871","help","attend to",9.57142857142857
+"872","help","backup",9.125
+"873","help","benefici",9.72727272727273
+"874","help","bleed",8.2
+"875","help","booster",8.66666666666667
+"876","help","call",7.66666666666667
+"877","help","call for",9
+"878","help","call out",9.14285714285714
+"879","help","cardiologist",7.88888888888889
+"880","help","care",9.36842105263158
+"881","help","caretak",8.625
+"882","help","communic",7.15384615384615
+"883","help","communiti servic",8.375
+"884","help","cooper",9.56521739130435
+"885","help","cri",7.83333333333333
+"886","help","cri out",9.71428571428571
+"887","help","crimefight",8.375
+"888","help","defend",7.33333333333333
+"889","help","desper",7.83333333333333
+"890","help","die",7.3
+"891","help","disadvantag",7.75
+"892","help","econom aid",7.90909090909091
+"893","help","effort",7.15789473684211
+"894","help","emerg",9.66666666666667
+"895","help","emerg brake",8.18181818181818
+"896","help","emt",10
+"897","help","enabl",7.21052631578947
+"898","help","endors",7.42857142857143
+"899","help","enhanc",8.09090909090909
+"900","help","enquir",8.625
+"901","help","ensur",7.22222222222222
+"902","help","evacu",7.6
+"903","help","expert",7.83333333333333
+"904","help","facilit",8.88235294117647
+"905","help","financi aid",8
+"906","help","financi back",7.875
+"907","help","financi support",8.6
+"908","help","fire brigad",7.81818181818182
+"909","help","firemen",9.27272727272727
+"910","help","friend",8
+"911","help","fund",7.44444444444444
+"912","help","give",8.8
+"913","help","good",8.44444444444444
+"914","help","grief",7.11111111111111
+"915","help","help",9.52941176470588
+"916","help","helplin",9.55555555555556
+"917","help","helpmat",8.25
+"918","help","hold open",7.71428571428571
+"919","help","holler",7.11111111111111
+"920","help","hollo",8.6
+"921","help","hospit",9.625
+"922","help","human",8
+"923","help","humanitarian",9.11111111111111
+"924","help","improv",8.17142857142857
+"925","help","incapacit",7.1
+"926","help","inexperienc person",8.125
+"927","help","inquir",7.88888888888889
+"928","help","interven",8.63636363636364
+"929","help","kind",8.33333333333333
+"930","help","mayday",8.4
+"931","help","medic",8
+"932","help","melior",10
+"933","help","need",7.9375
+"934","help","neurologist",7.44444444444444
+"935","help","nice",8.28571428571429
+"936","help","nurs",8.41666666666667
+"937","help","orphan",7.9
+"938","help","oxfam",8.57142857142857
+"939","help","paramed",9.31578947368421
+"940","help","patronag",7.8
+"941","help","pediatrician",7.55555555555556
+"942","help","petit",7.77777777777778
+"943","help","physician",7.3
+"944","help","plea",9.53333333333333
+"945","help","plead",8
+"946","help","polic",7.33333333333333
+"947","help","policeman",8.09090909090909
+"948","help","policemen",8.54545454545454
+"949","help","powerless",7.14285714285714
+"950","help","progress",7.66666666666667
+"951","help","promot",7.1
+"952","help","provid",8.55
+"953","help","psychiatrist",7.75
+"954","help","psychologist",7.66666666666667
+"955","help","public servic",9.11111111111111
+"956","help","reach",8.4
+"957","help","reach out",9.35
+"958","help","reenforc",8.5
+"959","help","reinforc",7.1
+"960","help","relief",7.33333333333333
+"961","help","reliev",8.55555555555556
+"962","help","request",7.81818181818182
+"963","help","rescu",9.47058823529412
+"964","help","rescuer",9.73684210526316
+"965","help","respond",7.51351351351351
+"966","help","s.o.s.",9.75
+"967","help","save",9.47058823529412
+"968","help","savior",9.14285714285714
+"969","help","saviour",7.4
+"970","help","scream",8.77777777777778
+"971","help","serv",8.5
+"972","help","skil",7.7
+"973","help","soldier",7.7
+"974","help","sos",9.57142857142857
+"975","help","straighten out",7.81818181818182
+"976","help","strengthen",8.29411764705882
+"977","help","suicid",7.55555555555556
+"978","help","suppli",7.25
+"979","help","support",9.43478260869565
+"980","help","surgeon",8.08333333333333
+"981","help","survivor",8.27272727272727
+"982","help","tend",8.09090909090909
+"983","help","trauma",8.6
+"984","help","troubl",7.2
+"985","help","understand",7.875
+"986","help","unicef",8.42857142857143
+"987","help","victim",7.36842105263158
+"988","help","vulner",7.75
+"989","help","want",7.22222222222222
+"990","help","warm",7.14285714285714
+"991","help","warn signal",8.18181818181818
+"992","help","welfar",8.41666666666667
+"993","honour","abid by",8.33333333333333
+"994","honour","achiev",8
+"995","honour","admir",7.31818181818182
+"996","honour","appreci",7.6875
+"997","honour","award",8.02857142857143
+"998","honour","belief",7.07142857142857
+"999","honour","benefit",7.42857142857143
+"1000","honour","bless",8
+"1001","honour","brave",8.38095238095238
+"1002","honour","braveri",7.7
+"1003","honour","celebr",7.66666666666667
+"1004","honour","class",7.81818181818182
+"1005","honour","commit",7.54545454545455
+"1006","honour","congratul",9.2
+"1007","honour","conscienc",7.25
+"1008","honour","consider",7.28571428571429
+"1009","honour","countri",7.5
+"1010","honour","courag",8.07407407407407
+"1011","honour","credibl",7.85714285714286
+"1012","honour","decenc",8.77777777777778
+"1013","honour","dedic",9.11111111111111
+"1014","honour","depend",8.90909090909091
+"1015","honour","devot",7.90909090909091
+"1016","honour","dignifi",8.33333333333333
+"1017","honour","digniti",8.90909090909091
+"1018","honour","ennobl",8.25
+"1019","honour","entrust",7.42857142857143
+"1020","honour","esteem",7.5
+"1021","honour","ethic",8
+"1022","honour","excel",8
+"1023","honour","fair",7.11764705882353
+"1024","honour","faith",7.14285714285714
+"1025","honour","famili",7.55555555555556
+"1026","honour","forgiving",7.5
+"1027","honour","gallant",9.11111111111111
+"1028","honour","glori",9.22222222222222
+"1029","honour","good",8.09523809523809
+"1030","honour","good will",7.88888888888889
+"1031","honour","grace",7.9
+"1032","honour","gratitud",7.33333333333333
+"1033","honour","hero",9.875
+"1034","honour","heroism",9
+"1035","honour","hon.",8.57142857142857
+"1036","honour","honest",7.66666666666667
+"1037","honour","honesti",7.66666666666667
+"1038","honour","honor",8.65714285714286
+"1039","honour","honour",9.94736842105263
+"1040","honour","integr",9.875
+"1041","honour","justic",9
+"1042","honour","justic depart",7.42857142857143
+"1043","honour","kinsperson",7.6
+"1044","honour","knight",7.44444444444444
+"1045","honour","legaci",7.1
+"1046","honour","loyal",8.66666666666667
+"1047","honour","loyalist",9.57142857142857
+"1048","honour","medal",8.57894736842105
+"1049","honour","medallion",7.2
+"1050","honour","missionari work",7.2
+"1051","honour","moral",7.8125
+"1052","honour","moral principl",8.36363636363636
+"1053","honour","mother",8
+"1054","honour","mulan",8.8
+"1055","honour","nobil",7.875
+"1056","honour","nobl",8.14285714285714
+"1057","honour","nobleman",8.5
+"1058","honour","noblemen",7.85714285714286
+"1059","honour","nomin",7.25
+"1060","honour","patriot",7.9
+"1061","honour","pledg",7.78571428571429
+"1062","honour","prais",8.55555555555556
+"1063","honour","prestig",8.45454545454546
+"1064","honour","prestigi",9
+"1065","honour","pride",8.46666666666667
+"1066","honour","principl",8.4
+"1067","honour","profession",7.36363636363636
+"1068","honour","proud",8.33333333333333
+"1069","honour","reliabl",7.125
+"1070","honour","relianc",7.2
+"1071","honour","rememb",7.1
+"1072","honour","renown",7.10526315789474
+"1073","honour","reput",8.5
+"1074","honour","respect",8.68888888888889
+"1075","honour","reverenti",7.625
+"1076","honour","right thing to do",8.44444444444444
+"1077","honour","righteous",8.52941176470588
+"1078","honour","sacr",8.375
+"1079","honour","sacr valu",8.22222222222222
+"1080","honour","samurai",8.85714285714286
+"1081","honour","sanctiti",8.25
+"1082","honour","school",7.22222222222222
+"1083","honour","self-prid",9.375
+"1084","honour","self-worth",7.8
+"1085","honour","shrine",8.47058823529412
+"1086","honour","sincerest",7.44444444444444
+"1087","honour","sir",7.81818181818182
+"1088","honour","trueheart",8.81818181818182
+"1089","honour","trust",7.80769230769231
+"1090","honour","trustworthi",8.85714285714286
+"1091","honour","truth",9.54545454545454
+"1092","honour","uniti",8
+"1093","honour","uphold valu",8.5
+"1094","honour","valiant",9.5
+"1095","honour","valu",8.16
+"1096","honour","value-system",8
+"1097","honour","vow",7.84210526315789
+"1098","honour","warrior",8.54545454545454
+"1099","honour","well-thought-of",7.72727272727273
+"1100","honour","word of god",7.5
+"1101","honour","word of honor",7.85714285714286
+"1102","honour","worship",7.1
+"1103","impostor","act as",7.91666666666667
+"1104","impostor","actor",7.57894736842105
+"1105","impostor","bad",9.2
+"1106","impostor","bogus",8.61538461538461
+"1107","impostor","bullshit",7.4
+"1108","impostor","camouflag",7.5
+"1109","impostor","cheat",7.82051282051282
+"1110","impostor","cheater",7.10526315789474
+"1111","impostor","con",7.77777777777778
+"1112","impostor","con-artist",9.11111111111111
+"1113","impostor","con-man",9.28571428571429
+"1114","impostor","conceal",7.74193548387097
+"1115","impostor","conman",8.1
+"1116","impostor","counterfeit",9.375
+"1117","impostor","covert",7.22222222222222
+"1118","impostor","crime",7.05
+"1119","impostor","cun",8.625
+"1120","impostor","deceit",8.70833333333333
+"1121","impostor","deceiv",9.6875
+"1122","impostor","decept",8.74074074074074
+"1123","impostor","delud",7.6
+"1124","impostor","depersonalis disord",7.85714285714286
+"1125","impostor","depersonalis neurosi",7.66666666666667
+"1126","impostor","disguis",8.48648648648649
+"1127","impostor","dishonest",8.58333333333333
+"1128","impostor","dishonesti",9.375
+"1129","impostor","distrust",7.38888888888889
+"1130","impostor","dodgi",7.6
+"1131","impostor","doesn't belong",9.45454545454546
+"1132","impostor","dupe",7.7
+"1133","impostor","duperi",8.42857142857143
+"1134","impostor","duplic",7.63636363636364
+"1135","impostor","espionag",7.66666666666667
+"1136","impostor","evas",7.57142857142857
+"1137","impostor","expos",7.625
+"1138","impostor","fake",10
+"1139","impostor","faker",9.11111111111111
+"1140","impostor","fallaci",8
+"1141","impostor","fals",9.875
+"1142","impostor","falsehood",7.1
+"1143","impostor","falsifi",8.10526315789474
+"1144","impostor","faux",8.7
+"1145","impostor","feloni",8.2
+"1146","impostor","fishi",7.77777777777778
+"1147","impostor","fraud",9.23529411764706
+"1148","impostor","fraudster",9.75
+"1149","impostor","fraudul",9.73333333333333
+"1150","impostor","hazard",7.11111111111111
+"1151","impostor","hidden",8
+"1152","impostor","hoax",7.42857142857143
+"1153","impostor","hornswoggl",10
+"1154","impostor","ident element",7.45454545454545
+"1155","impostor","illus",7.66666666666667
+"1156","impostor","imit",9.80769230769231
+"1157","impostor","imperson",9.06896551724138
+"1158","impostor","impost",9.375
+"1159","impostor","impostor",10
+"1160","impostor","infiltr",7.15
+"1161","impostor","interlop",8.375
+"1162","impostor","intrus",9
+"1163","impostor","irregular",7.3
+"1164","impostor","law-break",8.66666666666667
+"1165","impostor","liar",9.38888888888889
+"1166","impostor","lie",8.34615384615385
+"1167","impostor","make believ",8.63636363636364
+"1168","impostor","make-believ",7.1
+"1169","impostor","malevol",7.71428571428571
+"1170","impostor","mask",7.07692307692308
+"1171","impostor","masquerad",7.75
+"1172","impostor","mi6",8.2
+"1173","impostor","misidentifi",7.33333333333333
+"1174","impostor","misl",8
+"1175","impostor","mislead",7.53846153846154
+"1176","impostor","misrepres",9.1
+"1177","impostor","misrepresent",9.375
+"1178","impostor","mistrust",8.125
+"1179","impostor","mysteri",8
+"1180","impostor","not qualifi",7.9
+"1181","impostor","not suppos to be here",8.875
+"1182","impostor","phoney",10
+"1183","impostor","phoni",9.6
+"1184","impostor","playact",7.42857142857143
+"1185","impostor","portray",8.33333333333333
+"1186","impostor","pretend",9.53846153846154
+"1187","impostor","role player",9
+"1188","impostor","roleplay",8.14285714285714
+"1189","impostor","scam",8.3
+"1190","impostor","secret",7.5
+"1191","impostor","shadi",8.11111111111111
+"1192","impostor","sham",8.75
+"1193","impostor","shammer",8.85714285714286
+"1194","impostor","slyness",7.1
+"1195","impostor","sneaki",8.375
+"1196","impostor","spi",8.20689655172414
+"1197","impostor","strang",7.27272727272727
+"1198","impostor","stranger",8
+"1199","impostor","suspect",7.13636363636364
+"1200","impostor","suspici",8
+"1201","impostor","swindler",7.33333333333333
+"1202","impostor","tendenti",8
+"1203","impostor","treacheri",8.44444444444444
+"1204","impostor","trick",9.57142857142857
+"1205","impostor","trickeri",8.6
+"1206","impostor","trickster",8.625
+"1207","impostor","uncov",7.77777777777778
+"1208","impostor","undercov agent",9.54545454545454
+"1209","impostor","unjust",7.7
+"1210","impostor","unknown",7.22222222222222
+"1211","impostor","unmask",7.11111111111111
+"1212","impostor","unreal",8.11111111111111
+"1213","impostor","untru",8.77777777777778
+"1214","impostor","untrust",8.36363636363636
+"1215","impostor","untrusti",9.44444444444444
+"1216","impostor","untrustworthi",9.44444444444444
+"1217","impostor","untruth",9.4
+"1218","impostor","unwelcom",7.28571428571429
+"1219","impostor","usurp",7.53846153846154
+"1220","impostor","wig",7.09090909090909
+"1221","jealousy","alleg",8.5
+"1222","jealousy","anger",8.05263157894737
+"1223","jealousy","animos",7.29411764705882
+"1224","jealousy","anxious",7.11111111111111
+"1225","jealousy","avaric",10
+"1226","jealousy","bitter",8.77777777777778
+"1227","jealousy","blackbal",7.66666666666667
+"1228","jealousy","cheat",7.63888888888889
+"1229","jealousy","consum",7.90909090909091
+"1230","jealousy","control",7.11111111111111
+"1231","jealousy","covet",8.83333333333333
+"1232","jealousy","disdain",7.14285714285714
+"1233","jealousy","dissatisfact",7.42857142857143
+"1234","jealousy","distrust",7.86363636363636
+"1235","jealousy","ego",8.625
+"1236","jealousy","emot",9.04
+"1237","jealousy","enrag",7.77777777777778
+"1238","jealousy","envi",10
+"1239","jealousy","envious",9.82352941176471
+"1240","jealousy","erot love",7.27272727272727
+"1241","jealousy","feel",7.08823529411765
+"1242","jealousy","felt",7.16666666666667
+"1243","jealousy","fixat",7.5
+"1244","jealousy","glare",8
+"1245","jealousy","greed",8.66666666666667
+"1246","jealousy","greedi",7.875
+"1247","jealousy","grudg",8.22222222222222
+"1248","jealousy","harm",7.625
+"1249","jealousy","hatr",7.72727272727273
+"1250","jealousy","hostil",8.5
+"1251","jealousy","human be",7.18181818181818
+"1252","jealousy","human relationship",9
+"1253","jealousy","hurt",7.25925925925926
+"1254","jealousy","insecur",8.44444444444444
+"1255","jealousy","instabl",7.42857142857143
+"1256","jealousy","insuffici",7.375
+"1257","jealousy","irat",7.44444444444444
+"1258","jealousy","ire",7.4
+"1259","jealousy","irrat",8.57142857142857
+"1260","jealousy","jealous",10
+"1261","jealousy","jealousi",10
+"1262","jealousy","lust",8
+"1263","jealousy","mad",7.2
+"1264","jealousy","malevol",7.3
+"1265","jealousy","mistrust",8.44444444444444
+"1266","jealousy","negat",7.625
+"1267","jealousy","obsess",8.46153846153846
+"1268","jealousy","overbear",8.88888888888889
+"1269","jealousy","overjeal",9
+"1270","jealousy","poison",8.22222222222222
+"1271","jealousy","possess",8.29411764705882
+"1272","jealousy","problem",8.09523809523809
+"1273","jealousy","psycholog",7.28571428571429
+"1274","jealousy","rage",8.1
+"1275","jealousy","relationship",7.73684210526316
+"1276","jealousy","resent",8.58823529411765
+"1277","jealousy","retaliatori",8
+"1278","jealousy","reveng",8.66666666666667
+"1279","jealousy","see red",8
+"1280","jealousy","selfish",7.76470588235294
+"1281","jealousy","spite",8.8
+"1282","jealousy","threaten",7.5
+"1283","jealousy","treacheri",7.1
+"1284","jealousy","troubl",7.68181818181818
+"1285","jealousy","unaccept",7.14285714285714
+"1286","jealousy","unhappi",8.75
+"1287","jealousy","unpredict",7.28571428571429
+"1288","jealousy","vendetta",7.65
+"1289","jealousy","vengeanc",7.11111111111111
+"1290","jealousy","vicious",7.36363636363636
+"1291","jealousy","wicked",7.375
+"1292","loneliness","abandon",9.25
+"1293","loneliness","alcohol",7.8
+"1294","loneliness","alon",9.75
+"1295","loneliness","anguish",7.85714285714286
+"1296","loneliness","anxieti",8.44444444444444
+"1297","loneliness","apart",9.38461538461539
+"1298","loneliness","blue",9
+"1299","loneliness","boredom",8
+"1300","loneliness","break-up",7.81818181818182
+"1301","loneliness","breakup",7.69565217391304
+"1302","loneliness","clinic depress",8.63636363636364
+"1303","loneliness","close off",7.875
+"1304","loneliness","confin",8.29411764705882
+"1305","loneliness","dark",7.125
+"1306","loneliness","depress",8.625
+"1307","loneliness","depress disord",7.44444444444444
+"1308","loneliness","desol",8.5
+"1309","loneliness","despair",7.28571428571429
+"1310","loneliness","desper",8.625
+"1311","loneliness","destitut",7.5
+"1312","loneliness","detach",7.70588235294118
+"1313","loneliness","disappoint",7.25
+"1314","loneliness","discomfort",7.2
+"1315","loneliness","disconnect",8.48387096774194
+"1316","loneliness","disengag",7.375
+"1317","loneliness","displeasur",7.26666666666667
+"1318","loneliness","divorc",7.42307692307692
+"1319","loneliness","downcast",7.88888888888889
+"1320","loneliness","elder",7.8
+"1321","loneliness","empti",8.42857142857143
+"1322","loneliness","enmiti",8
+"1323","loneliness","feel",7.75
+"1324","loneliness","felo-de-s",8
+"1325","loneliness","forgotten",7.4
+"1326","loneliness","frighten",8.23076923076923
+"1327","loneliness","gloomi",7.95
+"1328","loneliness","glum",8.23076923076923
+"1329","loneliness","heartbreak",9.33333333333333
+"1330","loneliness","helpless",7.16666666666667
+"1331","loneliness","hermit",7.81818181818182
+"1332","loneliness","hopeless",8.13793103448276
+"1333","loneliness","horribl",7.45454545454545
+"1334","loneliness","impot",7.3
+"1335","loneliness","imprison",8
+"1336","loneliness","incarcer",7.2
+"1337","loneliness","individu",8.125
+"1338","loneliness","insecur",8.25
+"1339","loneliness","isol",9.75
+"1340","loneliness","leav",8
+"1341","loneliness","lone",9.29411764705882
+"1342","loneliness","loneli",10
+"1343","loneliness","lonesom",8.76923076923077
+"1344","loneliness","long",8.5
+"1345","loneliness","lost",8.375
+"1346","loneliness","low",7.45454545454545
+"1347","loneliness","matchless",7.16666666666667
+"1348","loneliness","miser",8.625
+"1349","loneliness","moros",9.22222222222222
+"1350","loneliness","natur depress",8.375
+"1351","loneliness","neglect",8
+"1352","loneliness","no friend",9.85714285714286
+"1353","loneliness","nobodi",8.55555555555556
+"1354","loneliness","nongregari",9
+"1355","loneliness","nonsoci",8.57142857142857
+"1356","loneliness","not appreci",8.18181818181818
+"1357","loneliness","old",7.61538461538461
+"1358","loneliness","older",7.42857142857143
+"1359","loneliness","one",8.85714285714286
+"1360","loneliness","ostracis",7.875
+"1361","loneliness","outcast",9.7
+"1362","loneliness","poverty-stricken",7.4
+"1363","loneliness","powerless",8.55555555555556
+"1364","loneliness","purdah",8
+"1365","loneliness","reclus",8.85714285714286
+"1366","loneliness","reject",7.78378378378378
+"1367","loneliness","remot",8.625
+"1368","loneliness","sad",8.75
+"1369","loneliness","seclus",9.57142857142857
+"1370","loneliness","separ",7.88888888888889
+"1371","loneliness","set-apart",9.71428571428571
+"1372","loneliness","silenc",8.57142857142857
+"1373","loneliness","singl",9.44444444444444
+"1374","loneliness","sole",7.5
+"1375","loneliness","solitari",9.55555555555556
+"1376","loneliness","solitari confin",9.8
+"1377","loneliness","solitud",8.45454545454546
+"1378","loneliness","solitudinarian",7.83333333333333
+"1379","loneliness","solo",9.25
+"1380","loneliness","strand",8.75
+"1381","loneliness","stress",8.28571428571429
+"1382","loneliness","teardrop",7.4
+"1383","loneliness","unaccompani",8.45454545454546
+"1384","loneliness","unappreci",7.3
+"1385","loneliness","unconnect",8.42857142857143
+"1386","loneliness","underappreci",7.18181818181818
+"1387","loneliness","unhappi",7.44444444444444
+"1388","loneliness","unlov",7.89473684210526
+"1389","loneliness","vulner",8.2
+"1390","loneliness","want",7.2
+"1391","loneliness","widow",7.81818181818182
+"1392","loneliness","without",9.57142857142857
+"1393","loneliness","yearn",8.33333333333333
+"1394","murder","abus",7.77777777777778
+"1395","murder","accomplic",8.77777777777778
+"1396","murder","affright",7.4
+"1397","murder","aggress",7.85714285714286
+"1398","murder","aggressor",9
+"1399","murder","agoni",8.90909090909091
+"1400","murder","alleg",8
+"1401","murder","ambush",7.09090909090909
+"1402","murder","ammunit",7.88888888888889
+"1403","murder","amor",8.55555555555556
+"1404","murder","anger",7.09090909090909
+"1405","murder","angri",7.15384615384615
+"1406","murder","animos",8
+"1407","murder","apprehend",7.09090909090909
+"1408","murder","arrest",7.96153846153846
+"1409","murder","asphyxi",9.25
+"1410","murder","assail",7.96551724137931
+"1411","murder","assassin",9.08064516129032
+"1412","murder","assault",9.21428571428571
+"1413","murder","attack",8.44
+"1414","murder","beaten",8.77777777777778
+"1415","murder","betray",9.18181818181818
+"1416","murder","bleed",7.84615384615385
+"1417","murder","blood",9.54545454545454
+"1418","murder","bloodi",9.875
+"1419","murder","bloodsh",9.14285714285714
+"1420","murder","bludgeon",9.54545454545454
+"1421","murder","bodi",7.36842105263158
+"1422","murder","bomb",8.16666666666667
+"1423","murder","bomber",8.66666666666667
+"1424","murder","brutal",9.5
+"1425","murder","bullet",8.2
+"1426","murder","bump off",9
+"1427","murder","buri",7.33333333333333
+"1428","murder","burial",7.91666666666667
+"1429","murder","callos",8.66666666666667
+"1430","murder","carri out",7.58333333333333
+"1431","murder","caus of death",8.22222222222222
+"1432","murder","cemeteri",8
+"1433","murder","charg",9.02941176470588
+"1434","murder","choke",8.25
+"1435","murder","combat",7.14285714285714
+"1436","murder","condemn",7.31578947368421
+"1437","murder","confess",8.66666666666667
+"1438","murder","consequ",7.125
+"1439","murder","convict",8.44827586206897
+"1440","murder","cop",7.77777777777778
+"1441","murder","corps",9.78947368421053
+"1442","murder","court",7.77777777777778
+"1443","murder","crazi",7.66666666666667
+"1444","murder","crime",9.73684210526316
+"1445","murder","crime of passion",9.11111111111111
+"1446","murder","crimin",9.16
+"1447","murder","crimin offenc",9.3
+"1448","murder","crimin offens",9.75
+"1449","murder","crimin prosecut",8.3
+"1450","murder","crucifi",7.11111111111111
+"1451","murder","cyanid",9
+"1452","murder","dagger",9.42857142857143
+"1453","murder","damag",7.22222222222222
+"1454","murder","danger",9.6
+"1455","murder","dead",9
+"1456","murder","dead bodi",9.33333333333333
+"1457","murder","deaden",8.72727272727273
+"1458","murder","death",9.7
+"1459","murder","decapit",9.21428571428571
+"1460","murder","deceas",8.92857142857143
+"1461","murder","decompos",7.1304347826087
+"1462","murder","defenc",7.58333333333333
+"1463","murder","defens lawyer",7.86666666666667
+"1464","murder","demis",8.625
+"1465","murder","despic",9.55555555555556
+"1466","murder","destroy",8.36111111111111
+"1467","murder","destruct",7.78947368421053
+"1468","murder","detect",8.3
+"1469","murder","devast",7.11764705882353
+"1470","murder","die",9.60714285714286
+"1471","murder","discont",7.25
+"1472","murder","disgrac",8.36363636363636
+"1473","murder","disgust",7.51282051282051
+"1474","murder","dishonor",7.27272727272727
+"1475","murder","dismemb",9.125
+"1476","murder","dispatch",7.42857142857143
+"1477","murder","dispos",7.57142857142857
+"1478","murder","distast",8.22222222222222
+"1479","murder","distress",8.33333333333333
+"1480","murder","disturb",7.71428571428571
+"1481","murder","dna",7.2
+"1482","murder","drop dead",7.1
+"1483","murder","egotist",7.28571428571429
+"1484","murder","electrocut",8.875
+"1485","murder","end",7.08333333333333
+"1486","murder","endang",8.8
+"1487","murder","endanger",8.57142857142857
+"1488","murder","enemi",7.28571428571429
+"1489","murder","eubstanc",8
+"1490","murder","evil",9
+"1491","murder","execut",8.67272727272727
+"1492","murder","explos",7.56666666666667
+"1493","murder","extremist",8.88888888888889
+"1494","murder","eyewit",8.22222222222222
+"1495","murder","fatal",9.90476190476191
+"1496","murder","feloni",9.26666666666667
+"1497","murder","feroc",7.90909090909091
+"1498","murder","fight",7.75862068965517
+"1499","murder","fingerprint",7.5
+"1500","murder","firearm",8.625
+"1501","murder","forens",8.85714285714286
+"1502","murder","forens scienc",8.63636363636364
+"1503","murder","fought",7.2
+"1504","murder","foul",7.45
+"1505","murder","frighten",7.63636363636364
+"1506","murder","funer",7.38888888888889
+"1507","murder","furious",8.7
+"1508","murder","ghast",9
+"1509","murder","grave",8.5
+"1510","murder","grief",7.125
+"1511","murder","grievous",8.57142857142857
+"1512","murder","grim",8.5
+"1513","murder","grisli",8.5
+"1514","murder","gruesom",10
+"1515","murder","guilt",7.88888888888889
+"1516","murder","guilt feel",7.22222222222222
+"1517","murder","guilti",8.83333333333333
+"1518","murder","guilti conscienc",8.46153846153846
+"1519","murder","gun",8.42424242424242
+"1520","murder","gun for hire",9.4
+"1521","murder","gunfir",9.25
+"1522","murder","gunman",10
+"1523","murder","gunmen",7.2
+"1524","murder","gunshot",9.17647058823529
+"1525","murder","gunsling",7.25
+"1526","murder","handgun",8
+"1527","murder","hang",7.8
+"1528","murder","hariri",10
+"1529","murder","harm",9.12195121951219
+"1530","murder","hate",9.28571428571429
+"1531","murder","hatr",8.14285714285714
+"1532","murder","heavi weapon",8.75
+"1533","murder","hire gun",8.63636363636364
+"1534","murder","hit",7.36363636363636
+"1535","murder","hit man",9
+"1536","murder","hitman",9.25
+"1537","murder","holi terror",8
+"1538","murder","homicid",9.88235294117647
+"1539","murder","horribl",9
+"1540","murder","horror",9.22222222222222
+"1541","murder","hostil",8.85
+"1542","murder","hung",8.2
+"1543","murder","hurt",8.82758620689655
+"1544","murder","immor",7.3
+"1545","murder","imprison",8.47619047619048
+"1546","murder","incid",7.23809523809524
+"1547","murder","inhuman",9.6
+"1548","murder","injur",7.32432432432432
+"1549","murder","injuri",8.85
+"1550","murder","inmat",8.09090909090909
+"1551","murder","inquiri",7.91666666666667
+"1552","murder","intent",7.63888888888889
+"1553","murder","intrus",7.5
+"1554","murder","investig",8.49315068493151
+"1555","murder","ira",7.55555555555556
+"1556","murder","jail",8.77777777777778
+"1557","murder","kill",9.93181818181818
+"1558","murder","killer",9.78947368421053
+"1559","murder","knife",7.55555555555556
+"1560","murder","knife thrust",7.7
+"1561","murder","knive",9.33333333333333
+"1562","murder","lapd",7.71428571428571
+"1563","murder","law-break",9.90909090909091
+"1564","murder","life",7.4
+"1565","murder","life-threaten",9.42857142857143
+"1566","murder","lifeless",9.14285714285714
+"1567","murder","ligatur",7.5
+"1568","murder","loathsom",7.5
+"1569","murder","loss",8.04166666666667
+"1570","murder","lunat",9.28571428571429
+"1571","murder","macabr",8.75
+"1572","murder","machet",7.72727272727273
+"1573","murder","mad",8.21052631578947
+"1574","murder","maim",7.75
+"1575","murder","malefactor",7.16666666666667
+"1576","murder","mangl",7.66666666666667
+"1577","murder","manslaught",8.88888888888889
+"1578","murder","manslay",8.92857142857143
+"1579","murder","mayhem",7.25
+"1580","murder","mistreat",7.3
+"1581","murder","monster",7.5
+"1582","murder","morbid",8.09090909090909
+"1583","murder","mourner",7.75
+"1584","murder","murder",9.83928571428571
+"1585","murder","mutil",7.6
+"1586","murder","mysteri stori",8.09090909090909
+"1587","murder","nasti",8
+"1588","murder","newsworthi",8
+"1589","murder","nypd",8.875
+"1590","murder","obliter",8.125
+"1591","murder","offenc",8.58333333333333
+"1592","murder","offens",8.5
+"1593","murder","pain",8.03846153846154
+"1594","murder","pain sensat",7.16666666666667
+"1595","murder","pass away",7.63636363636364
+"1596","murder","perish",9.66666666666667
+"1597","murder","person",7.55555555555556
+"1598","murder","pistol",8.875
+"1599","murder","plan",7.29166666666667
+"1600","murder","plan of attack",9.1
+"1601","murder","poison",8.42553191489362
+"1602","murder","poison substanc",8.25
+"1603","murder","polic",7.22222222222222
+"1604","murder","polic detect",7.66666666666667
+"1605","murder","policeman",8.90909090909091
+"1606","murder","prison",8.88235294117647
+"1607","murder","prison hous",7.375
+"1608","murder","problem",7.5
+"1609","murder","prosecut",9.22222222222222
+"1610","murder","put down",8.09090909090909
+"1611","murder","put to death",9
+"1612","murder","qaeda",8.125
+"1613","murder","rage",8.625
+"1614","murder","red",8.09090909090909
+"1615","murder","remors",7.45454545454545
+"1616","murder","reprehens",7.90909090909091
+"1617","murder","revolt",7.45454545454545
+"1618","murder","ricin",8.5
+"1619","murder","rifl",7.625
+"1620","murder","rip",9
+"1621","murder","ruthless",8
+"1622","murder","scene",7.77777777777778
+"1623","murder","see red",7.6
+"1624","murder","sentenc",8
+"1625","murder","serial",7.53333333333333
+"1626","murder","serious",7.88888888888889
+"1627","murder","sever",8.6
+"1628","murder","shame",7.875
+"1629","murder","shed blood",9.08333333333333
+"1630","murder","shoot",8.58333333333333
+"1631","murder","shoot down",8.25
+"1632","murder","shooter",9.4
+"1633","murder","shot",8.33333333333333
+"1634","murder","shrapnel",7.18181818181818
+"1635","murder","sin",8.525
+"1636","murder","slay",9.40740740740741
+"1637","murder","slayer",9.4
+"1638","murder","smother",8
+"1639","murder","snipe",8.11111111111111
+"1640","murder","solv",7.37037037037037
+"1641","murder","sorrow",7.15
+"1642","murder","spear",7.77777777777778
+"1643","murder","stab",9.72093023255814
+"1644","murder","strangl",9.13333333333333
+"1645","murder","strangul",9.41176470588235
+"1646","murder","stress",7.57142857142857
+"1647","murder","suffoc",9.11764705882353
+"1648","murder","suspect",8.32142857142857
+"1649","murder","suspens",7.42857142857143
+"1650","murder","suspici",8.3
+"1651","murder","sword",7.88235294117647
+"1652","murder","take into custodi",7.57142857142857
+"1653","murder","take life",10
+"1654","murder","terrifi",8.53333333333333
+"1655","murder","terror",8.88235294117647
+"1656","murder","terroris",7.875
+"1657","murder","terrorist",8.86666666666667
+"1658","murder","threat",8.38888888888889
+"1659","murder","threaten",7.96296296296296
+"1660","murder","tortur",7.09523809523809
+"1661","murder","traitor",8.375
+"1662","murder","trauma",8.85714285714286
+"1663","murder","trial",9
+"1664","murder","triggerman",8
+"1665","murder","troubl",8
+"1666","murder","unrestrain",7.25
+"1667","murder","vanquish",7.54545454545455
+"1668","murder","verdict",9.5
+"1669","murder","vicious",9.23529411764706
+"1670","murder","victim",9.5625
+"1671","murder","villain",9.24137931034483
+"1672","murder","violat",8.83333333333333
+"1673","murder","violenc",9.66666666666667
+"1674","murder","violent",10
+"1675","murder","violent death",8.27272727272727
+"1676","murder","violent disord",8.44444444444444
+"1677","murder","war",8.27777777777778
+"1678","murder","warfar",8.33333333333333
+"1679","murder","weapon",8.83333333333333
+"1680","murder","weapon system",7.9
+"1681","murder","weaponri",8.55555555555556
+"1682","murder","whodunit",9.57142857142857
+"1683","murder","wick",9.85714285714286
+"1684","murder","wicked",7.57142857142857
+"1685","murder","wipeout",7.28571428571429
+"1686","murder","wit",8.11111111111111
+"1687","murder","woe",7.375
+"1688","murder","wound",8.925
+"1689","murder","wrath",8.22222222222222
+"1690","paranoia","accus",7.76923076923077
+"1691","paranoia","affright",7.8
+"1692","paranoia","afraid",9.25
+"1693","paranoia","anguish",8.14285714285714
+"1694","paranoia","anxieti",9.2
+"1695","paranoia","anxious",9.25
+"1696","paranoia","be watch",9.27272727272727
+"1697","paranoia","bipolar",7.7
+"1698","paranoia","cctv",7.14285714285714
+"1699","paranoia","central intellig agenc",7.55555555555556
+"1700","paranoia","compuls",7.375
+"1701","paranoia","concern",7.53333333333333
+"1702","paranoia","conspir",7.36363636363636
+"1703","paranoia","conspiraci",8.11111111111111
+"1704","paranoia","convinc",7.88888888888889
+"1705","paranoia","craze",7.59090909090909
+"1706","paranoia","crazi",7.55555555555556
+"1707","paranoia","danger",7.42105263157895
+"1708","paranoia","death",7.14285714285714
+"1709","paranoia","delirium",8.28571428571429
+"1710","paranoia","delud",7.11111111111111
+"1711","paranoia","delus",9.52941176470588
+"1712","paranoia","delusion",8.85714285714286
+"1713","paranoia","dement",7.25
+"1714","paranoia","despair",7.125
+"1715","paranoia","detach",7.33333333333333
+"1716","paranoia","disord",7.8125
+"1717","paranoia","disori",7.375
+"1718","paranoia","distraught",8
+"1719","paranoia","distress",7.18181818181818
+"1720","paranoia","distrust",9.27777777777778
+"1721","paranoia","disturb",7.63636363636364
+"1722","paranoia","doubt",7.73333333333333
+"1723","paranoia","dread",7.10714285714286
+"1724","paranoia","eavesdrop",7.125
+"1725","paranoia","emot",9.2
+"1726","paranoia","fear",9.35555555555556
+"1727","paranoia","fearsom",7.14285714285714
+"1728","paranoia","feel",7.78571428571429
+"1729","paranoia","fixat",8.22222222222222
+"1730","paranoia","fright",8.72727272727273
+"1731","paranoia","frighten",7.58620689655172
+"1732","paranoia","fsb",9
+"1733","paranoia","gossip",7.55555555555556
+"1734","paranoia","guilt",7.28571428571429
+"1735","paranoia","hallucin",9.05263157894737
+"1736","paranoia","harm",7.28571428571429
+"1737","paranoia","head game",7.125
+"1738","paranoia","head trip",7.125
+"1739","paranoia","hostil",7.11111111111111
+"1740","paranoia","hysteria",8.375
+"1741","paranoia","ill",8.28571428571429
+"1742","paranoia","illog",7.375
+"1743","paranoia","illus",7.33333333333333
+"1744","paranoia","insan",7.3
+"1745","paranoia","insecur",8.36842105263158
+"1746","paranoia","irrat",8.18181818181818
+"1747","paranoia","jealous",8.5
+"1748","paranoia","jitteri",8.125
+"1749","paranoia","loneli",7.27272727272727
+"1750","paranoia","look over shoulder",8.75
+"1751","paranoia","mad",8.05
+"1752","paranoia","manic",7.72727272727273
+"1753","paranoia","medica",7.2
+"1754","paranoia","mental",7.54545454545455
+"1755","paranoia","mental diseas",8.22222222222222
+"1756","paranoia","mental disord",9.11111111111111
+"1757","paranoia","mental disturb",8.8
+"1758","paranoia","mental health",8.64285714285714
+"1759","paranoia","mental ill",9.2
+"1760","paranoia","mind",7.51851851851852
+"1761","paranoia","mistrust",7.4
+"1762","paranoia","narcot",7.4
+"1763","paranoia","negat",8.58333333333333
+"1764","paranoia","nerv",7.58333333333333
+"1765","paranoia","nervous",8.64705882352941
+"1766","paranoia","neurot",8
+"1767","paranoia","nutcas",8.63636363636364
+"1768","paranoia","obsess",8.11428571428571
+"1769","paranoia","on edg",9.66666666666667
+"1770","paranoia","overanalyz",9.11111111111111
+"1771","paranoia","overreact",8.72727272727273
+"1772","paranoia","panic",7.14285714285714
+"1773","paranoia","panick",8.81818181818182
+"1774","paranoia","paranoia",10
+"1775","paranoia","paranoid",8.90909090909091
+"1776","paranoia","phobia",7.39130434782609
+"1777","paranoia","phobic disord",8.88888888888889
+"1778","paranoia","plot",7.71428571428571
+"1779","paranoia","precaut",7.04761904761905
+"1780","paranoia","problem",7.71428571428571
+"1781","paranoia","psychiatr",7.57142857142857
+"1782","paranoia","psycholog",9.45454545454546
+"1783","paranoia","psycholog disord",10
+"1784","paranoia","psychopath",7.6
+"1785","paranoia","psychosi",8.41666666666667
+"1786","paranoia","psychot",8.9
+"1787","paranoia","psychot belief",7.875
+"1788","paranoia","scare",8.65
+"1789","paranoia","scarey",8.53333333333333
+"1790","paranoia","scari",7.125
+"1791","paranoia","schizoid",8.66666666666667
+"1792","paranoia","schizophren",9.55555555555556
+"1793","paranoia","schizophren disord",9.45454545454546
+"1794","paranoia","schizophren psychosi",7.55555555555556
+"1795","paranoia","schizophrenia",8.875
+"1796","paranoia","schizotyp",8
+"1797","paranoia","schizotyp person",8.3
+"1798","paranoia","seclus",7.14285714285714
+"1799","paranoia","secret",7.05555555555556
+"1800","paranoia","sociopath",7.73684210526316
+"1801","paranoia","stress",7.81818181818182
+"1802","paranoia","surveil",8.7
+"1803","paranoia","suspect",8
+"1804","paranoia","suspici",9.09090909090909
+"1805","paranoia","suspicion",9.63157894736842
+"1806","paranoia","tens",7.16666666666667
+"1807","paranoia","terrifi",8.33333333333333
+"1808","paranoia","terror",8.90909090909091
+"1809","paranoia","troubl",7.52631578947368
+"1810","paranoia","ufo",7.375
+"1811","paranoia","unconscion",7.25
+"1812","paranoia","undercov agent",7.27272727272727
+"1813","paranoia","uneasi",8.4
+"1814","paranoia","unhealthi",7.55555555555556
+"1815","paranoia","unsaf",8
+"1816","paranoia","unstabl",8
+"1817","paranoia","vulner",7.1
+"1818","paranoia","wari",7.63636363636364
+"1819","paranoia","watch",7.51219512195122
+"1820","paranoia","weird",7.125
+"1821","paranoia","wiretap",7.89285714285714
+"1822","paranoia","worri",8.35714285714286
+"1823","planning","accuraci",7.11111111111111
+"1824","planning","act upon",7.2
+"1825","planning","action",7.5
+"1826","planning","advis",7.55172413793103
+"1827","planning","advisor",7.77777777777778
+"1828","planning","agenda",9.27272727272727
+"1829","planning","agendum",9.42857142857143
+"1830","planning","aim",7.88888888888889
+"1831","planning","analysi",8.5
+"1832","planning","approach",7.81818181818182
+"1833","planning","architect",9
+"1834","planning","architectur plan",7.44444444444444
+"1835","planning","assist",7.03703703703704
+"1836","planning","attack",7.04166666666667
+"1837","planning","attent",8.11111111111111
+"1838","planning","awar",7.33333333333333
+"1839","planning","benefici",7.25
+"1840","planning","blueprint",10
+"1841","planning","build",7.25
+"1842","planning","built",8.28571428571429
+"1843","planning","busi",8.44444444444444
+"1844","planning","businesslik",7.125
+"1845","planning","calendar",9.875
+"1846","planning","carri into action",7.69230769230769
+"1847","planning","carri out",9.14285714285714
+"1848","planning","chronolog",8.4
+"1849","planning","co-ordin",9.5
+"1850","planning","coaction",7.16666666666667
+"1851","planning","cogit",7.25
+"1852","planning","collabor",8.43589743589744
+"1853","planning","compon",7.09090909090909
+"1854","planning","compos",9.2
+"1855","planning","concept",7.39130434782609
+"1856","planning","concern",7.22222222222222
+"1857","planning","consid",7.58823529411765
+"1858","planning","conspir",8.88888888888889
+"1859","planning","conspiraci",7.07692307692308
+"1860","planning","consult",7.39285714285714
+"1861","planning","contempl",8.5
+"1862","planning","context",8
+"1863","planning","conting",7.22222222222222
+"1864","planning","convers",7.14285714285714
+"1865","planning","coordin",8.25925925925926
+"1866","planning","creat",8.05263157894737
+"1867","planning","current",7.28571428571429
+"1868","planning","curriculum",8.18181818181818
+"1869","planning","data",8.22222222222222
+"1870","planning","date",8.38095238095238
+"1871","planning","decid",8.27272727272727
+"1872","planning","decis",7.69565217391304
+"1873","planning","deliber",7.375
+"1874","planning","design",8.22222222222222
+"1875","planning","detail",8.94444444444444
+"1876","planning","develop",8.625
+"1877","planning","devis",8.73684210526316
+"1878","planning","differ stage",9
+"1879","planning","discuss",8.53846153846154
+"1880","planning","do work",7.75
+"1881","planning","effect",7.45454545454545
+"1882","planning","employ",7.9
+"1883","planning","engin",7.55555555555556
+"1884","planning","environ",7.85714285714286
+"1885","planning","exact",7.125
+"1886","planning","exercis",7.375
+"1887","planning","facilit",8.18181818181818
+"1888","planning","farsighted",7.57142857142857
+"1889","planning","figur out",8.6
+"1890","planning","financ",7.85714285714286
+"1891","planning","financi",8.77777777777778
+"1892","planning","focus",7.90476190476191
+"1893","planning","foresight",8.83333333333333
+"1894","planning","foresighted",9.6
+"1895","planning","forethought",9.625
+"1896","planning","framework",7.63636363636364
+"1897","planning","function",7.1
+"1898","planning","futur",8
+"1899","planning","futur goal and aim",9.375
+"1900","planning","gear up",7.36363636363636
+"1901","planning","holiday",8.2
+"1902","planning","idea",9.11111111111111
+"1903","planning","implement",8.66666666666667
+"1904","planning","influenc",7.42857142857143
+"1905","planning","info",9
+"1906","planning","infrastructur",8.88888888888889
+"1907","planning","instruct",7.1
+"1908","planning","instruct execut",8.25
+"1909","planning","intend",8.88
+"1910","planning","intricaci",8.16666666666667
+"1911","planning","invest",8.14285714285714
+"1912","planning","lay out",7.85714285714286
+"1913","planning","learn",7.375
+"1914","planning","level-head",7.6
+"1915","planning","logist",8.5
+"1916","planning","long-run",8.77777777777778
+"1917","planning","long-term",8.30769230769231
+"1918","planning","longer-term",9.11111111111111
+"1919","planning","longterm",9.66666666666667
+"1920","planning","manag",8.42857142857143
+"1921","planning","map",7.875
+"1922","planning","mastermind",8.5
+"1923","planning","materi",7.18181818181818
+"1924","planning","measur",7.16666666666667
+"1925","planning","mentat",8
+"1926","planning","method",9.2
+"1927","planning","mileston",8.81818181818182
+"1928","planning","mind-map",7.88888888888889
+"1929","planning","model",7.5
+"1930","planning","motiv",8.22222222222222
+"1931","planning","next",7.9
+"1932","planning","note",8
+"1933","planning","oper phase",8.57142857142857
+"1934","planning","orchestr",8.31578947368421
+"1935","planning","order of busi",8.71428571428571
+"1936","planning","organis",9.62745098039216
+"1937","planning","outcom",8.11111111111111
+"1938","planning","outlin",8.63157894736842
+"1939","planning","overview",8.90909090909091
+"1940","planning","pattern",8.14285714285714
+"1941","planning","plan",9.74285714285714
+"1942","planning","plan of attack",8.5
+"1943","planning","planner",9.65
+"1944","planning","plot",9.32
+"1945","planning","portfolio",7.58333333333333
+"1946","planning","possibl",7.25
+"1947","planning","practic",8.09090909090909
+"1948","planning","pre-defin",7.72727272727273
+"1949","planning","pre-determin",8.1
+"1950","planning","precis",7.90909090909091
+"1951","planning","predefin",7.6
+"1952","planning","predetermin",8.5
+"1953","planning","prepar",9.44827586206897
+"1954","planning","prevent",7.81818181818182
+"1955","planning","previs",7.8
+"1956","planning","prioriti",8.66666666666667
+"1957","planning","prioritis",7.875
+"1958","planning","process",9
+"1959","planning","project",8.83333333333333
+"1960","planning","propos",7.55555555555556
+"1961","planning","prospici",8
+"1962","planning","purpos",7.22222222222222
+"1963","planning","read",7.22222222222222
+"1964","planning","readi",8.36363636363636
+"1965","planning","resourc",7.8
+"1966","planning","roadmap",9.11111111111111
+"1967","planning","rout",8.54545454545454
+"1968","planning","schedul",9.25
+"1969","planning","scheme",9.125
+"1970","planning","scientif",7.42857142857143
+"1971","planning","secur",7.09090909090909
+"1972","planning","set out",8.75
+"1973","planning","set up",9.14285714285714
+"1974","planning","sketch",8.13333333333333
+"1975","planning","solv",8.57142857142857
+"1976","planning","stage",8.125
+"1977","planning","start",7.70588235294118
+"1978","planning","strategi",9.5
+"1979","planning","strict",7.375
+"1980","planning","stringent",7.28571428571429
+"1981","planning","structur",7.53846153846154
+"1982","planning","studi",8.3
+"1983","planning","success",7.5
+"1984","planning","surround",7.11111111111111
+"1985","planning","survey",8.68181818181818
+"1986","planning","tactic",9.8
+"1987","planning","terrorist attack",7.18181818181818
+"1988","planning","think",9.73333333333333
+"1989","planning","think ahead",9.42857142857143
+"1990","planning","thorough",8.19047619047619
+"1991","planning","thought",8.56
+"1992","planning","thought process",9.1
+"1993","planning","time",8.5
+"1994","planning","time to come",8.375
+"1995","planning","timefram",8
+"1996","planning","timelin",8.1875
+"1997","planning","timet",9.3
+"1998","planning","to-do",9.75
+"1999","planning","understand",8.36363636363636
+"2000","planning","view",7.11111111111111
+"2001","planning","want",7.18181818181818
+"2002","planning","weekend",7.41666666666667
+"2003","planning","well-inform",8.72727272727273
+"2004","planning","work",7.45714285714286
+"2005","planning","work out",8.14285714285714
+"2006","relationship","adopt",7.875
+"2007","relationship","adulteri",7.66666666666667
+"2008","relationship","affair",8.05
+"2009","relationship","affection",9.3
+"2010","relationship","affili",7.90476190476191
+"2011","relationship","allegi",7.75
+"2012","relationship","altogeth",7.58333333333333
+"2013","relationship","amour",9.44444444444444
+"2014","relationship","appreci",7.7027027027027
+"2015","relationship","arous",7.47058823529412
+"2016","relationship","associ",8.27777777777778
+"2017","relationship","attach",9
+"2018","relationship","attent",8.875
+"2019","relationship","aunt",9.42857142857143
+"2020","relationship","be intim",9.9
+"2021","relationship","beau",7.11111111111111
+"2022","relationship","belong",7.05263157894737
+"2023","relationship","belov",8.8
+"2024","relationship","better half",9
+"2025","relationship","birthday",7.7
+"2026","relationship","bisexu",7.6
+"2027","relationship","boyfriend",10
+"2028","relationship","breakup",9.66666666666667
+"2029","relationship","bride",7.9
+"2030","relationship","brother",8.14285714285714
+"2031","relationship","camaraderi",7.375
+"2032","relationship","care",8.56521739130435
+"2033","relationship","caress",7.75
+"2034","relationship","chat",8.08333333333333
+"2035","relationship","chat up",9.125
+"2036","relationship","cherish",8.37037037037037
+"2037","relationship","childhood",7.5
+"2038","relationship","children",8.25
+"2039","relationship","civil partnership",8
+"2040","relationship","close",7.11538461538461
+"2041","relationship","close-fit",7.15384615384615
+"2042","relationship","co",7.5
+"2043","relationship","come togeth",8.06666666666667
+"2044","relationship","commit",9.29166666666667
+"2045","relationship","committ",8.9
+"2046","relationship","committed",9.66666666666667
+"2047","relationship","communic",7.15384615384615
+"2048","relationship","companion",8.93333333333333
+"2049","relationship","companionship",9.7
+"2050","relationship","compat",8.33333333333333
+"2051","relationship","complex",8
+"2052","relationship","complic",7.77777777777778
+"2053","relationship","comradeship",7.25
+"2054","relationship","condom",8.11111111111111
+"2055","relationship","congreg",7.28571428571429
+"2056","relationship","connect",8.55555555555556
+"2057","relationship","connector",7.75
+"2058","relationship","contact",8.6
+"2059","relationship","cooper",8.41666666666667
+"2060","relationship","copul",8.58333333333333
+"2061","relationship","coupl",8.95238095238095
+"2062","relationship","coupl up",9
+"2063","relationship","courteous",8.1
+"2064","relationship","cousin",8.125
+"2065","relationship","cuddl",9.18518518518519
+"2066","relationship","date",9.2972972972973
+"2067","relationship","daughter",8.85
+"2068","relationship","dearest",7.7
+"2069","relationship","dedic",7.3
+"2070","relationship","depend",8.25
+"2071","relationship","desir",7.7
+"2072","relationship","devot",8.75
+"2073","relationship","difficult",8
+"2074","relationship","discuss",7.35294117647059
+"2075","relationship","divorc",7.17142857142857
+"2076","relationship","drama",7.09090909090909
+"2077","relationship","dream",7.25
+"2078","relationship","duet",8.5
+"2079","relationship","duo",9.25
+"2080","relationship","embrac",8.63636363636364
+"2081","relationship","emot",8.80769230769231
+"2082","relationship","empathet",7.6
+"2083","relationship","endear",8.8
+"2084","relationship","engag",9
+"2085","relationship","entertain",8.11111111111111
+"2086","relationship","entrust",7.44444444444444
+"2087","relationship","equal",7.5
+"2088","relationship","erot love",9
+"2089","relationship","excit",7.36363636363636
+"2090","relationship","faith",7.90909090909091
+"2091","relationship","famili",9.64705882352941
+"2092","relationship","famili line",8.5
+"2093","relationship","famili unit",8.5
+"2094","relationship","familiar",8.64705882352941
+"2095","relationship","father",7.77272727272727
+"2096","relationship","feel",7.63414634146341
+"2097","relationship","felicit",7.5
+"2098","relationship","fellowship",8.55555555555556
+"2099","relationship","felt",8.42857142857143
+"2100","relationship","fianc",9
+"2101","relationship","fiance",9.71428571428571
+"2102","relationship","flirt",7.33333333333333
+"2103","relationship","fond",8.375
+"2104","relationship","forev and a day",7.5
+"2105","relationship","forgiv",8.28571428571429
+"2106","relationship","friend",9.77272727272727
+"2107","relationship","friend relationship",9.7
+"2108","relationship","friendship",9.55
+"2109","relationship","fun",7.375
+"2110","relationship","gay",7.90476190476191
+"2111","relationship","gay woman",9.57142857142857
+"2112","relationship","get it on",7.3
+"2113","relationship","get laid",7.55555555555556
+"2114","relationship","girlfriend",9.9
+"2115","relationship","give",7.16666666666667
+"2116","relationship","glbt",8
+"2117","relationship","go out",7.72727272727273
+"2118","relationship","go steadi",7.57142857142857
+"2119","relationship","grandchildren",8.18181818181818
+"2120","relationship","grandfath",7.55555555555556
+"2121","relationship","grandmoth",9.23076923076923
+"2122","relationship","grandpar",9.5
+"2123","relationship","groom",9
+"2124","relationship","happi",8.75
+"2125","relationship","have intercours",8
+"2126","relationship","have sex",8.55555555555556
+"2127","relationship","heart",7.2
+"2128","relationship","heart and soul",8.77777777777778
+"2129","relationship","heart-to-heart",8.77777777777778
+"2130","relationship","helper",7.44444444444444
+"2131","relationship","homosexu",8.3
+"2132","relationship","honest",7.08333333333333
+"2133","relationship","honesti",7.81818181818182
+"2134","relationship","hubbi",8.4
+"2135","relationship","hug",8.63414634146342
+"2136","relationship","husband",9.27272727272727
+"2137","relationship","ideal",7.2
+"2138","relationship","impass",8
+"2139","relationship","infatu",7.45454545454545
+"2140","relationship","infidel",7.35294117647059
+"2141","relationship","intern",7.2
+"2142","relationship","intim",8.375
+"2143","relationship","intimaci",9.5
+"2144","relationship","invest",8.25
+"2145","relationship","involv",9.08333333333333
+"2146","relationship","jealousi",7.90909090909091
+"2147","relationship","join",8.70588235294118
+"2148","relationship","joint",7.91666666666667
+"2149","relationship","joy",8.66666666666667
+"2150","relationship","keep",7.7
+"2151","relationship","keep compani",8.16666666666667
+"2152","relationship","kid",8.83333333333333
+"2153","relationship","kin",9.22222222222222
+"2154","relationship","kind",8.11111111111111
+"2155","relationship","kinfolk",9.11111111111111
+"2156","relationship","kinsfolk",7.22222222222222
+"2157","relationship","kinsperson",7.16666666666667
+"2158","relationship","kiss",8.7948717948718
+"2159","relationship","ladi friend",8.63636363636364
+"2160","relationship","lasting",7.83333333333333
+"2161","relationship","lesbian",8.375
+"2162","relationship","lgbt",8.8
+"2163","relationship","lgbti",7.22222222222222
+"2164","relationship","lgbtq",8.28571428571429
+"2165","relationship","life histori",8.71428571428571
+"2166","relationship","life-tim",8.375
+"2167","relationship","lifetim",8.11111111111111
+"2168","relationship","like",8.27272727272727
+"2169","relationship","link",8.16216216216216
+"2170","relationship","linkup",9.11111111111111
+"2171","relationship","longtim",7.5
+"2172","relationship","look after",7.11111111111111
+"2173","relationship","love",8.97142857142857
+"2174","relationship","love affair",9
+"2175","relationship","love life",9.625
+"2176","relationship","love stori",9.125
+"2177","relationship","lovemak",8.42857142857143
+"2178","relationship","lover",9.1578947368421
+"2179","relationship","loving",8.625
+"2180","relationship","loyalti",9.5
+"2181","relationship","lust",7.72727272727273
+"2182","relationship","make love",8.91666666666667
+"2183","relationship","make out",8.69230769230769
+"2184","relationship","makingup",8.22222222222222
+"2185","relationship","man and wife",9.25
+"2186","relationship","marit",9.3
+"2187","relationship","marri",9.53333333333333
+"2188","relationship","marri coupl",9.07142857142857
+"2189","relationship","marri man",9.25
+"2190","relationship","marri person",9.16666666666667
+"2191","relationship","marri woman",9.18181818181818
+"2192","relationship","marriag",8.75
+"2193","relationship","marriag ceremoni",8.75
+"2194","relationship","match",8.85714285714286
+"2195","relationship","mate",9.14285714285714
+"2196","relationship","matrimoni",9.29166666666667
+"2197","relationship","meet",7.63636363636364
+"2198","relationship","memori",7.94444444444444
+"2199","relationship","mistress",8.625
+"2200","relationship","monogam",9.06666666666667
+"2201","relationship","monogami",9.1
+"2202","relationship","mother",9.1304347826087
+"2203","relationship","mutual",9
+"2204","relationship","network",7.33333333333333
+"2205","relationship","nexus",7.42857142857143
+"2206","relationship","nuptial",9.4
+"2207","relationship","nurtur",9.09090909090909
+"2208","relationship","open up",8.125
+"2209","relationship","optimist",7.28571428571429
+"2210","relationship","pair",8.85714285714286
+"2211","relationship","pair off",7.46666666666667
+"2212","relationship","parent",8.5
+"2213","relationship","partner",9.82352941176471
+"2214","relationship","partnership",9.36842105263158
+"2215","relationship","passion",8.85714285714286
+"2216","relationship","peopl",8.625
+"2217","relationship","perpetu",7.14285714285714
+"2218","relationship","phratri",9
+"2219","relationship","pleas",7.57142857142857
+"2220","relationship","pledg",8.28571428571429
+"2221","relationship","polygyni",7.2
+"2222","relationship","precious",7.2
+"2223","relationship","pride",7.14285714285714
+"2224","relationship","promis",8
+"2225","relationship","provid",7.16666666666667
+"2226","relationship","relat",8.55172413793103
+"2227","relationship","relationship",10
+"2228","relationship","reli",7.42857142857143
+"2229","relationship","relianc",7.6
+"2230","relationship","remarri",7.63636363636364
+"2231","relationship","remarriag",7.8
+"2232","relationship","respect",7.75675675675676
+"2233","relationship","role",7.88888888888889
+"2234","relationship","romanc",9.8421052631579
+"2235","relationship","romant",9.5
+"2236","relationship","romantic",8.7
+"2237","relationship","roommat",8.8
+"2238","relationship","sacrosanct",7.75
+"2239","relationship","safeti",7.4
+"2240","relationship","same-sex",9.22222222222222
+"2241","relationship","sex",8.7
+"2242","relationship","sex activ",8.25
+"2243","relationship","sexual",8.10526315789474
+"2244","relationship","sexual activ",9
+"2245","relationship","sexual love",8.44444444444444
+"2246","relationship","sexual practic",7.22222222222222
+"2247","relationship","sexual urg",7.44444444444444
+"2248","relationship","share",7.07692307692308
+"2249","relationship","sibl",9.27272727272727
+"2250","relationship","sleep togeth",9.22222222222222
+"2251","relationship","sleep with",9.57142857142857
+"2252","relationship","smooch",7.9
+"2253","relationship","snog",8.18181818181818
+"2254","relationship","snuggl",8.9375
+"2255","relationship","sociabl",7.7
+"2256","relationship","solid",7.375
+"2257","relationship","son",9.14285714285714
+"2258","relationship","spous",10
+"2259","relationship","spousal relationship",9.45454545454546
+"2260","relationship","stabl",7.6
+"2261","relationship","stepfath",8.88888888888889
+"2262","relationship","strength",7.4
+"2263","relationship","support",8.11627906976744
+"2264","relationship","talk",7.88235294117647
+"2265","relationship","team",7.94736842105263
+"2266","relationship","team up",7.75
+"2267","relationship","teamwork",8
+"2268","relationship","tear",8.42857142857143
+"2269","relationship","togeth",9.29411764705882
+"2270","relationship","touch",7.6
+"2271","relationship","treasur",8.1
+"2272","relationship","trueness",8.45454545454546
+"2273","relationship","trust",8.30769230769231
+"2274","relationship","trusting",9.11111111111111
+"2275","relationship","trustworthi",8.66666666666667
+"2276","relationship","twin",7.2
+"2277","relationship","twosom",8.72727272727273
+"2278","relationship","uncl",8
+"2279","relationship","understand",7.66666666666667
+"2280","relationship","union",8.58333333333333
+"2281","relationship","unit",7.44827586206897
+"2282","relationship","valentin",9.28571428571429
+"2283","relationship","warm",9.375
+"2284","relationship","warmhearted",9.28571428571429
+"2285","relationship","warmth",8.5
+"2286","relationship","wed",7.875
+"2287","relationship","wed ceremoni",9.18181818181818
+"2288","relationship","wed parti",7.625
+"2289","relationship","wedlock",9.14285714285714
+"2290","relationship","well be",8
+"2291","relationship","whole",7.375
+"2292","relationship","wife",9.36363636363636
+"2293","soldier","activ",7.3
+"2294","soldier","afghan",8.125
+"2295","soldier","afghanistan",8.81818181818182
+"2296","soldier","air forc",8.28571428571429
+"2297","soldier","air forc offic",8
+"2298","soldier","aircraft",7.45454545454545
+"2299","soldier","airfield",8.22222222222222
+"2300","soldier","airforc",9.3
+"2301","soldier","airmen",7.875
+"2302","soldier","alli",8.55555555555556
+"2303","soldier","ambush",7.92592592592593
+"2304","soldier","ammo",9
+"2305","soldier","ammunit",8.04347826086956
+"2306","soldier","arm",7.54166666666667
+"2307","soldier","arm combat",10
+"2308","soldier","arm forc",10
+"2309","soldier","arm servic",9.55555555555556
+"2310","soldier","armi",9.09090909090909
+"2311","soldier","armi tank",9.85714285714286
+"2312","soldier","armour",9.14285714285714
+"2313","soldier","armour combat vehicl",9.33333333333333
+"2314","soldier","artilleri",8.85714285714286
+"2315","soldier","assail",7.71428571428571
+"2316","soldier","assault",7.76190476190476
+"2317","soldier","assign",8.3
+"2318","soldier","atroc",7.5
+"2319","soldier","attack",8.8
+"2320","soldier","attack aircraft",9.55555555555556
+"2321","soldier","auschwitz",7.1
+"2322","soldier","baghdad",7.77777777777778
+"2323","soldier","ballist",7.33333333333333
+"2324","soldier","battalion",9.33333333333333
+"2325","soldier","battl",9.5
+"2326","soldier","battler",9.3
+"2327","soldier","beret",7.85714285714286
+"2328","soldier","biowarfar",8.66666666666667
+"2329","soldier","blast",8.45454545454546
+"2330","soldier","bomb",9.075
+"2331","soldier","bomber",8.75
+"2332","soldier","bullet",8.92307692307692
+"2333","soldier","cadet",9.57142857142857
+"2334","soldier","camo",8.7
+"2335","soldier","camouflag",8.55555555555556
+"2336","soldier","camp",8.23809523809524
+"2337","soldier","campaign",8
+"2338","soldier","cannon",8.85714285714286
+"2339","soldier","ceasefir",8.1
+"2340","soldier","ceremoni",7.375
+"2341","soldier","chain-of-command",8.45454545454546
+"2342","soldier","chief",8.28571428571429
+"2343","soldier","clash",8.42857142857143
+"2344","soldier","col.",8.2
+"2345","soldier","colonel",8.11111111111111
+"2346","soldier","combat",9.28
+"2347","soldier","combat injuri",9.53333333333333
+"2348","soldier","combat-readi",9.375
+"2349","soldier","command",8.28260869565217
+"2350","soldier","command offic",10
+"2351","soldier","commando",9
+"2352","soldier","commemor",8.71428571428571
+"2353","soldier","commit",7.92307692307692
+"2354","soldier","comrad",8.65
+"2355","soldier","conflict",8.09523809523809
+"2356","soldier","conquer",8.77777777777778
+"2357","soldier","corp",9.11111111111111
+"2358","soldier","d.p.r.k.",8
+"2359","soldier","danger",8.45454545454546
+"2360","soldier","death",7.57894736842105
+"2361","soldier","defend",9.55555555555556
+"2362","soldier","deploy",8.57142857142857
+"2363","soldier","deputi",7.15384615384615
+"2364","soldier","determin",7.75
+"2365","soldier","deton",7.42857142857143
+"2366","soldier","devot",7.4
+"2367","soldier","die",8
+"2368","soldier","discharg",8
+"2369","soldier","disciplin",9
+"2370","soldier","dispatch",7.09090909090909
+"2371","soldier","dprk",7.66666666666667
+"2372","soldier","duti",9.4375
+"2373","soldier","emerg",7.57142857142857
+"2374","soldier","enemi",8.06666666666667
+"2375","soldier","enforc",7.1
+"2376","soldier","equip",7.27272727272727
+"2377","soldier","explos",8.19444444444444
+"2378","soldier","fatigu",8.18181818181818
+"2379","soldier","feroc",7.2
+"2380","soldier","fierc",7.16666666666667
+"2381","soldier","fight",9.8
+"2382","soldier","fight back",8.30769230769231
+"2383","soldier","fighter",9.77777777777778
+"2384","soldier","firearm",9.75
+"2385","soldier","fleet",8.55555555555556
+"2386","soldier","forc",8.25714285714286
+"2387","soldier","foreign mission",9
+"2388","soldier","fought",9.75
+"2389","soldier","full general",8.90909090909091
+"2390","soldier","general",7.8
+"2391","soldier","govern",7.3
+"2392","soldier","grenad",7.33333333333333
+"2393","soldier","ground forc",8.1875
+"2394","soldier","guantanamo",7.28571428571429
+"2395","soldier","guard",8.65
+"2396","soldier","guard duti",9.88888888888889
+"2397","soldier","guerrilla-warfar",8.66666666666667
+"2398","soldier","gun",9.72727272727273
+"2399","soldier","gunman",9.25
+"2400","soldier","gunmen",9.71428571428571
+"2401","soldier","handgun",7.10526315789474
+"2402","soldier","heavi weapon",8.85714285714286
+"2403","soldier","hero",7.77777777777778
+"2404","soldier","hierarchi",7.88888888888889
+"2405","soldier","hitman",7.5
+"2406","soldier","hurt",7.63636363636364
+"2407","soldier","ideolog",7.75
+"2408","soldier","infantri",9.5
+"2409","soldier","injur",7.22222222222222
+"2410","soldier","instrument",7.71428571428571
+"2411","soldier","invas",7.63636363636364
+"2412","soldier","irak",8
+"2413","soldier","israel-palestin",7.33333333333333
+"2414","soldier","israel/palestin",7.54545454545455
+"2415","soldier","job",7.6
+"2416","soldier","jrotc",7.28571428571429
+"2417","soldier","kabul",8.42857142857143
+"2418","soldier","kill",8.54285714285714
+"2419","soldier","kuwait",8
+"2420","soldier","leadership",7.57142857142857
+"2421","soldier","leatherneck",7.2
+"2422","soldier","lie in wait",7.19047619047619
+"2423","soldier","lieuten",9.55555555555556
+"2424","soldier","loyalist",7.25
+"2425","soldier","loyalti",8.125
+"2426","soldier","lt.",9
+"2427","soldier","luftwaff",7.63636363636364
+"2428","soldier","maj.",9.8
+"2429","soldier","march",8.15151515151515
+"2430","soldier","marin",9.09523809523809
+"2431","soldier","maritim",8.42857142857143
+"2432","soldier","memori",7.7
+"2433","soldier","milit",8
+"2434","soldier","militari",7.375
+"2435","soldier","militari capabl",8.8
+"2436","soldier","militari control",9.22222222222222
+"2437","soldier","militari forc",9.77777777777778
+"2438","soldier","militari group",9.54545454545454
+"2439","soldier","militari machin",8.27272727272727
+"2440","soldier","militari mission",9.875
+"2441","soldier","militari offic",9.84615384615385
+"2442","soldier","militari postur",9.46153846153846
+"2443","soldier","militari servic",9.77777777777778
+"2444","soldier","militari strength",9.14285714285714
+"2445","soldier","militari unit",8.81818181818182
+"2446","soldier","militia",9.11764705882353
+"2447","soldier","militiamen",9.54545454545454
+"2448","soldier","missil",8.94117647058824
+"2449","soldier","mission",9.31578947368421
+"2450","soldier","monument",7.77777777777778
+"2451","soldier","mortar",9.125
+"2452","soldier","munit",8.11111111111111
+"2453","soldier","mutil",7.11111111111111
+"2454","soldier","napalm?",7.42857142857143
+"2455","soldier","nation",8.9375
+"2456","soldier","naval",8.5
+"2457","soldier","naval forc",8.77777777777778
+"2458","soldier","navi",8
+"2459","soldier","nco",8.8
+"2460","soldier","neutralis target",9
+"2461","soldier","north korea",7.44444444444444
+"2462","soldier","obedi",8.125
+"2463","soldier","oblig",7.8
+"2464","soldier","open fire",8.58333333333333
+"2465","soldier","opposit",7.4
+"2466","soldier","order",7.975
+"2467","soldier","ordnanc",8.5
+"2468","soldier","pakistan",7.25
+"2469","soldier","parad",7.14285714285714
+"2470","soldier","paramilitari",7.375
+"2471","soldier","patriot",9.71428571428571
+"2472","soldier","patrol",9.4
+"2473","soldier","peck order",7.85714285714286
+"2474","soldier","peril",8.1
+"2475","soldier","perish",7.63636363636364
+"2476","soldier","personnel",7.625
+"2477","soldier","pistol",8.75
+"2478","soldier","plan of attack",8.66666666666667
+"2479","soldier","post-traumat",8.7
+"2480","soldier","posttraumat",8.25
+"2481","soldier","posttraumat stress disord",8.375
+"2482","soldier","privat",9.09090909090909
+"2483","soldier","profession",7.55555555555556
+"2484","soldier","protect",8
+"2485","soldier","ptsd",8.88888888888889
+"2486","soldier","purpos",7.88888888888889
+"2487","soldier","qaida",8.5
+"2488","soldier","raf",8.125
+"2489","soldier","recaptur",7.44444444444444
+"2490","soldier","reconnaiss mission",9.71428571428571
+"2491","soldier","red armi faction",8.9
+"2492","soldier","regular armi",9.3
+"2493","soldier","remembr",8.14285714285714
+"2494","soldier","rescu",7.47619047619048
+"2495","soldier","rescuer",7.625
+"2496","soldier","reserv",7.36363636363636
+"2497","soldier","resili",8
+"2498","soldier","respect",8.125
+"2499","soldier","respons",8.66666666666667
+"2500","soldier","rifl",8.53333333333333
+"2501","soldier","risk",8.2
+"2502","soldier","rotc",7.375
+"2503","soldier","royal air forc",9.5
+"2504","soldier","russia",7.85714285714286
+"2505","soldier","safeguard",7.5
+"2506","soldier","samurai",8.88888888888889
+"2507","soldier","secur",8.63636363636364
+"2508","soldier","secur depart",7.42857142857143
+"2509","soldier","secur measur",7.38888888888889
+"2510","soldier","secur system",7.77777777777778
+"2511","soldier","send away",7.5
+"2512","soldier","sentri duti",7.33333333333333
+"2513","soldier","sergeant",8.31578947368421
+"2514","soldier","serv",9.05555555555556
+"2515","soldier","servic",8.2
+"2516","soldier","shipboard soldier",7.14285714285714
+"2517","soldier","shoot",9.28571428571429
+"2518","soldier","shoot down",9
+"2519","soldier","shooter",8.72727272727273
+"2520","soldier","shot",8.27777777777778
+"2521","soldier","skill",7.80952380952381
+"2522","soldier","slay",7.47058823529412
+"2523","soldier","snipe",7.55555555555556
+"2524","soldier","soldier",10
+"2525","soldier","squadron",9.41176470588235
+"2526","soldier","stab",7.5
+"2527","soldier","staff",7.44444444444444
+"2528","soldier","state of war",9.1
+"2529","soldier","station",7.83333333333333
+"2530","soldier","strength",7.88888888888889
+"2531","soldier","strong",9.25
+"2532","soldier","structur",7.375
+"2533","soldier","struggl",7.625
+"2534","soldier","suffer",7.625
+"2535","soldier","superior general",8.625
+"2536","soldier","survivor",7.45
+"2537","soldier","syria",8.33333333333333
+"2538","soldier","tactic",7.33333333333333
+"2539","soldier","taliban",7.9
+"2540","soldier","tank",7.92857142857143
+"2541","soldier","task",7.625
+"2542","soldier","territori",7.15
+"2543","soldier","terror",7.84210526315789
+"2544","soldier","terrorist",7.42105263157895
+"2545","soldier","train",7.86666666666667
+"2546","soldier","triggerman",8.4
+"2547","soldier","troop",9.28571428571429
+"2548","soldier","u. s. air forc",9.375
+"2549","soldier","u. s. armi",9.7
+"2550","soldier","uniform",9.05263157894737
+"2551","soldier","unit state air forc",9.3
+"2552","soldier","unit state armi",8.9
+"2553","soldier","unit state navi",8.36363636363636
+"2554","soldier","unquest",8.33333333333333
+"2555","soldier","us air forc",9.55555555555556
+"2556","soldier","us armi",10
+"2557","soldier","us navi",8.22222222222222
+"2558","soldier","usaf",7.6
+"2559","soldier","veteran",9.89473684210526
+"2560","soldier","veteran soldier",9.72727272727273
+"2561","soldier","viet nam",9.125
+"2562","soldier","vietnam",7.375
+"2563","soldier","vietnam war",9.75
+"2564","soldier","violenc",9.5
+"2565","soldier","war",9.4
+"2566","soldier","war machin",8.4
+"2567","soldier","warfar",9
+"2568","soldier","warhead",7.31578947368421
+"2569","soldier","warplan",7.54545454545455
+"2570","soldier","warrior",7.68421052631579
+"2571","soldier","warship",8.55555555555556
+"2572","soldier","wartim",9.88888888888889
+"2573","soldier","weapon",9.4
+"2574","soldier","weapon system",8.45454545454546
+"2575","soldier","weaponri",9.27272727272727
+"2576","soldier","work",7.04761904761905
+"2577","soldier","world war",10
+"2578","soldier","wound",8.23255813953488
+"2579","soldier","ww1",9.23076923076923
+"2580","soldier","ww2",9.85714285714286
+"2581","soldier","wwi",10
+"2582","soldier","wwii",9.2
+"2583","suicide","aftermath",7.375
+"2584","suicide","agoni",7.83333333333333
+"2585","suicide","alien",7.18181818181818
+"2586","suicide","alon",8.47368421052632
+"2587","suicide","ambul",7.85
+"2588","suicide","anguish",8.95238095238095
+"2589","suicide","anxieti",8.33333333333333
+"2590","suicide","anxious",7.45454545454545
+"2591","suicide","attempt",7.8
+"2592","suicide","aw",8.11111111111111
+"2593","suicide","blood",7.44444444444444
+"2594","suicide","bodi",7.26315789473684
+"2595","suicide","bomb",8.26923076923077
+"2596","suicide","bomber",7.25
+"2597","suicide","brainsick",7.25
+"2598","suicide","break down",8.5
+"2599","suicide","bullet",8.625
+"2600","suicide","catastroph",8
+"2601","suicide","ceas",9.22222222222222
+"2602","suicide","clinic depress",9.44444444444444
+"2603","suicide","conflict",8.5
+"2604","suicide","cri",7.42857142857143
+"2605","suicide","cri for help",9.125
+"2606","suicide","croak",7.8
+"2607","suicide","cyberbulli",7.27272727272727
+"2608","suicide","damag",7.7
+"2609","suicide","danger",8.2
+"2610","suicide","dark",7.35
+"2611","suicide","dead",9
+"2612","suicide","dead bodi",9.66666666666667
+"2613","suicide","death",9.85714285714286
+"2614","suicide","deceas",9.92307692307692
+"2615","suicide","defeat",7.5
+"2616","suicide","demis",8.33333333333333
+"2617","suicide","departur",8.33333333333333
+"2618","suicide","depress",9.88888888888889
+"2619","suicide","depress disord",8.11111111111111
+"2620","suicide","desol",7.73333333333333
+"2621","suicide","despair",9.5
+"2622","suicide","desper",8.38095238095238
+"2623","suicide","destroy",7.54545454545455
+"2624","suicide","destruct",7.54545454545455
+"2625","suicide","die",9.81818181818182
+"2626","suicide","discont",8.14285714285714
+"2627","suicide","displeasur",8.72727272727273
+"2628","suicide","distraught",9.71428571428571
+"2629","suicide","distress",8.86206896551724
+"2630","suicide","disturb",7.6
+"2631","suicide","dread",8.36363636363636
+"2632","suicide","drop dead",8.92307692307692
+"2633","suicide","end",9.02857142857143
+"2634","suicide","excruci",7.8
+"2635","suicide","exhaust",7.22222222222222
+"2636","suicide","fed up",8.375
+"2637","suicide","final stage",9.44444444444444
+"2638","suicide","finish",8.11111111111111
+"2639","suicide","forfeitur",8.28571428571429
+"2640","suicide","forlorn",9.5
+"2641","suicide","give-up the ghost",7.125
+"2642","suicide","great depress",7.61538461538461
+"2643","suicide","grief",7.3
+"2644","suicide","grim",7.11111111111111
+"2645","suicide","grisli",7.88888888888889
+"2646","suicide","gruesom",7.88888888888889
+"2647","suicide","gunfir",7.6
+"2648","suicide","gunshot",8.25
+"2649","suicide","hang",9.25
+"2650","suicide","hardship",8.08333333333333
+"2651","suicide","harm",9.1
+"2652","suicide","heartbreak",8
+"2653","suicide","helpless",8.5
+"2654","suicide","hopeless",8.24
+"2655","suicide","horribl",8.83333333333333
+"2656","suicide","horrif",9.09090909090909
+"2657","suicide","hospit",7.57142857142857
+"2658","suicide","hospitalis",7.08333333333333
+"2659","suicide","human",7.625
+"2660","suicide","hung",8.27272727272727
+"2661","suicide","hurt",9.26666666666667
+"2662","suicide","ill",8.03703703703704
+"2663","suicide","immedi",7.1
+"2664","suicide","incapacit",7.1
+"2665","suicide","incid",7.6
+"2666","suicide","inflict",7.33333333333333
+"2667","suicide","injuri",8.27777777777778
+"2668","suicide","irrevers",9.72727272727273
+"2669","suicide","irrevoc",9.16666666666667
+"2670","suicide","isol",8.73333333333333
+"2671","suicide","jump",7.17857142857143
+"2672","suicide","jump off",8.44444444444444
+"2673","suicide","jump out",7.5
+"2674","suicide","kill",7.95744680851064
+"2675","suicide","last resort",8.66666666666667
+"2676","suicide","leav behind",8.5
+"2677","suicide","life",7.33333333333333
+"2678","suicide","lone",8.25
+"2679","suicide","loneli",8.7
+"2680","suicide","lonesom",8.5
+"2681","suicide","lose",7.3125
+"2682","suicide","loss",8.125
+"2683","suicide","lost",7.15384615384615
+"2684","suicide","macabr",8
+"2685","suicide","manic depress",8
+"2686","suicide","manic depress ill",8.6
+"2687","suicide","manic-depress psychosi",8.3
+"2688","suicide","mental",7.69230769230769
+"2689","suicide","mental diseas",8.2
+"2690","suicide","mental health",9.63636363636364
+"2691","suicide","mental ill",9.11111111111111
+"2692","suicide","miser",7.27272727272727
+"2693","suicide","no way out",8
+"2694","suicide","o.d.",9.57142857142857
+"2695","suicide","overdos",9.52631578947368
+"2696","suicide","overwhelm",7.6
+"2697","suicide","pain",9.02777777777778
+"2698","suicide","pass away",8.66666666666667
+"2699","suicide","perman",8.57142857142857
+"2700","suicide","physician-assist",7.7
+"2701","suicide","pill",9.125
+"2702","suicide","poison",8.83333333333333
+"2703","suicide","poor",7.66666666666667
+"2704","suicide","psychosi",7.71428571428571
+"2705","suicide","ptsd",7.55555555555556
+"2706","suicide","pull the trigger",7.66666666666667
+"2707","suicide","put to death",8.5
+"2708","suicide","razor blade",8
+"2709","suicide","rip",8
+"2710","suicide","rope",7.27777777777778
+"2711","suicide","sad",9.17647058823529
+"2712","suicide","scar",7.08333333333333
+"2713","suicide","scari",8.55555555555556
+"2714","suicide","self harm",9.09090909090909
+"2715","suicide","self-deni",7.77777777777778
+"2716","suicide","self-doubt",8.11111111111111
+"2717","suicide","self-harm",9.27272727272727
+"2718","suicide","self-injuri",9.27272727272727
+"2719","suicide","self-loath",7.81818181818182
+"2720","suicide","self-mutil",8.93333333333333
+"2721","suicide","sever",7.375
+"2722","suicide","shoot",7.73684210526316
+"2723","suicide","shot",8.5
+"2724","suicide","solitari",7.875
+"2725","suicide","sorri",7.625
+"2726","suicide","sorrow",7.6
+"2727","suicide","stab",7.05263157894737
+"2728","suicide","stress",7.66666666666667
+"2729","suicide","struggl",8.375
+"2730","suicide","suffer",8.75555555555556
+"2731","suicide","suicid",10
+"2732","suicide","suicid terror",7.63636363636364
+"2733","suicide","suicid vest",7.6
+"2734","suicide","take",7.55555555555556
+"2735","suicide","termin",8.53846153846154
+"2736","suicide","terribl",8.875
+"2737","suicide","terrifi",7.5
+"2738","suicide","tire of",7.36363636363636
+"2739","suicide","torment",7.97368421052632
+"2740","suicide","tortur",7.11111111111111
+"2741","suicide","tragedi",9.57142857142857
+"2742","suicide","tragic",9.75
+"2743","suicide","trauma",7.81818181818182
+"2744","suicide","traumat",7.625
+"2745","suicide","traumatis",8.75
+"2746","suicide","troubl",7.76470588235294
+"2747","suicide","turbul",7.83333333333333
+"2748","suicide","unhappi",9.85714285714286
+"2749","suicide","unstabl",8.36363636363636
+"2750","suicide","unwel",8
+"2751","suicide","upset",7.45454545454545
+"2752","suicide","victim",8.81818181818182
+"2753","suicide","vulner",9
+"2754","suicide","worri",7.66666666666667
+"2755","suicide","wound",7.7
+"2756","surveillance","adwar",7.69230769230769
+"2757","surveillance","aerial",8.125
+"2758","surveillance","analyz",7.71428571428571
+"2759","surveillance","antenna",7.71428571428571
+"2760","surveillance","armi intellig",8.6
+"2761","surveillance","assess",8.44444444444444
+"2762","surveillance","audio",8.63636363636364
+"2763","surveillance","author",8.27777777777778
+"2764","surveillance","automat face recognit",8.72727272727273
+"2765","surveillance","be after",8.28571428571429
+"2766","surveillance","bear wit",7.83333333333333
+"2767","surveillance","big brother",8.9
+"2768","surveillance","bluehydra",8
+"2769","surveillance","brows histori",7.375
+"2770","surveillance","bureau",7.9
+"2771","surveillance","camcord",9.75
+"2772","surveillance","camera",9.75
+"2773","surveillance","captur",7.125
+"2774","surveillance","case",7.44444444444444
+"2775","surveillance","caught",9.125
+"2776","surveillance","cctv",9.54545454545454
+"2777","surveillance","cellphon",8.125
+"2778","surveillance","cellular telephon",8.5
+"2779","surveillance","check",7.425
+"2780","surveillance","check up on",7.7
+"2781","surveillance","chip",7.66666666666667
+"2782","surveillance","cia",8.875
+"2783","surveillance","clandestin",7.66666666666667
+"2784","surveillance","closed-circuit",8.22222222222222
+"2785","surveillance","command",7.41666666666667
+"2786","surveillance","comput",9
+"2787","surveillance","constabulari",8.2
+"2788","surveillance","control",7.70833333333333
+"2789","surveillance","corrupt",7.25
+"2790","surveillance","counterintellig",8.44444444444444
+"2791","surveillance","counterterror",8.9
+"2792","surveillance","cover",7.73913043478261
+"2793","surveillance","covert",8.72727272727273
+"2794","surveillance","crimin",7.63157894736842
+"2795","surveillance","crimin record",8
+"2796","surveillance","data",8.1
+"2797","surveillance","data collect",8.7
+"2798","surveillance","databas",8
+"2799","surveillance","detect",9.08823529411765
+"2800","surveillance","detect work",9.54545454545454
+"2801","surveillance","detector",8.94444444444444
+"2802","surveillance","devic",8.11111111111111
+"2803","surveillance","discov",7.6875
+"2804","surveillance","distrust",7.10526315789474
+"2805","surveillance","ear",7.71428571428571
+"2806","surveillance","earpiec",8.15384615384615
+"2807","surveillance","eavesdrop",8.17241379310345
+"2808","surveillance","enforc",8.42857142857143
+"2809","surveillance","espi",9.75
+"2810","surveillance","espionag",8.66666666666667
+"2811","surveillance","evid",9.14285714285714
+"2812","surveillance","examin",7.88888888888889
+"2813","surveillance","eye",8.34375
+"2814","surveillance","face",7.77777777777778
+"2815","surveillance","face recognit",7.4
+"2816","surveillance","facial recognit",9.85714285714286
+"2817","surveillance","fbi",9
+"2818","surveillance","feder agenc",8.28571428571429
+"2819","surveillance","find",7.55172413793103
+"2820","surveillance","find out",8.72727272727273
+"2821","surveillance","follow",9.22222222222222
+"2822","surveillance","footag",9.44444444444444
+"2823","surveillance","gchq",8.75
+"2824","surveillance","geoint",9
+"2825","surveillance","govern",7.28205128205128
+"2826","surveillance","govern activ",8.5
+"2827","surveillance","govern agenc",8.57142857142857
+"2828","surveillance","guard",8.41176470588235
+"2829","surveillance","guard duti",9
+"2830","surveillance","hack",7.90909090909091
+"2831","surveillance","hacker",7.125
+"2832","surveillance","headset",7.29411764705882
+"2833","surveillance","helicopt",8.85714285714286
+"2834","surveillance","hush-hush",7.63636363636364
+"2835","surveillance","identif",7.125
+"2836","surveillance","identifi",8.8
+"2837","surveillance","imag",8.78260869565217
+"2838","surveillance","inform",9
+"2839","surveillance","inspect",8.5
+"2840","surveillance","intellig",9.27272727272727
+"2841","surveillance","intellig activ",9.57142857142857
+"2842","surveillance","intellig agenc",9.1
+"2843","surveillance","intellig inform",9.9
+"2844","surveillance","intellig oper",10
+"2845","surveillance","intellig servic",9.18181818181818
+"2846","surveillance","intrud",7.875
+"2847","surveillance","intrus",7.78260869565217
+"2848","surveillance","investig",8.5593220338983
+"2849","surveillance","ip-bas",7.875
+"2850","surveillance","keep an eye on",9.5
+"2851","surveillance","keep in line",8
+"2852","surveillance","keylogg",7.4
+"2853","surveillance","kgb",8.66666666666667
+"2854","surveillance","law",7.13333333333333
+"2855","surveillance","law-break",8.44444444444444
+"2856","surveillance","listen",8.04761904761905
+"2857","surveillance","loiter",7.11111111111111
+"2858","surveillance","look",8.57575757575758
+"2859","surveillance","look at",9.72727272727273
+"2860","surveillance","look into",8.57142857142857
+"2861","surveillance","look on",8.5
+"2862","surveillance","look out",9.5
+"2863","surveillance","lookout",9.625
+"2864","surveillance","malwar",9.44444444444444
+"2865","surveillance","mi5",7.22222222222222
+"2866","surveillance","mi6",8.27272727272727
+"2867","surveillance","microphon",8
+"2868","surveillance","militari",8.5
+"2869","surveillance","mistrust",8.16666666666667
+"2870","surveillance","mobil phone",8.2
+"2871","surveillance","monitor",9.76086956521739
+"2872","surveillance","monitor devic",10
+"2873","surveillance","mysteri",7.33333333333333
+"2874","surveillance","nation secur agenc",9.11111111111111
+"2875","surveillance","notic",7.64285714285714
+"2876","surveillance","nsa",9.125
+"2877","surveillance","observ",8.91666666666667
+"2878","surveillance","obsess",7.8
+"2879","surveillance","offic",7.12903225806452
+"2880","surveillance","opensourc intellig",7.1
+"2881","surveillance","oppress",7.75
+"2882","surveillance","overhear",7.88888888888889
+"2883","surveillance","paranoid",7.9
+"2884","surveillance","patrol",9.45454545454546
+"2885","surveillance","pentagon",8.57142857142857
+"2886","surveillance","phone",7.9
+"2887","surveillance","photograph camera",9.45454545454546
+"2888","surveillance","pictur",8.18181818181818
+"2889","surveillance","polic",9.375
+"2890","surveillance","polic forc",9.45454545454546
+"2891","surveillance","policeman",7.875
+"2892","surveillance","policemen",8.72727272727273
+"2893","surveillance","prey",7.125
+"2894","surveillance","probe",7.41666666666667
+"2895","surveillance","proctor",7.16666666666667
+"2896","surveillance","program",7.09090909090909
+"2897","surveillance","programm",7.125
+"2898","surveillance","protect",7.21666666666667
+"2899","surveillance","putin",7.625
+"2900","surveillance","radar",9.28571428571429
+"2901","surveillance","reconnaiss",10
+"2902","surveillance","reconnaiss mission",8.4
+"2903","surveillance","record",8.71111111111111
+"2904","surveillance","record book",8.88888888888889
+"2905","surveillance","regulatori",7.23076923076923
+"2906","surveillance","report",8.51851851851852
+"2907","surveillance","rootkit",7.25
+"2908","surveillance","russian soviet feder socialist republ",7.57142857142857
+"2909","surveillance","safeguard",8.875
+"2910","surveillance","safeti devic",7.8
+"2911","surveillance","scout",8.18181818181818
+"2912","surveillance","screen",8.48888888888889
+"2913","surveillance","search",9.125
+"2914","surveillance","searchabl",8.33333333333333
+"2915","surveillance","secreci",9
+"2916","surveillance","secret",7.80487804878049
+"2917","surveillance","secur",8
+"2918","surveillance","secur depart",8.3
+"2919","surveillance","secur measur",8
+"2920","surveillance","secur system",10
+"2921","surveillance","see",9.35714285714286
+"2922","surveillance","seen",7.77777777777778
+"2923","surveillance","sensor",8.27777777777778
+"2924","surveillance","sentri",8.75
+"2925","surveillance","sentri duti",7.25
+"2926","surveillance","show",7.11764705882353
+"2927","surveillance","sight",7.55555555555556
+"2928","surveillance","signal detect",8.1
+"2929","surveillance","sleuth",7.52941176470588
+"2930","surveillance","snoop",8.375
+"2931","surveillance","social network",8.22222222222222
+"2932","surveillance","soviet russia",7.27272727272727
+"2933","surveillance","spi",9.62162162162162
+"2934","surveillance","spot",7.83333333333333
+"2935","surveillance","spotter",8.125
+"2936","surveillance","spywar",8.75
+"2937","surveillance","stalk",8.02941176470588
+"2938","surveillance","stalker",7.33333333333333
+"2939","surveillance","state",7.42857142857143
+"2940","surveillance","supervis",8
+"2941","surveillance","surveil",10
+"2942","surveillance","survey",8.66666666666667
+"2943","surveillance","suspect",7.96428571428571
+"2944","surveillance","suspici",8.3125
+"2945","surveillance","system",8.47058823529412
+"2946","surveillance","tab",7.875
+"2947","surveillance","tactic",7.22222222222222
+"2948","surveillance","take note",8.22222222222222
+"2949","surveillance","tape",7.88888888888889
+"2950","surveillance","target",7.36842105263158
+"2951","surveillance","target area",8.66666666666667
+"2952","surveillance","tech",8.25
+"2953","surveillance","technolog",8.56666666666667
+"2954","surveillance","telecom",7.85714285714286
+"2955","surveillance","televis camera",8.875
+"2956","surveillance","threat",8.11764705882353
+"2957","surveillance","trace",8.09090909090909
+"2958","surveillance","track",9.52941176470588
+"2959","surveillance","tv",8.71428571428571
+"2960","surveillance","tv camera",9.81818181818182
+"2961","surveillance","u.s.",7.88888888888889
+"2962","surveillance","undercov",9.22222222222222
+"2963","surveillance","undercov agent",9.25
+"2964","surveillance","undercov work",8.8
+"2965","surveillance","union of soviet socialist republ",7.09090909090909
+"2966","surveillance","unit state of america",7.09090909090909
+"2967","surveillance","video",8.61111111111111
+"2968","surveillance","video record",9.57142857142857
+"2969","surveillance","videotap",8.9
+"2970","surveillance","view",9.27777777777778
+"2971","surveillance","vpn",8.5
+"2972","surveillance","watch",9.41379310344828
+"2973","surveillance","watch out",7.4
+"2974","surveillance","watch over",9.61538461538461
+"2975","surveillance","watchdog",8.66666666666667
+"2976","surveillance","wiretap",9.03846153846154
+"2977","surveillance","wit",7.75
+"2978","threat","abduct",7.44444444444444
+"2979","threat","act of terror",9.22222222222222
+"2980","threat","adversari",8.71428571428571
+"2981","threat","afraid",7.75
+"2982","threat","aggrav",7.30769230769231
+"2983","threat","aggress",9.14285714285714
+"2984","threat","alarm",8.52941176470588
+"2985","threat","alarum",7.5
+"2986","threat","alert",8.55555555555556
+"2987","threat","anger",8.5
+"2988","threat","angri",8.54545454545454
+"2989","threat","antagonist",7.5
+"2990","threat","anxious",8.2
+"2991","threat","argument",7.46666666666667
+"2992","threat","assault",8.66666666666667
+"2993","threat","attack",9.14285714285714
+"2994","threat","attempt",7.625
+"2995","threat","aveng",7.36363636363636
+"2996","threat","battl",7.375
+"2997","threat","battle-field",7.54545454545455
+"2998","threat","bomb",9.38095238095238
+"2999","threat","bring down",8.5
+"3000","threat","brutal",7.09523809523809
+"3001","threat","bulli",7.27272727272727
+"3002","threat","chevi",10
+"3003","threat","combat",7.57142857142857
+"3004","threat","concern",7.0625
+"3005","threat","conflict",8.5
+"3006","threat","crime",8.47058823529412
+"3007","threat","crimin",9
+"3008","threat","crimin offenc",8.5
+"3009","threat","damag",7.42424242424242
+"3010","threat","danger",9.45833333333333
+"3011","threat","dead",8.28571428571429
+"3012","threat","deterr",8.33333333333333
+"3013","threat","disrupt",8.14285714285714
+"3014","threat","distraught",7.09090909090909
+"3015","threat","distress",7.375
+"3016","threat","dread",7.4
+"3017","threat","endang",9.33333333333333
+"3018","threat","endanger",9.36363636363636
+"3019","threat","escal",8.85714285714286
+"3020","threat","evacu",8.625
+"3021","threat","explos",7.5
+"3022","threat","exposur",7.85714285714286
+"3023","threat","extrem",9.11111111111111
+"3024","threat","fear",7.87878787878788
+"3025","threat","feroc",7.11111111111111
+"3026","threat","fierc",8.60869565217391
+"3027","threat","fight",8.34375
+"3028","threat","fight down",7.11111111111111
+"3029","threat","fire",7.44444444444444
+"3030","threat","flood",8.4
+"3031","threat","foe",8.36363636363636
+"3032","threat","forc",7.79310344827586
+"3033","threat","fought",7.58333333333333
+"3034","threat","fright",8.54545454545454
+"3035","threat","frighten",7.95238095238095
+"3036","threat","frighten away",8.18181818181818
+"3037","threat","frighten off",8.42857142857143
+"3038","threat","furi",7.25
+"3039","threat","furious",8.63636363636364
+"3040","threat","gang",7.85714285714286
+"3041","threat","harass",8.5625
+"3042","threat","harm",9.6
+"3043","threat","harrass",8.36363636363636
+"3044","threat","hate",8.07692307692308
+"3045","threat","hatr",9.1
+"3046","threat","hazard",9.11538461538461
+"3047","threat","homicid",7.11111111111111
+"3048","threat","hostag",8.69565217391304
+"3049","threat","imperil",7.83333333333333
+"3050","threat","incit",7.5
+"3051","threat","injuri",7.09090909090909
+"3052","threat","intent",7.62962962962963
+"3053","threat","intimid",9.75
+"3054","threat","ira",8.83333333333333
+"3055","threat","ire",8.28571428571429
+"3056","threat","jeopardis",8.33333333333333
+"3057","threat","keep in line",7.375
+"3058","threat","kidnap",7.4
+"3059","threat","kidnapp",9.3
+"3060","threat","kill",7.59090909090909
+"3061","threat","legal action",7.8
+"3062","threat","line of reason",7.42857142857143
+"3063","threat","mad",7.36363636363636
+"3064","threat","malaria",7.55555555555556
+"3065","threat","manipul",8.10526315789474
+"3066","threat","menac",9.07692307692308
+"3067","threat","messag",7.54545454545455
+"3068","threat","militari",8.2
+"3069","threat","militari action",9.77777777777778
+"3070","threat","molest",8.88888888888889
+"3071","threat","murder",9.45454545454546
+"3072","threat","offenc",9
+"3073","threat","onslaught",8.625
+"3074","threat","oppon",8.89473684210526
+"3075","threat","oppos",7.88461538461539
+"3076","threat","outrag",9.25
+"3077","threat","pain",7.14285714285714
+"3078","threat","panic",9.5
+"3079","threat","panic attack",7.91666666666667
+"3080","threat","paranoia",7.875
+"3081","threat","pedophil",8.22222222222222
+"3082","threat","peril",8.875
+"3083","threat","plan of attack",7.9
+"3084","threat","polic",7.5
+"3085","threat","polit",7.6
+"3086","threat","prey",8.23809523809524
+"3087","threat","provok",7.92857142857143
+"3088","threat","punish",8.2
+"3089","threat","quarrel",7.16666666666667
+"3090","threat","racism",8.44444444444444
+"3091","threat","raid",8
+"3092","threat","red",7.33333333333333
+"3093","threat","red alert",9.81818181818182
+"3094","threat","retali",7.46341463414634
+"3095","threat","retaliatori",7.25
+"3096","threat","reveng",8.28571428571429
+"3097","threat","riot",7.6
+"3098","threat","risk",8.94736842105263
+"3099","threat","risk of exposur",8
+"3100","threat","risk of infect",9.09090909090909
+"3101","threat","run a risk",8.5
+"3102","threat","scare",8.85185185185185
+"3103","threat","scare away",7.72727272727273
+"3104","threat","scare off",9.5
+"3105","threat","secur",8.77777777777778
+"3106","threat","secur depart",8.08333333333333
+"3107","threat","secur measur",8.05882352941176
+"3108","threat","secur system",8.28571428571429
+"3109","threat","stress",7.76923076923077
+"3110","threat","suffer",7.73684210526316
+"3111","threat","suicid",7.44444444444444
+"3112","threat","terrifi",9
+"3113","threat","terror",9.6
+"3114","threat","terroris",9.11111111111111
+"3115","threat","terrorist",9.60869565217391
+"3116","threat","terrorist act",8.44444444444444
+"3117","threat","terrorist attack",10
+"3118","threat","threat",10
+"3119","threat","threaten",9.64864864864865
+"3120","threat","trauma",7.8
+"3121","threat","trigger-happi",7.25
+"3122","threat","troubl",8.66666666666667
+"3123","threat","uneas",8.125
+"3124","threat","unrest",7.42857142857143
+"3125","threat","unsaf",8.75
+"3126","threat","vehem",7.2
+"3127","threat","vicious",9
+"3128","threat","victim",7.72727272727273
+"3129","threat","violenc",9.5
+"3130","threat","violent",8.11111111111111
+"3131","threat","warn",8.75609756097561
+"3132","threat","warn devic",8.75
+"3133","threat","warn signal",9.2
+"3134","violence","abduct",8.25
+"3135","violence","abus",9.44444444444444
+"3136","violence","act of terror",9.5
+"3137","violence","adversari",7.54545454545455
+"3138","violence","afraid",8.55555555555556
+"3139","violence","aggrav",8.125
+"3140","violence","aggress",8.5
+"3141","violence","aggressor",9.31578947368421
+"3142","violence","agit",8
+"3143","violence","alterc",8.68181818181818
+"3144","violence","ambush",8.25
+"3145","violence","ammunit",9.14285714285714
+"3146","violence","anger",9.375
+"3147","violence","angri",8.90909090909091
+"3148","violence","arrest",8.57142857142857
+"3149","violence","arson",9
+"3150","violence","artilleri",9
+"3151","violence","assail",9.15384615384615
+"3152","violence","assault",9.5
+"3153","violence","attack",9.26315789473684
+"3154","violence","bad",8.26315789473684
+"3155","violence","bang",8.77777777777778
+"3156","violence","barbar",8.7
+"3157","violence","battl",9.06896551724138
+"3158","violence","behavior",7.2
+"3159","violence","belt down",7.25
+"3160","violence","bite",7.33333333333333
+"3161","violence","bitter",7.85714285714286
+"3162","violence","bleed",8.625
+"3163","violence","blood",9.33333333333333
+"3164","violence","bloodi",8.81818181818182
+"3165","violence","bloodsh",10
+"3166","violence","bloodthirsti",9
+"3167","violence","bomb",9.43333333333333
+"3168","violence","bomber",9.45454545454546
+"3169","violence","brawl",9.36842105263158
+"3170","violence","bruis",9.5
+"3171","violence","brutal",9.72222222222222
+"3172","violence","brute",9.57142857142857
+"3173","violence","brutish",9
+"3174","violence","bullet",9.6
+"3175","violence","bulli",8.8
+"3176","violence","bump off",9.125
+"3177","violence","burglari",7.125
+"3178","violence","burn",8.77777777777778
+"3179","violence","casualti",8.94736842105263
+"3180","violence","charg",7.125
+"3181","violence","collis",7.28571428571429
+"3182","violence","combat",9.15
+"3183","violence","combat injuri",8.6
+"3184","violence","combat-readi",7.91666666666667
+"3185","violence","conflict",10
+"3186","violence","confront",8.11111111111111
+"3187","violence","crime",9.57894736842105
+"3188","violence","crimin",7.94117647058824
+"3189","violence","crimin offenc",9.25
+"3190","violence","criminalis",8.3
+"3191","violence","cruel",9.3
+"3192","violence","crusad",7.6
+"3193","violence","culprit",8.13636363636364
+"3194","violence","cut",8.14285714285714
+"3195","violence","damag",7.11111111111111
+"3196","violence","danger",9.125
+"3197","violence","dead",8.72727272727273
+"3198","violence","death",8.75
+"3199","violence","deceas",7.6
+"3200","violence","demolish",8.05555555555556
+"3201","violence","destroy",8.125
+"3202","violence","destruct",8.70833333333333
+"3203","violence","deton",8.5
+"3204","violence","detriment",7.75
+"3205","violence","devast",8.8
+"3206","violence","die",7.31578947368421
+"3207","violence","disgust",8.45454545454546
+"3208","violence","displeasur",8
+"3209","violence","disput",7.60869565217391
+"3210","violence","dissens",7.6
+"3211","violence","distress",8.55555555555556
+"3212","violence","endang",8.375
+"3213","violence","enemi",8.3
+"3214","violence","enmiti",8.14285714285714
+"3215","violence","escal",8.1578947368421
+"3216","violence","execut",9
+"3217","violence","explod",8.6
+"3218","violence","explos",8.81818181818182
+"3219","violence","fatal",8.47368421052632
+"3220","violence","fear",8.21052631578947
+"3221","violence","felon",8.88235294117647
+"3222","violence","feloni",8.375
+"3223","violence","fierc",9
+"3224","violence","fight",9.75862068965517
+"3225","violence","fight back",7.6
+"3226","violence","foe",7.27272727272727
+"3227","violence","forc",8.76
+"3228","violence","fought",7.5
+"3229","violence","fraca",8.28571428571429
+"3230","violence","fright",7.28571428571429
+"3231","violence","frustrat",7.08333333333333
+"3232","violence","furi",9.36363636363636
+"3233","violence","gang",9.11111111111111
+"3234","violence","gore",9.66666666666667
+"3235","violence","grab",8.7
+"3236","violence","grenad",9
+"3237","violence","grievous",8.28571428571429
+"3238","violence","gun",9
+"3239","violence","gunman",8.25
+"3240","violence","gunmen",9.125
+"3241","violence","gunshot",8.42857142857143
+"3242","violence","harass",7.56
+"3243","violence","harm",9.13888888888889
+"3244","violence","harsh",9.125
+"3245","violence","hassl",7.625
+"3246","violence","hate",9.09090909090909
+"3247","violence","hatr",9.55555555555556
+"3248","violence","hit",8.88461538461539
+"3249","violence","homicid",7.71428571428571
+"3250","violence","horrif",9.14285714285714
+"3251","violence","hostil",9.11111111111111
+"3252","violence","hurt",9.46153846153846
+"3253","violence","imprison",7.375
+"3254","violence","incapacit",7.55555555555556
+"3255","violence","incid",7.78260869565217
+"3256","violence","inflam",7.55555555555556
+"3257","violence","inflict",7.875
+"3258","violence","injur",9.31578947368421
+"3259","violence","injur parti",7.875
+"3260","violence","injuri",9.65
+"3261","violence","inmat",7.2
+"3262","violence","innoc peopl",7.72727272727273
+"3263","violence","intent",7.44444444444444
+"3264","violence","intimid",9.18181818181818
+"3265","violence","investig",7.125
+"3266","violence","ira",7.42857142857143
+"3267","violence","jab",7.2
+"3268","violence","jail",8.125
+"3269","violence","jealousi",7.875
+"3270","violence","kick",8.74285714285714
+"3271","violence","kidnap",8
+"3272","violence","kill",9.15151515151515
+"3273","violence","knife",8.91666666666667
+"3274","violence","knife thrust",9.69230769230769
+"3275","violence","lash out",9
+"3276","violence","law",8.33333333333333
+"3277","violence","law-break",10
+"3278","violence","life-threaten",9.30769230769231
+"3279","violence","loot",7.66666666666667
+"3280","violence","machet",7.2
+"3281","violence","mad",7.09090909090909
+"3282","violence","maim",8.1
+"3283","violence","mayhem",8.66666666666667
+"3284","violence","mele",8
+"3285","violence","menac",9.85714285714286
+"3286","violence","militari",9.125
+"3287","violence","militari forc",8.25
+"3288","violence","militari group",8.7
+"3289","violence","militari unit",7.58333333333333
+"3290","violence","mindless",7.46153846153846
+"3291","violence","missil",8.23809523809524
+"3292","violence","molest",8.1
+"3293","violence","mourn famili and friend",7.08333333333333
+"3294","violence","murder",9.38297872340426
+"3295","violence","mutil",9.33333333333333
+"3296","violence","obliter",8.55555555555556
+"3297","violence","offenc",8
+"3298","violence","offend",9
+"3299","violence","onslaught",8.45454545454546
+"3300","violence","oppress",8.42857142857143
+"3301","violence","oppressor",8.4
+"3302","violence","out-of-control",8.25
+"3303","violence","outburst",9.875
+"3304","violence","outrag",8
+"3305","violence","pain",8.93103448275862
+"3306","violence","pain sensat",7.52631578947368
+"3307","violence","peril",7.66666666666667
+"3308","violence","perpetr",7.10526315789474
+"3309","violence","personnel casualti",9.2
+"3310","violence","plan of attack",8
+"3311","violence","polic",8.42857142857143
+"3312","violence","power",7.88888888888889
+"3313","violence","prey",8.7
+"3314","violence","prison",8.83333333333333
+"3315","violence","provok",8
+"3316","violence","pulveris",8.125
+"3317","violence","punch",9.48571428571429
+"3318","violence","puncher",9
+"3319","violence","push",7.88888888888889
+"3320","violence","put to death",8.7
+"3321","violence","racism",8.25
+"3322","violence","racist",8
+"3323","violence","radicalis",7.81818181818182
+"3324","violence","rage",10
+"3325","violence","rampag",9.22222222222222
+"3326","violence","rape",8.77777777777778
+"3327","violence","rapist",9.33333333333333
+"3328","violence","riot",8.78947368421053
+"3329","violence","risk",7.5
+"3330","violence","robberi",9.5
+"3331","violence","ruthless",8.66666666666667
+"3332","violence","savag",8.44444444444444
+"3333","violence","scream",8.92857142857143
+"3334","violence","scud",8.42857142857143
+"3335","violence","scuffl",7.76190476190476
+"3336","violence","see red",9.23529411764706
+"3337","violence","senseless",8.14285714285714
+"3338","violence","sever",7.1
+"3339","violence","shoot",9.71875
+"3340","violence","shoot down",7.42857142857143
+"3341","violence","shot",9.22222222222222
+"3342","violence","shout",8.44444444444444
+"3343","violence","showdown",7.57142857142857
+"3344","violence","shrapnel",8
+"3345","violence","shriek",7.85
+"3346","violence","sicken",9.25
+"3347","violence","slash",8.11764705882353
+"3348","violence","slay",8.55555555555556
+"3349","violence","slice",7.2
+"3350","violence","slue",8
+"3351","violence","smash",9
+"3352","violence","smasher",7.5
+"3353","violence","snap",7.27272727272727
+"3354","violence","snipe",7.88888888888889
+"3355","violence","soldier",7.75
+"3356","violence","spite",7.72727272727273
+"3357","violence","stab",9.28
+"3358","violence","state of war",8.7
+"3359","violence","stress",7.90909090909091
+"3360","violence","strike",8.52380952380952
+"3361","violence","struck",9.25
+"3362","violence","suffer",8.64705882352941
+"3363","violence","suicid",7.875
+"3364","violence","take down",7.25
+"3365","violence","talibanis",7.71428571428571
+"3366","violence","target",7.74285714285714
+"3367","violence","target area",7.36363636363636
+"3368","violence","tear",7.23529411764706
+"3369","violence","tens",7.55555555555556
+"3370","violence","tension",8.88235294117647
+"3371","violence","terror",9.64705882352941
+"3372","violence","terroris",9.3
+"3373","violence","terrorist",9.375
+"3374","violence","terrorist act",9.71428571428571
+"3375","violence","thiev",8
+"3376","violence","threat",8.21739130434783
+"3377","violence","threaten",9
+"3378","violence","traffick",8.2
+"3379","violence","trauma",8.66666666666667
+"3380","violence","trial",8.14285714285714
+"3381","violence","trigger-happi",7.36363636363636
+"3382","violence","uncontrol",7.86363636363636
+"3383","violence","unrel",9.3
+"3384","violence","unruli",8.6
+"3385","violence","unsaf",8.66666666666667
+"3386","violence","vandal",7.66666666666667
+"3387","violence","vicious",7.875
+"3388","violence","victim",9.26666666666667
+"3389","violence","violenc",10
+"3390","violence","violent",10
+"3391","violence","violent death",9.54545454545454
+"3392","violence","violent disord",9.7
+"3393","violence","war",9.47058823529412
+"3394","violence","warfar",9
+"3395","violence","warhead",9.42857142857143
+"3396","violence","weapon",9
+"3397","violence","weapon system",9.25
+"3398","violence","weaponri",9.22222222222222
+"3399","violence","wors",7.72727272727273
+"3400","violence","wound",9.02857142857143
+"3401","violence","wrath",7.9
+"3402","violence","wrongdoer",7.42857142857143
+"3403","violence","yell",7.32142857142857
+"3404","weaponry","155mm",9.57142857142857
+"3405","weaponry","aggress",8.33333333333333
+"3406","weaponry","aim",9.71428571428571
+"3407","weaponry","ak-47",10
+"3408","weaponry","ambush",7.81818181818182
+"3409","weaponry","american",8.5
+"3410","weaponry","ammo",10
+"3411","weaponry","ammunit",9.5
+"3412","weaponry","anti-aircraft",8.9
+"3413","weaponry","antiaircraft",9.5
+"3414","weaponry","antitank",8
+"3415","weaponry","arm",8.45945945945946
+"3416","weaponry","arm forc",7.55555555555556
+"3417","weaponry","arm person",9.7
+"3418","weaponry","arm servic",8.81818181818182
+"3419","weaponry","armament",8.90909090909091
+"3420","weaponry","armi",9.8
+"3421","weaponry","armi tank",9.77777777777778
+"3422","weaponry","armor",9.28571428571429
+"3423","weaponry","armour",9.10526315789474
+"3424","weaponry","armour combat vehicl",8.42857142857143
+"3425","weaponry","artilleri",9.5
+"3426","weaponry","assail",7.47058823529412
+"3427","weaponry","assault",8.45
+"3428","weaponry","atom",7.9
+"3429","weaponry","atomic-war",8.77777777777778
+"3430","weaponry","attack",8.78571428571429
+"3431","weaponry","ax",7.875
+"3432","weaponry","axe",9.6875
+"3433","weaponry","bash",7.28571428571429
+"3434","weaponry","battl",9.36363636363636
+"3435","weaponry","battleship",8.55555555555556
+"3436","weaponry","bazooka",9.8
+"3437","weaponry","belt",7.18181818181818
+"3438","weaponry","biolog",7.92307692307692
+"3439","weaponry","black-market",7.27272727272727
+"3440","weaponry","blade",9.53333333333333
+"3441","weaponry","blast",9.31578947368421
+"3442","weaponry","blood",8.88888888888889
+"3443","weaponry","bloodsh",8.2
+"3444","weaponry","blow up",8.375
+"3445","weaponry","bomb",9.60526315789474
+"3446","weaponry","boom",9
+"3447","weaponry","brass knuck",9.44444444444444
+"3448","weaponry","brass knuckl",8
+"3449","weaponry","bullet",9
+"3450","weaponry","cach",7.04761904761905
+"3451","weaponry","calib",8.875
+"3452","weaponry","cannon",9
+"3453","weaponry","casualti",7.38888888888889
+"3454","weaponry","clash",7.42857142857143
+"3455","weaponry","clench fist",7.27272727272727
+"3456","weaponry","conflict",8.28571428571429
+"3457","weaponry","contraband",7.53846153846154
+"3458","weaponry","crime",7.36363636363636
+"3459","weaponry","crimin",8
+"3460","weaponry","crisi",7.66666666666667
+"3461","weaponry","dagger",9.11111111111111
+"3462","weaponry","damag",9.72727272727273
+"3463","weaponry","danger",8.1578947368421
+"3464","weaponry","dart",8.3
+"3465","weaponry","dead",8.52380952380952
+"3466","weaponry","defenc",9.33333333333333
+"3467","weaponry","defenc depart",8.6
+"3468","weaponry","defenc forc",9.88888888888889
+"3469","weaponry","defenc team",8.75
+"3470","weaponry","defend",8.77777777777778
+"3471","weaponry","demolish",7.9
+"3472","weaponry","depart of defenc",7.71428571428571
+"3473","weaponry","destroy",7.63888888888889
+"3474","weaponry","destruct",8.22222222222222
+"3475","weaponry","deton",8.95238095238095
+"3476","weaponry","devast",7.22222222222222
+"3477","weaponry","disastr",7.11111111111111
+"3478","weaponry","endang",7.42857142857143
+"3479","weaponry","endanger",8.1
+"3480","weaponry","explod",9.22727272727273
+"3481","weaponry","explos",9.17142857142857
+"3482","weaponry","extremist",9.5
+"3483","weaponry","fatal",8.3
+"3484","weaponry","fierc",7.33333333333333
+"3485","weaponry","fight",9.5
+"3486","weaponry","fire",8.2258064516129
+"3487","weaponry","fire arm",10
+"3488","weaponry","firearm",9.90476190476191
+"3489","weaponry","firepow",8.875
+"3490","weaponry","flamethrow",7.63636363636364
+"3491","weaponry","forc",8.55555555555556
+"3492","weaponry","gas",8.3
+"3493","weaponry","gear up",8.8
+"3494","weaponry","genocid",7.57142857142857
+"3495","weaponry","go ballist",8.22222222222222
+"3496","weaponry","grenad",9.07142857142857
+"3497","weaponry","ground forc",8
+"3498","weaponry","guard",7.21052631578947
+"3499","weaponry","gun",9.93333333333333
+"3500","weaponry","gun for hire",8.8
+"3501","weaponry","gunman",9.5
+"3502","weaponry","gunshot",9.38461538461539
+"3503","weaponry","handgun",9.72222222222222
+"3504","weaponry","harm",8.57142857142857
+"3505","weaponry","hatchet",8.25
+"3506","weaponry","hatr",7.1
+"3507","weaponry","hazard",7.75
+"3508","weaponry","heavi weapon",9.5
+"3509","weaponry","helicopt",8.33333333333333
+"3510","weaponry","hilt",7.85714285714286
+"3511","weaponry","hire gun",7.33333333333333
+"3512","weaponry","hit",7.5
+"3513","weaponry","hit man",7.5
+"3514","weaponry","hitman",8.5
+"3515","weaponry","howitz",8.66666666666667
+"3516","weaponry","hurt",7.84615384615385
+"3517","weaponry","icbm",10
+"3518","weaponry","ie",8.90909090909091
+"3519","weaponry","illeg",7.52941176470588
+"3520","weaponry","illicit",7.33333333333333
+"3521","weaponry","implement",8.125
+"3522","weaponry","improvis explos devic",9.6
+"3523","weaponry","infantri",9.1
+"3524","weaponry","inflict",8.2
+"3525","weaponry","injur",8.45454545454546
+"3526","weaponry","injuri",7.8
+"3527","weaponry","invas",7.55555555555556
+"3528","weaponry","iraq",8.3
+"3529","weaponry","kill",9.16666666666667
+"3530","weaponry","knife",9.28571428571429
+"3531","weaponry","knife thrust",7.1
+"3532","weaponry","knive",9.5
+"3533","weaponry","knuckl duster",8.85714285714286
+"3534","weaponry","launcher",7.90476190476191
+"3535","weaponry","life-threaten",7.16666666666667
+"3536","weaponry","m-16",9.33333333333333
+"3537","weaponry","machet",8.66666666666667
+"3538","weaponry","machin gun",9.83333333333333
+"3539","weaponry","machine-gun",9.88235294117647
+"3540","weaponry","machinegun",9.95
+"3541","weaponry","maim",7.81818181818182
+"3542","weaponry","massacr",8.63636363636364
+"3543","weaponry","matchet",10
+"3544","weaponry","menac",7.44444444444444
+"3545","weaponry","metal",7.05555555555556
+"3546","weaponry","milit",8.23076923076923
+"3547","weaponry","militari",8.4
+"3548","weaponry","militari machin",9.41666666666667
+"3549","weaponry","missil",9.89473684210526
+"3550","weaponry","munit",9.83333333333333
+"3551","weaponry","murder",8.88888888888889
+"3552","weaponry","nuclear",8.375
+"3553","weaponry","obliter",7.33333333333333
+"3554","weaponry","onslaught",7.42857142857143
+"3555","weaponry","orotund",7.33333333333333
+"3556","weaponry","pentagon",8.28571428571429
+"3557","weaponry","perpetr",8.375
+"3558","weaponry","pierc",7.375
+"3559","weaponry","pistol",10
+"3560","weaponry","plan of attack",8
+"3561","weaponry","plutonium",8
+"3562","weaponry","poison",7.55555555555556
+"3563","weaponry","polic",7.44444444444444
+"3564","weaponry","policemen",8.57142857142857
+"3565","weaponry","prey",7.125
+"3566","weaponry","projectil",8.42105263157895
+"3567","weaponry","put to death",7.2
+"3568","weaponry","race murder",7.9
+"3569","weaponry","raid",8.22222222222222
+"3570","weaponry","recoil",8.28571428571429
+"3571","weaponry","regular armi",8.25
+"3572","weaponry","rifl",9.77272727272727
+"3573","weaponry","riot",8.875
+"3574","weaponry","robberi",8
+"3575","weaponry","rocket",9.33333333333333
+"3576","weaponry","rocket-propel",9.875
+"3577","weaponry","saddam",8
+"3578","weaponry","scath",7.85714285714286
+"3579","weaponry","semiautomat",8.54545454545454
+"3580","weaponry","shoot",9.05882352941176
+"3581","weaponry","shoot down",9.1
+"3582","weaponry","shooter",9.88888888888889
+"3583","weaponry","shot",8.88888888888889
+"3584","weaponry","shrapnel",9.66666666666667
+"3585","weaponry","slay",8.71428571428571
+"3586","weaponry","small-arm",8
+"3587","weaponry","snipe",9.3
+"3588","weaponry","soldier",9.55
+"3589","weaponry","spear",10
+"3590","weaponry","stab",8.56
+"3591","weaponry","state of war",9.25
+"3592","weaponry","steel",7.22222222222222
+"3593","weaponry","stock",8.36363636363636
+"3594","weaponry","suffer",7.73684210526316
+"3595","weaponry","suicid vest",8.875
+"3596","weaponry","sword",9.70588235294118
+"3597","weaponry","tank",9.14285714285714
+"3598","weaponry","tank car",9.11111111111111
+"3599","weaponry","target",7.88235294117647
+"3600","weaponry","target area",9.42857142857143
+"3601","weaponry","terror",7.22222222222222
+"3602","weaponry","terroris",8.16666666666667
+"3603","weaponry","terrorist",9.05882352941176
+"3604","weaponry","threat",9.1
+"3605","weaponry","torpedo",9.72727272727273
+"3606","weaponry","trauma",7.90909090909091
+"3607","weaponry","triggerman",9
+"3608","weaponry","troop",8
+"3609","weaponry","troubl",7.11111111111111
+"3610","weaponry","truncheon",9.22222222222222
+"3611","weaponry","turret",7.4
+"3612","weaponry","u. s. armi",9.6
+"3613","weaponry","u.s.",8
+"3614","weaponry","unit state armi",8.36363636363636
+"3615","weaponry","unit state depart of defens",9
+"3616","weaponry","uranium",7.75
+"3617","weaponry","us armi",9.22222222222222
+"3618","weaponry","usa",8.33333333333333
+"3619","weaponry","victim",7.2
+"3620","weaponry","violenc",9
+"3621","weaponry","violent",9.125
+"3622","weaponry","violent death",7.55555555555556
+"3623","weaponry","war",9.25
+"3624","weaponry","war machin",9.63636363636364
+"3625","weaponry","warfar",9.25
+"3626","weaponry","warhead",9.40909090909091
+"3627","weaponry","warrior",9.42857142857143
+"3628","weaponry","warship",9.33333333333333
+"3629","weaponry","weapon",9.75
+"3630","weaponry","weapon system",9.9
+"3631","weaponry","weaponri",10
+"3632","weaponry","wipe out",7.08333333333333
+"3633","weaponry","wound",7.78787878787879
