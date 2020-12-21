@@ -1,6 +1,6 @@
 # The Grievance Dictionary
-Repository for the paper:
-van der Vegt, I., Mozes, M., Kleinberg, B. & Gill, P.(2020) The Grievance Dictionary: Understanding Threatening Language Use. [Pre-print.](https://arxiv.org/abs/2009.04798)
+__Repository for the paper:
+van der Vegt, I., Mozes, M., Kleinberg, B. & Gill, P.(2020) The Grievance Dictionary: Understanding Threatening Language Use. [Pre-print.](https://arxiv.org/abs/2009.04798)__
 
 The Grievance Dictionary is a psycholinguistic dictionary which can be used to automatically understand language use in the context of grievance-fuelled violence threat assessment. The development of the dictionary was informed by suggestions from experienced threat assessment practitioners. These suggestions and subsequent human and computational word list generation resulted in a dictionary of 20,502 words annotated by 2,318 participants. The dictionary was validated by applying it to texts written by violent and non-violent individuals, showing strong evidence for linguistic differences between populations and high classification performance.
 
