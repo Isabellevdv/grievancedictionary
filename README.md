@@ -15,3 +15,14 @@ Before using the Grievance Dictionary, please refer to the associated [paper](ht
 - dictionary_7plus.csv: csv version of the dictionary used in our paper, contains all words which received a mean goodness-of-fit score of 7 or higher.
 - dictionary_5plus.csv: csv dictionary containing all words which received a mean goodness-of-fit score of 5 or higher.
 - weighted_dictionary.csv: csv dictionary which contains all words with average ratings, with no restrictions on goodness-of-fit score.
+
+## Reference
+When using the materials provided in this repository for research purposes, please cite:
+```
+@article{vandervegt2020grievance,
+  title={The Grievance Dictionary: Understanding Threatening Language Use},
+  author={van der Vegt, Isabelle and Mozes, Maximilian and Kleinberg, Bennett and Gill, Paul},
+  journal={arXiv preprint arXiv:2009.04798},
+  year={2020}
+}
+```
