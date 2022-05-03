@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## The Grievance Dictionary
 
-You can use the [editor on GitHub](https://github.com/Isabellevdv/grievancedictionary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Grievance Dictionary is a psycholinguistic dictionary which can be used to automatically understand language use in the context of grievance-fuelled violence threat assessment. The development of the dictionary was informed by suggestions from experienced threat assessment practitioners. These suggestions and subsequent human and computational word list generation resulted in a dictionary of 20,502 words annotated by 2,318 participants. The dictionary was validated by applying it to texts written by violent and non-violent individuals, showing strong evidence for linguistic differences between populations and high classification performance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Materials
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Study materials and development: [Open Science Framework](https://osf.io/3grd6/)
+- User guide and dictionary files: [Github repository](https://github.com/Isabellevdv/grievancedictionary)
+- Paper: [Behavior Research Methods](https://rdcu.be/cMzFP)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Isabellevdv/grievancedictionary/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Papers using the dictionary
+- Habib, H., Srinivasan, P., & Nithyanand, R. (2022). Making a Radical Misogynist: How online social engagement with the Manosphere influences traits of radicalization. [arXiv preprint](https://arxiv.org/abs/2202.08805).
+- Allchorn, W., Dafnos, A., & Gentile, F. (2022). The Role of Violent Conspiratorial Narratives in Violent and Non‑Violent Extreme Right Manifestos Online, 2015‑2020. [Global Research Network on Terrorism and Technology (GNET)](https://gnet-research.org/2022/03/22/the-role-of-violent-conspiratorial-narratives-in-violent-and-non%E2%80%90violent-extreme-right-manifestos-online-2015%E2%80%902020/). 
