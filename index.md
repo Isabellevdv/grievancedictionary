@@ -4,7 +4,8 @@ The Grievance Dictionary is a psycholinguistic dictionary which can be used to a
 
 _Before using the Grievance Dictionary, please read our **[paper](](https://rdcu.be/cMzFP))**, which contains important information on how and when the dictionary should be used._
 
-### **If you want to implement the dictionary in R, visit -->** [Github repository](https://github.com/Isabellevdv/grievancedictionary)
+### **[Github repository](https://github.com/Isabellevdv/grievancedictionary) to download and use the dictionary** 
+
 ## Materials
 - Study materials and development: [Open Science Framework](https://osf.io/3grd6/)
 - Paper: [Behavior Research Methods](https://rdcu.be/cMzFP)
