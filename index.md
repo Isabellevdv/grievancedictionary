@@ -4,16 +4,10 @@ The Grievance Dictionary is a psycholinguistic dictionary which can be used to a
 
 _Before using the Grievance Dictionary, please read our **[paper](](https://rdcu.be/cMzFP))**, which contains important information on how and when the dictionary should be used._
 
-
-
+### **If you want to implement the dictionary in R, visit -->** [Github repository](https://github.com/Isabellevdv/grievancedictionary)
 ## Materials
-
 - Study materials and development: [Open Science Framework](https://osf.io/3grd6/)
-- User guide and dictionary files: [Github repository](https://github.com/Isabellevdv/grievancedictionary)
 - Paper: [Behavior Research Methods](https://rdcu.be/cMzFP)
-
-## Contact / questions
-isabelle.vandervegt [at] ucl [dot] ac [dot] uk
 
 ## Papers/pre-prints using the dictionary
 Please email me if you would like your paper to be added to this list.
@@ -21,3 +15,5 @@ Please email me if you would like your paper to be added to this list.
 - Habib, H., Srinivasan, P., & Nithyanand, R. (2022). Making a Radical Misogynist: How online social engagement with the Manosphere influences traits of radicalization. [arXiv preprint](https://arxiv.org/abs/2202.08805).
 - Lanning, K., Wetherell, G., Warfel, E. A., & Boyd, R. L. (2021). Changing channels? A comparison of Fox and MSNBC in 2012, 2016, and 2020. [Analyses of Social Issues and Public Policy.](https://spssi.onlinelibrary.wiley.com/doi/10.1111/asap.12265) 
 
+## Contact / questions
+isabelle.vandervegt [at] ucl [dot] ac [dot] uk
