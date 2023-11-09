@@ -12,6 +12,7 @@ _Before using the Grievance Dictionary, please read our **[paper](https://rdcu.b
 
 ## Papers/pre-prints using the dictionary
 Please email me if you would like your paper to be added to this list.
+- Chen, B., Lukito, J., & Koo, G. H. (2023). Comparing the #StopTheSteal Movement across Multiple Platforms: Differentiating Discourse on Facebook, Twitter, and Parler. [Social Media + Society, 9(3).](https://journals.sagepub.com/doi/pdf/10.1177/20563051231196879) 
 - Klonek, F. E., Gerpott, F. H., & Handke, L. (2022). When Groups of Different Sizes Collide: Effects of Targeted Verbal Aggression on Intragroup Functioning. [Group & Organization Management](https://journals.sagepub.com/doi/full/10.1177/10596011221134426).
 - Allchorn, W., Dafnos, A., & Gentile, F. (2022). The Role of Violent Conspiratorial Narratives in Violent and Non‑Violent Extreme Right Manifestos Online, 2015‑2020. [Global Research Network on Terrorism and Technology (GNET)](https://gnet-research.org/2022/03/22/the-role-of-violent-conspiratorial-narratives-in-violent-and-non%E2%80%90violent-extreme-right-manifestos-online-2015%E2%80%902020/).
 - Habib, H., Srinivasan, P., & Nithyanand, R. (2022). Making a Radical Misogynist: How online social engagement with the Manosphere influences traits of radicalization. [arXiv preprint](https://arxiv.org/abs/2202.08805).
