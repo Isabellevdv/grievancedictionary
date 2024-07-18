@@ -12,6 +12,10 @@ _Before using the Grievance Dictionary, please read our **[paper](https://rdcu.b
 
 ## Papers/pre-prints using the dictionary
 Please email me if you would like your paper to be added to this list.
+- Frenguelli, N. (2024). The construction of masculinity in far-right attacker manifestos in the west: the reification of hegemonic masculinity and the use of ‘the child’ to mobilise others. [Critical Studies on Terrorism](https://doi.org/10.1080/17539153.2024.2360276), 1–24. [Uses dataset only]
+- Smart, E. (2024). Ruling in the Shadows: Analysis of the Supreme Court’s Use of the ‘Shadow Docket’and its Effects. [Doctoral dissertation.](https://uknowledge.uky.edu/polysci_etds/51/)
+- Ai, L., Chen, Y. W., Yu, Y., Kweon, S., Hirschberg, J., & Levitan, S. I. (2024). What Makes A Video Radicalizing? Identifying Sources of Influence in QAnon Videos. [Pre-print](https://arxiv.org/abs/2404.14616).
+- Wadham, B., Connor, J., Toole, K., & Thomas, E. (2023). Mapping Service and transition to Self Harm and Suicidaility. [Royal Commission into Defence and Veteran Suicide](https://researchnow.flinders.edu.au/en/publications/mapping-service-and-transition-to-self-harm-and-suicidaility).
 - Chen, B., Lukito, J., & Koo, G. H. (2023). Comparing the #StopTheSteal Movement across Multiple Platforms: Differentiating Discourse on Facebook, Twitter, and Parler. [Social Media + Society, 9(3).](https://journals.sagepub.com/doi/pdf/10.1177/20563051231196879) 
 - Klonek, F. E., Gerpott, F. H., & Handke, L. (2022). When Groups of Different Sizes Collide: Effects of Targeted Verbal Aggression on Intragroup Functioning. [Group & Organization Management](https://journals.sagepub.com/doi/full/10.1177/10596011221134426).
 - Allchorn, W., Dafnos, A., & Gentile, F. (2022). The Role of Violent Conspiratorial Narratives in Violent and Non‑Violent Extreme Right Manifestos Online, 2015‑2020. [Global Research Network on Terrorism and Technology (GNET)](https://gnet-research.org/2022/03/22/the-role-of-violent-conspiratorial-narratives-in-violent-and-non%E2%80%90violent-extreme-right-manifestos-online-2015%E2%80%902020/).
