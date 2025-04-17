@@ -18,6 +18,10 @@ Before using the Grievance Dictionary, please refer to the associated [paper](ht
 - qdictionary_5plus.Rdata: quanteda dictionary object for use in R containing all words which received a mean goodness-of-fit score of 5 or higher.
 - weighted_dictionary.csv: csv dictionary which contains all words with average ratings, with no restrictions on goodness-of-fit score.
 
+### NEW Translations of the dictionary 
+- nl_dict, it_dict, de_dict.Rdata: Dutch, Italian and German translations as quanteda dictionary objects for use in R (all goodness-of-fit 7+)
+- nl_dict, it_dict, de_dict.csv: Dutch, Italian and German translations as .csv files (all goodness-of-fit 7+)
+
 ## Reference
 When using the materials provided in this repository for research purposes, please cite:
 ```
