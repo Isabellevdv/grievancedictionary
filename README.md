@@ -14,6 +14,8 @@ Before using the Grievance Dictionary, please refer to the associated [paper](ht
 ### Dictionary files
 - dictionary_7plus.csv: csv version of the dictionary used in our paper, contains all words which received a mean goodness-of-fit score of 7 or higher.
 - dictionary_5plus.csv: csv dictionary containing all words which received a mean goodness-of-fit score of 5 or higher.
+- qdictionary_7plus.Rdata: quanteda dictionary object for use in R containing all words which received a mean goodness-of-fit score of 7 or higher.
+- qdictionary_5plus.Rdata: quanteda dictionary object for use in R containing all words which received a mean goodness-of-fit score of 5 or higher.
 - weighted_dictionary.csv: csv dictionary which contains all words with average ratings, with no restrictions on goodness-of-fit score.
 
 ## Reference
