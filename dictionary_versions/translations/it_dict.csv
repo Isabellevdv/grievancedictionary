@@ -1,0 +1,4172 @@
+;category;word;orig_eng_rating
+1;deadline;comp;9.03194444444444
+2;deadline;Azion;7.6
+3;deadline;mir;7.11111111111111
+4;deadline;ansi;8.34444444444444
+5;deadline;ansios;7.4
+6;deadline;si avvicin;7.06666666666667
+7;deadline;in avvicin;9.20833333333333
+8;deadline;prepar;8.05787037037037
+9;deadline;articol;7.77777777777778
+10;deadline;assegn;7.22222222222222
+11;deadline;incaric;8.38888888888889
+12;deadline;Comp;8.1
+13;deadline;massacr;7.66666666666667
+14;deadline;Prim;7.1
+15;deadline;cap;8
+16;deadline;confin;8.1
+17;deadline;attiv commercial;8.84615384615385
+18;deadline;calendar;8.93636363636363
+19;deadline;orolog;7.90909090909091
+20;deadline;ora dell'orolog;8.5
+21;deadline;chiud;8
+22;deadline;chiusur;9.1
+23;deadline;in arriv;7.71428571428571
+24;deadline;impegn;7.4923076923077
+25;deadline;complet;8.67234848484848
+26;deadline;concentr;8.5
+27;deadline;Conclud;7.83333333333333
+28;deadline;conclusion;8.33333333333333
+29;deadline;conferent;7.55555555555556
+30;deadline;Dat;8.09090909090909
+31;deadline;Contrassegn dell dat;7.27272727272727
+32;deadline;dat;8.4
+33;deadline;giorn del mes;7.71428571428571
+34;deadline;decision;8.66666666666667
+35;deadline;domand;7.71428571428571
+36;deadline;richiest;9.25
+37;deadline;Domand;8.44444444444444
+38;deadline;dissert;8.44444444444444
+39;deadline;Funzion;9.5
+40;deadline;document;7.85
+41;deadline;fatt;7.63636363636364
+42;deadline;dov;8.28571428571428
+43;deadline;scadenz;10
+44;deadline;dover;7.75
+45;deadline;sforz;8.42857142857143
+46;deadline;occup;7.11111111111111
+47;deadline;fin;8.99758297258297
+48;deadline;obiett final;9.57142857142857
+49;deadline;la fin è in vist;8.28571428571429
+50;deadline;Conclus;7.63636363636364
+51;deadline;imporr;8.375
+52;deadline;Forz;7.55555555555556
+53;deadline;impost;7.59090909090909
+54;deadline;tem;7.18181818181818
+55;deadline;Sagg;7.875
+56;deadline;sagg;7.875
+57;deadline;Tem;7.55555555555556
+58;deadline;esatt;7.55555555555556
+59;deadline;aspett;8.18181818181818
+60;deadline;estend;9.71428571428571
+61;deadline;estension;8.06363636363637
+62;deadline;final;7.55555555555556
+63;deadline;esam final;8.75
+64;deadline;fas final;8.25
+65;deadline;Final;8.45454545454546
+66;deadline;finis;9.2
+67;deadline;Termin;8.6
+68;deadline;finitur;8.95
+69;deadline;Focalizz;9.11111111111111
+70;deadline;mess a fuoc;7.11111111111111
+71;deadline;modul;7.9
+72;deadline;prossim;8
+73;deadline;obbiett;7.60833333333333
+74;deadline;obiett;9.28571428571429
+75;deadline;frett;8.64497354497355
+76;deadline;affrett;8.08333333333334
+77;deadline;comp a cas;9
+78;deadline;imminent;8.58148148148148
+79;deadline;import;9.4
+80;deadline;insistent;7.375
+81;deadline;lavor;8.75
+82;deadline;ultim;7
+83;deadline;tard;7.375
+84;deadline;lim;8.87777777777778
+85;deadline;punt lim;7.63636363636364
+86;deadline;limit;7.33333333333333
+87;deadline;incomb;7.80555555555556
+88;deadline;incombent;9.4
+89;deadline;Far;8
+90;deadline;gest;7.4
+91;deadline;gestion;8.44444444444444
+92;deadline;gestor;7.85714285714285
+93;deadline;dat di scadenz;8.14285714285714
+94;deadline;riunion;8.16666666666667
+95;deadline;mission milit;7.25
+96;deadline;Pers;7.25
+97;deadline;manc;7
+98;deadline;mission;8.18181818181818
+99;deadline;motiv;7.77777777777778
+100;deadline;nerv;7
+101;deadline;nervos;8.125
+102;deadline;giornal;8.19285714285714
+103;deadline;editor di giornal;8.54545454545454
+104;deadline;obblig;8.42857142857143
+105;deadline;Oltre;7.88888888888889
+106;deadline;in ritard;7.44444444444444
+107;deadline;Document;7.55555555555556
+108;deadline;Dat specif;9.90909090909091
+109;deadline;pag;8.3
+110;deadline;manufatt;9.33333333333333
+111;deadline;Pian;7.14285714285714
+112;deadline;pianif;7.75
+113;deadline;pian;9.27272727272727
+114;deadline;urgent;7.8
+115;deadline;pression;9.12698412698413
+116;deadline;livell di pression;9.375
+117;deadline;sensazion di pression;7.6
+118;deadline;stamp;7.2
+119;deadline;Procrastin;8.66666666666667
+120;deadline;progress;7.14285714285714
+121;deadline;progett;8.41919191919192
+122;deadline;pubblic;7.51515151515151
+123;deadline;Veloc;7.2
+124;deadline;rapid;7.6
+125;deadline;raggiung;7.44444444444444
+126;deadline;rapport;8.2
+127;deadline;richied;9.44444444444444
+128;deadline;Requis;8.75
+129;deadline;respons;8.75
+130;deadline;rigid;8
+131;deadline;regol;8
+132;deadline;Affrett;8.1
+133;deadline;orar;8
+134;deadline;giorn di scuol;7.75
+135;deadline;scolarizz;7.125
+136;deadline;mand via;8.44444444444444
+137;deadline;Calpest;7.25
+138;deadline;ferm;8
+139;deadline;punt di sost;8.22222222222222
+140;deadline;più sever;7.72727272727273
+141;deadline;alunn;7.375
+142;deadline;Student;7.57142857142857
+143;deadline;supervisor;8.28333333333333
+144;deadline;tardiv;7.33333333333333
+145;deadline;Bersagl;8.11111111111111
+146;deadline;lavor di squadr;7.2
+147;deadline;punt terminal;7.54545454545455
+148;deadline;terminus ad quem;8.8
+149;deadline;volt;7.5
+150;deadline;Temp;7.41666666666667
+151;deadline;richied temp;7.41666666666667
+152;deadline;lim di temp;9.77777777777778
+153;deadline;gestion del temp;9.63636363636364
+154;deadline;Frett;9.58333333333333
+155;deadline;in scadenz;9.5
+156;deadline;impres;7.11111111111111
+157;deadline;univers;8.66666666666667
+158;deadline;fin a;8.28571428571429
+159;deadline;ben organizz;7.375
+160;deadline;oper;8
+161;deadline;Lavor;8.55113636363637
+162;deadline;lavor su;9.375
+163;deadline;lavor per;7.33333333333333
+164;deadline;post di lavor;9.44444444444444
+165;desperation;agit;7.63636363636364
+166;desperation;agon;8.88888888888889
+167;desperation;allarm;7.22727272727272
+168;desperation;alcol;7.46666666666667
+169;desperation;solitudin;7.27222222222222
+170;desperation;Rabb;8.85714285714286
+171;desperation;angosc;8.7962962962963
+172;desperation;ansi;7.76388888888889
+173;desperation;ansios;7.6
+174;desperation;set;7
+175;desperation;terribil;8.1875
+176;desperation;catt;7.36363636363636
+177;desperation;elemosin;9
+178;desperation;Mendic;7.5
+179;desperation;supplic;8.85037878787879
+180;desperation;Elemosin;8.8
+181;desperation;mendic;8.8
+182;desperation;rott;7.7
+183;desperation;Al verd;7.5
+184;desperation;opportun;7.5
+185;desperation;caos;7.84615384615385
+186;desperation;Grid;8.14285714285714
+187;desperation;piang;8.61388888888889
+188;desperation;piant;8.875
+189;desperation;imprec;7
+190;desperation;privazion;7.77777777777778
+191;desperation;Depriv;7.36363636363636
+192;desperation;desider;8
+193;desperation;disper;9.42638888888889
+194;desperation;disperat;9
+195;desperation;indigent;8.85714285714286
+196;desperation;Pover;8.66666666666667
+197;desperation;difficolt;8.66666666666667
+198;desperation;Grav;7.36363636363636
+199;desperation;disag;7.36363636363636
+200;desperation;sgoment;7.63636363636364
+201;desperation;sconvolt;7.5
+202;desperation;Vit o mort;7.55555555555556
+203;desperation;condann;7.375
+204;desperation;Destin;7.72727272727273
+205;desperation;emergent;7.72727272727273
+206;desperation;emozion;8.25
+207;desperation;emot;7.77777777777778
+208;desperation;vuot;7.6
+209;desperation;fin;8.25
+210;desperation;esasper;7.22222222222222
+211;desperation;esaur;7
+212;desperation;fall;7.5
+213;desperation;carest;7
+214;desperation;paur;8.03571428571428
+215;desperation;stuf;7.1
+216;desperation;Sent;8.57142857142857
+217;desperation;sent;8
+218;desperation;fas final;7.92307692307692
+219;desperation;frenet;9.36363636363636
+220;desperation;frustr;8.375
+221;desperation;frustrazion;8.36363636363636
+222;desperation;uscir;7
+223;desperation;abbandon;7.5
+224;desperation;arrend;8.5
+225;desperation;tristezz;7.72569444444444
+226;desperation;grand Depression;7.55555555555556
+227;desperation;temp dur;9.33333333333333
+228;desperation;dann;7.66666666666667
+229;desperation;frett;7.6
+230;desperation;mal di cuor;7.3
+231;desperation;aiut;8.66666666666667
+232;desperation;impotent;8.35416666666666
+233;desperation;senzatett;8
+234;desperation;senz speranz;7.59090909090909
+235;desperation;irrimediabil;8.11111111111111
+236;desperation;umil;7.5
+237;desperation;fam;8
+238;desperation;Far mal;8
+239;desperation;fer;7.42857142857143
+240;desperation;impazient;8.14285714285714
+241;desperation;isol;7.27272727272727
+242;desperation;ultim possibil;8.44444444444444
+243;desperation;ultim scelt;8.66666666666667
+244;desperation;ultim speranz;9.18181818181818
+245;desperation;ultim risors;9.84615384615385
+246;desperation;infrang la legg;7.5
+247;desperation;illegal;7.44444444444444
+248;desperation;Sol;8.44444444444444
+249;desperation;perd;7
+250;desperation;pers;7.77777777777778
+251;desperation;bass;7.3
+252;desperation;miser;7.27272727272727
+253;desperation;Confus;8.33333333333333
+254;desperation;sold;7
+255;desperation;depression natural;7.25
+256;desperation;bisogn;8.64166666666667
+257;desperation;necessar;8.41666666666667
+258;desperation;più bisogn;7.54545454545455
+259;desperation;necess;7.33333333333333
+260;desperation;nervos;7.88888888888889
+261;desperation;nessun via d'usc;8.46825396825396
+262;desperation;calvar;7
+263;desperation;protest;8.90909090909091
+264;desperation;reazion eccess;7
+265;desperation;dolor;7
+266;desperation;panic;8
+267;desperation;pres dal panic;8.1
+268;desperation;pauper;8
+269;desperation;per favor;8.42857142857143
+270;desperation;pover;7.85714285714286
+271;desperation;pression;7.66666666666667
+272;desperation;problem;8.40972222222222
+273;desperation;psichiatr;7.1
+274;desperation;decision avvent;7.22222222222222
+275;desperation;spericol;8.3
+276;desperation;incoscienz;7.11111111111111
+277;desperation;incoscient;7.11111111111111
+278;desperation;Spericolatezz;7.25
+279;desperation;risc;7.25
+280;desperation;trist;7.8
+281;desperation;impaur;8.875
+282;desperation;Distorc;7.5
+283;desperation;grid;8
+284;desperation;urland;7.72222222222222
+285;desperation;brillant;7
+286;desperation;mor di fam;8.42857142857143
+287;desperation;affam;7.27272727272727
+288;desperation;incagl;9
+289;desperation;fatic;8.13333333333333
+290;desperation;Stress;9
+291;desperation;lott;8.96296296296296
+292;desperation;soffr;7.66666666666667
+293;desperation;sofferent;8.63636363636364
+294;desperation;soffoc;7.1
+295;desperation;res;7.44444444444444
+296;desperation;sopravvivent;7.36363636363636
+297;desperation;sopravviv;8.11111111111111
+298;desperation;lacrim;7.90909090909091
+299;desperation;terrorizz;8.26666666666667
+300;desperation;minacc;7.37142857142857
+301;desperation;gett la spugn;8.88888888888889
+302;desperation;stanc di;7
+303;desperation;torment;7.92424242424242
+304;desperation;Lacer;7
+305;desperation;tragic;7.11111111111111
+306;desperation;prov di tutt;9.28571428571429
+307;desperation;gua;7.63636363636364
+308;desperation;Problem;7
+309;desperation;Tentat;7
+310;desperation;Prov;9
+311;desperation;prov qualsias cos;9
+312;desperation;Moment difficil;8
+313;desperation;Temp difficil;7.75
+314;desperation;infel;7.75
+315;desperation;urgent;8.77272727272727
+316;desperation;vulner;7.2
+317;desperation;ricerc;8.5
+318;desperation;Vol;7.63636363636364
+319;desperation;via d'usc;7
+320;desperation;Piang;7.45454545454545
+321;desperation;Desider;8.2
+322;desperation;preoccup;8.9
+323;desperation;urlo;7.63636363636364
+324;fixation;onnicomprens;8.625
+325;fixation;ansi;7
+326;fixation;assidu;9
+327;fixation;Attenzion;7.41666666666667
+328;fixation;assill;7.85714285714286
+329;fixation;comport;8.77777777777778
+330;fixation;centr;7.6
+331;fixation;centr dell'attenzion;7.63636363636364
+332;fixation;incentr;9
+333;fixation;costrizion;9.125
+334;fixation;compuls;7
+335;fixation;concentr;8.1625
+336;fixation;concentr su;9.61111111111111
+337;fixation;consum;7.96590909090909
+338;fixation;controll;7.72727272727273
+339;fixation;foll;8.11111111111111
+340;fixation;Pazz;7.875
+341;fixation;raccapricc;7.875
+342;fixation;delir;7
+343;fixation;Delusion;8.09090909090909
+344;fixation;Delir;8
+345;fixation;desider;7.65
+346;fixation;guid;8
+347;fixation;assorb;8.5
+348;fixation;incantevol;7.25
+349;fixation;fanat;8.01666666666667
+350;fixation;affascin;8.2
+351;fixation;sent;7.36363636363636
+352;fixation;fiss;8.19344729344729
+353;fixation;fissazion;9.85714285714286
+354;fixation;punt focal;7.7
+355;fixation;Punt di rifer;8.66666666666667
+356;fixation;mess a fuoc;9.08333333333334
+357;fixation;focalizz;9.3625
+358;fixation;si concentr;7
+359;fixation;sguard;8.88888888888889
+360;fixation;guard;7.11111111111111
+361;fixation;group;7.3
+362;fixation;abitudin;7.11111111111111
+363;fixation;molest;7.93434343434344
+364;fixation;pres;7.625
+365;fixation;infatu;9.47777777777778
+366;fixation;gelos;7.77777777777778
+367;fixation;ten d'occ;7.63636363636364
+368;fixation;amant;7.44444444444444
+369;fixation;lussur;7.75
+370;fixation;narcisist;7.28571428571429
+371;fixation;osserv;7.33333333333333
+372;fixation;ossession;9.58222222222222
+373;fixation;ossess;9.26785714285715
+374;fixation;ossess compuls;9.9
+375;fixation;ocd;9.44444444444444
+376;fixation;Travolgent;7.71428571428571
+377;fixation;Schiacciant;8.42857142857143
+378;fixation;paranoi;8.42857142857143
+379;fixation;passion;8.44444444444444
+380;fixation;possed;7.8
+381;fixation;preoccup;8.2375
+382;fixation;insegu;8.16666666666667
+383;fixation;persegu;7
+384;fixation;mental rigid;7.22222222222222
+385;fixation;sociopat;7.2
+386;fixation;Pedin;8.375
+387;fixation;pedin;7.27272727272727
+388;fixation;stalking;8.9
+389;fixation;Segu;8.72727272727273
+390;fixation;stupefatt;9
+391;fixation;pens;7.5
+392;fixation;pensier;8.6625
+393;fixation;senz batt cigl;9
+394;fixation;infless;7
+395;fixation;tes;8
+396;fixation;vol;8.375
+397;fixation;Guard;8
+398;fixation;sorvegl;7.71428571428571
+399;frustration;aggression;7.9625
+400;frustration;Aggred;9.11111111111111
+401;frustration;agit;8.25
+402;frustration;Rabb;8
+403;frustration;arrabb;9.5
+404;frustration;rabb;9
+405;frustration;angosc;7.57323232323232
+406;frustration;fastid;8.63099747474747
+407;frustration;infastid;9.03472222222222
+408;frustration;ansi;8.01136363636364
+409;frustration;attacc;7
+410;frustration;fall;7.53280423280423
+411;frustration;lament;7.63636363636364
+412;frustration;smarr;7.25
+413;frustration;colp;7.4
+414;frustration;incolp;8
+415;frustration;Reprim;7.15384615384615
+416;frustration;costru;7.08333333333333
+417;frustration;butt la spugn;7
+418;frustration;Avant;8
+419;frustration;reclam;7.55555555555556
+420;frustration;confus;7.41666666666667
+421;frustration;costern;7.2
+422;frustration;grid;8.2
+423;frustration;cris;7.625
+424;frustration;piant;8
+425;frustration;dannazion;7.89393939393939
+426;frustration;sconfitt;7.58333333333333
+427;frustration;neg;7
+428;frustration;disper;9.4
+429;frustration;difficil;7.76923076923077
+430;frustration;delus;8.84615384615385
+431;frustration;delusion;7.875
+432;frustration;disag;7.22222222222222
+433;frustration;sconcert;7.625
+434;frustration;malcontent;8.33333333333333
+435;frustration;scontent;7.98055555555555
+436;frustration;disincant;7.25
+437;frustration;dispiac;8.42857142857143
+438;frustration;sconvolt;7.63636363636364
+439;frustration;amaregg;7.2
+440;frustration;emozion;7.69230769230769
+441;frustration;fin del legam;7.28571428571429
+442;frustration;invid;7.11111111111111
+443;frustration;escalation;7.44444444444444
+444;frustration;esasper;8.93650793650793
+445;frustration;esplod;7.45454545454545
+446;frustration;sensazion;8.28571428571429
+447;frustration;sent;8
+448;frustration;frustr;10
+449;frustration;frustrazion;10
+450;frustration;furios;8.75
+451;frustration;furor;7.16666666666667
+452;frustration;fur;7.23076923076923
+453;frustration;abbandon;7.81818181818182
+454;frustration;tristezz;7.76785714285715
+455;frustration;rimostr;8.72727272727273
+456;frustration;impotent;8.10774410774411
+457;frustration;tratten;7.33333333333333
+458;frustration;senz speranz;8.48611111111111
+459;frustration;fer;7.71428571428571
+460;frustration;impazient;8.84126984126984
+461;frustration;infur;7.57142857142857
+462;frustration;insemin;7
+463;frustration;irat;8.38461538461539
+464;frustration;ira;8.6
+465;frustration;irrit;8.63492063492064
+466;frustration;Parol fin;7.66666666666667
+467;frustration;scaten;9.57142857142857
+468;frustration;perd la speranz;8.25
+469;frustration;Secc;7.4
+470;frustration;umor;7.25
+471;frustration;negat;8.61111111111111
+472;frustration;Caric negat;7
+473;frustration;negativ;7.625
+474;frustration;non avvi;7
+475;frustration;esplosion;8.66666666666667
+476;frustration;dolor;8.05681818181818
+477;frustration;rompiscatol;8.77777777777778
+478;frustration;Spin nel fianc;8.22222222222222
+479;frustration;sensazion di dolor;7.11111111111111
+480;frustration;perturb;7
+481;frustration;meschin;7
+482;frustration;incazz;9.16161616161616
+483;frustration;problem;8.90178571428572
+484;frustration;ross in vis;7.2
+485;frustration;rimpiang;7.14285714285714
+486;frustration;risent di;7.33333333333333
+487;frustration;risent;7.22222222222222
+488;frustration;dimett;7.875
+489;frustration;irrequietezz;7.55555555555556
+490;frustration;Agit;8.83333333333333
+491;frustration;Travolt;8.28571428571429
+492;frustration;Colp;8.28571428571429
+493;frustration;ved ross;8.9
+494;frustration;tremor;7.125
+495;frustration;tremant;7.63636363636364
+496;frustration;sciocc;7.2
+497;frustration;micc cort;9.54545454545454
+498;frustration;spigliatezz;9
+499;frustration;stall;8.375
+500;frustration;sforz;7.44444444444444
+501;frustration;fatic;9.4
+502;frustration;stress;8.75
+503;frustration;stressant;8.8
+504;frustration;sofferent;7.66666666666667
+505;frustration;sopprim;7.125
+506;frustration;swag;7
+507;frustration;capricc;9.26767676767676
+508;frustration;lacrim;8.66666666666667
+509;frustration;Caratt;8
+510;frustration;temper;8.38888888888889
+511;frustration;tes;8.8
+512;frustration;irrigid;8
+513;frustration;tension;8.0875
+514;frustration;gett la spugn;9
+515;frustration;Rovesc;7
+516;frustration;Problem;7.3
+517;frustration;ingiust;8.2
+518;frustration;ingiustiz;7
+519;frustration;infel;8.625
+520;frustration;insoddisfatt;8.2
+521;frustration;rilutt;7.3
+522;frustration;rovesc;9
+523;frustration;sconvolgent;8.66666666666667
+524;frustration;Vessazion;7.85714285714286
+525;frustration;Vess;9
+526;frustration;violent;7.25
+527;frustration;andarsen;8.85714285714286
+528;frustration;allontan;7.81818181818182
+529;god;rispett;7.41818181818182
+530;god;al-Quran;8.42857142857143
+531;god;onnipotent;8.51934523809524
+532;god;Allah;9.66666666666667
+533;god;antic;7.625
+534;god;angel;8.88095238095238
+535;god;anglic;8
+536;god;apocaliss;8.25
+537;god;apostol;8.375
+538;god;arcivescov;7.75
+539;god;armageddon;7.5
+540;god;battist;7.85714285714286
+541;god;credenz;9.58333333333334
+542;god;riten;8.18181818181818
+543;god;credent;9.85714285714286
+544;god;Bibb;9.81818181818182
+545;god;biblic;9.88888888888889
+546;god;bened;9.1
+547;god;benedett;8.53846153846154
+548;god;benedizion;8.71022727272727
+549;god;amor fratern;7.45454545454545
+550;god;buddism;8.66666666666667
+551;god;Cattedral;9.72727272727273
+552;god;cattol;8.94805194805194
+553;god;cattolicesim;9.25
+554;god;cappell;8.46969696969697
+555;god;caritatevol;7.11111111111111
+556;god;Crist;9.75
+557;god;cristian;9.24431818181818
+558;god;crist;9.875
+559;god;bibb cristian;9.3
+560;god;Chies cristian;9.8
+561;god;religion cristian;9.25
+562;god;cristianesim;9.6
+563;god;Chies;10
+564;god;costruzion dell chies;9.55555555555556
+565;god;Mess;9.4
+566;god;chies;9.33333333333333
+567;god;ecclesiast;8.28055555555556
+568;god;clemenz;7.5
+569;god;cler;9.5
+570;god;chieric;7.9
+571;god;compassion;8.6
+572;god;congreg;8.22222222222222
+573;god;congregazional;8.4
+574;god;consacr;7.66666666666667
+575;god;Consulent;7.11111111111111
+576;god;creazion;8.28571428571429
+577;god;Creator;9.75
+578;god;creator;8.13888888888889
+579;god;Croc;7.63636363636364
+580;god;croc;7.85714285714286
+581;god;Coron di spin;9.5
+582;god;crocifiss;8.33333333333333
+583;god;crocifission;7.72727272727273
+584;god;dedizion;8.125
+585;god;divin;9.45722222222222
+586;god;devozion;9
+587;god;dioces;7.25
+588;god;dottrin;7.22222222222222
+589;god;forz trainant;7.6
+590;god;Eden;8.66666666666667
+591;god;elis;8
+592;god;entit;8.5952380952381
+593;god;etern;8.875
+594;god;etic;7.36666666666667
+595;god;codic etic;8
+596;god;evangel;9.14285714285714
+597;god;estrem;7.77777777777778
+598;god;favol;7.5
+599;god;fed;9.625
+600;god;fedel;8.625
+601;god;padr;9.44444444444444
+602;god;Segu;7.625
+603;god;seguac;7.57142857142857
+604;god;forz;7.38461538461539
+605;god;perd;9.75
+606;god;Gabriel;7.27272727272727
+607;god;ganesh;10
+608;god;Dio;10
+609;god;Dio onnipotent;8.7
+610;god;il vol di Dio;9.1
+611;god;dea;9.54545454545454
+612;god;dee;9.33333333333333
+613;god;empiet;7.22222222222222
+614;god;di Dio;10
+615;god;buon Pastor;7.14285714285714
+616;god;bont;7.33333333333333
+617;god;Graz;9.33333333333333
+618;god;grand pot;9.71428571428571
+619;god;più grand;7.125
+620;god;Ade;8.6
+621;god;felic;9.2
+622;god;Paradis;9.06666666666667
+623;god;celest;8.8
+624;god;ciel;9.25
+625;god;infern;7.18181818181818
+626;god;ercule;7.88888888888889
+627;god;esser superior;9.90909090909091
+628;god;induism;7
+629;god;sant;9.15277777777778
+630;god;libr sacr;10
+631;god;sant'uom;9.45454545454546
+632;god;person sant;9.77777777777778
+633;god;luog sacr;8.9
+634;god;sacr scrittur;9.77777777777778
+635;god;parol sant;8.4
+636;god;scrittur sacr;8.375
+637;god;ideolog;8.75396825396825
+638;god;idolatr;7.1984126984127
+639;god;imam;8
+640;god;immortal;8.51298701298701
+641;god;invinc;7.15384615384615
+642;god;invis;9.34659090909091
+643;god;islam;7.875
+644;god;Geov;8.81818181818182
+645;god;Gesù;9.88888888888889
+646;god;Gesù Crist;9.6
+647;god;Gesù di nazareth;9.75
+648;god;ebre;7.3
+649;god;ebraism;8.38461538461539
+650;god;Cor;8.22222222222222
+651;god;signor;9.33333333333333
+652;god;amor;7.90909090909091
+653;god;amorevolezz;8.27272727272727
+654;god;lealt;7.33333333333333
+655;god;potenz maggior;9.22222222222222
+656;god;masjid;10
+657;god;mass;7.46753246753246
+658;god;misericord;7.13333333333333
+659;god;potenz;9.34848484848484
+660;god;potent;9.24107142857143
+661;god;consapevolezz;8.57142857142857
+662;god;lavor missionar;8.22222222222222
+663;god;monaster;9.5
+664;god;moral;7.67692307692307
+665;god;princip moral;7.90909090909091
+666;god;musulm;8.84285714285715
+667;god;mosche;8.625
+668;god;Maomett;9.125
+669;god;mit;8.02083333333334
+670;god;mitolog;8.45454545454546
+671;god;inesistent;7.25
+672;god;oracol;7.75
+673;god;religion organizz;9.55555555555556
+674;god;pacif;7.44444444444444
+675;god;Padr;9.66666666666667
+676;god;panteism;7.875
+677;god;parrocc;8.66666666666667
+678;god;passion;8.33333333333333
+679;god;pastor;8.79545454545454
+680;god;pac;7.44444444444444
+681;god;pac dell ment;7
+682;god;tranquill;8.22222222222222
+683;god;far;8
+684;god;sistem filosof;7.6
+685;god;filosof;9
+686;god;pellegrinagg;8.4
+687;god;polit;9
+688;god;energ;9
+689;god;poter;7.4
+690;god;preg;9.4243512043512
+691;god;preghier;9.9
+692;god;predic;8.1762099012099
+693;god;sacerdot;9.47474747474747
+694;god;terr promess;8
+695;god;profez;8.6
+696;god;profetizz;7.74305555555556
+697;god;profet;8.74090909090909
+698;god;protest;7.8
+699;god;protestantesim;7.9
+700;god;scop;7.3
+701;god;qaed;10
+702;god;cor;9
+703;god;rabbin;10
+704;god;rap;7.71428571428571
+705;god;regn;7.71428571428571
+706;god;Mot;7
+707;god;rettor;8
+708;god;religion;9.875
+709;god;relig;9.75
+710;god;cred relig;9.45454545454546
+711;god;risurrezion;8.85714285714286
+712;god;riverent;7.77777777777778
+713;god;rit;7.57142857142857
+714;god;ritual;8.95
+715;god;Sovr;7.71428571428571
+716;god;regol;8.71428571428571
+717;god;sacr;9.28571428571429
+718;god;santific;7.8
+719;god;salvator;9.57142857142857
+720;god;sermon;9.30555555555556
+721;god;shiv;9.33333333333333
+722;god;pecc;8.29840067340067
+723;god;peccaminos;7.375
+724;god;societ;7.33333333333333
+725;god;anim;7.66666666666667
+726;god;spir;9.11111111111111
+727;god;spiritual;9.44444444444445
+728;god;soprannatural;7.875
+729;god;superpotent;8.14285714285714
+730;god;sorvegl;8
+731;god;sinagog;8.67857142857143
+732;god;talmud;8.33333333333333
+733;god;temp;9
+734;god;templ;9.375
+735;god;test;9.41666666666667
+736;god;il nazaren;8.875
+737;god;teism;8.33333333333333
+738;god;teist;9.14285714285714
+739;god;teolog;9.22222222222222
+740;god;tron;7.45454545454545
+741;god;Torah;8.14285714285714
+742;god;tradizion;8.85714285714286
+743;god;fiduc;7.98346560846561
+744;god;univ;7.54545454545455
+745;god;vaticin;8.66666666666667
+746;god;vener;8
+747;god;vicar;8.33333333333334
+748;god;vishnu;9.18181818181818
+749;god;Protegg;7
+750;god;meravigl;7.85714285714286
+751;god;parol di Dio;9.27272727272727
+752;god;mond;7.375
+753;god;cult;9.66666666666667
+754;god;ador;9.3949494949495
+755;god;Zeus;10
+756;grievance;offes;7.7125
+757;grievance;agon;7.3
+758;grievance;Ariegg;9
+759;grievance;accus;7.6
+760;grievance;Rabb;8.54545454545454
+761;grievance;angosc;7.96558441558442
+762;grievance;infastid;7.77777777777778
+763;grievance;scus;7.16666666666667
+764;grievance;assalt;7.375
+765;grievance;attacc;7.33333333333333
+766;grievance;Person in lutt;7.14285714285714
+767;grievance;lament;9.375
+768;grievance;rimostr;8.9
+769;grievance;contest;8.66666666666667
+770;grievance;denunc;7
+771;grievance;dann;7
+772;grievance;Mort;8
+773;grievance;disper;7.57142857142857
+774;grievance;different;7.44444444444444
+775;grievance;difficil;8.88888888888889
+776;grievance;delus;8.25
+777;grievance;scontent;8.46296296296296
+778;grievance;discrimin;8.28571428571429
+779;grievance;discriminator;7.09090909090909
+780;grievance;costern;7
+781;grievance;insoddisf;8.45454545454546
+782;grievance;disturb;8.45454545454546
+783;grievance;trist;7.625
+784;grievance;amaregg;8.08333333333333
+785;grievance;sent;7.44444444444444
+786;grievance;fragil;7.11111111111111
+787;grievance;frustr;8.125
+788;grievance;frustrazion;8.1
+789;grievance;dolor;9.25
+790;grievance;straziant;7
+791;grievance;orribil;7.88888888888889
+792;grievance;offend;9.22222222222222
+793;grievance;Fer;8.33333333333333
+794;grievance;fer;7.85416666666667
+795;grievance;Far mal;8.77777777777778
+796;grievance;inflizion;7
+797;grievance;infrazion;7.33333333333333
+798;grievance;ingiustiz;8.20277777777778
+799;grievance;ira;7.375
+800;grievance;irrit;7.9125
+801;grievance;deplorevol;7.2
+802;grievance;caus legal;8.77777777777778
+803;grievance;Rifug;7.28571428571429
+804;grievance;solitudin;8.375
+805;grievance;perd;7.55555555555556
+806;grievance;lugubriet;9
+807;grievance;Secc;7.125
+808;grievance;maltratt;7.625
+809;grievance;fraintes;7
+810;grievance;person in lutt;7
+811;grievance;lutt;8.1
+812;grievance;omicid;7.375
+813;grievance;negat;8.36363636363636
+814;grievance;oppression;7
+815;grievance;indign;7.625
+816;grievance;addolor;8.09090909090909
+817;grievance;perturb;7.8
+818;grievance;incazz;7.8125
+819;grievance;problem;9.125
+820;grievance;Problem;8.79090909090909
+821;grievance;dispiac;7
+822;grievance;risent;7.54545454545455
+823;grievance;Travolt;7
+824;grievance;Torment;8.25
+825;grievance;tristezz;8.09090909090909
+826;grievance;ser;8.5
+827;grievance;cup;8
+828;grievance;dolent;7.33333333333333
+829;grievance;lott;7.25
+830;grievance;punt;7.36363636363636
+831;grievance;soffr;8.875
+832;grievance;subìt;9.125
+833;grievance;Soffert;9.3
+834;grievance;sofferent;9.3
+835;grievance;suicid;7
+836;grievance;tragic;7.4
+837;grievance;trasgred;7.75
+838;grievance;turb;7.5
+839;grievance;inaccett;7
+840;grievance;ingiust;7.90277777777778
+841;grievance;infel;9
+842;grievance;insoddisfatt;8.44444444444444
+843;grievance;Arrabb;9.1
+844;grievance;sconvolgent;8.14285714285714
+845;grievance;vendett;7.44444444444444
+846;grievance;sfog;7.22222222222222
+847;grievance;vittim;7.36363636363636
+848;grievance;viol;8.5
+849;grievance;gua;7.58333333333333
+850;grievance;preoccup;7.625
+851;grievance;tort;8.25
+852;hate;aborr;9.57142857142857
+853;hate;acre;8.16666666666667
+854;hate;atto di terror;9.375
+855;hate;avversar;8.36363636363636
+856;hate;avvers;7.25
+857;hate;paur;7.0625
+858;hate;contr;8
+859;hate;aggred;7.83333333333333
+860;hate;aggression;9.01010101010101
+861;hate;aggress;9.09090909090909
+862;hate;agit;8.3
+863;hate;Rabb;8.72727272727273
+864;hate;arrabb;9.36363636363637
+865;hate;rabb;9.325
+866;hate;fastid;7.55555555555556
+867;hate;antisemit;8.72727272727273
+868;hate;antisocial;7.3
+869;hate;litig;7.57142857142857
+870;hate;discut;7.61538461538461
+871;hate;arrog;7.90909090909091
+872;hate;assalt;8.44444444444444
+873;hate;attacc;8.56287878787879
+874;hate;terribil;7.09090909090909
+875;hate;catt;8.33333333333334
+876;hate;battagl;7
+877;hate;rancor;7.5
+878;hate;bigott;9.36363636363636
+879;hate;Cattiver;8.125
+880;hate;amar;7.85714285714286
+881;hate;sparg di sangu;7.42857142857143
+882;hate;bombard;8.78472222222222
+883;hate;brutal;8.07380952380952
+884;hate;vittim di bullism;8.11111111111111
+885;hate;Bullizz;8.92307692307692
+886;hate;bull;8.92307692307692
+887;hate;prepotent;7.125
+888;hate;bullism;7.27272727272727
+889;hate;Bullism;8.6
+890;hate;conflitt;8.75
+891;hate;disprezz;8.32407407407407
+892;hate;controvers;7.4
+893;hate;corros;7.55555555555556
+894;hate;corruzion;7.57142857142857
+895;hate;crimin;8.44949494949495
+896;hate;crudel;8.875
+897;hate;crudelt;8.32222222222222
+898;hate;cult;7.6
+899;hate;dannos;8.7
+900;hate;Pericol;7.57142857142857
+901;hate;deplor;8.875
+902;hate;spregevol;7.14285714285714
+903;hate;distrugg;8
+904;hate;distruzion;8.3
+905;hate;detest;9.95
+906;hate;malcontent;8.375
+907;hate;discrimin;8.05952380952381
+908;hate;sfavor;8.6
+909;hate;disgust;8.86111111111111
+910;hate;antipat;9.16666666666666
+911;hate;disson;7.6
+912;hate;angosc;7.45454545454545
+913;hate;diffident;7.58333333333333
+914;hate;disturb;7.5
+915;hate;nemic;8.82545454545455
+916;hate;infur;9
+917;hate;invid;7.38461538461539
+918;hate;Mal;9
+919;hate;Malvag;8.42857142857143
+920;hate;malvag;8.42231842231842
+921;hate;mal;7.53846153846154
+922;hate;esecr;7.44444444444444
+923;hate;estrem;8.775
+924;hate;sensazion;7.90909090909091
+925;hate;sent;9.375
+926;hate;feroc;7.56041666666667
+927;hate;combatt;8.14814814814815
+928;hate;Lott;8
+929;hate;battaglier;7.2
+930;hate;forz;7.22222222222222
+931;hate;spavent;7.25
+932;hate;frustrazion;8.4
+933;hate;furios;8.94444444444445
+934;hate;fur;8.9
+935;hate;furor;7.28571428571429
+936;hate;molest;8.8
+937;hate;dann;7.92307692307692
+938;hate;dur;7
+939;hate;durezz;7.63636363636364
+940;hate;odi;9.82621082621083
+941;hate;crimin d'od;10
+942;hate;volg;10
+943;hate;Plebagl;7.22222222222222
+944;hate;Sacr terror;7.22222222222222
+945;hate;omofob;8.9
+946;hate;orribil;8.3
+947;hate;ostil;8.75
+948;hate;offend;8.46428571428572
+949;hate;Far mal;7.7
+950;hate;fa mal;7.7
+951;hate;ignor;8.375
+952;hate;illog;7.125
+953;hate;incident;7
+954;hate;tratt disum;7.75
+955;hate;ingiustiz;7.63068181818182
+956;hate;insens;7.16666666666667
+957;hate;intimid;7.875
+958;hate;intoller;8.55555555555556
+959;hate;invett;9
+960;hate;ira;9.33333333333333
+961;hate;gelos;8.75
+962;hate;giudiz;7.91111111111111
+963;hate;uccision;7.61111111111111
+964;hate;uccis;7
+965;hate;uccid;7.90909090909091
+966;hate;scaten;8.18181818181818
+967;hate;pazz;8.1
+968;hate;malef;7.5
+969;hate;malevol;7
+970;hate;maliz;9.41666666666667
+971;hate;cattiver;8.79166666666666
+972;hate;minacc;8.15
+973;hate;spietatezz;7.85714285714286
+974;hate;dubb;7.8
+975;hate;misogin;8.44444444444444
+976;hate;omicid;8.21111111111111
+977;hate;narcisist;7.6
+978;hate;negat;9.8
+979;hate;emozion negat;9.75
+980;hate;caric negat;7.1
+981;hate;nemes;9
+982;hate;obliter;7.22222222222222
+983;hate;offes;7.4
+984;hate;oppors;7.16666666666667
+985;hate;oppression;8.2
+986;hate;indign;7.7077922077922
+987;hate;dolor;8.2
+988;hate;passion;8.33333333333333
+989;hate;simpat polit;8.42857142857143
+990;hate;pregiudiz;8.90714285714285
+991;hate;protest;8.25
+992;hate;putrescent;7
+993;hate;mett a mort;7.90909090909091
+994;hate;qaed;7.33333333333333
+995;hate;razzial;8
+996;hate;discrimin razial;10
+997;hate;razzism;9.0054945054945
+998;hate;resping;8.1
+999;hate;Repell;9.11111111111111
+1000;hate;risent;8.90555555555556
+1001;hate;repulsion;9.6
+1002;hate;marcium;7.3
+1003;hate;spiet;7.2
+1004;hate;scandal;7.09090909090909
+1005;hate;graffiant;8.625
+1006;hate;flagell;7.85714285714286
+1007;hate;ved ross;8.5
+1008;hate;segreg;8.7
+1009;hate;autodistrutt;8.66666666666667
+1010;hate;spar;7.42857142857143
+1011;hate;sociopat;8
+1012;hate;dispett;8.61111111111111
+1013;hate;stat di guerr;8.55555555555556
+1014;hate;lott;7.125
+1015;hate;Battagl;8.14285714285714
+1016;hate;sofferent;8.14285714285714
+1017;hate;Soffr;7.2
+1018;hate;scontros;7.2
+1019;hate;schern;7.09090909090909
+1020;hate;terror;8.38125
+1021;hate;atto terrorist;9
+1022;hate;pensier;7.5
+1023;hate;tirann;8.5
+1024;hate;brutt;7.75
+1025;hate;incontroll;7.3
+1026;hate;infel;8.66666666666667
+1027;hate;scardin;7.4
+1028;hate;a different di;7.5
+1029;hate;disordin;8.09090909090909
+1030;hate;veement;9.16666666666667
+1031;hate;velen;7.71428571428571
+1032;hate;vizios;9.27272727272727
+1033;hate;vil;8.27272727272727
+1034;hate;furfant;7.45454545454545
+1035;hate;violenz;10
+1036;hate;violent;8.77777777777778
+1037;hate;vetriol;7.83333333333333
+1038;hate;vituper;7.33333333333333
+1039;hate;guerr;7.91919191919192
+1040;hate;Armi;7.85714285714286
+1041;hate;inutil;7.71428571428571
+1042;hate;coller;9
+1043;hate;miser;7.75
+1044;hate;xenofob;9.66666666666667
+1045;hate;Teppist;8.71428571428571
+1046;help;911;10
+1047;help;incident;8
+1048;help;accompagn;7.5
+1049;help;aiut;9.32678571428571
+1050;help;avvis;8.05555555555556
+1051;help;alle;8.63636363636364
+1052;help;ambul;8.36805555555556
+1053;help;miglior;8.60757575757576
+1054;help;modific;7.14285714285714
+1055;help;Rispond;8.5
+1056;help;Chied;8.90909090909091
+1057;help;chiest;8.09090909090909
+1058;help;chied;8.3125
+1059;help;assist;9.04166666666667
+1060;help;assistent;10
+1061;help;Assist;9.42857142857143
+1062;help;Partecip;9.57142857142857
+1063;help;frequent;7.18181818181818
+1064;help;support;8.93214285714286
+1065;help;backup;9.125
+1066;help;benef;9.72727272727273
+1067;help;sanguin;8.2
+1068;help;Rich;8.66666666666667
+1069;help;chiam;8.4047619047619
+1070;help;chiam per;9
+1071;help;cardiolog;7.88888888888889
+1072;help;cur;9.54545454545454
+1073;help;custod;8.625
+1074;help;premur;9.125
+1075;help;comun;7.15384615384615
+1076;help;serviz alla comun;8.375
+1077;help;cooper;9.58730158730158
+1078;help;piang;8.35930735930736
+1079;help;lott al crimin;8.375
+1080;help;difend;7.33333333333333
+1081;help;disper;7.83333333333333
+1082;help;svantagg;7.75
+1083;help;disastr;7.9
+1084;help;spedizion;7.375
+1085;help;Morent;7.3
+1086;help;aiut econom;7.90909090909091
+1087;help;educ;8.125
+1088;help;sforz;7.16666666666667
+1089;help;emergent;9.66666666666667
+1090;help;fren di emergent;8.18181818181818
+1091;help;Paramed;10
+1092;help;abilit;8
+1093;help;approv;7.42857142857143
+1094;help;chied inform;8.25694444444444
+1095;help;garant;7.22222222222222
+1096;help;evacu;7.6
+1097;help;espert;7.83333333333333
+1098;help;facilit;9.875
+1099;help;facil;8
+1100;help;padr;7
+1101;help;aiut finanziar;8
+1102;help;sostegn finanziar;8.2375
+1103;help;vigil del fuoc;7.40909090909091
+1104;help;pomp;9.27272727272727
+1105;help;amic;8.77777777777778
+1106;help;gli amic;8.66666666666667
+1107;help;finanz;7.44444444444444
+1108;help;gend;7
+1109;help;dar;8.8
+1110;help;Buon;8
+1111;help;bont;9
+1112;help;dolor;7.11111111111111
+1113;help;assistent telefon;9.55555555555556
+1114;help;ten apert;7.71428571428571
+1115;help;urlar;7.11111111111111
+1116;help;Holl;8.6
+1117;help;Ospedal;9.625
+1118;help;umanitar;9.11111111111111
+1119;help;uman;8
+1120;help;Ottimizz;8.25
+1121;help;inabil;7.1
+1122;help;person inespert;8.125
+1123;help;innocent;7.25
+1124;help;interag;7.75
+1125;help;inter;8
+1126;help;interven;8.63636363636364
+1127;help;Gentil;8.33333333333333
+1128;help;Sol;8.25
+1129;help;Mayday;8.4
+1130;help;medic;7.79444444444444
+1131;help;necessar;8.25
+1132;help;necess;9
+1133;help;neurolog;7.44444444444444
+1134;help;Bell;8.28571428571429
+1135;help;infermier;8.41666666666667
+1136;help;orfan;7.9
+1137;help;protest;7
+1138;help;oxfam;8.57142857142857
+1139;help;paramed;9.3
+1140;help;genitor;7
+1141;help;mecenat;7.8
+1142;help;pediatr;7.55555555555556
+1143;help;petizion;7.77777777777778
+1144;help;supplic;9.18958333333333
+1145;help;Poliz;7.33333333333333
+1146;help;poliziott;8.31818181818181
+1147;help;impotent;7.14285714285714
+1148;help;progress;7.66666666666667
+1149;help;promuov;7.1
+1150;help;forn;8.55
+1151;help;psichiatr;7.75
+1152;help;psicolog;7.66666666666667
+1153;help;Serviz pubblic;9.11111111111111
+1154;help;port;8.4
+1155;help;raggiung;9.32828282828283
+1156;help;Redentor;7.25
+1157;help;rinforz;7.8
+1158;help;riform;7
+1159;help;parent;7.375
+1160;help;soll;7.33333333333333
+1161;help;allev;8.55555555555556
+1162;help;richiest;7.58888888888889
+1163;help;richiedent;8.6
+1164;help;salv;9.41203703703704
+1165;help;soccorritor;9.73333333333333
+1166;help;rispond;8.06089743589744
+1167;help;Sos;9.75
+1168;help;Salv;9.25
+1169;help;Salvatagg;9.76923076923077
+1170;help;salvator;8.27142857142857
+1171;help;grid;8.76388888888889
+1172;help;serv;8.5
+1173;help;abil;7.7
+1174;help;sold;7.7
+1175;help;sos;9.57142857142857
+1176;help;Sistem;7.81818181818182
+1177;help;rafforz;8.37857142857143
+1178;help;suicid;7.55555555555556
+1179;help;Riforn;7.25
+1180;help;sostegn;10
+1181;help;sostenitor;8.8
+1182;help;chirurg;8.08333333333333
+1183;help;sopravviss;8.27272727272727
+1184;help;Prend cur;8.09090909090909
+1185;help;traum;8.6
+1186;help;problem;7.2
+1187;help;comprension;7.875
+1188;help;unicef;8.42857142857143
+1189;help;vittim;7.4702380952381
+1190;help;vulner;7.75
+1191;help;attend;7
+1192;help;vol;7.22222222222222
+1193;help;cald;7.14285714285714
+1194;help;avvert;7.44444444444444
+1195;help;segnal di avvert;8.18181818181818
+1196;help;indebol;7.66666666666667
+1197;help;beness;8.41666666666667
+1198;help;urland;8.18181818181818
+1199;honour;rispett;8.62899831649832
+1200;honour;realizz;7.14285714285714
+1201;honour;respons;7
+1202;honour;raggiunt;8.85714285714286
+1203;honour;risult;9.125
+1204;honour;ammir;7.31818181818181
+1205;honour;apprezz;7.6875
+1206;honour;prem;8.34583934583935
+1207;honour;premiazion;7.25
+1208;honour;credenz;8
+1209;honour;riten;7.57142857142857
+1210;honour;benefic;7.42857142857143
+1211;honour;benedizion;8
+1212;honour;coragg;8.13381433381434
+1213;honour;celebr;7.66666666666667
+1214;honour;class;7.81818181818182
+1215;honour;codic;7.33333333333333
+1216;honour;impegn;8.45833333333333
+1217;honour;fiduc;8.02666666666667
+1218;honour;congratul;9.2
+1219;honour;coscienz;7.25
+1220;honour;premur;7.28571428571429
+1221;honour;nazion;8.5
+1222;honour;credibil;7.85714285714286
+1223;honour;decenz;8.77777777777778
+1224;honour;dedizion;9.11111111111111
+1225;honour;deliz;7.875
+1226;honour;affid;7.90396103896104
+1227;honour;devozion;7.90909090909091
+1228;honour;dignit;8.62121212121212
+1229;honour;divin;7
+1230;honour;nobilit;8.25
+1231;honour;stim;9
+1232;honour;stimabil;7
+1233;honour;etic;8.75
+1234;honour;eccellent;8
+1235;honour;giust;7.88571428571428
+1236;honour;equit;7
+1237;honour;fedel;8.81818181818182
+1238;honour;famigl;8.7
+1239;honour;line famil;7
+1240;honour;perd;7.5
+1241;honour;Amic;7
+1242;honour;galant;9.11111111111111
+1243;honour;glor;9.22222222222222
+1244;honour;Buon;8.27272727272727
+1245;honour;buon volont;7.44444444444444
+1246;honour;bont;7.9
+1247;honour;Graz;7.9
+1248;honour;gentil;7.8
+1249;honour;Cortes;7.33333333333333
+1250;honour;gratitudin;7.33333333333333
+1251;honour;ero;9.875
+1252;honour;eroism;9
+1253;honour;On.;8.57142857142857
+1254;honour;onest;7.66666666666667
+1255;honour;onor;9.37857142857143
+1256;honour;onorevol;10
+1257;honour;umanesim;7.57142857142857
+1258;honour;import;7.57142857142857
+1259;honour;integr;9.875
+1260;honour;giustiz;9
+1261;honour;Dipart di Giustiz;7.42857142857143
+1262;honour;giustezz;7
+1263;honour;gentilezz;7.3
+1264;honour;parent;7.6
+1265;honour;caval;7.44444444444444
+1266;honour;ered;7.1
+1267;honour;leal;8.66666666666667
+1268;honour;lealist;9.57142857142857
+1269;honour;medagl;8.04444444444444
+1270;honour;medaglion;7.2
+1271;honour;misericord;7
+1272;honour;lavor missionar;7.2
+1273;honour;moral;8.57792207792208
+1274;honour;princip moral;8.36363636363636
+1275;honour;madr;8
+1276;honour;mulan;8.8
+1277;honour;nobilt;8.1875
+1278;honour;nobil;8.0741341991342
+1279;honour;nomin;7.25
+1280;honour;patriott;7.86868686868687
+1281;honour;pegn;7.5
+1282;honour;lod;8.55555555555556
+1283;honour;prestig;8.72727272727273
+1284;honour;orgogl;8.43253968253968
+1285;honour;princip;7.11111111111111
+1286;honour;i princip;9.45454545454546
+1287;honour;professional;7.36363636363636
+1288;honour;promett;8.72727272727273
+1289;honour;promettent;7
+1290;honour;consider;7.66666666666667
+1291;honour;ricord;7.1
+1292;honour;rinom;7.36363636363636
+1293;honour;reput;8.5
+1294;honour;riverent;7
+1295;honour;reverenzial;7.625
+1296;honour;Giust;7.2
+1297;honour;cos giust da far;8.44444444444444
+1298;honour;rettitudin;8.5
+1299;honour;sacr;8.375
+1300;honour;valor sacr;8.22222222222222
+1301;honour;samura;8.85714285714286
+1302;honour;santit;8.25
+1303;honour;scuol;7.22222222222222
+1304;honour;autostim;7.4
+1305;honour;orgogl di sè;9.375
+1306;honour;santuar;8.45138888888889
+1307;honour;più sincer;7.44444444444444
+1308;honour;signor;7.81818181818182
+1309;honour;standard;7.75
+1310;honour;sincer;8.81818181818182
+1311;honour;di fiduc;7.72727272727273
+1312;honour;veritier;9.54545454545454
+1313;honour;unit;8
+1314;honour;educ;7
+1315;honour;sosten i valor;8.5
+1316;honour;valor;9.1
+1317;honour;sistem di valor;8
+1318;honour;i valor;9.28571428571429
+1319;honour;vot;7.86363636363637
+1320;honour;Promess;7.77777777777778
+1321;honour;promess;7.77777777777778
+1322;honour;Giur;7.875
+1323;honour;giur;7.875
+1324;honour;guerrier;8.54545454545455
+1325;honour;ben pens;7.72727272727273
+1326;honour;parol;7.25
+1327;honour;parol di Dio;7.5
+1328;honour;parol d'onor;7.85714285714286
+1329;honour;cult;7.1
+1330;impostor;atto;7.75
+1331;impostor;agir com;7.91666666666667
+1332;impostor;attor;7.69642857142857
+1333;impostor;apparent;7.625
+1334;impostor;catt;9.2
+1335;impostor;ingann;8.63621378621379
+1336;impostor;fals;9.2613603988604
+1337;impostor;cazz;7.4
+1338;impostor;camuff;7.5
+1339;impostor;truff;7.92592592592593
+1340;impostor;Trad;7.2
+1341;impostor;imbrogl;7.55
+1342;impostor;imbroglion;7.1
+1343;impostor;traditor;7
+1344;impostor;truffator;8.43002645502646
+1345;impostor;trucc;9.1948051948052
+1346;impostor;Truff;8
+1347;impostor;nascond;7.18181818181818
+1348;impostor;nascost;7.68013468013468
+1349;impostor;occult;8.33333333333333
+1350;impostor;confus;7.375
+1351;impostor;contraffatt;9.375
+1352;impostor;falsar;9.24305555555556
+1353;impostor;copertur;8.44444444444444
+1354;impostor;crimin;7.77777777777778
+1355;impostor;penal;7
+1356;impostor;Criminal;7
+1357;impostor;reat penal;7
+1358;impostor;astuz;7.8625
+1359;impostor;ingannevol;8.64143264143264
+1360;impostor;illud;7.6
+1361;impostor;disturb di depersonalizz;7.85714285714286
+1362;impostor;nevros di spersonalizz;7.66666666666667
+1363;impostor;subdol;7.6875
+1364;impostor;travest;8.42424242424242
+1365;impostor;mascher;8.25
+1366;impostor;disonest;8.97916666666666
+1367;impostor;diffident;8.31010101010101
+1368;impostor;losc;7.6
+1369;impostor;non appartien;9.45454545454546
+1370;impostor;dubb;7.54545454545455
+1371;impostor;duplic;7.63636363636364
+1372;impostor;nemic;8.85714285714286
+1373;impostor;spionagg;7.83333333333333
+1374;impostor;evasion;7.57142857142857
+1375;impostor;Malvag;7.1
+1376;impostor;esporr;7.625
+1377;impostor;impostor;9.79166666666667
+1378;impostor;Fals;9.11111111111111
+1379;impostor;fallac;8
+1380;impostor;falsit;7.45454545454545
+1381;impostor;falsific;8.12777777777778
+1382;impostor;difett;7
+1383;impostor;pauros;7.09090909090909
+1384;impostor;criminal;7.6
+1385;impostor;Sospett;7.77777777777778
+1386;impostor;frod;9.20833333333334
+1387;impostor;fraudolent;9.75
+1388;impostor;risc;7.11111111111111
+1389;impostor;hornswoggl;10
+1390;impostor;ident;8.25
+1391;impostor;element identitar;7.45454545454545
+1392;impostor;illusion;7.66666666666667
+1393;impostor;imit;9.79513888888889
+1394;impostor;imperson;8.90467171717172
+1395;impostor;impersonif;9.11111111111111
+1396;impostor;infiltr;8.4
+1397;impostor;intrus;8.375
+1398;impostor;intrusion;9
+1399;impostor;irregolar;7.3
+1400;impostor;infrang la legg;8.66666666666667
+1401;impostor;bugiard;9
+1402;impostor;Bugiard;9.63636363636364
+1403;impostor;menzogn;8
+1404;impostor;bug;7.75
+1405;impostor;Ment;9.1
+1406;impostor;far cred;7.86818181818182
+1407;impostor;malevol;7.71428571428571
+1408;impostor;manipol;7.0625
+1409;impostor;masc;8.2
+1410;impostor;mi6;8.2
+1411;impostor;identific erron;7.33333333333333
+1412;impostor;disinform;8
+1413;impostor;indurr in error;7.53846153846154
+1414;impostor;travis;9.2375
+1415;impostor;diffid;8.4
+1416;impostor;mister;8
+1417;impostor;non qualific;7.9
+1418;impostor;non dovrebb esser qui;8.875
+1419;impostor;Altri;7
+1420;impostor;perseguit;7.28571428571429
+1421;impostor;Recit;7.42857142857143
+1422;impostor;ritrarr;8.33333333333333
+1423;impostor;Pos;8.85714285714286
+1424;impostor;far fint;9.33333333333333
+1425;impostor;fint;9.28409090909091
+1426;impostor;pretendent;9.72916666666666
+1427;impostor;fing;9.16666666666667
+1428;impostor;discut;7
+1429;impostor;sostitu;7.625
+1430;impostor;giocator di ruol;9
+1431;impostor;gioc di ruol;8.14285714285714
+1432;impostor;fregatur;8.45454545454546
+1433;impostor;schem;7.22222222222222
+1434;impostor;segret;7.5
+1435;impostor;Losc;8.48412698412698
+1436;impostor;intrufol;8.44444444444444
+1437;impostor;furtiv;8.28571428571429
+1438;impostor;spi;8.18055555555556
+1439;impostor;rub;8.77777777777778
+1440;impostor;stran;7.27272727272727
+1441;impostor;sconosc;7.61111111111111
+1442;impostor;sostit;7.6
+1443;impostor;sospett;7.75324675324675
+1444;impostor;sospettos;7.90909090909091
+1445;impostor;tendenz;8
+1446;impostor;furt;7
+1447;impostor;trad;8.44444444444444
+1448;impostor;ingannator;8.625
+1449;impostor;scopr;7.77777777777778
+1450;impostor;agent sott copertur;9.54545454545454
+1451;impostor;ingiust;7.7
+1452;impostor;smascher;7.11111111111111
+1453;impostor;irreal;8.11111111111111
+1454;impostor;inaffid;9.44444444444444
+1455;impostor;non veritier;9.4
+1456;impostor;sgrad;7.28571428571429
+1457;impostor;usurp;7.45833333333333
+1458;impostor;violazion;7.75
+1459;impostor;parrucc;7.09090909090909
+1460;jealousy;accus;8.5
+1461;jealousy;Rabb;8.2
+1462;jealousy;arrabb;7.88888888888889
+1463;jealousy;animos;7.28472222222222
+1464;jealousy;ansi;7.11111111111111
+1465;jealousy;arrog;7
+1466;jealousy;attacc;7.42857142857143
+1467;jealousy;avariz;10
+1468;jealousy;amarezz;8.77777777777778
+1469;jealousy;Rifiut;7.66666666666667
+1470;jealousy;Trad;7.80909090909091
+1471;jealousy;consum;7.90909090909091
+1472;jealousy;controllor;7.90909090909091
+1473;jealousy;controll;8.27777777777778
+1474;jealousy;Bramos;8.83333333333333
+1475;jealousy;dannos;8.36363636363636
+1476;jealousy;disprezz;7.14285714285714
+1477;jealousy;insoddisf;7.42857142857143
+1478;jealousy;diffident;7.8
+1479;jealousy;ego;8.625
+1480;jealousy;emozion;8.96031746031746
+1481;jealousy;emot;9
+1482;jealousy;infur;7.77777777777778
+1483;jealousy;invid;9.85714285714286
+1484;jealousy;amor erot;7.27272727272727
+1485;jealousy;Malvag;7
+1486;jealousy;catt;7
+1487;jealousy;malvag;7.1875
+1488;jealousy;sensazion;9.375
+1489;jealousy;sent;8.3
+1490;jealousy;prov;7.16666666666667
+1491;jealousy;fiss;7.63636363636364
+1492;jealousy;fissazion;7.33333333333333
+1493;jealousy;lampant;8
+1494;jealousy;avid;8.27083333333334
+1495;jealousy;verd;7.4
+1496;jealousy;Gelos;8.85714285714286
+1497;jealousy;rancor;8.22222222222222
+1498;jealousy;dann;7.625
+1499;jealousy;odi;7.72727272727273
+1500;jealousy;ostil;8.5
+1501;jealousy;esser uman;7.18181818181818
+1502;jealousy;rapport uman;9
+1503;jealousy;uman;7.33333333333333
+1504;jealousy;offend;7.66666666666667
+1505;jealousy;fer;7.7
+1506;jealousy;inadeguatezz;7
+1507;jealousy;infedelt;7
+1508;jealousy;inflizion;7
+1509;jealousy;insicur;8.44444444444444
+1510;jealousy;instabil;7.42857142857143
+1511;jealousy;insufficient;7.375
+1512;jealousy;irat;7.44444444444444
+1513;jealousy;ira;7.4
+1514;jealousy;irrazional;8.57142857142857
+1515;jealousy;gelos;10
+1516;jealousy;lussur;8
+1517;jealousy;foll;7.2
+1518;jealousy;malevol;7.3
+1519;jealousy;manipol;7
+1520;jealousy;mio;8.71428571428571
+1521;jealousy;diffid;8.44444444444444
+1522;jealousy;mot;7.42857142857143
+1523;jealousy;bisogn;7.11111111111111
+1524;jealousy;negat;7.625
+1525;jealousy;caric negat;7
+1526;jealousy;fastid;7
+1527;jealousy;ossession;8.9962962962963
+1528;jealousy;ossess;7.25
+1529;jealousy;prepotent;8.88888888888889
+1530;jealousy;tropp gelos;9
+1531;jealousy;dolor;7.625
+1532;jealousy;sensazion dolor;7.33333333333333
+1533;jealousy;compagn;7.42857142857143
+1534;jealousy;velen;8.22222222222222
+1535;jealousy;possed;7.66666666666667
+1536;jealousy;possess;9.06666666666667
+1537;jealousy;preoccup;7
+1538;jealousy;problem;8.08333333333333
+1539;jealousy;Problem;7.91666666666667
+1540;jealousy;psicolog;7.28571428571429
+1541;jealousy;rabb;7.81818181818182
+1542;jealousy;furios;8.44444444444444
+1543;jealousy;relazion;9.25
+1544;jealousy;risent;8.75714285714285
+1545;jealousy;ritorsion;7.1
+1546;jealousy;rappresagl;8
+1547;jealousy;vendett;7.76944444444444
+1548;jealousy;ved ross;8
+1549;jealousy;egoist;7
+1550;jealousy;egoism;8.85714285714286
+1551;jealousy;peccaminos;7.85714285714286
+1552;jealousy;snobism;7
+1553;jealousy;dispett;8.8
+1554;jealousy;soffr;7.63636363636364
+1555;jealousy;minacc;7.5
+1556;jealousy;trad;7.1
+1557;jealousy;gua;7.5
+1558;jealousy;inaccett;7.14285714285714
+1559;jealousy;sleal;7.1
+1560;jealousy;ingiust;8.75
+1561;jealousy;infel;8.75
+1562;jealousy;impreved;7.28571428571429
+1563;jealousy;irragionevol;7
+1564;jealousy;vizios;7.36363636363636
+1565;jealousy;ricerc;7.57142857142857
+1566;jealousy;desider;7.57142857142857
+1567;loneliness;abband;9.25
+1568;loneliness;alcol;7.8
+1569;loneliness;sol;9.75
+1570;loneliness;angosc;7.47857142857143
+1571;loneliness;ansi;8.38961038961039
+1572;loneliness;a part;9.38461538461539
+1573;loneliness;giù;8.15151515151515
+1574;loneliness;Noi;8
+1575;loneliness;rottur;7.75990675990676
+1576;loneliness;depression clinic;8.63636363636364
+1577;loneliness;chiusur;7.875
+1578;loneliness;confin;8.1
+1579;loneliness;bui;7.42857142857143
+1580;loneliness;deced;7.88888888888889
+1581;loneliness;depress;8.77777777777778
+1582;loneliness;depression;8.42857142857143
+1583;loneliness;disordin depress;7.44444444444444
+1584;loneliness;desol;8.5
+1585;loneliness;disper;7.95535714285715
+1586;loneliness;indigent;7.5
+1587;loneliness;distacc;9.5
+1588;loneliness;delusion;7.25
+1589;loneliness;disag;7.2
+1590;loneliness;disconnett;8.72727272727273
+1591;loneliness;disconness;9.33333333333333
+1592;loneliness;disconnession;7.54545454545455
+1593;loneliness;disimpegn;7.375
+1594;loneliness;dispiac;7.26666666666667
+1595;loneliness;divorz;8.67857142857143
+1596;loneliness;abbatt;7.88888888888889
+1597;loneliness;anzi;7.8
+1598;loneliness;vuot;8.42857142857143
+1599;loneliness;inimiciz;8
+1600;loneliness;esclus;7.125
+1601;loneliness;paur;8.43181818181818
+1602;loneliness;pauros;7.125
+1603;loneliness;Sent;7.75
+1604;loneliness;felo-de-s;8
+1605;loneliness;dimentic;7.4
+1606;loneliness;Spavent;8.23076923076923
+1607;loneliness;frustrazion;7.45454545454545
+1608;loneliness;tristezz;8.1712962962963
+1609;loneliness;Cup;7.18181818181818
+1610;loneliness;cup;8.23076923076923
+1611;loneliness;grigior;7
+1612;loneliness;straziant;9.33333333333333
+1613;loneliness;impotent;7.67407407407408
+1614;loneliness;erem;7.81818181818182
+1615;loneliness;senz speranz;8.61038961038961
+1616;loneliness;irrimediabil;7.45454545454545
+1617;loneliness;orribil;7.45454545454545
+1618;loneliness;io;8
+1619;loneliness;reclusion;8
+1620;loneliness;incarcer;7.2
+1621;loneliness;individual;8.125
+1622;loneliness;individu;8.25
+1623;loneliness;insicur;8.25
+1624;loneliness;isol;9.74880952380952
+1625;loneliness;solitudin;9.35984848484849
+1626;loneliness;in partenz;8
+1627;loneliness;solitar;8.96495726495727
+1628;loneliness;desider;8.41666666666666
+1629;loneliness;pers;8.375
+1630;loneliness;imparegg;7.16666666666667
+1631;loneliness;miser;8.625
+1632;loneliness;imbronc;9.22222222222222
+1633;loneliness;depression natural;8.375
+1634;loneliness;trascur;8
+1635;loneliness;Senz amic;9.85714285714286
+1636;loneliness;nessun;8.55555555555556
+1637;loneliness;non gregar;9
+1638;loneliness;Asocial;8.57142857142857
+1639;loneliness;non apprezz;7.74090909090909
+1640;loneliness;vecc;7.61538461538461
+1641;loneliness;più vecc;7.42857142857143
+1642;loneliness;uno;8.85714285714286
+1643;loneliness;ostracizz;7.875
+1644;loneliness;emargin;9.7
+1645;loneliness;fuor dagl schem;7.41666666666667
+1646;loneliness;pover;7.4
+1647;loneliness;Clausur;8
+1648;loneliness;reclus;8.85714285714286
+1649;loneliness;rifiut;7
+1650;loneliness;respint;9.3
+1651;loneliness;Rifiut;9.5
+1652;loneliness;rif;9.5
+1653;loneliness;a distanz;8.625
+1654;loneliness;trist;9.25
+1655;loneliness;Tristement;9.22222222222222
+1656;loneliness;separ;7.88888888888889
+1657;loneliness;mess a part;9.71428571428571
+1658;loneliness;silenz;8.57142857142857
+1659;loneliness;Singl;9.44444444444444
+1660;loneliness;Sol;7.55
+1661;loneliness;Solitar;9.25
+1662;loneliness;incagl;8.75
+1663;loneliness;fatic;8.28571428571429
+1664;loneliness;suicid;7
+1665;loneliness;lacrim;7.4
+1666;loneliness;non accompagn;8.45454545454546
+1667;loneliness;non conness;8.42857142857143
+1668;loneliness;sottovalut;7.18181818181818
+1669;loneliness;infel;7.44444444444444
+1670;loneliness;inam;7
+1671;loneliness;non amat;9.125
+1672;loneliness;vulner;8.2
+1673;loneliness;vol;7.85714285714286
+1674;loneliness;vedov;7.81818181818182
+1675;loneliness;priv di;9.57142857142857
+1676;loneliness;preoccup;7.1
+1677;murder;abus;7.7375
+1678;murder;complic;8.77777777777778
+1679;murder;spavent;7.58888888888889
+1680;murder;aggress;9.33333333333333
+1681;murder;aggressor;8.51555944055944
+1682;murder;agon;8.90909090909091
+1683;murder;presunt;8
+1684;murder;imbosc;7.09090909090909
+1685;murder;munizion;7.88888888888889
+1686;murder;amoral;8.55555555555556
+1687;murder;rabb;7.85795454545454
+1688;murder;Fur;7.15384615384615
+1689;murder;angosc;7.66666666666667
+1690;murder;animos;8
+1691;murder;apprend;7.09090909090909
+1692;murder;ardor;7
+1693;murder;armat;7.81818181818182
+1694;murder;arrest;7.97222222222222
+1695;murder;incend dolos;7
+1696;murder;asfiss;9.25
+1697;murder;assalitor;9.07954545454546
+1698;murder;assassin;9.27165486029122
+1699;murder;omicid;9.78571428571429
+1700;murder;assalt;9.27272727272727
+1701;murder;aggred;9
+1702;murder;aggression;9.25
+1703;murder;attacc;8.87248677248677
+1704;murder;catt;9
+1705;murder;balist;7
+1706;murder;Colp;8.57670454545454
+1707;murder;trad;9.18181818181818
+1708;murder;sanguin;9.1287037037037
+1709;murder;sangu;9.54545454545454
+1710;murder;sparg di sangu;9.14285714285714
+1711;murder;massacr;9.54545454545454
+1712;murder;corp;7.36931818181818
+1713;murder;bomb;8.7
+1714;murder;bombard;8.59722222222222
+1715;murder;brutal;9.5
+1716;murder;proiettil;8.2
+1717;murder;sbatt;9
+1718;murder;sepoltur;7.91666666666667
+1719;murder;sepolt;7.33333333333333
+1720;murder;callos;8.66666666666667
+1721;murder;svolg;7.58333333333333
+1722;murder;caus di mort;8.22222222222222
+1723;murder;Cell;8
+1724;murder;cimiter;8
+1725;murder;Accus;8.94444444444444
+1726;murder;Soffoc;8.44444444444444
+1727;murder;soffoc;8.58344155844156
+1728;murder;combatt;7.35746031746032
+1729;murder;condann;8.59375
+1730;murder;confession;8.66666666666667
+1731;murder;conseguent;7.125
+1732;murder;convinzion;10
+1733;murder;poliziott;8.34343434343435
+1734;murder;cadav;9.81818181818182
+1735;murder;cadaver;9.75
+1736;murder;Tribunal;7.77777777777778
+1737;murder;foll;8
+1738;murder;pazz;7.86363636363637
+1739;murder;crimin;9.61759259259259
+1740;murder;delitt passional;9.11111111111111
+1741;murder;penal;9.14285714285714
+1742;murder;reat penal;9.3
+1743;murder;offes criminal;9.75
+1744;murder;proced penal;8.3
+1745;murder;criminal;9.18928571428571
+1746;murder;crocifigg;7.11111111111111
+1747;murder;cianur;9
+1748;murder;pugnal;9.6521164021164
+1749;murder;dann;8.46111111111111
+1750;murder;Pericol;9.57142857142857
+1751;murder;pericol;9.09821428571428
+1752;murder;mort;9.58333333333334
+1753;murder;Cadav;9.33333333333333
+1754;murder;indebol;8.72727272727273
+1755;murder;mortal;8.28571428571429
+1756;murder;Mort;9.875
+1757;murder;deced;9.58333333333333
+1758;murder;decapit;9.21428571428571
+1759;murder;decess;8.77678571428572
+1760;murder;in decomposizion;7.86666666666667
+1761;murder;difes;7.58333333333333
+1762;murder;imput;8.36363636363636
+1763;murder;avvoc difensor;7.86666666666667
+1764;murder;deplorevol;7
+1765;murder;spregevol;9.55555555555556
+1766;murder;distrugg;8.49386724386724
+1767;murder;distrutt;7.22222222222222
+1768;murder;distruzion;7.375
+1769;murder;detect;8.37373737373738
+1770;murder;devast;8.33333333333333
+1771;murder;mor;9.7
+1772;murder;malcontent;7.25
+1773;murder;vergogn;8.12121212121212
+1774;murder;disgust;7.82936507936508
+1775;murder;disonor;7.27272727272727
+1776;murder;smembr;9.125
+1777;murder;Central;7.42857142857143
+1778;murder;disposizion;7.77777777777778
+1779;murder;smalt;8.66666666666667
+1780;murder;di catt gust;8.22222222222222
+1781;murder;disturb;7.71428571428571
+1782;murder;DNA;7.2
+1783;murder;Crep;7.1
+1784;murder;Morent;9.44444444444444
+1785;murder;egoist;7.28571428571429
+1786;murder;elettrocu;8.875
+1787;murder;fin;7.84821428571428
+1788;murder;mett in pericol;8.8
+1789;murder;nemic;7.28571428571429
+1790;murder;Sostanz;8
+1791;murder;Malvag;9.42857142857143
+1792;murder;malvag;8.94521103896104
+1793;murder;esanim;7
+1794;murder;straz;7.22222222222222
+1795;murder;esegu;8.93650793650794
+1796;murder;esecu;8.37878787878788
+1797;murder;esplosion;8
+1798;murder;esplos;8.45454545454546
+1799;murder;estrem;8.88888888888889
+1800;murder;testimon ocul;8.22222222222222
+1801;murder;fatal;9.91666666666666
+1802;murder;paur;7.4
+1803;murder;feroc;7.90909090909091
+1804;murder;lott;7
+1805;murder;contrattacc;7
+1806;murder;battaglier;7.81818181818182
+1807;murder;impront digital;7.57692307692307
+1808;murder;armi da fuoc;8.625
+1809;murder;forz;8.5
+1810;murder;legal;8.5
+1811;murder;Scienz forens;8.63636363636364
+1812;murder;forens;9.07692307692308
+1813;murder;ripugn;8.33333333333333
+1814;murder;Spavent;7.63636363636364
+1815;murder;funeral;8.33333333333333
+1816;murder;Furor;8.7
+1817;murder;Spettral;9
+1818;murder;Mett mal;7
+1819;murder;Tomb;9.7
+1820;murder;tomb;7
+1821;murder;dolor;8.51785714285714
+1822;murder;cup;8.5
+1823;murder;macabr;8.625
+1824;murder;raccapricc;10
+1825;murder;colpevolezz;7.94444444444444
+1826;murder;sens di colp;7.22222222222222
+1827;murder;colpevol;9.5
+1828;murder;coscienz sporc;8.46153846153846
+1829;murder;pistol;8.74017857142857
+1830;murder;pistol a nolegg;9.01818181818182
+1831;murder;spar;8.625
+1832;murder;pistoler;8.625
+1833;murder;uomin armat;7.2
+1834;murder;colp di pistol;9.44444444444444
+1835;murder;append;7.8
+1836;murder;harir;10
+1837;murder;dannegg;8.99747474747475
+1838;murder;odi;8.71428571428572
+1839;murder;arma pesant;8.75
+1840;murder;infern;7
+1841;murder;colp;7.36363636363636
+1842;murder;sicar;9.125
+1843;murder;Sacr terror;8
+1844;murder;orribil;9
+1845;murder;orror;9.22222222222222
+1846;murder;ostil;8.85
+1847;murder;uman;7.71428571428572
+1848;murder;esser uman;7
+1849;murder;impicc;8.2
+1850;murder;offend;8.75
+1851;murder;fer;8.47503156565657
+1852;murder;immoral;7.3
+1853;murder;imprigion;8.33333333333333
+1854;murder;reclusion;8.58333333333333
+1855;murder;incident;8.85714285714286
+1856;murder;inflizion;7
+1857;murder;disum;9.6
+1858;murder;lesion;8.77777777777778
+1859;murder;infortun;8.90909090909091
+1860;murder;deten;8.09090909090909
+1861;murder;inchiest;7.91666666666667
+1862;murder;intes;7.22222222222222
+1863;murder;intent;9.3
+1864;murder;intenzional;7.14285714285714
+1865;murder;intenzion;7.4
+1866;murder;intrusion;7.5
+1867;murder;indag;8.35897435897436
+1868;murder;indagin;8.88961038961039
+1869;murder;investig;8.38888888888889
+1870;murder;ira;7.55555555555556
+1871;murder;prigion;9.20833333333333
+1872;murder;carcer;7.66666666666667
+1873;murder;giudic;7.14285714285714
+1874;murder;uccision;9.8375
+1875;murder;uccis;10
+1876;murder;uccisor;9.8
+1877;murder;uccid;9.64555555555556
+1878;murder;coltell;8.44444444444444
+1879;murder;colp di coltell;7.7
+1880;murder;lapd;7.71428571428571
+1881;murder;infrang la legg;9.90909090909091
+1882;murder;vit;7.4
+1883;murder;Pericol di vit;9.42857142857143
+1884;murder;senz vit;9.14285714285714
+1885;murder;lacc;7.5
+1886;murder;perd;8.08741258741259
+1887;murder;lunat;9.28571428571429
+1888;murder;mach;7.72727272727273
+1889;murder;mutil;7.74787878787879
+1890;murder;malfattor;7.16666666666667
+1891;murder;malevol;7
+1892;murder;omicid colpos;8.88888888888889
+1893;murder;martirizz;8.5
+1894;murder;caos;7.25
+1895;murder;insens;7
+1896;murder;missil;7.85714285714286
+1897;murder;maltratt;7.3
+1898;murder;mostr;7.5
+1899;murder;morbos;8.09090909090909
+1900;murder;person in lutt;7.75
+1901;murder;mister;7.89393939393939
+1902;murder;stor mister;8.09090909090909
+1903;murder;cattiver;8.6875
+1904;murder;nauseabond;7
+1905;murder;notiz;8
+1906;murder;nypd;8.875
+1907;murder;obliter;9.71428571428571
+1908;murder;offes;8.54166666666666
+1909;murder;sensazion dolor;8.1
+1910;murder;panic;7
+1911;murder;Mor;7.63636363636364
+1912;murder;per;9.66666666666667
+1913;murder;person;7.55555555555556
+1914;murder;pian d'attacc;9.1
+1915;murder;pianific;8.28571428571429
+1916;murder;pian;7.44444444444444
+1917;murder;velen;8.65
+1918;murder;avvelen;9.52272727272727
+1919;murder;sostanz velen;8.25
+1920;murder;poliz;7.22222222222222
+1921;murder;detect dell poliz;7.66666666666667
+1922;murder;Prigion;7.375
+1923;murder;problem;7.75
+1924;murder;accus;9.22222222222222
+1925;murder;Pugn;7
+1926;murder;reprim;8.09090909090909
+1927;murder;Condann a mort;9.125
+1928;murder;mett a mort;8.9
+1929;murder;qaed;8.125
+1930;murder;fur;8.4
+1931;murder;ross;8.09090909090909
+1932;murder;rimors;7.45454545454545
+1933;murder;riprovevol;7.90909090909091
+1934;murder;rivolt;7.45454545454545
+1935;murder;ricin;8.5
+1936;murder;fucil;7.625
+1937;murder;strapp;9
+1938;murder;spietatezz;8
+1939;murder;scen;7.77777777777778
+1940;murder;grid;7
+1941;murder;ved ross;7.6
+1942;murder;serial;7.53333333333333
+1943;murder;ser;9.5
+1944;murder;acut;8.6
+1945;murder;spars sangu;9.08333333333333
+1946;murder;abbatt;8.25
+1947;murder;Cecchin;9.4
+1948;murder;Sparator;8.85714285714286
+1949;murder;sparator;9.22222222222222
+1950;murder;Spar;8.33928571428572
+1951;murder;schegg;7.18181818181818
+1952;murder;pecc;8.1780303030303
+1953;murder;peccaminos;9.4
+1954;murder;cecchin;8.11111111111111
+1955;murder;sold;7.61111111111111
+1956;murder;risolv;7.72727272727273
+1957;murder;risolt;8.44444444444444
+1958;murder;tristezz;7.77777777777778
+1959;murder;lanc;7.77777777777778
+1960;murder;accoltell;9.68181818181818
+1961;murder;strangol;9.22222222222222
+1962;murder;fatic;7.57142857142857
+1963;murder;soffr;8.4375
+1964;murder;sospett;8.81861471861472
+1965;murder;suspens;7.42857142857143
+1966;murder;spad;7.92142857142857
+1967;murder;prend la vit;10
+1968;murder;pres in custod;7.57142857142857
+1969;murder;termin;7.22222222222222
+1970;murder;terrorizz;8.20416666666667
+1971;murder;terror;8.85416666666667
+1972;murder;minacc;8.12698412698413
+1973;murder;Manett;7.28571428571429
+1974;murder;tortur;7.36363636363636
+1975;murder;tossic;7
+1976;murder;traditor;8.375
+1977;murder;traum;8.85714285714286
+1978;murder;process;9
+1979;murder;grillett;8
+1980;murder;sfren;7.25
+1981;murder;sconfigg;7.54545454545455
+1982;murder;verdett;9.5
+1983;murder;vizios;9.11111111111111
+1984;murder;vittim;9.51587301587302
+1985;murder;furfant;8.45454545454546
+1986;murder;Catt;9.71428571428571
+1987;murder;viol;8.82549603174603
+1988;murder;violazion;8.99494949494949
+1989;murder;violenz;9.66666666666667
+1990;murder;violent;10
+1991;murder;mort violent;8.27272727272727
+1992;murder;disordin violent;8.44444444444444
+1993;murder;guerr;8.29629629629629
+1994;murder;arma;8.7
+1995;murder;sistem d'arm;7.9
+1996;murder;armi;8.55555555555556
+1997;murder;Armi;9
+1998;murder;giall;9.57142857142857
+1999;murder;selvagg;7.4
+2000;murder;spazz via;7.28571428571429
+2001;murder;testimon;7.9
+2002;murder;Testimon;8.375
+2003;murder;gua;7.375
+2004;murder;coller;8.22222222222222
+2005;paranoia;accus;7.76923076923077
+2006;paranoia;spavent;8.22508417508418
+2007;paranoia;paur;8.82487373737374
+2008;paranoia;alien;7.3
+2009;paranoia;angosc;7.66233766233766
+2010;paranoia;ansi;9.24206349206349
+2011;paranoia;ansios;9.14285714285714
+2012;paranoia;apprension;7.85714285714286
+2013;paranoia;attacc;7.39583333333333
+2014;paranoia;aggressor;7.125
+2015;paranoia;esser osserv;9.27272727272727
+2016;paranoia;bipol;7.7
+2017;paranoia;cautel;7
+2018;paranoia;videosorvegl;7.14285714285714
+2019;paranoia;Cia;7.55555555555556
+2020;paranoia;compuls;7.375
+2021;paranoia;preoccup;8.13455988455988
+2022;paranoia;Preoccup;7.27272727272727
+2023;paranoia;cospir;7.73737373737374
+2024;paranoia;convint;7.88888888888889
+2025;paranoia;impazz;8.46666666666667
+2026;paranoia;pazz;7.5
+2027;paranoia;Pericol;7.9
+2028;paranoia;Mort;7.14285714285714
+2029;paranoia;delir;8.88095238095238
+2030;paranoia;illus;7.11111111111111
+2031;paranoia;illusion;9.07142857142857
+2032;paranoia;dement;7.25
+2033;paranoia;depress;7.46666666666667
+2034;paranoia;disper;7.125
+2035;paranoia;distacc;7.33333333333333
+2036;paranoia;disturb;7.73452380952381
+2037;paranoia;disorient;7.375
+2038;paranoia;sconvolt;8
+2039;paranoia;diffident;9.2875
+2040;paranoia;dubb;7.77678571428572
+2041;paranoia;tem;8.45714285714286
+2042;paranoia;terribil;7
+2043;paranoia;intercett;7.7125
+2044;paranoia;emozion;9.2
+2045;paranoia;pauros;9.5
+2046;paranoia;temibil;7.14285714285714
+2047;paranoia;Sent;8
+2048;paranoia;sensazion;8.36363636363636
+2049;paranoia;fiss;8.22222222222222
+2050;paranoia;fsb;9
+2051;paranoia;pettegolezz;7.55555555555556
+2052;paranoia;colpevolezz;7.28571428571429
+2053;paranoia;allucin;9.04166666666666
+2054;paranoia;dannos;7.28571428571429
+2055;paranoia;Gioc mental;7.125
+2056;paranoia;Viagg mental;7.125
+2057;paranoia;ostil;7.11111111111111
+2058;paranoia;ister;8.375
+2059;paranoia;mal;7
+2060;paranoia;malatt;9.57142857142857
+2061;paranoia;illog;7.375
+2062;paranoia;immagin;8.5
+2063;paranoia;foll;7.92272727272727
+2064;paranoia;insicur;8.77777777777778
+2065;paranoia;insicurezz;8
+2066;paranoia;instabil;7.5
+2067;paranoia;irrazional;8.18181818181818
+2068;paranoia;gelos;8.5
+2069;paranoia;nervos;8.47685185185185
+2070;paranoia;ascolt;8.125
+2071;paranoia;solitudin;7.27272727272727
+2072;paranoia;Guard le spall;8.75
+2073;paranoia;maniacal;7.72727272727273
+2074;paranoia;medic;7.2
+2075;paranoia;farmac;7.69318181818182
+2076;paranoia;mental;7.54545454545455
+2077;paranoia;malatt mental;8.69444444444444
+2078;paranoia;disordin mental;9.11111111111111
+2079;paranoia;disturb mental;8.8
+2080;paranoia;sal mental;8.64285714285714
+2081;paranoia;mal di ment;9.25
+2082;paranoia;ment;8.62337662337663
+2083;paranoia;diffid;7.4
+2084;paranoia;Sfiduc;7.4
+2085;paranoia;stupefacent;7.4
+2086;paranoia;narcot;8.58333333333333
+2087;paranoia;negat;8.58333333333333
+2088;paranoia;nerv;7.58333333333333
+2089;paranoia;nevrot;8
+2090;paranoia;matt;8.63636363636364
+2091;paranoia;ossession;8.13636363636363
+2092;paranoia;ossess;7.54545454545454
+2093;paranoia;Tes;9.66666666666667
+2094;paranoia;Sovrastim;9.11111111111111
+2095;paranoia;reazion eccess;8.72727272727273
+2096;paranoia;panic;7.14285714285714
+2097;paranoia;pres dal panic;8.81818181818182
+2098;paranoia;paranoi;10
+2099;paranoia;paran;8.90909090909091
+2100;paranoia;fob;8
+2101;paranoia;disturb fobic;8.88888888888889
+2102;paranoia;complott;7.71428571428571
+2103;paranoia;Precauzion;7.72727272727273
+2104;paranoia;Problem;7.71428571428571
+2105;paranoia;psichiatr;7.57142857142857
+2106;paranoia;psicolog;9.45454545454546
+2107;paranoia;disturb Psicolog;10
+2108;paranoia;psicopat;7.6
+2109;paranoia;psicos;8.41666666666667
+2110;paranoia;psicot;8.9
+2111;paranoia;convinzion psicot;7.875
+2112;paranoia;impaur;8.72727272727273
+2113;paranoia;allarm;7.125
+2114;paranoia;schizoid;8.66666666666667
+2115;paranoia;schizofren;9.21527777777778
+2116;paranoia;disturb schizofren;9.45454545454546
+2117;paranoia;psicos schizofren;7.55555555555556
+2118;paranoia;schizotip;8
+2119;paranoia;personal schizotip;8.3
+2120;paranoia;isol;7.14285714285714
+2121;paranoia;segretezz;7.66666666666667
+2122;paranoia;sociopat;7.80681818181818
+2123;paranoia;spi;7.27272727272727
+2124;paranoia;spionagg;7.875
+2125;paranoia;fatic;7.81818181818182
+2126;paranoia;sorvegl;8.7
+2127;paranoia;sospett;8.81256313131313
+2128;paranoia;sospettos;9.09090909090909
+2129;paranoia;tension;7.16666666666667
+2130;paranoia;terrorizz;8.16666666666667
+2131;paranoia;terrific;8.5
+2132;paranoia;terror;8.90909090909091
+2133;paranoia;pensier;7.25
+2134;paranoia;grillett;7
+2135;paranoia;problem;7
+2136;paranoia;gua;8.11111111111111
+2137;paranoia;ufo;7.375
+2138;paranoia;inconcep;7.25
+2139;paranoia;agent sott copertur;7.27272727272727
+2140;paranoia;disag;7.90909090909091
+2141;paranoia;a disag;9
+2142;paranoia;mals;7.27777777777778
+2143;paranoia;pericol;8
+2144;paranoia;maless;7
+2145;paranoia;vittim;7.77777777777778
+2146;paranoia;vigil;7.22222222222222
+2147;paranoia;vulner;7.1
+2148;paranoia;prudent;7.63636363636364
+2149;paranoia;guard;7.4875
+2150;paranoia;Guard;7.72727272727273
+2151;paranoia;erba;8
+2152;paranoia;stran;7.125
+2153;planning;realizz;7.6
+2154;planning;precision;7.86805555555556
+2155;planning;agir su;7.2
+2156;planning;Azion;7.5
+2157;planning;avvis;8.11111111111111
+2158;planning;consigl;8.58333333333333
+2159;planning;consulent;7.73888888888889
+2160;planning;ordin del giorn;9.27272727272727
+2161;planning;agend;9.42857142857143
+2162;planning;scop;7.88888888888889
+2163;planning;analis;8.5
+2164;planning;approcc;7.81818181818182
+2165;planning;architett;9
+2166;planning;pian architetton;7.44444444444444
+2167;planning;assist;7.125
+2168;planning;assistent;8
+2169;planning;attacc;7.1875
+2170;planning;tentat;8.125
+2171;planning;Attenzion;8.11111111111111
+2172;planning;consapevolezz;7.33333333333333
+2173;planning;iniz;8.17460317460318
+2174;planning;benef;7.25
+2175;planning;planimetr;10
+2176;planning;edific;8.36363636363636
+2177;planning;edif;7.27272727272727
+2178;planning;costru;8.28571428571429
+2179;planning;attiv commercial;8.44444444444444
+2180;planning;professional;7.125
+2181;planning;calendar;9.85714285714285
+2182;planning;port in azion;7.69230769230769
+2183;planning;svolg;9.14285714285714
+2184;planning;Celeblal;7
+2185;planning;cervell;7
+2186;planning;Abbozz;7
+2187;planning;cronolog;8.4
+2188;planning;coordin;9.33809523809524
+2189;planning;coazion;7.16666666666667
+2190;planning;cogit;7.25
+2191;planning;collabor;8.37651515151515
+2192;planning;component;7.09090909090909
+2193;planning;comporr;9.2
+2194;planning;concett;7.91666666666667
+2195;planning;riguard;7.22222222222222
+2196;planning;connession;7.09090909090909
+2197;planning;tener cont di;7
+2198;planning;consider;8.125
+2199;planning;cospir;7.98290598290598
+2200;planning;costruzion;9.28571428571429
+2201;planning;consult;8.11111111111111
+2202;planning;contempl;8.5
+2203;planning;contest;8
+2204;planning;contingent;7.22222222222222
+2205;planning;convers;8.54545454545454
+2206;planning;cooper;7.875
+2207;planning;cre;8.07222222222222
+2208;planning;attual;7.28571428571429
+2209;planning;curriculum;8.18181818181818
+2210;planning;dat;8.5
+2211;planning;Dat;8.08333333333333
+2212;planning;decis;7.81818181818182
+2213;planning;decid;8.72727272727273
+2214;planning;decision;7.71969696969697
+2215;planning;ritard;7
+2216;planning;deliber;7.375
+2217;planning;design;8.22222222222222
+2218;planning;dettagl;8.86584595959596
+2219;planning;svilupp;8.64285714285714
+2220;planning;escogit;8.72727272727273
+2221;planning;ideator;8.75
+2222;planning;div stad;9
+2223;planning;discut;8.30113636363637
+2224;planning;discussion;8.8021978021978
+2225;planning;funzion;7.66428571428571
+2226;planning;fac;7.28571428571429
+2227;planning;efficac;7.45454545454545
+2228;planning;occup;7.9
+2229;planning;ingegn;7.55555555555556
+2230;planning;ambient;7.85714285714286
+2231;planning;fugg;7.11111111111111
+2232;planning;essenzial;7.71428571428571
+2233;planning;stabil;7
+2234;planning;esatt;7.125
+2235;planning;esegu;7.55555555555556
+2236;planning;esecu;8.11111111111111
+2237;planning;eserciz;7.375
+2238;planning;facilit;8.18181818181818
+2239;planning;lungimir;8.88428571428571
+2240;planning;raffigur;8.6
+2241;planning;finanziar;8.77777777777778
+2242;planning;finanz;7.85714285714286
+2243;planning;mess a fuoc;8.36363636363636
+2244;planning;focalizz;7.4
+2245;planning;struttur;7.53354978354978
+2246;planning;futur;8.875
+2247;planning;obiett futur;9.375
+2248;planning;attrezz;7.36363636363636
+2249;planning;vacanz;8.2
+2250;planning;ide;9.11111111111111
+2251;planning;implement;8.66666666666667
+2252;planning;influenz;7.42857142857143
+2253;planning;informazion;9
+2254;planning;inform;8.22222222222222
+2255;planning;infrastruttur;8.88888888888889
+2256;planning;istru;7.71428571428571
+2257;planning;esecu dell istruzion;8.25
+2258;planning;intelligent;7.88888888888889
+2259;planning;aver intenzion;9.27272727272727
+2260;planning;intes;8.57142857142857
+2261;planning;compless;8.16666666666667
+2262;planning;invest;8.14285714285714
+2263;planning;Esporr;7.85714285714286
+2264;planning;apprend;7.375
+2265;planning;impar;7.6
+2266;planning;equilibr;7.6
+2267;planning;logist;8.5968660968661
+2268;planning;lung cors;8.77777777777778
+2269;planning;lung termin;9.02849002849003
+2270;planning;gest;8.55
+2271;planning;gestion;9.1
+2272;planning;gestor;7.66666666666667
+2273;planning;mapp;8.03181818181818
+2274;planning;Mappatur;9.1
+2275;planning;ment;8.07142857142857
+2276;planning;ideazion;9.375
+2277;planning;material;7.18181818181818
+2278;planning;misur;7.55555555555556
+2279;planning;menzion;8
+2280;planning;metod;9.2
+2281;planning;pietr miliar;8.81818181818182
+2282;planning;mapp mental;7.88888888888889
+2283;planning;mobilit;7.55555555555556
+2284;planning;modell;7.82142857142857
+2285;planning;motiv;8.22222222222222
+2286;planning;omicid;7.42857142857143
+2287;planning;necessar;7.22222222222222
+2288;planning;prossim;7.9
+2289;planning;Appunt;8
+2290;planning;obbiett;7.875
+2291;planning;oper;7.81212121212121
+2292;planning;fas oper;8.57142857142857
+2293;planning;orchestr;8.33333333333334
+2294;planning;ordin dei lavor;8.71428571428571
+2295;planning;organizz;9.64419191919192
+2296;planning;risult;8.11111111111111
+2297;planning;schem;9.28977272727273
+2298;planning;delin;7.94444444444444
+2299;planning;lin;9.125
+2300;planning;panoram;8.90909090909091
+2301;planning;autor;7.5
+2302;planning;Pian;9.85714285714286
+2303;planning;pian d'attacc;8.5
+2304;planning;pianific;9.88888888888889
+2305;planning;pianif;9.80555555555556
+2306;planning;pian;9.3
+2307;planning;complott;9.34722222222222
+2308;planning;Complott;9.25
+2309;planning;polit;7
+2310;planning;portafogl;7.58333333333333
+2311;planning;posizion;7
+2312;planning;possibil;7.26984126984127
+2313;planning;potenzial;7.11111111111111
+2314;planning;pratic;8.09090909090909
+2315;planning;predefin;7.66363636363636
+2316;planning;predetermin;8.3
+2317;planning;precis;8.00694444444444
+2318;planning;prepar;9.46666666666667
+2319;planning;prevenzion;7.81818181818182
+2320;planning;prevision;7.8
+2321;planning;priorit;8.66666666666667
+2322;planning;dar la priorit;7.875
+2323;planning;probabil;7.125
+2324;planning;process;9
+2325;planning;progett;8.91558441558442
+2326;planning;propost;8.04166666666666
+2327;planning;propon;7.5
+2328;planning;prospicient;8
+2329;planning;intenzional;7.22222222222222
+2330;planning;legg;7.22222222222222
+2331;planning;pront;8.36363636363636
+2332;planning;rinnov;8.57142857142857
+2333;planning;Requis;7.09090909090909
+2334;planning;risors;7.36931818181818
+2335;planning;intraprendent;8.35714285714285
+2336;planning;rigor;7.57638888888889
+2337;planning;tabell di marc;9.11111111111111
+2338;planning;itinerar;8.54545454545454
+2339;planning;orar;9.1
+2340;planning;programm;9.45
+2341;planning;scientif;7.42857142857143
+2342;planning;sicur;7.09090909090909
+2343;planning;impost;8.13392857142857
+2344;planning;Stabil;8.75
+2345;planning;sketc;9.25
+2346;planning;abil;8.25
+2347;planning;inteligent;8.81818181818182
+2348;planning;risolv;8.57142857142857
+2349;planning;mess in scen;8.125
+2350;planning;di partenz;7.2
+2351;planning;strateg;9.47916666666666
+2352;planning;stringent;7.28571428571429
+2353;planning;struttural;7.63636363636364
+2354;planning;stud;8.3
+2355;planning;success;7.5
+2356;planning;dintorn;7.11111111111111
+2357;planning;ispezion;8.68181818181819
+2358;planning;tattic;9.8
+2359;planning;parl;7.09090909090909
+2360;planning;mir;7.25
+2361;planning;bersagl;7.88888888888889
+2362;planning;attacc terrorist;7.18181818181818
+2363;planning;pens;9.85714285714286
+2364;planning;pensier;9.53472222222222
+2365;planning;pens al futur;9.42857142857143
+2366;planning;complet;8.18055555555556
+2367;planning;Process mental;9.1
+2368;planning;premur;7.125
+2369;planning;premuros;9
+2370;planning;temp a ven;8.375
+2371;planning;Orizzont temporal;8
+2372;planning;sequenz temporal;8.1875
+2373;planning;tempism;8.5
+2374;planning;da far;9.75
+2375;planning;prov;7.3
+2376;planning;comprension;8.36363636363636
+2377;planning;sindacalizz;7.11111111111111
+2378;planning;Vist;7.11111111111111
+2379;planning;visualizz;7
+2380;planning;vol;7.18181818181818
+2381;planning;fin settiman;7.41666666666667
+2382;planning;ben inform;8.72727272727273
+2383;planning;Lavor;7.38095238095238
+2384;planning;lavor;7.50568181818182
+2385;relationship;accompagn;7.2
+2386;relationship;ammir;7.55555555555556
+2387;relationship;adozion;7.875
+2388;relationship;adulter;7.66666666666667
+2389;relationship;Relazion;8.72727272727273
+2390;relationship;Stor;7.22222222222222
+2391;relationship;affett;9.0625
+2392;relationship;affettuos;9.3
+2393;relationship;affil;8.22142857142857
+2394;relationship;fedelt;7.2
+2395;relationship;alleanz;8.66666666666667
+2396;relationship;del tutt;7.58333333333333
+2397;relationship;amor;9.56481481481481
+2398;relationship;apprezz;8.08333333333333
+2399;relationship;suscit;7.42142857142857
+2400;relationship;soc;7.25
+2401;relationship;assoc;9.25
+2402;relationship;Attacc;9
+2403;relationship;attent;8.875
+2404;relationship;zie;9.42857142857143
+2405;relationship;esser intim;9.9
+2406;relationship;bell;7.11111111111111
+2407;relationship;lett;7.25
+2408;relationship;apparten;7.9
+2409;relationship;appartenent;7.7
+2410;relationship;Amat;8.8
+2411;relationship;met miglior;9
+2412;relationship;compleann;7.7
+2413;relationship;bisessual;7.6
+2414;relationship;entramb;7
+2415;relationship;fidanz;9.65357142857143
+2416;relationship;rottur;9.66666666666667
+2417;relationship;spos;9.00142857142857
+2418;relationship;fratell;8.70779220779221
+2419;relationship;camerat;7.3125
+2420;relationship;cur;8.08465608465608
+2421;relationship;carezzevol;7.75
+2422;relationship;premur;8.55555555555556
+2423;relationship;Rimorc;9.125
+2424;relationship;Chiacchier;8.08333333333333
+2425;relationship;chatt;8.08333333333333
+2426;relationship;amar;7.88888888888889
+2427;relationship;amat;8.80808080808081
+2428;relationship;ama;8.33333333333333
+2429;relationship;infanz;7.5
+2430;relationship;bambin;8.54166666666666
+2431;relationship;partenar civil;8
+2432;relationship;vicin;9.00454545454545
+2433;relationship;aderent;7.15384615384615
+2434;relationship;Fin;7
+2435;relationship;da vicin;8.18181818181818
+2436;relationship;co;7.5
+2437;relationship;unirs;8.34583333333333
+2438;relationship;impegn;9.11031746031746
+2439;relationship;comunic;7.15384615384615
+2440;relationship;compagn;9.17375283446712
+2441;relationship;compassion;7
+2442;relationship;Compatibil;8.28571428571429
+2443;relationship;compat;8.36363636363636
+2444;relationship;compless;8
+2445;relationship;complic;7.77777777777778
+2446;relationship;preserv;8.11111111111111
+2447;relationship;sicur di se;7.36363636363636
+2448;relationship;congreg;7.28571428571429
+2449;relationship;Colleg;9.1
+2450;relationship;colleg;8.96
+2451;relationship;connession;9.17857142857143
+2452;relationship;connett;8.55555555555556
+2453;relationship;connettor;7.75
+2454;relationship;contatt;8.6
+2455;relationship;content;8.42361111111111
+2456;relationship;Soddisfatt;7.875
+2457;relationship;appag;7.875
+2458;relationship;contentezz;7.875
+2459;relationship;convers;7.1
+2460;relationship;cooper;8.3478835978836
+2461;relationship;copul;8.58333333333333
+2462;relationship;copp;8.86060606060606
+2463;relationship;unir;9.05
+2464;relationship;Cortes;8.1
+2465;relationship;cugin;8.125
+2466;relationship;abbracc;8.78787878787879
+2467;relationship;coccol;8.90128968253968
+2468;relationship;appunt;9.2
+2469;relationship;Frequent;8.7
+2470;relationship;incontr;8.57878787878788
+2471;relationship;figl;8.97691197691198
+2472;relationship;carissim;7.7
+2473;relationship;car;7.85714285714286
+2474;relationship;dedizion;7.3
+2475;relationship;dement;7
+2476;relationship;affid;7.99027777777778
+2477;relationship;desider;7.7
+2478;relationship;devozion;8.75
+2479;relationship;difficil;8
+2480;relationship;discussion;7.35416666666667
+2481;relationship;divorz;7.95863395863396
+2482;relationship;Dramm;7.09090909090909
+2483;relationship;sogn;7.23809523809524
+2484;relationship;duett;8.5
+2485;relationship;duo;9.25
+2486;relationship;sforz;8.2
+2487;relationship;emozion;8.88311688311688
+2488;relationship;emot;8.625
+2489;relationship;empat;7.6
+2490;relationship;tenerezz;8.8
+2491;relationship;fin;7
+2492;relationship;persever;7
+2493;relationship;Fidanz;9
+2494;relationship;divert;7.40972222222222
+2495;relationship;divertent;8.11111111111111
+2496;relationship;par;7.5
+2497;relationship;amor erot;9
+2498;relationship;etern;7.25
+2499;relationship;tutt;7
+2500;relationship;eccit;7.36363636363636
+2501;relationship;fedel;8.91666666666667
+2502;relationship;famil;8.1
+2503;relationship;familiar;9.42857142857143
+2504;relationship;famigl;9.65714285714285
+2505;relationship;line famil;8.5
+2506;relationship;nucle famil;8.5
+2507;relationship;padr;7.725
+2508;relationship;sent;8.04915824915825
+2509;relationship;felic;8.1875
+2510;relationship;prov;8.42857142857143
+2511;relationship;flirt;7.33333333333333
+2512;relationship;Per sempr;7.5
+2513;relationship;perdon;8.28571428571429
+2514;relationship;amic;9.40585340585341
+2515;relationship;rapport amichevol;9.7
+2516;relationship;amiciz;9.55
+2517;relationship;gay;7.94090909090909
+2518;relationship;donn gay;9.57142857142857
+2519;relationship;generos;7
+2520;relationship;Darc dentr;7.3
+2521;relationship;scop;7.55555555555556
+2522;relationship;ragazz;7.125
+2523;relationship;dar;7.16666666666667
+2524;relationship;lgbt;8
+2525;relationship;Far sul ser;7.57142857142857
+2526;relationship;uscir;9.22222222222222
+2527;relationship;Buon;7.63636363636364
+2528;relationship;nipot;8.18181818181818
+2529;relationship;nonn;8.76210826210826
+2530;relationship;aver rapport;8
+2531;relationship;far sess;8.55555555555556
+2532;relationship;cuor;7.2
+2533;relationship;cuor e anim;8.77777777777778
+2534;relationship;cuor a cuor;8.77777777777778
+2535;relationship;aiut;7.44444444444444
+2536;relationship;cas;7
+2537;relationship;omosessual;8.3
+2538;relationship;onest;7.45075757575758
+2539;relationship;maritin;8.4
+2540;relationship;mar;9.27272727272727
+2541;relationship;ideal;7.2
+2542;relationship;appassion;8.375
+2543;relationship;incompat;7
+2544;relationship;infatu;7.45454545454545
+2545;relationship;infedelt;8.5
+2546;relationship;intens;7.55555555555556
+2547;relationship;intern;7.2
+2548;relationship;intim;8.9375
+2549;relationship;invest;8.30808080808081
+2550;relationship;coinvolt;9.46153846153846
+2551;relationship;coinvolg;8.63636363636364
+2552;relationship;gelos;7.90909090909091
+2553;relationship;unend;8.77777777777778
+2554;relationship;giunt;7.91666666666667
+2555;relationship;viagg;7
+2556;relationship;gioi;8.66666666666667
+2557;relationship;conserv;7.7
+2558;relationship;ten compagn;8.16666666666667
+2559;relationship;parent;8.23333333333333
+2560;relationship;gentil;8.11111111111111
+2561;relationship;bac;8.76153846153846
+2562;relationship;dur;7.83333333333333
+2563;relationship;lesbic;8.375
+2564;relationship;LGBT;8.8
+2565;relationship;lgbti+;7.22222222222222
+2566;relationship;lgbtq;8.28571428571429
+2567;relationship;vit;7
+2568;relationship;stor di vit;8.71428571428571
+2569;relationship;tutt la vit;8.24305555555556
+2570;relationship;piac;8.27272727272727
+2571;relationship;legam;8.5
+2572;relationship;a lung;7.5
+2573;relationship;stor d'amor;9.0625
+2574;relationship;Vit a moros;9.625
+2575;relationship;far l'amor;8.80952380952381
+2576;relationship;amant;9.15
+2577;relationship;amorevol;8.22222222222222
+2578;relationship;amorevolezz;8.625
+2579;relationship;lealt;9.5
+2580;relationship;lussur;7.73333333333333
+2581;relationship;lussurios;7.71428571428571
+2582;relationship;pomic;8.69230769230769
+2583;relationship;trucc;8.22222222222222
+2584;relationship;mar e mogl;9.25
+2585;relationship;coniugal;9.3
+2586;relationship;matrimon;8.62857142857143
+2587;relationship;cerimon nuzial;8.75
+2588;relationship;uom spos;9.25
+2589;relationship;person spos;9.16666666666667
+2590;relationship;donn spos;9.18181818181818
+2591;relationship;abbin;8.85714285714286
+2592;relationship;matrimonial;9.7
+2593;relationship;me;7.66666666666667
+2594;relationship;ricord;9.1
+2595;relationship;padron;8.625
+2596;relationship;moment;7
+2597;relationship;monogam;9.03928571428571
+2598;relationship;madr;9.13846153846154
+2599;relationship;reciproc;9
+2600;relationship;Ret;7.33333333333333
+2601;relationship;ness;7.42857142857143
+2602;relationship;nozz;8.825
+2603;relationship;nutr;9.09090909090909
+2604;relationship;apert;7.55555555555556
+2605;relationship;aprirs;8.125
+2606;relationship;ottim;7.28571428571429
+2607;relationship;altri;7
+2608;relationship;pai;8.85714285714286
+2609;relationship;accopp;7.46666666666667
+2610;relationship;genitor;8.5
+2611;relationship;partner;9.85714285714286
+2612;relationship;partnership;9.33333333333333
+2613;relationship;passion;8.89285714285715
+2614;relationship;person;8.625
+2615;relationship;perenn;7.14285714285714
+2616;relationship;fratr;9
+2617;relationship;fisic;7
+2618;relationship;giocos;7.71428571428571
+2619;relationship;liet;7.57142857142857
+2620;relationship;poligin;7.2
+2621;relationship;prezios;7.65
+2622;relationship;orgogl;7.14285714285714
+2623;relationship;promett;8
+2624;relationship;protett;8.2
+2625;relationship;protegg;8.0959595959596
+2626;relationship;forn;7.175
+2627;relationship;relazion;9.02777777777778
+2628;relationship;far affid;7.42857142857143
+2629;relationship;nuov matrimon;7.8
+2630;relationship;rispos;7.63636363636364
+2631;relationship;rispett;8.57575757575758
+2632;relationship;ruol;7.88888888888889
+2633;relationship;romantic;9.18333333333333
+2634;relationship;romanz;10
+2635;relationship;romant;9.5
+2636;relationship;coinquilin;8.8
+2637;relationship;sacrosant;7.75
+2638;relationship;sicurezz;7.2625
+2639;relationship;stess sess;9.22222222222222
+2640;relationship;sess;8.7
+2641;relationship;attiv sessual;8.625
+2642;relationship;sessual;8.02272727272727
+2643;relationship;amor sessual;8.44444444444444
+2644;relationship;pratic sessual;7.22222222222222
+2645;relationship;impuls sessual;7.44444444444444
+2646;relationship;Condivid;7.63636363636364
+2647;relationship;condivis;7.1
+2648;relationship;dorm insiem;9.22222222222222
+2649;relationship;dorm con;9.57142857142857
+2650;relationship;sorris;8.4
+2651;relationship;sbaciucc;8.04090909090909
+2652;relationship;socievol;7.7
+2653;relationship;solid;7.375
+2654;relationship;rapport sponsal;9.45454545454546
+2655;relationship;Spos;10
+2656;relationship;stabil;7.6
+2657;relationship;patrign;8.88888888888889
+2658;relationship;forz;7.4
+2659;relationship;fort;8.54545454545454
+2660;relationship;sostegn;7.88888888888889
+2661;relationship;support;8.70833333333333
+2662;relationship;parl;8.65151515151516
+2663;relationship;squadr;7.98888888888889
+2664;relationship;far squadr;7.75
+2665;relationship;lavor di squadr;8
+2666;relationship;lacrim;8.42857142857143
+2667;relationship;cravatt;8.66666666666667
+2668;relationship;insiem;8.71428571428571
+2669;relationship;solidariet;9.7
+2670;relationship;tocc;7.5
+2671;relationship;toccant;7.7
+2672;relationship;transgender;7.81818181818182
+2673;relationship;verid;8.45454545454546
+2674;relationship;fiduc;8.98459595959596
+2675;relationship;si fid;8.09090909090909
+2676;relationship;gemell;7.2
+2677;relationship;zii;8
+2678;relationship;comprension;7.66666666666667
+2679;relationship;union;8.58333333333333
+2680;relationship;unitar;8.18181818181818
+2681;relationship;san valentin;9.28571428571429
+2682;relationship;valor;7.4
+2683;relationship;cordial;9.28571428571429
+2684;relationship;calor;8.9375
+2685;relationship;noi;9
+2686;relationship;cerimon matrimonial;9.18181818181818
+2687;relationship;fest di matrimon;7.625
+2688;relationship;beness;8
+2689;relationship;total;7.375
+2690;relationship;mogl;9.36363636363636
+2691;relationship;meravigl;7.1
+2692;soldier;attiv;7.3
+2693;soldier;afgan;8.125
+2694;soldier;afghanistan;8.81818181818182
+2695;soldier;aeronaut milit;8.28571428571429
+2696;soldier;ufficial dell'aeronaut;8
+2697;soldier;aere;7.45454545454545
+2698;soldier;aeroport;8.22222222222222
+2699;soldier;aviazion;9.3
+2700;soldier;aviator;7.875
+2701;soldier;alle;8.55555555555556
+2702;soldier;imbosc;8.21590909090909
+2703;soldier;tes un'imbosc;7.25
+2704;soldier;munizion;8.30808080808081
+2705;soldier;armat;9.28571428571429
+2706;soldier;combatt armat;10
+2707;soldier;forz armat;10
+2708;soldier;serviz armat;9.55555555555556
+2709;soldier;blind;9.14285714285714
+2710;soldier;veicol da combatt corazz;9.33333333333333
+2711;soldier;bracc;7.14285714285714
+2712;soldier;eserc;9.09090909090909
+2713;soldier;carr armat dell'eserc;9.85714285714286
+2714;soldier;artiglier;8.85714285714286
+2715;soldier;assal;7.71428571428571
+2716;soldier;assalt;7.83333333333333
+2717;soldier;aggression;7.08333333333333
+2718;soldier;assegn;8.3
+2719;soldier;atroc;7.5
+2720;soldier;attacc;8.75
+2721;soldier;aere d'attacc;9.55555555555556
+2722;soldier;Auschwitz;7.1
+2723;soldier;baghdad;7.77777777777778
+2724;soldier;balist;7.33333333333333
+2725;soldier;battaglion;9.33333333333333
+2726;soldier;battagl;9.86607142857143
+2727;soldier;combattent;9.34282828282828
+2728;soldier;combatt;9.4207264957265
+2729;soldier;berrett;7.85714285714286
+2730;soldier;guerr biolog;8.66666666666667
+2731;soldier;armi biolog;7.28571428571429
+2732;soldier;raffic;9.27272727272727
+2733;soldier;esplosion;8.22727272727273
+2734;soldier;bomb;9.35227272727273
+2735;soldier;bombard;8.77424242424242
+2736;soldier;front;7.11111111111111
+2737;soldier;proiettil;8.92307692307692
+2738;soldier;cadett;9.55555555555555
+2739;soldier;mimet;8.7
+2740;soldier;camuff;8.55555555555556
+2741;soldier;camp;8.26363636363637
+2742;soldier;campagn;8
+2743;soldier;cannon;8.85714285714286
+2744;soldier;cattur;7.72916666666667
+2745;soldier;cess il fuoc;8.1
+2746;soldier;cerimon;7.375
+2747;soldier;caten di com;8.45454545454546
+2748;soldier;caric;7.66666666666667
+2749;soldier;cap;8.28571428571429
+2750;soldier;civil;7.85714285714286
+2751;soldier;scontr;8.42857142857143
+2752;soldier;col.;8.2
+2753;soldier;colonnell;8.11111111111111
+2754;soldier;infortun da combatt;9.53333333333333
+2755;soldier;pront per il combatt;9.375
+2756;soldier;pront al combatt;9.77777777777778
+2757;soldier;com;8.23571428571429
+2758;soldier;comand;8.09975649350649
+2759;soldier;comand in cap;10
+2760;soldier;comm;9
+2761;soldier;commemor;8.71428571428571
+2762;soldier;impegn;7.92307692307692
+2763;soldier;compagn;8.66666666666666
+2764;soldier;conflitt;9
+2765;soldier;conquist;8.77777777777778
+2766;soldier;corp;9.11111111111111
+2767;soldier;nazion;8.54761904761905
+2768;soldier;dprk;7.83333333333333
+2769;soldier;pugnal;7.25
+2770;soldier;Pericol;8.25
+2771;soldier;pericol;8.4
+2772;soldier;deced;8.88888888888889
+2773;soldier;difend;9.55555555555556
+2774;soldier;schier;8.57142857142857
+2775;soldier;vic;7.15384615384615
+2776;soldier;distrugg;7.81666666666666
+2777;soldier;determin;7.75
+2778;soldier;fatt esplod;7.42857142857143
+2779;soldier;deton;7.4
+2780;soldier;devozion;7.4
+2781;soldier;mor;9
+2782;soldier;mort;8.09090909090909
+2783;soldier;conged;8
+2784;soldier;disciplin;9
+2785;soldier;dispacc;7.09090909090909
+2786;soldier;dover;9.75
+2787;soldier;dov;9.125
+2788;soldier;emergent;7.57142857142857
+2789;soldier;nemic;8.0625
+2790;soldier;rinforz;7.1
+2791;soldier;attrezzatur;7.27272727272727
+2792;soldier;esplos;8.38311688311689
+2793;soldier;fatic;8.18181818181818
+2794;soldier;paur;7.925
+2795;soldier;feroc;7.18333333333334
+2796;soldier;contrattacc;8.30769230769231
+2797;soldier;battaglier;9.72727272727273
+2798;soldier;armi da fuoc;9.75
+2799;soldier;Spar;7.77777777777778
+2800;soldier;spar;7.88103896103896
+2801;soldier;flott;8.55555555555556
+2802;soldier;forz;8.44444444444444
+2803;soldier;Mission ester;9
+2804;soldier;General d’arm;8.90909090909091
+2805;soldier;general;7.8
+2806;soldier;govern;7.3
+2807;soldier;bomb a man;7.55555555555556
+2808;soldier;gran;7.11111111111111
+2809;soldier;forz di terr;8.55555555555556
+2810;soldier;Forz di terr;7.71428571428571
+2811;soldier;guantanam;7.28571428571429
+2812;soldier;guard;8.97685185185185
+2813;soldier;guerrigl;8.66666666666667
+2814;soldier;pistol;8.85838383838384
+2815;soldier;pistoler;9.25
+2816;soldier;uomin armat;9.71428571428571
+2817;soldier;arma pesant;8.85714285714286
+2818;soldier;elicotter;7.4
+2819;soldier;ero;7.77777777777778
+2820;soldier;gerarc;7.88888888888889
+2821;soldier;sicar;7.95
+2822;soldier;offend;7.63636363636364
+2823;soldier;ideolog;7.75
+2824;soldier;fanter;9.5
+2825;soldier;fer;8.01111111111111
+2826;soldier;infortun;7
+2827;soldier;istruzion;7
+2828;soldier;strument;7.71428571428571
+2829;soldier;insort;7.58333333333333
+2830;soldier;invasion;7.63636363636364
+2831;soldier;iraq;8
+2832;soldier;irachen;8.22222222222222
+2833;soldier;israele-Palestin;7.33333333333333
+2834;soldier;israele/Palestin;7.54545454545455
+2835;soldier;lavor;8.375
+2836;soldier;jrotc;7.28571428571429
+2837;soldier;Kabul;8.42857142857143
+2838;soldier;uccision;8.92857142857143
+2839;soldier;uccis;8.42857142857143
+2840;soldier;uccid;7.8328373015873
+2841;soldier;Kuwait;8
+2842;soldier;Marin;7.2
+2843;soldier;star in aggu;7.4
+2844;soldier;tenent;9.55555555555556
+2845;soldier;lealist;7.25
+2846;soldier;lealt;8.125
+2847;soldier;lt.;9
+2848;soldier;luftwaff;7.63636363636364
+2849;soldier;in aggu;7
+2850;soldier;magg.;9.8
+2851;soldier;marc;9
+2852;soldier;in marc;8.77777777777778
+2853;soldier;marin;9.11111111111111
+2854;soldier;marittim;8.42857142857143
+2855;soldier;massacr;7.33333333333333
+2856;soldier;memorial;7.7
+2857;soldier;milit;7.6875
+2858;soldier;capac milit;8.8
+2859;soldier;controll milit;9.22222222222222
+2860;soldier;forz milit;9.46031746031746
+2861;soldier;grupp milit;9.54545454545454
+2862;soldier;macchin milit;8.27272727272727
+2863;soldier;mission milit;9.875
+2864;soldier;ufficial milit;9.84615384615385
+2865;soldier;postur milit;9.46153846153846
+2866;soldier;serviz milit;9.77777777777778
+2867;soldier;unit milit;8.81818181818182
+2868;soldier;miliz;9.11111111111111
+2869;soldier;milizian;9.54545454545454
+2870;soldier;missil;8.94444444444444
+2871;soldier;mission;9.28888888888889
+2872;soldier;monument;7.77777777777778
+2873;soldier;morta;9.125
+2874;soldier;mutil;7.11111111111111
+2875;soldier;napalm;7.42857142857143
+2876;soldier;nazional;8.55555555555556
+2877;soldier;naval;8.5
+2878;soldier;forz naval;8.77777777777778
+2879;soldier;Marin Milit;8
+2880;soldier;nco;8.8
+2881;soldier;neutralizz il bersagl;9
+2882;soldier;Core del nord;7.44444444444444
+2883;soldier;obbedient;8.125
+2884;soldier;obblig;7.8
+2885;soldier;occup;8
+2886;soldier;ufficial;8.65454545454546
+2887;soldier;Aprir il fuoc;8.58333333333333
+2888;soldier;oper;7.875
+2889;soldier;opposizion;7.4
+2890;soldier;ordin;7.95138888888889
+2891;soldier;ordign;8.5
+2892;soldier;Pakistan;7.25
+2893;soldier;sfil;7.42857142857143
+2894;soldier;paramilit;7.375
+2895;soldier;patriott;9.71428571428571
+2896;soldier;pattugl;9.4
+2897;soldier;pedin;8.14285714285714
+2898;soldier;ordin gerarc;7.85714285714286
+2899;soldier;person;7
+2900;soldier;per;7.63636363636364
+2901;soldier;personal;7.53472222222222
+2902;soldier;pian d'attacc;8.66666666666667
+2903;soldier;post traumat;8.475
+2904;soldier;disturb post traumat da stress;8.375
+2905;soldier;priv;9.09090909090909
+2906;soldier;professional;7.55555555555556
+2907;soldier;protegg;8.375
+2908;soldier;protett;7.85714285714286
+2909;soldier;protezion;7.66666666666667
+2910;soldier;ptsd;8.88888888888889
+2911;soldier;sicurezz pubblic;7
+2912;soldier;scop;7.88888888888889
+2913;soldier;qaed;8.5
+2914;soldier;raf;8.125
+2915;soldier;riconquist;7.44444444444444
+2916;soldier;mission di ricognizion;9.71428571428571
+2917;soldier;fazion dell'Arm Ross;8.9
+2918;soldier;eserc regol;9.3
+2919;soldier;ricord;8.14285714285714
+2920;soldier;salv;8.27272727272727
+2921;soldier;soccorritor;7.625
+2922;soldier;riserv;7.36363636363636
+2923;soldier;resilient;8
+2924;soldier;rispett;8.125
+2925;soldier;respons;8.66666666666667
+2926;soldier;fucil;8.55357142857143
+2927;soldier;risc;8.25252525252526
+2928;soldier;rotc;7.375
+2929;soldier;Aviazion Real;9.5
+2930;soldier;Russ;7.85714285714286
+2931;soldier;salvaguard;7.5
+2932;soldier;samura;8.88888888888889
+2933;soldier;Salvatagg;7
+2934;soldier;sicurezz;8.63636363636364
+2935;soldier;dipart di sicurezz;7.42857142857143
+2936;soldier;misur di sicurezz;7.3875
+2937;soldier;sistem di sicurezz;7.77777777777778
+2938;soldier;mand via;7.5
+2939;soldier;dov di sentinell;7.33333333333333
+2940;soldier;sergent;8.32386363636363
+2941;soldier;serv;9.17532467532467
+2942;soldier;serviz;8.375
+2943;soldier;Serviz;9.1
+2944;soldier;sold di bord;7.14285714285714
+2945;soldier;abbatt;9
+2946;soldier;tirator;8.72727272727273
+2947;soldier;ripres;9.85714285714286
+2948;soldier;abil;7.80909090909091
+2949;soldier;cecchin;7.55555555555556
+2950;soldier;sold;10
+2951;soldier;squadron;9.41428571428571
+2952;soldier;stat di guerr;9.1
+2953;soldier;di stanz;7.83333333333333
+2954;soldier;fort;9.25
+2955;soldier;struttur;7.375
+2956;soldier;lott;7.625
+2957;soldier;soffr;7.625
+2958;soldier;general superior;8.625
+2959;soldier;sopravviv;7
+2960;soldier;sopravviss;7.4375
+2961;soldier;Sir;8.33333333333333
+2962;soldier;tattic;7.33333333333333
+2963;soldier;taleban;7.9
+2964;soldier;serbatoi;9.2
+2965;soldier;Carr armat;9.2
+2966;soldier;carr armat;9.2
+2967;soldier;obbiett;8.63636363636364
+2968;soldier;bersagl;7
+2969;soldier;comp;7.625
+2970;soldier;territor;7.15
+2971;soldier;terror;7.94814814814815
+2972;soldier;allen;9.42857142857143
+2973;soldier;Addestr;8.58333333333333
+2974;soldier;addestr;8.58333333333333
+2975;soldier;trupp;9.28571428571429
+2976;soldier;u.s. air forc;9.375
+2977;soldier;Eserc uSA;9.7
+2978;soldier;uniform;9.03333333333333
+2979;soldier;aeronaut degl stat unit;9.3
+2980;soldier;eserc degl stat unit;8.9
+2981;soldier;marin degl stat unit;8.36363636363636
+2982;soldier;indiscuss;8.33333333333333
+2983;soldier;aeronaut american;9.55555555555556
+2984;soldier;eserc degl Stat unit;10
+2985;soldier;Marin american;8.22222222222222
+2986;soldier;Stat unit d'Americ;7
+2987;soldier;usaf;7.6
+2988;soldier;giubbott;7
+2989;soldier;veter;9.8
+2990;soldier;sold veter;9.72727272727273
+2991;soldier;veteran;10
+2992;soldier;veterinar;7.22222222222222
+2993;soldier;vittim;7
+2994;soldier;vietnam;9.125
+2995;soldier;Vietnam;7.375
+2996;soldier;guerr del Vietnam;9.75
+2997;soldier;violenz;9.5
+2998;soldier;guerr;9.27777777777778
+2999;soldier;macchin da guerr;8.4
+3000;soldier;test;7.375
+3001;soldier;cavall di battagl;7
+3002;soldier;aere da guerr;7.54545454545455
+3003;soldier;guerrier;7.72222222222222
+3004;soldier;nav da guerr;8.55555555555556
+3005;soldier;temp di guerr;9.88888888888889
+3006;soldier;arma;9.45454545454546
+3007;soldier;sistem d'arm;8.45454545454546
+3008;soldier;armi;9.27272727272727
+3009;soldier;Armi;9.33333333333333
+3010;soldier;Lavor;7.77777777777778
+3011;soldier;guerr mondial;10
+3012;soldier;in tutt il mond;7
+3013;soldier;ww1;9.23076923076923
+3014;soldier;ww2;9.85714285714286
+3015;soldier;prim guerr mondial;10
+3016;soldier;second guerr mondial;9.2
+3017;suicide;conseguent;7.375
+3018;suicide;agon;7.83333333333333
+3019;suicide;alien;7.18181818181818
+3020;suicide;sol;7.91666666666667
+3021;suicide;solitudin;8.87142857142857
+3022;suicide;ambul;7.85
+3023;suicide;angosc;8.89959595959596
+3024;suicide;ansi;8.33333333333333
+3025;suicide;ansios;7.45454545454545
+3026;suicide;tentat;8.01923076923077
+3027;suicide;tent;7.63636363636363
+3028;suicide;terribil;8.49305555555556
+3029;suicide;sangu;7.44444444444444
+3030;suicide;corp;7.6
+3031;suicide;bomb;8.3625
+3032;suicide;bombard;8.125
+3033;suicide;matt;7.25
+3034;suicide;distrugg;8.02272727272728
+3035;suicide;abbatt;8.625
+3036;suicide;proiettil;8.625
+3037;suicide;catastrof;8
+3038;suicide;cess;9.22222222222222
+3039;suicide;depression clinic;9.44444444444444
+3040;suicide;Preoccup;7
+3041;suicide;conflittual;8.5
+3042;suicide;piang;7.1
+3043;suicide;Crep;7.8
+3044;suicide;Grid d’ai;9.125
+3045;suicide;piant;7.72727272727273
+3046;suicide;cyber bullism;7.13636363636363
+3047;suicide;dann;8.8
+3048;suicide;Pericol;8.5
+3049;suicide;pericol;7.85714285714286
+3050;suicide;bui;7.33838383838383
+3051;suicide;mort;9.36363636363637
+3052;suicide;corp mort;9.66666666666667
+3053;suicide;Mort;9.85042735042735
+3054;suicide;deced;9.91666666666667
+3055;suicide;decess;9.12820512820512
+3056;suicide;sconfitt;7.5
+3057;suicide;partenz;8.33333333333333
+3058;suicide;depression;9.88888888888889
+3059;suicide;disordin depress;8.11111111111111
+3060;suicide;desol;7.73333333333333
+3061;suicide;disper;9.55026455026455
+3062;suicide;distruzion;7.54545454545455
+3063;suicide;mor;9.47863247863248
+3064;suicide;malcontent;8.14285714285714
+3065;suicide;dispiac;8.72727272727273
+3066;suicide;sconvolt;9.71428571428571
+3067;suicide;disturb;7.6
+3068;suicide;paur;8.55681818181818
+3069;suicide;crep;8.92307692307692
+3070;suicide;morent;9.63636363636364
+3071;suicide;fin;8.79949494949495
+3072;suicide;mett in pericol;7
+3073;suicide;fug;9.75
+3074;suicide;eubstanc;7
+3075;suicide;straz;7.8
+3076;suicide;esaust;7.22222222222222
+3077;suicide;uscit;7
+3078;suicide;esplos;7.625
+3079;suicide;fed;7
+3080;suicide;stuf;8.375
+3081;suicide;sensazion;8.125
+3082;suicide;fas final;9.44444444444444
+3083;suicide;decadent;8.28571428571429
+3084;suicide;abband;9.5
+3085;suicide;Rend l’anim;7.125
+3086;suicide;Esal l’ultim respir;7.61538461538461
+3087;suicide;grand Depression;7.61538461538461
+3088;suicide;dolor;8.70166666666667
+3089;suicide;cup;7.11111111111111
+3090;suicide;macabr;7.94444444444444
+3091;suicide;raccapricc;7.88888888888889
+3092;suicide;spar;8.11272727272727
+3093;suicide;pistoler;7
+3094;suicide;colp di pistol;7.875
+3095;suicide;append;9.64285714285714
+3096;suicide;sospes;8.5
+3097;suicide;si blocc;9.5
+3098;suicide;difficolt;8.08333333333333
+3099;suicide;dannegg;8.85984848484848
+3100;suicide;Sal;7
+3101;suicide;straziant;8
+3102;suicide;aiut;7.875
+3103;suicide;impotent;8.5
+3104;suicide;senz speranz;8.5625
+3105;suicide;irrimediabil;7.7
+3106;suicide;orribil;8.96212121212121
+3107;suicide;Ospedal;7.57142857142857
+3108;suicide;ricover;7.08333333333333
+3109;suicide;uman;7.625
+3110;suicide;impicc;8.27272727272727
+3111;suicide;offend;10
+3112;suicide;fer;7.96875
+3113;suicide;mal;7.33333333333333
+3114;suicide;malatt;8.74074074074074
+3115;suicide;immed;7.1
+3116;suicide;inabil;7.1
+3117;suicide;incident;7.6
+3118;suicide;inflitt;8
+3119;suicide;lesion;9
+3120;suicide;infortun;7.55555555555556
+3121;suicide;irrevers;9.72727272727273
+3122;suicide;irrevoc;9.16666666666667
+3123;suicide;isol;8.625
+3124;suicide;salt;7.0625
+3125;suicide;salt giù;8.44444444444444
+3126;suicide;salt fuor;7.5
+3127;suicide;butt;7.36363636363636
+3128;suicide;uccision;9.6
+3129;suicide;uccis;7.625
+3130;suicide;uccid;9.07692307692308
+3131;suicide;ultim istanz;8.66666666666667
+3132;suicide;ultim spiagg;8.5
+3133;suicide;lasc alle spall;8.5
+3134;suicide;vit;7.33333333333333
+3135;suicide;solitar;8.31144781144781
+3136;suicide;perd;7.97222222222222
+3137;suicide;pers;7.15384615384615
+3138;suicide;depression maniacal;8
+3139;suicide;malatt maniac depress;8.6
+3140;suicide;psicos maniaco-depress;8.3
+3141;suicide;pes;7.72727272727273
+3142;suicide;medic;7
+3143;suicide;mental;7.69230769230769
+3144;suicide;malatt mental;8.65555555555556
+3145;suicide;sal mental;9.63636363636364
+3146;suicide;miser;7.27272727272727
+3147;suicide;nessun via d'usc;8
+3148;suicide;overd;9.58441558441558
+3149;suicide;sopraffatt;7.6
+3150;suicide;sensazion dolor;7.57142857142857
+3151;suicide;per;7
+3152;suicide;permanent;8.57142857142857
+3153;suicide;medic assist;7.7
+3154;suicide;pillol;9.125
+3155;suicide;pianific;9.22222222222222
+3156;suicide;velen;8.875
+3157;suicide;avvelen;8.8
+3158;suicide;psicos;7.71428571428571
+3159;suicide;ptsd;7.55555555555556
+3160;suicide;prem il grillett;7.66666666666667
+3161;suicide;mett a mort;8.5
+3162;suicide;rakehell;7
+3163;suicide;lam di rasoi;8
+3164;suicide;strapp;8
+3165;suicide;cord;8.875
+3166;suicide;trist;9.25
+3167;suicide;tristezz;8.69191919191919
+3168;suicide;cicatric;7.08333333333333
+3169;suicide;allarm;8.55555555555556
+3170;suicide;Spavent;7
+3171;suicide;grid;7
+3172;suicide;urla;7.125
+3173;suicide;autolesion;9.18181818181818
+3174;suicide;abneg;7.77777777777778
+3175;suicide;insicurezz;8.11111111111111
+3176;suicide;fer autoinflitt;9.27272727272727
+3177;suicide;disgust di sè;7.81818181818182
+3178;suicide;automutil;8.93333333333333
+3179;suicide;acut;7.375
+3180;suicide;Sparator;8.25
+3181;suicide;Scus;7.625
+3182;suicide;pugnal;8.625
+3183;suicide;fatic;7.66666666666667
+3184;suicide;lott;8.375
+3185;suicide;soffr;8.625
+3186;suicide;subìt;9.09090909090909
+3187;suicide;sofferent;8.7
+3188;suicide;suicid;10
+3189;suicide;terror suicid;7.63636363636364
+3190;suicide;giubbott suicid;7.6
+3191;suicide;prend;7.55555555555556
+3192;suicide;terminal;7.88888888888889
+3193;suicide;termin;9
+3194;suicide;cessazion;8.8
+3195;suicide;terrorizz;7.5
+3196;suicide;minacc;7
+3197;suicide;stanc di;7.36363636363636
+3198;suicide;torment;8.73316498316498
+3199;suicide;tortur;7.11111111111111
+3200;suicide;traged;9.55909090909091
+3201;suicide;tragic;9.75
+3202;suicide;traum;7.81818181818182
+3203;suicide;traumat;7.625
+3204;suicide;Traumatizz;8.75
+3205;suicide;turb;9.25
+3206;suicide;turbolent;7.83333333333333
+3207;suicide;infel;9.85714285714285
+3208;suicide;instabil;8.36363636363636
+3209;suicide;maless;8
+3210;suicide;rovesc;7.45454545454545
+3211;suicide;vener;7
+3212;suicide;vittim;8.81818181818182
+3213;suicide;vulner;9
+3214;suicide;preoccup;7.67857142857143
+3215;surveillance;adwar;7.69230769230769
+3216;surveillance;egid;7
+3217;surveillance;aere;8.125
+3218;surveillance;agenz;7.88888888888889
+3219;surveillance;analizz;8.73214285714285
+3220;surveillance;antenn;7.71428571428571
+3221;surveillance;intelligenc dell'eserc;8.6
+3222;surveillance;intelligent artificial;7
+3223;surveillance;valut;8.44444444444444
+3224;surveillance;Aud;8.63636363636364
+3225;surveillance;autor;8.35
+3226;surveillance;riconosc automat del volt;8.72727272727273
+3227;surveillance;Esser in cerc;8.28571428571429
+3228;surveillance;Segu;8.52777777777778
+3229;surveillance;testimon;7.79166666666667
+3230;surveillance;grand Fratell;8.9
+3231;surveillance;bluehydr;8
+3232;surveillance;cronolog di navig;7.375
+3233;surveillance;uffic;7.9
+3234;surveillance;videocam;9.75
+3235;surveillance;telecamer;9.45328282828283
+3236;surveillance;macchin fotograf;9.62727272727273
+3237;surveillance;cattur;8.125
+3238;surveillance;cas;7.44444444444444
+3239;surveillance;pres;7.125
+3240;surveillance;videosorvegl;9.54545454545454
+3241;surveillance;cellul;8.1625
+3242;surveillance;telef cellul;8.5
+3243;surveillance;controll;7.95155122655123
+3244;surveillance;guard;9.05244508577842
+3245;surveillance;chip;7.66666666666667
+3246;surveillance;cia;8.875
+3247;surveillance;clandestin;7.66666666666667
+3248;surveillance;circu chius;8.22222222222222
+3249;surveillance;com;7.41666666666667
+3250;surveillance;computer;9
+3251;surveillance;confidenzial;7.1
+3252;surveillance;poliz;8.2
+3253;surveillance;controllor;7
+3254;surveillance;corruzion;7.25
+3255;surveillance;controspionagg;8.44444444444444
+3256;surveillance;antiterror;8.9
+3257;surveillance;cover;8.3
+3258;surveillance;copertur;7.30769230769231
+3259;surveillance;nascost;7.86363636363637
+3260;surveillance;crimin;7.57142857142857
+3261;surveillance;fedin penal;8
+3262;surveillance;criminal;8.875
+3263;surveillance;dat;8.1
+3264;surveillance;raccolt dat;8.7
+3265;surveillance;Banc dat;8.11111111111111
+3266;surveillance;banc dat;7.85714285714286
+3267;surveillance;rilev;9.06746031746031
+3268;surveillance;lavor investig;9.54545454545454
+3269;surveillance;rivel;8.92857142857143
+3270;surveillance;disposit;8.11111111111111
+3271;surveillance;scopr;7.92613636363637
+3272;surveillance;scopert;8.25
+3273;surveillance;diffident;7.44444444444444
+3274;surveillance;auricol;8.15384615384615
+3275;surveillance;Ascolt;7.71428571428571
+3276;surveillance;origl;8.66666666666667
+3277;surveillance;intercett;8.62706349206349
+3278;surveillance;rinforz;8.42857142857143
+3279;surveillance;spionagg;8.94444444444444
+3280;surveillance;spi;9.76314935064935
+3281;surveillance;evident;9.14285714285714
+3282;surveillance;esamin;8.23015873015873
+3283;surveillance;osserv;9.04722222222222
+3284;surveillance;Osserv;8.75
+3285;surveillance;facc;7.77777777777778
+3286;surveillance;riconosc faccial;8.62857142857143
+3287;surveillance;FBi;9
+3288;surveillance;agenz federal;8.28571428571429
+3289;surveillance;Fil;7
+3290;surveillance;Trov;7.22222222222222
+3291;surveillance;trov;7.72727272727273
+3292;surveillance;riscontr;7.66666666666667
+3293;surveillance;film;9.44444444444444
+3294;surveillance;gchq;8.75
+3295;surveillance;geoint;9
+3296;surveillance;govern;8.01363636363637
+3297;surveillance;attiv di govern;8.5
+3298;surveillance;agenz govern;8.57142857142857
+3299;surveillance;hacker;7.125
+3300;surveillance;hacking;7.90909090909091
+3301;surveillance;cuff;8.71428571428571
+3302;surveillance;ascolt;7.94267676767677
+3303;surveillance;elicotter;8.85714285714286
+3304;surveillance;zitt;7.63636363636364
+3305;surveillance;identif;7.125
+3306;surveillance;identific;8.8
+3307;surveillance;immagin;8.58368298368298
+3308;surveillance;inform;9
+3309;surveillance;ispezion;8.5
+3310;surveillance;intelligent;9.27272727272727
+3311;surveillance;attiv di intelligenc;9.57142857142857
+3312;surveillance;agenz di intelligenc;9.1
+3313;surveillance;inform di intelligenc;9.9
+3314;surveillance;oper di intelligenc;10
+3315;surveillance;serviz di intelligenc;9.18181818181818
+3316;surveillance;invadent;8.00892857142857
+3317;surveillance;intrusion;8.375
+3318;surveillance;indag;8.81111111111111
+3319;surveillance;indagin;8.41269841269841
+3320;surveillance;investig;7.81428571428571
+3321;surveillance;bas su ip;7.875
+3322;surveillance;ten d'occ;9.5
+3323;surveillance;Rig dritt;8
+3324;surveillance;keylogger;7.4
+3325;surveillance;kgb;8.66666666666667
+3326;surveillance;legg;8.57142857142857
+3327;surveillance;infrang la legg;8.44444444444444
+3328;surveillance;bighellon;7.11111111111111
+3329;surveillance;Guard;8.83333333333334
+3330;surveillance;Controll;8.5
+3331;surveillance;attenzion;9.5625
+3332;surveillance;cerc;9.72727272727273
+3333;surveillance;malw;9.44444444444444
+3334;surveillance;mi5;7.22222222222222
+3335;surveillance;mi6;8.27272727272727
+3336;surveillance;microf;7.625
+3337;surveillance;microfon;8.375
+3338;surveillance;milit;8.5
+3339;surveillance;diffid;8.16666666666667
+3340;surveillance;ten sott controll;9.54545454545454
+3341;surveillance;monitor;9.88461538461539
+3342;surveillance;monitoragg;9.51363636363637
+3343;surveillance;disposit di monitoragg;10
+3344;surveillance;mossad;7
+3345;surveillance;mister;7.34821428571428
+3346;surveillance;Agenz di sicurezz nazional;9.11111111111111
+3347;surveillance;nevrot;7
+3348;surveillance;not;8.49038461538461
+3349;surveillance;nsa;9.125
+3350;surveillance;ntv;7
+3351;surveillance;ossess;7.8
+3352;surveillance;ufficial;8.4
+3353;surveillance;intelligenc opensourc;7.1
+3354;surveillance;oppression;7.75
+3355;surveillance;paran;7.9
+3356;surveillance;pattugl;9.45454545454546
+3357;surveillance;pentag;8.57142857142857
+3358;surveillance;telefon;7.9
+3359;surveillance;pianific;7.36363636363636
+3360;surveillance;Poliz Stradal;9.375
+3361;surveillance;forz di poliz;9.45454545454546
+3362;surveillance;poliziott;8.30113636363637
+3363;surveillance;pred;7.125
+3364;surveillance;intim;7
+3365;surveillance;riservatezz;8.125
+3366;surveillance;sensor;8.00901875901876
+3367;surveillance;procedur;7
+3368;surveillance;procur;7.16666666666667
+3369;surveillance;programm;7.10795454545454
+3370;surveillance;viet;7.22222222222222
+3371;surveillance;protegg;8.41144781144781
+3372;surveillance;protezion;7.88888888888889
+3373;surveillance;putin;7.625
+3374;surveillance;rad;9.28571428571429
+3375;surveillance;ricognizion;10
+3376;surveillance;mission di ricognizion;8.4
+3377;surveillance;registr;8.94294871794872
+3378;surveillance;record;7.28571428571429
+3379;surveillance;regim;7
+3380;surveillance;regolament;7.23076923076923
+3381;surveillance;rapport;8.67676767676767
+3382;surveillance;segnal;8
+3383;surveillance;rootkit;7.25
+3384;surveillance;repubbl social feder soviet russ;7.57142857142857
+3385;surveillance;salvaguard;8.875
+3386;surveillance;disposit di sicurezz;7.8
+3387;surveillance;scip;7
+3388;surveillance;Esplorator;8.18181818181818
+3389;surveillance;Ricognizion;8.22222222222222
+3390;surveillance;vedett;8.22222222222222
+3391;surveillance;ricognitor;8.22222222222222
+3392;surveillance;scherm;8.31111111111111
+3393;surveillance;selezion;8.75714285714286
+3394;surveillance;ricerc;8.72916666666666
+3395;surveillance;segretezz;8.35714285714285
+3396;surveillance;segret;7.77651515151515
+3397;surveillance;sicurezz;8
+3398;surveillance;dipart di sicurezz;8.3
+3399;surveillance;misur di sicurezz;8.16666666666666
+3400;surveillance;sistem di sicurezz;10
+3401;surveillance;ved;9.35714285714286
+3402;surveillance;vist;7.66666666666667
+3403;surveillance;sentinell;8.75
+3404;surveillance;dov di sentinell;7.25
+3405;surveillance;mostr;7.44444444444444
+3406;surveillance;rilev del segnal;8.1
+3407;surveillance;curios;8.375
+3408;surveillance;social networks;8.22222222222222
+3409;surveillance;Softw;7
+3410;surveillance;russ soviet;7.27272727272727
+3411;surveillance;Avvist;8.4
+3412;surveillance;individu;8.125
+3413;surveillance;riconosc;8.125
+3414;surveillance;Scorg;8.125
+3415;surveillance;Ricognitor;8.125
+3416;surveillance;avvist;7.125
+3417;surveillance;spywar;8.75
+3418;surveillance;ssl;7
+3419;surveillance;pedin;8.42857142857143
+3420;surveillance;molest;7.33333333333333
+3421;surveillance;stalking;7.9
+3422;surveillance;segu;9.11111111111111
+3423;surveillance;stat;7.42857142857143
+3424;surveillance;soggiog;7
+3425;surveillance;sovrintend;8
+3426;surveillance;sorvegl;9.87179487179487
+3427;surveillance;sospett;7.97722222222222
+3428;surveillance;sospettos;7.71428571428571
+3429;surveillance;sistem;8.4
+3430;surveillance;sched;7.875
+3431;surveillance;tattic;7.22222222222222
+3432;surveillance;prend not;8.25974025974026
+3433;surveillance;nastr;7.88888888888889
+3434;surveillance;obbiett;7
+3435;surveillance;zon bersagl;8.66666666666667
+3436;surveillance;mir;7.63333333333333
+3437;surveillance;bersagl;7
+3438;surveillance;tech;8.25
+3439;surveillance;tecnolog;8.69552669552669
+3440;surveillance;telecomun;7.85714285714286
+3441;surveillance;minacc;7.99285714285714
+3442;surveillance;tracc;8.97402597402597
+3443;surveillance;tv;8.71428571428571
+3444;surveillance;uSA;7.88888888888889
+3445;surveillance;sott copertur;9.22222222222222
+3446;surveillance;agent sott copertur;9.25
+3447;surveillance;lavor sott copertur;8.8
+3448;surveillance;union dell Repubbl Social Soviet;7.09090909090909
+3449;surveillance;Stat unit d'Americ;7.09090909090909
+3450;surveillance;verif;7
+3451;surveillance;vide;8.725
+3452;surveillance;registr vide;9.57142857142857
+3453;surveillance;videocassett;8.9
+3454;surveillance;Visualizz;9.125
+3455;surveillance;visualizz;9.4
+3456;surveillance;VPN;8.5
+3457;surveillance;attent;7.4
+3458;surveillance;can da guard;8.66666666666667
+3459;threat;rap;7.47037037037037
+3460;threat;atto di terror;9.22222222222222
+3461;threat;azion;7.71428571428571
+3462;threat;avversar;8.83068783068783
+3463;threat;paur;8.11051948051948
+3464;threat;aggrav;7.30769230769231
+3465;threat;aggred;9.14285714285714
+3466;threat;allarm;8.18055555555556
+3467;threat;mett in guard;8.55555555555556
+3468;threat;rabb;8.52272727272727
+3469;threat;antagon;7.5
+3470;threat;ansi;8.2
+3471;threat;discut;7
+3472;threat;discussion;7
+3473;threat;ragion;7.44444444444444
+3474;threat;argoment;8
+3475;threat;assalt;8.64583333333334
+3476;threat;attacc;9.1
+3477;threat;tentat;7.625
+3478;threat;autor;8.28571428571429
+3479;threat;vendic;7.46127946127946
+3480;threat;catt;7
+3481;threat;battagl;8.375
+3482;threat;camp di battagl;7.54545454545455
+3483;threat;bomb;9.07692307692308
+3484;threat;bombard;9.875
+3485;threat;abbatt;8.5
+3486;threat;brutal;7.1
+3487;threat;bullism;7.27272727272727
+3488;threat;prigionier;7.25
+3489;threat;cacc;9.33333333333334
+3490;threat;combatt;8.0331746031746
+3491;threat;preoccup;7.11111111111111
+3492;threat;riguard;7.125
+3493;threat;conflitt;8.5
+3494;threat;conseguent;7.44444444444444
+3495;threat;crimin;8.57142857142857
+3496;threat;penal;8.33333333333333
+3497;threat;reat penal;8.5
+3498;threat;criminal;9.5
+3499;threat;dann;7.91428571428571
+3500;threat;dannos;8.4
+3501;threat;Pericol;9.75
+3502;threat;pericol;8.98477118119975
+3503;threat;mort;8
+3504;threat;mortal;8.57142857142857
+3505;threat;Mort;7.375
+3506;threat;indifes;7
+3507;threat;deterrent;8.33333333333333
+3508;threat;disgreg;8.14285714285714
+3509;threat;sconvolt;7.09090909090909
+3510;threat;angosc;7.375
+3511;threat;domin;7.45555555555555
+3512;threat;mett in pericol;8.58333333333333
+3513;threat;intensific;8.85714285714286
+3514;threat;evacu;8.625
+3515;threat;esplosion;7.5
+3516;threat;esposizion;7.85714285714286
+3517;threat;estrem;9.11111111111111
+3518;threat;tem;8.625
+3519;threat;feroc;8.13148148148148
+3520;threat;Battagl;7
+3521;threat;lott;7
+3522;threat;contrattacc;7
+3523;threat;battaglier;8.16666666666667
+3524;threat;fuoc;7.44444444444444
+3525;threat;allag;8.4
+3526;threat;nemic;8.36363636363636
+3527;threat;forz;8.25
+3528;threat;costrett;7.25
+3529;threat;fort;7.36363636363636
+3530;threat;con forz;7.77777777777778
+3531;threat;forzatur;8.18181818181818
+3532;threat;impaur;8
+3533;threat;spavent;8.64168569525712
+3534;threat;fur;7.94318181818182
+3535;threat;band;7.85714285714286
+3536;threat;molest;8.5551948051948
+3537;threat;odi;8.58846153846154
+3538;threat;risc;9.21481481481481
+3539;threat;omicid;8.28282828282829
+3540;threat;ostagg;8.70833333333334
+3541;threat;fer;8.5
+3542;threat;incit;7.5
+3543;threat;infligg;7.47936507936508
+3544;threat;lesion;7.53846153846154
+3545;threat;intend;8
+3546;threat;intent;7.36363636363636
+3547;threat;intenzion;9.71428571428571
+3548;threat;intimid;9.75
+3549;threat;ira;8.83333333333333
+3550;threat;coller;8.28571428571429
+3551;threat;mett a repentagl;8.33333333333333
+3552;threat;Ten in rig;7.375
+3553;threat;rapitor;9.3
+3554;threat;uccis;7
+3555;threat;uccision;8.3
+3556;threat;azion legal;7.8
+3557;threat;line di ragion;7.42857142857143
+3558;threat;pazz;7.36363636363636
+3559;threat;malar;7.55555555555556
+3560;threat;manipol;8.14285714285715
+3561;threat;minacc;9.68775668775669
+3562;threat;Messagg;7.54545454545455
+3563;threat;milit;8.2
+3564;threat;azion milit;9.77777777777778
+3565;threat;offes;9
+3566;threat;oppors;7.44444444444444
+3567;threat;oppositor;9
+3568;threat;oppon;7.5
+3569;threat;opposizion;7.57142857142857
+3570;threat;indign;9.25
+3571;threat;dolor;7.9375
+3572;threat;panic;9.5
+3573;threat;attacc di panic;7.91666666666667
+3574;threat;paranoi;7.875
+3575;threat;pedofil;8.22222222222222
+3576;threat;pian d'attacc;7.9
+3577;threat;poliz;7.5
+3578;threat;polit;7.6
+3579;threat;porr;7.28571428571429
+3580;threat;pred;8.24734848484849
+3581;threat;Cacc;8.25
+3582;threat;provoc;7.87415824915825
+3583;threat;pun;8.2
+3584;threat;litig;7.16666666666667
+3585;threat;Litig;8.44444444444444
+3586;threat;razzism;8.44444444444444
+3587;threat;razzistA;7
+3588;threat;incursion;8
+3589;threat;ross;7.33333333333333
+3590;threat;allarm ross;9.81818181818182
+3591;threat;ritorsion;8.8
+3592;threat;rappresagl;7.25
+3593;threat;vendett;8.28571428571429
+3594;threat;rivolt;7.6
+3595;threat;risc di esposizion;8
+3596;threat;risc di infezion;9.09090909090909
+3597;threat;corr un risc;8.5
+3598;threat;mett in fug;7.72727272727273
+3599;threat;sicurezz;8.77777777777778
+3600;threat;dipart di sicurezz;8.08333333333333
+3601;threat;misur di sicurezz;8.22142857142857
+3602;threat;sistem di sicurezz;8.28571428571429
+3603;threat;ser;8.625
+3604;threat;fatic;7.76923076923077
+3605;threat;soffr;7.77777777777778
+3606;threat;sofferent;7.7
+3607;threat;suicid;7.44444444444444
+3608;threat;terrorizz;9.05555555555556
+3609;threat;terror;9.61679292929293
+3610;threat;atto terrorist;8.44444444444444
+3611;threat;attacc terrorist;10
+3612;threat;traum;7.8
+3613;threat;grillett facil;7.25
+3614;threat;problem;8.66666666666667
+3615;threat;disag;8.125
+3616;threat;disordin;7.42857142857143
+3617;threat;veemenz;7.2
+3618;threat;irrit;7
+3619;threat;vizios;9
+3620;threat;vittim;7.725
+3621;threat;violenz;9.5
+3622;threat;violent;8.11111111111111
+3623;threat;avvis;7.22222222222222
+3624;threat;mess in guard;9.28571428571429
+3625;threat;avvert;9.14880952380952
+3626;threat;disposit di avvis;8.75
+3627;threat;segnal di avvert;9.2
+3628;threat;indebol;7.125
+3629;threat;sbagl;7
+3630;violence;rap;8.125
+3631;violence;abus;9.46468253968254
+3632;violence;atto di terror;9.5
+3633;violence;avversar;7.54545454545455
+3634;violence;paur;8.13769841269841
+3635;violence;aggrav;8.125
+3636;violence;aggred;7.55555555555556
+3637;violence;aggression;9.27272727272727
+3638;violence;aggressor;9.3560606060606
+3639;violence;agit;8
+3640;violence;alterc;8.68181818181818
+3641;violence;imbosc;8.25
+3642;violence;munizion;9.14285714285714
+3643;violence;la rabb;9.375
+3644;violence;rabb;9.45454545454546
+3645;violence;armat;8.77777777777778
+3646;violence;eserc;7
+3647;violence;arrest;8.55909090909091
+3648;violence;incend dolos;9
+3649;violence;artiglier;9
+3650;violence;assal;9.11111111111111
+3651;violence;assalitor;9.13194444444444
+3652;violence;assalt;9.22727272727273
+3653;violence;attacc;9.06313131313131
+3654;violence;catt;8.63636363636364
+3655;violence;mal;8.5
+3656;violence;scopp;8.77777777777778
+3657;violence;barbar;8.7
+3658;violence;battagl;9.36868686868687
+3659;violence;combatt;8.98379629629629
+3660;violence;comport;7.2
+3661;violence;Tac;7.25
+3662;violence;mors;7.33333333333333
+3663;violence;amarezz;7.85714285714286
+3664;violence;raffic;7
+3665;violence;sanguin;8.72159090909091
+3666;violence;sangu;9.5
+3667;violence;sparg di sangu;10
+3668;violence;sanguinar;9
+3669;violence;bomb;9.20833333333334
+3670;violence;bombard;9.57342657342658
+3671;violence;riss;8.97402597402598
+3672;violence;abbatt;7.21428571428572
+3673;violence;ammacc;9.5
+3674;violence;brutal;9.48148148148148
+3675;violence;brut;9.57142857142857
+3676;violence;proiettil;9.6
+3677;violence;bullism;8.8
+3678;violence;sbatt;9.125
+3679;violence;furt;7.10795454545454
+3680;violence;bruc;8.77777777777778
+3681;violence;vittim;8.93553391053391
+3682;violence;caric;7.55555555555556
+3683;violence;collision;7.28571428571429
+3684;violence;infortun da combatt;8.6
+3685;violence;pront per il combatt;7.91666666666667
+3686;violence;conflitt;10
+3687;violence;confront;8.11111111111111
+3688;violence;convinzion;7.30769230769231
+3689;violence;crimin;9.14772727272727
+3690;violence;penal;7.66666666666667
+3691;violence;reat penal;9.25
+3692;violence;criminalizz;8.3
+3693;violence;criminal;8.71190476190476
+3694;violence;crudel;9.3
+3695;violence;croc;7.6
+3696;violence;colpevol;8.175
+3697;violence;tagl;8.79166666666667
+3698;violence;dann;7.98703703703704
+3699;violence;Pericol;9.14285714285714
+3700;violence;pericol;8.63194444444444
+3701;violence;mort;8.14583333333334
+3702;violence;mortal;9.7
+3703;violence;Mort;9.25
+3704;violence;deced;8.25
+3705;violence;decess;7.6
+3706;violence;difend;7.44444444444444
+3707;violence;demol;8.1
+3708;violence;demolizion;7
+3709;violence;distrugg;8.85534188034188
+3710;violence;distruzion;8
+3711;violence;distrutt;9.85714285714286
+3712;violence;detest;7
+3713;violence;fatt esplod;8.5
+3714;violence;devast;8.8
+3715;violence;disaccord;8
+3716;violence;disgust;8.45454545454546
+3717;violence;dispiac;8
+3718;violence;controvers;8.46666666666667
+3719;violence;dissens;7.6
+3720;violence;angosc;8.55555555555556
+3721;violence;domest;7.125
+3722;violence;mett in pericol;8.375
+3723;violence;nemic;7.95757575757576
+3724;violence;inimiciz;8.14285714285714
+3725;violence;intensific;7.7
+3726;violence;escalation;8.66666666666667
+3727;violence;esecu;9
+3728;violence;esplos;8.85555555555556
+3729;violence;esplosion;8.54545454545454
+3730;violence;estrem;9
+3731;violence;facc a facc;7
+3732;violence;incident fatal;7
+3733;violence;fatal;8.8
+3734;violence;tem;8.33333333333333
+3735;violence;feroc;9
+3736;violence;contrattacc;7.6
+3737;violence;battaglier;9.75
+3738;violence;forz;8.7989417989418
+3739;violence;espell;7
+3740;violence;frustrazion;7.08333333333333
+3741;violence;fur;9.26936026936027
+3742;violence;band;9.11111111111111
+3743;violence;repubblican;7
+3744;violence;pred;8.7
+3745;violence;bomb a man;9.46153846153846
+3746;violence;gran;8.14285714285714
+3747;violence;dolor;8.77142857142857
+3748;violence;pistol;8.97916666666666
+3749;violence;pistoler;8.25
+3750;violence;uomin armat;9.125
+3751;violence;spar;8.94155844155845
+3752;violence;molest;7.80849358974359
+3753;violence;dannegg;9.19047619047619
+3754;violence;dur;9.125
+3755;violence;problem;7.625
+3756;violence;odi;9.32323232323233
+3757;violence;colp;8.92361111111111
+3758;violence;omicid;8.93396825396825
+3759;violence;orribil;9.14285714285714
+3760;violence;ostil;9.11111111111111
+3761;violence;offend;9.6031746031746
+3762;violence;fer;9.26388888888889
+3763;violence;fa mal;8.71428571428571
+3764;violence;ister;7
+3765;violence;reclusion;7.375
+3766;violence;inabilit;7.55555555555556
+3767;violence;incident;7.75
+3768;violence;infiamm;7.55555555555556
+3769;violence;inflizion;7.875
+3770;violence;led;8.77777777777778
+3771;violence;part les;7.875
+3772;violence;lesion;9.88888888888889
+3773;violence;infortun;9.45454545454546
+3774;violence;deten;7.2
+3775;violence;person innocent;7.72727272727273
+3776;violence;intent;8.63636363636364
+3777;violence;intimid;9.18181818181818
+3778;violence;investig;7.125
+3779;violence;ira;7.42857142857143
+3780;violence;prigion;8.74074074074074
+3781;violence;carcer;7.57142857142857
+3782;violence;gelos;7.875
+3783;violence;calc;8.68097643097643
+3784;violence;pres a calc;9.14285714285714
+3785;violence;uccision;9.5
+3786;violence;uccis;9.5
+3787;violence;uccid;8.65277777777778
+3788;violence;coltell;8.91666666666667
+3789;violence;colp di coltell;9.69230769230769
+3790;violence;scaten;9
+3791;violence;legg;8.33333333333333
+3792;violence;infrang la legg;10
+3793;violence;in pericol di vit;9.30769230769231
+3794;violence;sacchegg;7.66666666666667
+3795;violence;perd;7.1
+3796;violence;mach;7.2
+3797;violence;foll;7.09090909090909
+3798;violence;mutil;8.71666666666667
+3799;violence;caos;8.66666666666667
+3800;violence;misc;8
+3801;violence;minacc;8.8051948051948
+3802;violence;milit;9.125
+3803;violence;forz milit;8.25
+3804;violence;grupp milit;8.7
+3805;violence;unit milit;7.58333333333333
+3806;violence;senz cervell;7.46153846153846
+3807;violence;insens;7.68181818181818
+3808;violence;missil;8.20833333333334
+3809;violence;famigl e amic in lutt;7.08333333333333
+3810;violence;assassin;10
+3811;violence;obliter;8.55555555555556
+3812;violence;offes;8
+3813;violence;delinquent;8.8030303030303
+3814;violence;opprim;8.42857142857143
+3815;violence;oppressor;8.4
+3816;violence;fuor controll;8.25
+3817;violence;sfog;9.875
+3818;violence;indign;8
+3819;violence;sensazion dolor;8.77777777777778
+3820;violence;autor;8
+3821;violence;Perd nel personal;9.2
+3822;violence;pian d'attacc;8
+3823;violence;poliz;8.42857142857143
+3824;violence;energ;7.88888888888889
+3825;violence;provoc;8.06060606060606
+3826;violence;polverizz;8.125
+3827;violence;punc;9.625
+3828;violence;pres a pugn;9.625
+3829;violence;perfor;9
+3830;violence;pugn;10
+3831;violence;punzonatur;8.8
+3832;violence;sping;7.88888888888889
+3833;violence;mett a mort;8.7
+3834;violence;razzism;8.25
+3835;violence;razzistA;8
+3836;violence;radicalizz;7.81818181818182
+3837;violence;stupr;8.77777777777778
+3838;violence;stuprator;9.33333333333333
+3839;violence;rad al suol;8
+3840;violence;rivolt;8.71590909090909
+3841;violence;risc;7.5
+3842;violence;rapin;9.5
+3843;violence;calpest;7
+3844;violence;rovin;7
+3845;violence;spiet;8.66666666666667
+3846;violence;grid;8.77777777777778
+3847;violence;urland;8.55555555555555
+3848;violence;urla;8.4
+3849;violence;scud;8.42857142857143
+3850;violence;zuff;7.4
+3851;violence;impalcatur;8.09090909090909
+3852;violence;ved ross;9.26428571428572
+3853;violence;senz sens;8.14285714285714
+3854;violence;ser;7.36363636363636
+3855;violence;acut;7.1
+3856;violence;ripres;9.72727272727273
+3857;violence;sparator;10
+3858;violence;tir;9.125
+3859;violence;scatt;9.3
+3860;violence;res dei cont;7.57142857142857
+3861;violence;schegg;8
+3862;violence;strill;7.7
+3863;violence;barr;8
+3864;violence;fett;7.2
+3865;violence;slu;8
+3866;violence;schiacc;9
+3867;violence;distruttor;7.5
+3868;violence;Scatt;7.27272727272727
+3869;violence;beccaccin;7.88888888888889
+3870;violence;sold;7.75
+3871;violence;dispett;7.72727272727273
+3872;violence;pugnal;8.8
+3873;violence;accoltell;10
+3874;violence;stat di guerr;8.7
+3875;violence;fatic;7.90909090909091
+3876;violence;Stress;8.45454545454546
+3877;violence;Attacc;8.45454545454546
+3878;violence;scioper;8.6
+3879;violence;soffr;9.11111111111111
+3880;violence;sofferent;8.125
+3881;violence;suicid;7.875
+3882;violence;sospett;7.7
+3883;violence;prend not;7.25
+3884;violence;talebanizz;7.71428571428571
+3885;violence;obbiett;8
+3886;violence;zon bersagl;7.36363636363636
+3887;violence;mir;7.90277777777778
+3888;violence;bersagl;7.11111111111111
+3889;violence;lacrim;7.55555555555556
+3890;violence;tes;7.55555555555556
+3891;violence;tension;8.87857142857143
+3892;violence;terror;9.50694444444444
+3893;violence;terrorizz;9.3
+3894;violence;atto terrorist;9.71428571428571
+3895;violence;ladr;8
+3896;violence;traffic;8.2
+3897;violence;traum;8.66666666666667
+3898;violence;process;8.14285714285714
+3899;violence;grillett facil;7.36363636363636
+3900;violence;incontroll;8.81818181818182
+3901;violence;inesor;9.3
+3902;violence;indisciplin;8.6
+3903;violence;vandal;7.66666666666667
+3904;violence;vizios;7.875
+3905;violence;violenz;10
+3906;violence;violent;10
+3907;violence;mort violent;9.54545454545454
+3908;violence;disordin violent;9.7
+3909;violence;guerr;9.33333333333333
+3910;violence;test;9.42857142857143
+3911;violence;arma;8.81818181818182
+3912;violence;sistem d'arm;9.25
+3913;violence;armi;9.22222222222222
+3914;violence;Armi;9.18181818181818
+3915;violence;preoccup;7
+3916;violence;pegg;7.72727272727273
+3917;violence;coller;7.9
+3918;violence;malfattor;7.42857142857143
+3919;violence;urlo;7.81818181818182
+3920;weaponry;155 mm;9.57142857142857
+3921;weaponry;azion;7.625
+3922;weaponry;aggred;8.33333333333333
+3923;weaponry;scop;9.71428571428571
+3924;weaponry;ak-47;10
+3925;weaponry;imbosc;7.81818181818182
+3926;weaponry;americ;8.5
+3927;weaponry;munizion;9.69065656565657
+3928;weaponry;antiaere;9.2
+3929;weaponry;anticarr;8
+3930;weaponry;armament;8.90909090909091
+3931;weaponry;armat;8.72727272727273
+3932;weaponry;forz armat;7.55555555555556
+3933;weaponry;person armat;9.7
+3934;weaponry;serviz armat;8.81818181818182
+3935;weaponry;armatur;8.91558441558442
+3936;weaponry;blind;9.58035714285715
+3937;weaponry;veicol da combatt corazz;8.42857142857143
+3938;weaponry;armi;9.8
+3939;weaponry;eserc;9.8
+3940;weaponry;carr armat dell'eserc;9.77777777777778
+3941;weaponry;artiglier;9.5
+3942;weaponry;assal;8.14285714285714
+3943;weaponry;assalitor;7
+3944;weaponry;assalt;8.00595238095238
+3945;weaponry;aggression;8.25
+3946;weaponry;atom;7.9
+3947;weaponry;guerr atom;8.77777777777778
+3948;weaponry;attacc;8.75281385281385
+3949;weaponry;asci;8.625
+3950;weaponry;assi;10
+3951;weaponry;catt;8.4
+3952;weaponry;bash;7.28571428571429
+3953;weaponry;battagl;9.36363636363636
+3954;weaponry;corazz;8.55555555555556
+3955;weaponry;bazook;9.8
+3956;weaponry;cintur;7.18181818181818
+3957;weaponry;biolog;7.92307692307692
+3958;weaponry;merc ner;7.27272727272727
+3959;weaponry;lam;9.53333333333333
+3960;weaponry;raffic;9.4
+3961;weaponry;esplosion;9.07777777777778
+3962;weaponry;sangu;8.88888888888889
+3963;weaponry;sparg di sangu;8.2
+3964;weaponry;esplod;8.82386363636363
+3965;weaponry;bomb;9.76602564102564
+3966;weaponry;bombard;9.30769230769231
+3967;weaponry;tirapugn;8
+3968;weaponry;tirapugn d'otton;9.44444444444444
+3969;weaponry;proiettil;9.19360269360269
+3970;weaponry;depos;7.44444444444444
+3971;weaponry;calibr;8.875
+3972;weaponry;cannon;9
+3973;weaponry;vittim;8.46439393939394
+3974;weaponry;caric;7.14285714285714
+3975;weaponry;scontr;7.42857142857143
+3976;weaponry;pugn chius;7.27272727272727
+3977;weaponry;comand;7.54545454545455
+3978;weaponry;conflitt;8.28571428571429
+3979;weaponry;contrabb;7.53846153846154
+3980;weaponry;crimin;7.36363636363636
+3981;weaponry;criminal;8
+3982;weaponry;cris;7.66666666666667
+3983;weaponry;pugnal;8.81481481481481
+3984;weaponry;dann;9.14935064935065
+3985;weaponry;Pericol;7.18181818181818
+3986;weaponry;pericol;8.8
+3987;weaponry;dard;8.3
+3988;weaponry;mort;7.81818181818182
+3989;weaponry;mortal;9.3
+3990;weaponry;difes;9.33333333333333
+3991;weaponry;dipart dell difes;8.15714285714285
+3992;weaponry;forz di difes;9.88888888888889
+3993;weaponry;reazion difens;7
+3994;weaponry;squadr di difes;8.75
+3995;weaponry;difend;8.77777777777778
+3996;weaponry;demol;7.9
+3997;weaponry;distrugg;8.04166666666667
+3998;weaponry;distruttor;7.5
+3999;weaponry;distruzion;7.75
+4000;weaponry;distrutt;8.6
+4001;weaponry;Deton;9.4
+4002;weaponry;fatt esplod;8.54545454545454
+4003;weaponry;devast;7.22222222222222
+4004;weaponry;disastr;7.11111111111111
+4005;weaponry;mett in pericol;7.42857142857143
+4006;weaponry;esegu;8
+4007;weaponry;esplos;9.26893939393939
+4008;weaponry;estrem;9.5
+4009;weaponry;fatal;7.66666666666667
+4010;weaponry;paur;7.5
+4011;weaponry;feroc;7.33333333333333
+4012;weaponry;battaglier;9.5
+4013;weaponry;fuoc;7
+4014;weaponry;armi da fuoc;10
+4015;weaponry;arma da fuoc;9.83333333333333
+4016;weaponry;licenz;8.64615384615384
+4017;weaponry;potenz di fuoc;8.875
+4018;weaponry;lanciafiamm;7.63636363636364
+4019;weaponry;forz;8.68831168831169
+4020;weaponry;freg;7
+4021;weaponry;spavent;7
+4022;weaponry;fur;7
+4023;weaponry;gas;8.3
+4024;weaponry;attrezz;8.8
+4025;weaponry;genocid;7.57142857142857
+4026;weaponry;Perd le staff;8.22222222222222
+4027;weaponry;infur;8.71428571428571
+4028;weaponry;bomb a man;8.71428571428571
+4029;weaponry;gran;9.42857142857143
+4030;weaponry;Forz di terr;8
+4031;weaponry;guard;8.33333333333333
+4032;weaponry;pistol;9.88657407407407
+4033;weaponry;pistol a nolegg;8.06666666666667
+4034;weaponry;pistoler;9.5
+4035;weaponry;spar;9.2022792022792
+4036;weaponry;asci di guerr;8.25
+4037;weaponry;odi;7.1
+4038;weaponry;risc;7.5625
+4039;weaponry;arma pesant;9.5
+4040;weaponry;elicotter;8.33333333333333
+4041;weaponry;elsa;7.85714285714286
+4042;weaponry;colp;8.24305555555556
+4043;weaponry;sicar;8
+4044;weaponry;obic;8.66666666666667
+4045;weaponry;offend;8.44444444444444
+4046;weaponry;fa mal;8.1
+4047;weaponry;iCBM;10
+4048;weaponry;Min;8.90909090909091
+4049;weaponry;Bomb artigianal;7.33333333333333
+4050;weaponry;illegal;9
+4051;weaponry;illec;7.33333333333333
+4052;weaponry;strument;8.125
+4053;weaponry;ordign esplos improvvis;9.6
+4054;weaponry;fanter;9.1
+4055;weaponry;inflizion;8.2
+4056;weaponry;fer;8.40238095238095
+4057;weaponry;invasion;7.55555555555556
+4058;weaponry;iraq;8.3
+4059;weaponry;kalashnikov;7
+4060;weaponry;uccision;8.68888888888889
+4061;weaponry;uccis;8.90909090909091
+4062;weaponry;uccid;9.38261738261738
+4063;weaponry;coltell;9.39285714285715
+4064;weaponry;colp di coltell;7.1
+4065;weaponry;pugn di ferr;8.85714285714286
+4066;weaponry;lanciator;7.94444444444444
+4067;weaponry;in pericol di vit;7.16666666666667
+4068;weaponry;m-16;9.33333333333333
+4069;weaponry;mach;8.525
+4070;weaponry;macchin;8.71428571428571
+4071;weaponry;mitragl;9.90555555555556
+4072;weaponry;mutil;7.81818181818182
+4073;weaponry;massacr;8.625
+4074;weaponry;fiammifer;10
+4075;weaponry;minacc;8.56902356902357
+4076;weaponry;metall;7.375
+4077;weaponry;milit;8.31538461538462
+4078;weaponry;macchin milit;9.41666666666667
+4079;weaponry;Macchin bellic;9.8
+4080;weaponry;missil;9.9
+4081;weaponry;morta;7.28571428571429
+4082;weaponry;omicid;8.88888888888889
+4083;weaponry;nazional;7.2
+4084;weaponry;nucl;8.375
+4085;weaponry;obliter;7.33333333333333
+4086;weaponry;imponent;7.33333333333333
+4087;weaponry;dolor;7.52727272727272
+4088;weaponry;sensazion dolor;7.66666666666667
+4089;weaponry;pentag;8.28571428571429
+4090;weaponry;autor;8.375
+4091;weaponry;perfor;7.375
+4092;weaponry;pian d'attacc;8
+4093;weaponry;pluton;8
+4094;weaponry;velen;7.55555555555556
+4095;weaponry;poliz;7.44444444444444
+4096;weaponry;poliziott;8.57142857142857
+4097;weaponry;pred;7.125
+4098;weaponry;protezion;8.46666666666667
+4099;weaponry;Condann a mort;7
+4100;weaponry;mett a mort;7.44444444444444
+4101;weaponry;Omicid razzist;7.9
+4102;weaponry;omicid di stamp razzist;8.22222222222222
+4103;weaponry;incursion;8.22222222222222
+4104;weaponry;rincul;8.28571428571429
+4105;weaponry;eserc regol;8.25
+4106;weaponry;fucil;9.8076923076923
+4107;weaponry;rivolt;8.875
+4108;weaponry;rapin;8
+4109;weaponry;razz;9.2875
+4110;weaponry;propulsion a razz;9.875
+4111;weaponry;saddam;8
+4112;weaponry;Dann incalcol;7.85714285714286
+4113;weaponry;forbic;7
+4114;weaponry;flagell;7
+4115;weaponry;semiautomat;8.54545454545454
+4116;weaponry;ser;7
+4117;weaponry;abbatt;9.1
+4118;weaponry;tirator;9.88888888888889
+4119;weaponry;sparator;8.75
+4120;weaponry;tir;8.88888888888889
+4121;weaponry;schegg;9.66666666666667
+4122;weaponry;Armi legg;9.83333333333333
+4123;weaponry;schiacc;7.6
+4124;weaponry;cecchin;9.3
+4125;weaponry;sold;9.53030303030303
+4126;weaponry;lanc;10
+4127;weaponry;accoltell;8.22222222222222
+4128;weaponry;scort;8.09090909090909
+4129;weaponry;stat di guerr;9.25
+4130;weaponry;acciai;7.22222222222222
+4131;weaponry;baston;7.4
+4132;weaponry;sottomarin;7.33333333333333
+4133;weaponry;soffr;8.44444444444444
+4134;weaponry;sofferent;7.1
+4135;weaponry;giubbott suicid;8.875
+4136;weaponry;spad;9.69444444444444
+4137;weaponry;serbatoi;9.71428571428571
+4138;weaponry;vagon cistern;9.11111111111111
+4139;weaponry;carr armat;10
+4140;weaponry;obbiett;7.875
+4141;weaponry;zon bersagl;9.42857142857143
+4142;weaponry;mir;8.5
+4143;weaponry;bersagl;8.77777777777778
+4144;weaponry;terror;8.19732142857143
+4145;weaponry;terrorizz;8.16666666666667
+4146;weaponry;silur;9.72727272727273
+4147;weaponry;traum;7.90909090909091
+4148;weaponry;grillett;9
+4149;weaponry;trupp;8
+4150;weaponry;problem;7.11111111111111
+4151;weaponry;manganell;9.22222222222222
+4152;weaponry;torrett;7.4
+4153;weaponry;Eserc statunitens;9.6
+4154;weaponry;Stat unit;8
+4155;weaponry;eserc degl stat unit;8.36363636363636
+4156;weaponry;dipart dell difes degl stat unit;9
+4157;weaponry;uran;7.75
+4158;weaponry;eserc degl Stat unit;9.22222222222222
+4159;weaponry;Stat unit d'Americ;8.33333333333333
+4160;weaponry;violenz;9
+4161;weaponry;violent;9.125
+4162;weaponry;mort violent;7.55555555555556
+4163;weaponry;guerr;9.21031746031746
+4164;weaponry;macchin da guerr;9.63636363636364
+4165;weaponry;test;9.425
+4166;weaponry;guerrier;9.42857142857143
+4167;weaponry;nav da guerr;9.33333333333333
+4168;weaponry;arma;9.72727272727273
+4169;weaponry;sistem d'arm;9.9
+4170;weaponry;Armi;9.77777777777778
+4171;weaponry;spazz via;7.08333333333333

@@ -1,0 +1,4327 @@
+;category;word;orig_eng_rating
+1;deadline;volbracht;8.77777777777778
+2;deadline;acties;7.6
+3;deadline;mik;7.11111111111111
+4;deadline;angst;8.66666666666666
+5;deadline;spanning;7.7
+6;deadline;gespann;7.4
+7;deadline;nader;8.49444444444444
+8;deadline;benader;7.06666666666667
+9;deadline;regel;7.83333333333333
+10;deadline;artikel;7.77777777777778
+11;deadline;toewijz;7.22222222222222
+12;deadline;opdracht;8.3
+13;deadline;slopend;7.66666666666667
+14;deadline;voordat;7.1
+15;deadline;bas;8
+16;deadline;gren;8.1
+17;deadline;bedrijf;8.84615384615385
+18;deadline;kalender;8.93636363636363
+19;deadline;klok;7.90909090909091
+20;deadline;kloktijd;8.5
+21;deadline;dichtbij;8
+22;deadline;sluitend;9.1
+23;deadline;komt eran;7.71428571428571
+24;deadline;eran kom;7.71428571428571
+25;deadline;inzet;7.6
+26;deadline;toewijd;7.6
+27;deadline;betrok;7.38461538461539
+28;deadline;toegewijd;7.38461538461539
+29;deadline;complet;9.25
+30;deadline;voltooid;7.41666666666667
+31;deadline;voltooi;9.01136363636363
+32;deadline;afhandel;9.75
+33;deadline;geconcentreerd;8.625
+34;deadline;concentrer;8.375
+35;deadline;concluder;7.83333333333333
+36;deadline;conclusie;8.33333333333333
+37;deadline;conferenties;7.55555555555556
+38;deadline;datum;8.54545454545454
+39;deadline;datumstempel;7.27272727272727
+40;deadline;gedateerd;7.8
+41;deadline;dag van de maand;7.71428571428571
+42;deadline;besliss;8.66666666666667
+43;deadline;vrag nar;7.71428571428571
+44;deadline;eis;8.48214285714285
+45;deadline;proefschrift;8.44444444444444
+46;deadline;werk;8.61363636363637
+47;deadline;document;8.2
+48;deadline;gedan;7.63636363636364
+49;deadline;verschuldigd;9
+50;deadline;opleveringsdatum;10
+51;deadline;plicht;7.75
+52;deadline;poging;8.42857142857143
+53;deadline;werkgeleg;7.11111111111111
+54;deadline;eind;9.3125
+55;deadline;einddoel;9.57142857142857
+56;deadline;het eind is in zicht;8.28571428571429
+57;deadline;geeindigd;7.63636363636364
+58;deadline;loopt af;8.88888888888889
+59;deadline;afdwing;8.375
+60;deadline;afgedwong;7.55555555555556
+61;deadline;essay;7.52840909090909
+62;deadline;precies;7.55555555555556
+63;deadline;verwacht;8.18181818181818
+64;deadline;verleng;9.22077922077922
+65;deadline;uitbreid;7.4
+66;deadline;laatst;7.55555555555556
+67;deadline;uiteind;8.11111111111111
+68;deadline;eindexam;8.75
+69;deadline;laatst stadium;8.25
+70;deadline;eindstadium;8.25
+71;deadline;final;7
+72;deadline;finales;8.45454545454546
+73;deadline;klar;9.2
+74;deadline;finish;8.54545454545454
+75;deadline;afmak;8.6
+76;deadline;afgewerkt;8.92857142857143
+77;deadline;afgemaakt;8.92857142857143
+78;deadline;afwerk;8.95
+79;deadline;gefocust;9.11111111111111
+80;deadline;scherpstell;7.11111111111111
+81;deadline;formulier;7.9
+82;deadline;komend;8
+83;deadline;doel;8.25545634920635
+84;deadline;haast;8.50873015873016
+85;deadline;haast je;7.16666666666667
+86;deadline;verhaast;7.16666666666667
+87;deadline;huiswerk;9
+88;deadline;dreigend;8.36666666666667
+89;deadline;belangrijk;9.4
+90;deadline;aandring;7.375
+91;deadline;erop stan;7.375
+92;deadline;ban;8.75
+93;deadline;lat;7.35416666666667
+94;deadline;begrenz;9.2
+95;deadline;limiet;8.87777777777778
+96;deadline;limiet punt;7.63636363636364
+97;deadline;beperk;7.33333333333333
+98;deadline;grenz;8.55555555555556
+99;deadline;doemd op;7.11111111111111
+100;deadline;opdoem;9.4
+101;deadline;doemt op;8.5
+102;deadline;mak;8
+103;deadline;beher;7.92222222222222
+104;deadline;manager;7.71428571428571
+105;deadline;beheerder;8
+106;deadline;vervaldatum;8.14285714285714
+107;deadline;ontmoet;8.16666666666667
+108;deadline;militair missie;7.25
+109;deadline;gemist;7.25
+110;deadline;mist;7
+111;deadline;missies;8.18181818181818
+112;deadline;gemotiveerd;7.77777777777778
+113;deadline;moet;7.57142857142857
+114;deadline;nadert;9.08333333333333
+115;deadline;zenuw;7
+116;deadline;zenuwacht;8.125
+117;deadline;krant;8.19285714285714
+118;deadline;krantenuitgever;8.54545454545454
+119;deadline;doelstell;7.2
+120;deadline;verplicht;8.42857142857143
+121;deadline;over;7.88888888888889
+122;deadline;verlop;7.44444444444444
+123;deadline;papier;7.52777777777778
+124;deadline;bepaald datum;9.90909090909091
+125;deadline;betal;8.3
+126;deadline;stuk werk;9.33333333333333
+127;deadline;plan;7.14285714285714
+128;deadline;planning;7.75
+129;deadline;plann;9.27272727272727
+130;deadline;voorbereid;8.00694444444444
+131;deadline;voorbereid werkzam;7.33333333333333
+132;deadline;parat;8.11111111111111
+133;deadline;voorbereid treff;9.22222222222222
+134;deadline;druk;8.68465608465608
+135;deadline;drukniveau;9.375
+136;deadline;drukgevoel;7.6
+137;deadline;afdruk;7.2
+138;deadline;uitstelgedrag;8.66666666666667
+139;deadline;voortgang;7.14285714285714
+140;deadline;project;8.41919191919192
+141;deadline;publicatie;7.36363636363636
+142;deadline;publicaties;7.66666666666667
+143;deadline;snel;7.4
+144;deadline;bereik;7.44444444444444
+145;deadline;rapport;8.2
+146;deadline;vereis;9.44444444444444
+147;deadline;vereist;8.75
+148;deadline;verantwoord;8.75
+149;deadline;stijf;8
+150;deadline;reglement;8
+151;deadline;haast zich;9
+152;deadline;schema;8
+153;deadline;schooldag;7.75
+154;deadline;scholing;7.125
+155;deadline;schoolwerk;9.4
+156;deadline;afstur;8.44444444444444
+157;deadline;set;8
+158;deadline;gas erop;7.25
+159;deadline;stap erop;7.25
+160;deadline;hou op;8
+161;deadline;stop;8
+162;deadline;stopplat;8.22222222222222
+163;deadline;strenger;7.72727272727273
+164;deadline;leerling;7.375
+165;deadline;student;7.57142857142857
+166;deadline;leidinggev;7.9
+167;deadline;toezichthouder;8.66666666666667
+168;deadline;tak;8.975
+169;deadline;belast;9
+170;deadline;teamwerk;7.2
+171;deadline;eindpunt;7.54545454545455
+172;deadline;terminus ad quem;8.8
+173;deadline;tijd;7.5
+174;deadline;tijdrov;7.41666666666667
+175;deadline;tijdslimiet;9.77777777777778
+176;deadline;tijdsbeher;9.63636363636364
+177;deadline;tijdsdruk;9.58333333333333
+178;deadline;tijd raakt op;9.5
+179;deadline;ondernem;7.11111111111111
+180;deadline;universiteit;8.66666666666667
+181;deadline;tot;8.28571428571429
+182;deadline;aanstaand;9.44444444444444
+183;deadline;goed georganiseerd;7.375
+184;deadline;het werk;8
+185;deadline;werk aan;9.375
+186;deadline;toewerk nar;7.33333333333333
+187;deadline;werkplat;9.44444444444444
+188;desperation;opgewond;7.63636363636364
+189;desperation;nod;8.88888888888889
+190;desperation;alarm;7
+191;desperation;alcoholism;7.46666666666667
+192;desperation;eenzam;7.27222222222222
+193;desperation;woed;8.85714285714286
+194;desperation;doodsangst;7.875
+195;desperation;angst;8.24484126984127
+196;desperation;gespann;7.6
+197;desperation;dorstig;7
+198;desperation;vreselijk;7.375
+199;desperation;slecht;7.36363636363636
+200;desperation;bedel;8.9
+201;desperation;smek;9
+202;desperation;bedelar;7.5
+203;desperation;smeekt;9
+204;desperation;kapot gegan;7.7
+205;desperation;blut;7.7
+206;desperation;platzak;7.7
+207;desperation;kan;7.5
+208;desperation;chaos;7.84615384615385
+209;desperation;huild;8.14285714285714
+210;desperation;huilt;7.875
+211;desperation;schreeuw;7.93686868686869
+212;desperation;uitschreeuw;9.3
+213;desperation;huil;8.22727272727272
+214;desperation;vloek;7
+215;desperation;ontber;7.77777777777778
+216;desperation;verlang;7.36363636363636
+217;desperation;wanhop;9.2875
+218;desperation;ten eind rad;9.55555555555556
+219;desperation;berooid;8.85714285714286
+220;desperation;moeilijk;8.66666666666667
+221;desperation;verschrik;9
+222;desperation;ongemak;7.36363636363636
+223;desperation;verslag;7.63636363636364
+224;desperation;radelos;7.5
+225;desperation;schrijnend;8.88888888888889
+226;desperation;gedoemd;7.375
+227;desperation;noodgeval;7.72727272727273
+228;desperation;emotie;8.75
+229;desperation;emotionel;7.77777777777778
+230;desperation;emoties;7.75
+231;desperation;leg;7.6
+232;desperation;eind;8.25
+233;desperation;geergerd;7.22222222222222
+234;desperation;uitput;7
+235;desperation;misluk;7.5
+236;desperation;hongersnod;7
+237;desperation;beu;7.1
+238;desperation;voel;8.57142857142857
+239;desperation;gevoelen;8
+240;desperation;laatst stadium;7.92307692307692
+241;desperation;panisch;9.36363636363636
+242;desperation;gefrustreerd;8.375
+243;desperation;frustratie;8.36363636363636
+244;desperation;eruit;7
+245;desperation;gef op;7.5
+246;desperation;opgev;8.5
+247;desperation;somber;7.33333333333333
+248;desperation;moeilijk tijd;8.66666666666666
+249;desperation;led;8.39583333333334
+250;desperation;haast;7.6
+251;desperation;hartzer;7.3
+252;desperation;help;8.66666666666667
+253;desperation;hulpelos;8.625
+254;desperation;daklos;8
+255;desperation;hopelos;7.76430976430976
+256;desperation;vernederd;7.5
+257;desperation;honger;8
+258;desperation;kwets;8
+259;desperation;pijn doen;7.42857142857143
+260;desperation;ongeduld;8.14285714285714
+261;desperation;geisoleerd;7.27272727272727
+262;desperation;laatst kan;8.44444444444444
+263;desperation;laatst keuz;8.66666666666667
+264;desperation;laatst hop;9.18181818181818
+265;desperation;laatst redmiddel;9.84615384615385
+266;desperation;wetsovertred;7.5
+267;desperation;allen;8.44444444444444
+268;desperation;verlies;7
+269;desperation;verlor;7.77777777777778
+270;desperation;lag;7.3
+271;desperation;ellend;7.27272727272727
+272;desperation;dor elkar;8.33333333333333
+273;desperation;geld;7
+274;desperation;nodig hebb;9.125
+275;desperation;nodig zijn;8.41666666666667
+276;desperation;meest behoeft;7.54545454545455
+277;desperation;behoeft;8.04444444444444
+278;desperation;nervositeit;7.88888888888889
+279;desperation;gen ontsnapp;8.22222222222222
+280;desperation;gen uitweg;8.71428571428571
+281;desperation;beproev;7
+282;desperation;verontwaard;8.90909090909091
+283;desperation;overreactie;7
+284;desperation;pijn;7
+285;desperation;paniek;8
+286;desperation;in paniek;8.1
+287;desperation;pauperism;8
+288;desperation;pleit;8.63271103896104
+289;desperation;smeekbed;9.57142857142857
+290;desperation;alsjeblieft;8.42857142857143
+291;desperation;straatarm;7.85714285714286
+292;desperation;machtelos;8.08333333333333
+293;desperation;druk;7.66666666666667
+294;desperation;problem;8.15193602693603
+295;desperation;psychiatrisch;7.1
+296;desperation;overhaast besliss;7.22222222222222
+297;desperation;roekelos;7.70555555555556
+298;desperation;risico;7.25
+299;desperation;verdriet;7.62222222222222
+300;desperation;droefheid;7
+301;desperation;bang;8.875
+302;desperation;eng;7.45454545454545
+303;desperation;schreeuwend;8
+304;desperation;schreeuw het uit;8
+305;desperation;verhonger;8.42857142857143
+306;desperation;uitgehongerd;7.27272727272727
+307;desperation;gestrand;9
+308;desperation;spanning;8.13333333333333
+309;desperation;stres;8.13333333333333
+310;desperation;worstel;9
+311;desperation;strijd;8.88888888888889
+312;desperation;lijd;8.15151515151516
+313;desperation;verstik;7.1
+314;desperation;overgav;7.44444444444444
+315;desperation;overlev;7.73737373737374
+316;desperation;tran;7.90909090909091
+317;desperation;doodsbang;8.26666666666667
+318;desperation;bedreig;7.14285714285714
+319;desperation;gevar;7.6
+320;desperation;de handdoek in de ring gooi;8.88888888888889
+321;desperation;moe van;7
+322;desperation;kwelling;7.66666666666667
+323;desperation;gekweld;8.18181818181818
+324;desperation;gescheurd;7
+325;desperation;tragisch;7.11111111111111
+326;desperation;alles geprobeerd;9.28571428571429
+327;desperation;poging;7
+328;desperation;prober alles;9
+329;desperation;ongeluk;7.75
+330;desperation;dringend;8.54545454545454
+331;desperation;met spoed;9
+332;desperation;kwetsbar;7.2
+333;desperation;gewild;8.5
+334;desperation;will;7.63636363636364
+335;desperation;uitgang;7
+336;desperation;huilend;8.75
+337;desperation;wen;7.5
+338;desperation;wens;8.63636363636364
+339;desperation;zich zorg mak;8.9
+340;fixation;allesomvat;8.625
+341;fixation;angst;7
+342;fixation;ijver;9
+343;fixation;aandacht;7.41666666666667
+344;fixation;pest;7.85714285714286
+345;fixation;lastigvall;7.81746031746032
+346;fixation;gedrag;8.77777777777778
+347;fixation;centrum;7.6
+348;fixation;middelpunt van de belangstell;7.63636363636364
+349;fixation;centrer op;9
+350;fixation;dwang;9.125
+351;fixation;dwangmat;7
+352;fixation;concentrer;7.6
+353;fixation;concentrer op;9.61111111111111
+354;fixation;concentratie;8.25
+355;fixation;concentraties;8.3
+356;fixation;geconsumeerd;8.75
+357;fixation;consumer;7.18181818181818
+358;fixation;control;7.72727272727273
+359;fixation;gekt;8.11111111111111
+360;fixation;eng;7.875
+361;fixation;misleid;7
+362;fixation;wan;8.09090909090909
+363;fixation;verlang;8
+364;fixation;gedrev;8
+365;fixation;gretig;7.3
+366;fixation;in beslag nem;8.5
+367;fixation;betover;7.25
+368;fixation;fanaticus;8.33333333333333
+369;fixation;fanatici;7.7
+370;fixation;gefascineerd;8.2
+371;fixation;gevoelen;7.36363636363636
+372;fixation;gefixeerd;9.76923076923077
+373;fixation;fixatie;9.85714285714286
+374;fixation;brandpunt;7.7
+375;fixation;middelpunt;7.7
+376;fixation;focus;8.66666666666667
+377;fixation;gefocust;9.3625
+378;fixation;focust;7
+379;fixation;scherpstell;9
+380;fixation;blik;8.88888888888889
+381;fixation;staard;7.11111111111111
+382;fixation;groupie;7.3
+383;fixation;gebruik;7.11111111111111
+384;fixation;houd;7.625
+385;fixation;smoorverliefd;9.55555555555556
+386;fixation;uitzinn;9.4
+387;fixation;jaloer;8.22222222222222
+388;fixation;jaloezie;7.33333333333333
+389;fixation;in de gat houd;7.63636363636364
+390;fixation;minnar;7.44444444444444
+391;fixation;lust;7.75
+392;fixation;narcistisch;7.28571428571429
+393;fixation;observer;7.33333333333333
+394;fixation;obseder;9.11111111111111
+395;fixation;geobsedeerd;10
+396;fixation;obsessie;9.4
+397;fixation;obsessief;9.26785714285715
+398;fixation;obsessies;9.4
+399;fixation;obsessief compulsief;9.9
+400;fixation;ocd;9.44444444444444
+401;fixation;overweld;7.71428571428571
+402;fixation;paranoia;8.42857142857143
+403;fixation;passie;8.44444444444444
+404;fixation;bezet;7.8
+405;fixation;preoccupatie;8.875
+406;fixation;achtervolg;8.16666666666667
+407;fixation;nastrev;7
+408;fixation;rigid mentaliteit;7.22222222222222
+409;fixation;sociopathisch;7.2
+410;fixation;stalk;8.6375
+411;fixation;gestalkt;7.27272727272727
+412;fixation;stalker;8.09090909090909
+413;fixation;star;8.35
+414;fixation;staart;7.11111111111111
+415;fixation;denk;7.85
+416;fixation;gedacht;9.125
+417;fixation;onafgebrok;9
+418;fixation;onverzet;7
+419;fixation;gespann;8
+420;fixation;will;8.375
+421;fixation;kijk;8
+422;fixation;wak over;7.71428571428571
+423;fixation;zich zorg mak;7.6
+424;fixation;zorg mak;7.6
+425;frustration;agressie;8.125
+426;frustration;agressies;7.8
+427;frustration;bedroefd;9.11111111111111
+428;frustration;gefrustreerd;9.55555555555556
+429;frustration;opgewond;8.25
+430;frustration;woed;8.20769230769231
+431;frustration;bos;9.18181818181818
+432;frustration;angst;7.76893939393939
+433;frustration;doodsangst;7.08333333333333
+434;frustration;ergernis;8.29617604617605
+435;frustration;verveeld;9.625
+436;frustration;geirriteerd;9.29563492063492
+437;frustration;vervel;8.875
+438;frustration;spanning;8.37102272727273
+439;frustration;aanval;7
+440;frustration;faillissement;7.14285714285714
+441;frustration;beklag;7.63636363636364
+442;frustration;verbijster;7.25
+443;frustration;schuld gev;7.4
+444;frustration;beschuld;8
+445;frustration;stor;8.75
+446;frustration;opkropp;7.15384615384615
+447;frustration;opbouw;7.08333333333333
+448;frustration;kom op;8
+449;frustration;klag;7.55555555555556
+450;frustration;in de war;7.41666666666667
+451;frustration;verward;7.41666666666667
+452;frustration;consternatie;7
+453;frustration;huild;8.2
+454;frustration;crisis;7.625
+455;frustration;huil;8
+456;frustration;verdomd;8
+457;frustration;verslag;7.58333333333333
+458;frustration;geweigerd;7
+459;frustration;wanhop;9.4
+460;frustration;moeilijk;7.76923076923077
+461;frustration;teleurgesteld;8.84615384615385
+462;frustration;teleurstell;7.875
+463;frustration;ongemak;7.22222222222222
+464;frustration;verontrust;8.14583333333334
+465;frustration;ontevred;8.18541666666667
+466;frustration;ontgoocheld;7.25
+467;frustration;ontzet;7.4
+468;frustration;niet tevred;7.73333333333333
+469;frustration;ongenoeg;8.42857142857143
+470;frustration;radelos;7.63636363636364
+471;frustration;verdriet;8.45454545454546
+472;frustration;verbitterd;7.2
+473;frustration;emoties;7.69230769230769
+474;frustration;eind van latijn;7.28571428571429
+475;frustration;jaloer;7.11111111111111
+476;frustration;escalatie;7.44444444444444
+477;frustration;geergerd;8.47222222222222
+478;frustration;ontploff;7.45454545454545
+479;frustration;misluk;7.72777777777778
+480;frustration;gevoel;8.28571428571429
+481;frustration;gevoelen;8
+482;frustration;frustratie;10
+483;frustration;woest;8.8
+484;frustration;furor;7.16666666666667
+485;frustration;opgev;7.81818181818182
+486;frustration;somber;7.25
+487;frustration;godverdomm;7.84090909090909
+488;frustration;griev;8.72727272727273
+489;frustration;hulpelos;7.36363636363636
+490;frustration;tegenhoud;7.33333333333333
+491;frustration;hopelos;8.48611111111111
+492;frustration;pijn doen;7.71428571428571
+493;frustration;ongeduld;8.84126984126984
+494;frustration;woedend;8.21868131868132
+495;frustration;herhal;7
+496;frustration;prikkel;8.55555555555556
+497;frustration;irritatie;9.55555555555556
+498;frustration;uithal;9.57142857142857
+499;frustration;de hop verliez;8.25
+500;frustration;nijdig;7.4
+501;frustration;stemming;7.25
+502;frustration;negatief;9
+503;frustration;negatief gelad;7
+504;frustration;negativiteit;8.22222222222222
+505;frustration;negativism;7.625
+506;frustration;niet-starter;7
+507;frustration;uitbarst;8.66666666666667
+508;frustration;pijn;8.05681818181818
+509;frustration;lastpak;8.77777777777778
+510;frustration;pijn sensatie;7.11111111111111
+511;frustration;verstor;7
+512;frustration;kleinziel;7
+513;frustration;kwad;9.77777777777778
+514;frustration;machtelos;8.47979797979798
+515;frustration;problem;8.36785714285714
+516;frustration;spijt hebb;7.14285714285714
+517;frustration;aanstot nem;7.33333333333333
+518;frustration;rancuneus;7.22222222222222
+519;frustration;ontslag nem;7.875
+520;frustration;terugtrek;7.875
+521;frustration;rustelos;7.55555555555556
+522;frustration;droefheid;8.28571428571429
+523;frustration;roodzien;8.9
+524;frustration;bever;7.125
+525;frustration;schud;7.63636363636364
+526;frustration;geschokt;7.2
+527;frustration;kort lontj;9.54545454545454
+528;frustration;patstell;8.375
+529;frustration;druk;7.44444444444444
+530;frustration;gestrest;8.75
+531;frustration;benadruk;8.8
+532;frustration;stress;8.8
+533;frustration;lijd;7.66666666666667
+534;frustration;onderdruk;7.125
+535;frustration;woedeaanval;9.09090909090909
+536;frustration;driftbui;9.44444444444444
+537;frustration;tran;8.66666666666667
+538;frustration;temperament;7.77777777777778
+539;frustration;gemoeder;9
+540;frustration;gespann;8.8
+541;frustration;opspann;8
+542;frustration;de handdoek in de ring gooi;9
+543;frustration;omvall;7
+544;frustration;oner;7.6
+545;frustration;ongeluk;8.625
+546;frustration;ongelukk;8.625
+547;frustration;onwil;7.3
+548;frustration;van strek;9
+549;frustration;gewelddad;7.25
+550;frustration;weglop;8.33766233766234
+551;god;zich houd aan;7.2
+552;god;al-koran;8.42857142857143
+553;god;almacht;8.51934523809524
+554;god;allah;9.66666666666667
+555;god;oud;7.625
+556;god;engel;8.88095238095238
+557;god;anglican;8
+558;god;apocalyp;8.25
+559;god;apostel;9.5
+560;god;apostolisch;7.25
+561;god;aartsbisschop;7.75
+562;god;armageddon;7.5
+563;god;doper;7.85714285714286
+564;god;gelof;9.75
+565;god;overtu;9.66666666666667
+566;god;gelov;9.01948051948052
+567;god;bijbel;9.85353535353535
+568;god;zegen;8.84015151515151
+569;god;gezeg;8.53846153846154
+570;god;broederliefd;7.45454545454545
+571;god;boeddhism;8.66666666666667
+572;god;kathedral;9.72727272727273
+573;god;katholiek;8.94805194805194
+574;god;katholicism;9.25
+575;god;kapel;9.27272727272727
+576;god;kapelan;7.66666666666667
+577;god;liefdad;7.11111111111111
+578;god;christus;9.75
+579;god;christendom;9.48181818181818
+580;god;christelijk;9.875
+581;god;christelijk bijbel;9.3
+582;god;christelijk kerk;9.8
+583;god;christelijk religie;9.25
+584;god;christen;9.125
+585;god;kerk;9.66666666666666
+586;god;kerkgebouw;9.55555555555556
+587;god;kerkdienst;10
+588;god;geestelijk;8.68166666666667
+589;god;clementie;7.5
+590;god;medelev;8.6
+591;god;compassie;8.6
+592;god;gemeent;8.31111111111111
+593;god;wijd;7.66666666666667
+594;god;adviser;7.11111111111111
+595;god;creatie;8.28571428571429
+596;god;schepper;9.75
+597;god;maker;8.13888888888889
+598;god;kruis;7.74675324675325
+599;god;doornenkron;9.5
+600;god;gekruisigd;8.33333333333333
+601;god;kruisig;7.72727272727273
+602;god;toewijd;8.5625
+603;god;god;9.7037037037037
+604;god;godheid;9.8
+605;god;diocesan;7.25
+606;god;goddelijk;9.45833333333333
+607;god;ler;7.22222222222222
+608;god;drijvend kracht;7.6
+609;god;kerkelijk;8.16666666666667
+610;god;eden;8.66666666666667
+611;god;elysisch;8
+612;god;entiteit;8.5952380952381
+613;god;eeuwig;8.875
+614;god;ethisch;7.33333333333333
+615;god;ethisch cod;8
+616;god;ethiek;7.4
+617;god;evangelisch;9.14285714285714
+618;god;extremist;7.77777777777778
+619;god;fabel;7.5
+620;god;vertrouw;8.28703703703704
+621;god;trouw;8.625
+622;god;vader;9.44444444444444
+623;god;volg;7.625
+624;god;volger;7.57142857142857
+625;god;kracht;8.27948717948718
+626;god;vergiffenis;9.75
+627;god;gabriel;7.27272727272727
+628;god;ganesha;10
+629;god;god almacht;8.7
+630;god;god wil;9.1
+631;god;godin;9.54545454545454
+632;god;godinn;9.33333333333333
+633;god;goddelos;7.22222222222222
+634;god;goed herder;7.14285714285714
+635;god;goedheid;7.33333333333333
+636;god;genad;9.33333333333333
+637;god;geweld kracht;9.71428571428571
+638;god;best;7.125
+639;god;hades;8.6
+640;god;geluk;9.2
+641;god;hemel;9.28333333333333
+642;god;hel;7.18181818181818
+643;god;herculisch;7.88888888888889
+644;god;hoger kracht;9.90909090909091
+645;god;hindoeism;7
+646;god;heilig;8.84781746031746
+647;god;heilig boek;10
+648;god;heilig man;9.45454545454546
+649;god;heilig person;9.77777777777778
+650;god;heilig plek;8.9
+651;god;heilig schrift;9.07638888888889
+652;god;heilig woord;8.4
+653;god;ideologisch;8.28571428571429
+654;god;ideologie;9.22222222222222
+655;god;afgoderij;7.28571428571429
+656;god;verafgod;7.11111111111111
+657;god;imam;8
+658;god;onsterf;8.51298701298701
+659;god;onoverwinn;7.15384615384615
+660;god;onzicht;9.875
+661;god;islamism;7.875
+662;god;jehova;8.81818181818182
+663;god;jezus;9.88888888888889
+664;god;jezus christus;9.6
+665;god;jezus van nazareth;9.75
+666;god;jod;7.3
+667;god;jodendom;8.38461538461539
+668;god;koran;8.61111111111111
+669;god;her;9.33333333333333
+670;god;liefd;7.90909090909091
+671;god;loyaliteit;7.33333333333333
+672;god;grot macht;9.22222222222222
+673;god;moskee;9.625
+674;god;masjid;10
+675;god;massa-;7.36363636363636
+676;god;massa';7.57142857142857
+677;god;barmhart;7.13333333333333
+678;god;messias;8.8
+679;god;macht;9.36363636363636
+680;god;machtig;9.85714285714286
+681;god;mindfulnes;8.57142857142857
+682;god;zendingswerk;8.22222222222222
+683;god;klooster;9.5
+684;god;morel;8.15384615384615
+685;god;morel princip;7.90909090909091
+686;god;moral;7.2
+687;god;moslim;9.4
+688;god;moskeeen;8
+689;god;mohammed;9.125
+690;god;moslimism;8.28571428571429
+691;god;myth;8.02083333333334
+692;god;mythologie;8.45454545454546
+693;god;niet bestaand;7.25
+694;god;orakel;7.75
+695;god;georganiseerd religie;9.55555555555556
+696;god;pacifism;7.44444444444444
+697;god;pater;9.66666666666667
+698;god;pantheism;7.875
+699;god;paradijs;8.33333333333333
+700;god;parochie;8.66666666666667
+701;god;passie;8.33333333333333
+702;god;pastor;8.79545454545454
+703;god;vred;7.44444444444444
+704;god;gemoedsrust;7
+705;god;vredig;8.22222222222222
+706;god;faros;8
+707;god;filosofisch system;7.6
+708;god;filosofie;9
+709;god;bedevaart;8.4
+710;god;polytheism;9
+711;god;krachtig;8.625
+712;god;bid;9.59848484848484
+713;god;bad;8.55555555555556
+714;god;gebed;9.75
+715;god;bidt;9.76923076923077
+716;god;predik;8.07638888888889
+717;god;predikt;7.9025974025974
+718;god;predikant;8.92307692307692
+719;god;priester;9.47474747474747
+720;god;beloofd land;8
+721;god;profetie;8.6
+722;god;voorspeld;8.375
+723;god;voorspeller;8.2
+724;god;profeter;7.11111111111111
+725;god;profet;8.89646464646465
+726;god;protestant;7.8
+727;god;protestantism;7.9
+728;god;doel;7.3
+729;god;qaida;10
+730;god;rabbijn;10
+731;god;tranc;7.71428571428571
+732;god;rijk;7.71428571428571
+733;god;red;7
+734;god;rector;8
+735;god;religies;9.75
+736;god;religieus;9.75
+737;god;religieus gelof;9.45454545454546
+738;god;respect;7.63636363636364
+739;god;opstand;8.85714285714286
+740;god;eerbied;7.77777777777778
+741;god;rit;7.57142857142857
+742;god;ritueel;8.9
+743;god;rituel;9
+744;god;heerser;7.71428571428571
+745;god;reglement;8.71428571428571
+746;god;redder;9.57142857142857
+747;god;prek;9.30555555555556
+748;god;shiva;9.33333333333333
+749;god;zond;8.51010101010101
+750;god;zondig;7.625
+751;god;maatschappij;7.33333333333333
+752;god;ziel;7.66666666666667
+753;god;geest;9.11111111111111
+754;god;spiritualiteit;9.55555555555556
+755;god;bovennatur;7.875
+756;god;supermacht;8.14285714285714
+757;god;bewak;8
+758;god;synagog;8.67857142857143
+759;god;talmoed;8.33333333333333
+760;god;tempel;9.1875
+761;god;testament;9.41666666666667
+762;god;de nazarener;8.875
+763;god;theism;8.33333333333333
+764;god;theist;9.14285714285714
+765;god;theologie;9.22222222222222
+766;god;tron;7.45454545454545
+767;god;thora;8.14285714285714
+768;god;tradities;8.85714285714286
+769;god;betrouw;8.71428571428571
+770;god;universum;7.54545454545455
+771;god;ongezien;8.81818181818182
+772;god;verer;8
+773;god;dominee;7.66666666666667
+774;god;domines;9
+775;god;vishnu;9.18181818181818
+776;god;wak over;7
+777;god;wonder;7.85714285714286
+778;god;woord van god;9.27272727272727
+779;god;wereld-;7.375
+780;god;aanbid;9.66666666666667
+781;god;aanbed;9.34545454545454
+782;god;aanbidder;9.22222222222222
+783;god;zeus;10
+784;grievance;bedroefd;7.8
+785;grievance;gekrenkt;7.8
+786;grievance;benadeeld;7.8
+787;grievance;nod;7.3
+788;grievance;lucht;9
+789;grievance;beschuld;7.6
+790;grievance;woed;7.96022727272727
+791;grievance;angst;8.18181818181819
+792;grievance;doodsangst;7
+793;grievance;erger;8
+794;grievance;verontschuld;7.16666666666667
+795;grievance;overval;7.375
+796;grievance;aangevall;7.33333333333333
+797;grievance;nabestaand;7.14285714285714
+798;grievance;geklaagd;9.375
+799;grievance;klacht;8.78333333333333
+800;grievance;schad;7
+801;grievance;dod;8
+802;grievance;wanhop;7.57142857142857
+803;grievance;verschill;7.44444444444444
+804;grievance;moeilijk;8.88888888888889
+805;grievance;teleurgesteld;8.25
+806;grievance;ontevred;8.34974747474747
+807;grievance;discriminatie;8.28571428571429
+808;grievance;discriminer;7.09090909090909
+809;grievance;ontzet;7
+810;grievance;niet tevred;8.88888888888889
+811;grievance;verdriet;8.09920634920635
+812;grievance;schrijnend;7.75
+813;grievance;verstor;8.12727272727273
+814;grievance;somber;7.5
+815;grievance;verbitterd;8.08333333333333
+816;grievance;gevoelen;7.44444444444444
+817;grievance;breekbar;7.11111111111111
+818;grievance;gefrustreerd;8.125
+819;grievance;frustraties;8.1
+820;grievance;rouw;8.925
+821;grievance;hartverscheur;7
+822;grievance;vreselijk;7.88888888888889
+823;grievance;kwets;9.22222222222222
+824;grievance;pijn doen;8.33333333333333
+825;grievance;doet zer;8.77777777777778
+826;grievance;toebreng;7
+827;grievance;overtred;7.54166666666667
+828;grievance;onrecht;8.11111111111111
+829;grievance;onrechtvaard;8.65
+830;grievance;geergerd;8.09027777777778
+831;grievance;geirriteerd;7.2
+832;grievance;betreurenswaard;7.2
+833;grievance;rechtszak;8.77777777777778
+834;grievance;eenzam;8.375
+835;grievance;verliez;7.55555555555556
+836;grievance;luguber;9
+837;grievance;nijdig;7.125
+838;grievance;mishandel;7.625
+839;grievance;verkeerd begrep;7
+840;grievance;rouwend;7
+841;grievance;moord;7.375
+842;grievance;negatief;8.36363636363636
+843;grievance;beledigd;7.625
+844;grievance;onderdruk;7
+845;grievance;verontwaardigd;7.625
+846;grievance;pijn;8.75
+847;grievance;gepijnigd;8.09090909090909
+848;grievance;bos;7.25
+849;grievance;kwad;8.375
+850;grievance;problem;8.90227272727273
+851;grievance;spijtig;7
+852;grievance;rancun;7.54545454545455
+853;grievance;droefheid;8.09090909090909
+854;grievance;serieus;8.5
+855;grievance;worstel;7.25
+856;grievance;gestok;7.36363636363636
+857;grievance;lijd;9.15
+858;grievance;geled;9.125
+859;grievance;lijdt;8.75
+860;grievance;zelfmoord;7
+861;grievance;tragisch;7.4
+862;grievance;verontrust;7.82142857142857
+863;grievance;onaanvaard;7
+864;grievance;oner;7.27777777777778
+865;grievance;ongeluk;9
+866;grievance;van strek;9.1
+867;grievance;wrak;7.44444444444444
+868;grievance;ontlucht;7.22222222222222
+869;grievance;slachtoffer;7.36363636363636
+870;grievance;schend;8.5
+871;grievance;wee;7.58333333333333
+872;grievance;zich zorg mak;7.625
+873;grievance;gewond;7.375
+874;grievance;onrecht aangedan;8.875
+875;grievance;fout;7.625
+876;hate;verafschuw;9.82380952380952
+877;hate;zur;8.16666666666667
+878;hate;terroristisch dad;9.1875
+879;hate;tegenstander;8.36363636363636
+880;hate;nadel;7.25
+881;hate;bang;7
+882;hate;teg;8
+883;hate;agressie;8.37121212121212
+884;hate;agressies;9.11111111111111
+885;hate;agressiviteit;9.09090909090909
+886;hate;agitatie;8.3
+887;hate;woed;9.08510101010101
+888;hate;bos;8.94242424242424
+889;hate;ergernis;7.55555555555556
+890;hate;antisemitism;8.72727272727273
+891;hate;antisociaal;7.3
+892;hate;ruzie mak;7.59340659340659
+893;hate;arrogant;7.90909090909091
+894;hate;mishandel;8.44444444444444
+895;hate;aanval;8.33333333333333
+896;hate;aangevall;7.81818181818182
+897;hate;aanvall;9.05
+898;hate;vreselijk;7.69545454545455
+899;hate;slecht;8.57575757575758
+900;hate;gevecht;7.94444444444444
+901;hate;misgunn;7.5
+902;hate;onverdraagzam;8.95959595959596
+903;hate;bitter;7.85714285714286
+904;hate;bloedvergiet;7.42857142857143
+905;hate;bombardement;8.78472222222222
+906;hate;wred;8.14880952380952
+907;hate;brutaliteit;8.4
+908;hate;wreedheid;8.08388888888889
+909;hate;brutal;7.25
+910;hate;gepest;8.11111111111111
+911;hate;pestkopp;8.92307692307692
+912;hate;pestkop;7.125
+913;hate;pest;7.27272727272727
+914;hate;bang mak;8.6
+915;hate;conflict;8.75
+916;hate;veracht;8.2913961038961
+917;hate;controver;7.4
+918;hate;bijtend;7.55555555555556
+919;hate;corruptie;7.57142857142857
+920;hate;misdrijf;8.44444444444444
+921;hate;misdad;8.45454545454546
+922;hate;sekt;7.6
+923;hate;schadelijk;8.7
+924;hate;gevar;8.38571428571428
+925;hate;betreur;8.875
+926;hate;kapot mak;8
+927;hate;verwoest;8.15
+928;hate;ontevred;8.375
+929;hate;gediscrimineerd;8.28571428571429
+930;hate;discriminatie;7.83333333333333
+931;hate;ongenoeg;8.6
+932;hate;walging;8.77777777777778
+933;hate;afschuw;8.25
+934;hate;afker;9.46851851851852
+935;hate;houdt niet van;9.08333333333333
+936;hate;dissonantie;7.6
+937;hate;angst;7.28977272727272
+938;hate;wantrouw;7.58333333333333
+939;hate;verstoord;7.5
+940;hate;vijand;8.81287878787879
+941;hate;woedend;9.16666666666666
+942;hate;jaloezie;8.0673076923077
+943;hate;slechtheid;8.26984126984127
+944;hate;kwad;8
+945;hate;verwens;7.44444444444444
+946;hate;extremism;8.8
+947;hate;extremist;8.75
+948;hate;gevoel;7.90909090909091
+949;hate;gevoelen;9.375
+950;hate;krachtig;7.66666666666667
+951;hate;felheid;7.2
+952;hate;vecht;7.37777777777778
+953;hate;kracht;7.22222222222222
+954;hate;angstaanjag;7.25
+955;hate;frustratie;8.4
+956;hate;woest;8.55555555555556
+957;hate;furor;7.28571428571429
+958;hate;intimidatie;8.8
+959;hate;led;7.92307692307692
+960;hate;hardheid;7.63636363636364
+961;hate;een hekel hebb aan;10
+962;hate;hat crim;10
+963;hate;hat;9.73931623931624
+964;hate;heilig terreur;7.22222222222222
+965;hate;homofobie;8.9
+966;hate;kwets;9.42857142857143
+967;hate;doet zer;7.7
+968;hate;onwet;8.375
+969;hate;onlogisch;7.125
+970;hate;incident;7
+971;hate;onmens behandel;7.75
+972;hate;onrecht;7.63636363636364
+973;hate;onrechtvaard;7.625
+974;hate;ongevoel;7.16666666666667
+975;hate;intimider;7.875
+976;hate;beschimp;9
+977;hate;oordel;7.91111111111111
+978;hate;dod;7.57575757575758
+979;hate;gedod;7
+980;hate;moord;8.05555555555556
+981;hate;doodt;8
+982;hate;uithal;8.18181818181818
+983;hate;verderf;7.5
+984;hate;kwaadaard;8.20833333333334
+985;hate;boosaard;9
+986;hate;dreiging;7.5
+987;hate;meedogenlos;7.85714285714286
+988;hate;twijfel;7.8
+989;hate;vrouwenhat;8.44444444444444
+990;hate;moorddad;8.2
+991;hate;narcistisch;7.6
+992;hate;gemen;8.9280303030303
+993;hate;nar;8.66666666666667
+994;hate;negatief;9.8
+995;hate;negatiev emotie;9.75
+996;hate;negatief gelad;7.1
+997;hate;nemesis;9
+998;hate;uitwiss;7.22222222222222
+999;hate;overtred;7.4
+1000;hate;beled;7.5
+1001;hate;zich verzet teg;7.16666666666667
+1002;hate;onderdruk;8.2
+1003;hate;verontwaard;8.14285714285714
+1004;hate;verontwaardigd;7.27272727272727
+1005;hate;pijn;8.2
+1006;hate;passie;8.33333333333333
+1007;hate;politiek sympathieen;8.42857142857143
+1008;hate;vooroordel;8.90714285714285
+1009;hate;protest;8.25
+1010;hate;rotting;7
+1011;hate;ter dod breng;7.90909090909091
+1012;hate;qaeda;7.33333333333333
+1013;hate;ras-;8
+1014;hate;rassendiscriminatie;10
+1015;hate;racism;9.0054945054945
+1016;hate;afstot;8.1
+1017;hate;aanstot nem;9.11111111111111
+1018;hate;rancun;8.96111111111111
+1019;hate;verrot;7.3
+1020;hate;genadelos;7.2
+1021;hate;schandal;7.09090909090909
+1022;hate;verniet;8.625
+1023;hate;minacht;7.22222222222222
+1024;hate;gesel;7.85714285714286
+1025;hate;roodzien;8.5
+1026;hate;segregatie;8.7
+1027;hate;zelfdestructief;8.66666666666667
+1028;hate;schiet;7.42857142857143
+1029;hate;ziek mak;7.07692307692308
+1030;hate;sociopathisch;8
+1031;hate;hatelijk;8
+1032;hate;worstel;7.125
+1033;hate;lijd;8.14285714285714
+1034;hate;nor;7.2
+1035;hate;uitdag;7.09090909090909
+1036;hate;terreur;8.25
+1037;hate;terrorism;9
+1038;hate;terrorist;8.1375
+1039;hate;gedacht;7.5
+1040;hate;bedreig;7.75
+1041;hate;tirannie;8.5
+1042;hate;lelijk;7.75
+1043;hate;ongecontroleerd;7.3
+1044;hate;ongeluk;8.66666666666667
+1045;hate;losgeslag;7.4
+1046;hate;in tegenstell tot;7.5
+1047;hate;onrust;8.09090909090909
+1048;hate;heftig;9.16666666666667
+1049;hate;venijn;7.77380952380952
+1050;hate;schurk;7.45454545454545
+1051;hate;slechterik;7.45454545454545
+1052;hate;geweld;10
+1053;hate;hevig;8.77777777777778
+1054;hate;scheldend;7.33333333333333
+1055;hate;oorlog;7.65656565656565
+1056;hate;oorlogvoer;8.44444444444444
+1057;hate;wapen;7.85714285714286
+1058;hate;waardelos;7.71428571428571
+1059;hate;toorn;9
+1060;hate;ellend;7.75
+1061;hate;vreemdelingenhat;9.66666666666667
+1062;help;112;10
+1063;help;ongeluk;8
+1064;help;begeleid;7.5
+1065;help;hulp;9.85714285714286
+1066;help;alarmer;9
+1067;help;waarschuw;7.27777777777778
+1068;help;bondgenot;8.63636363636364
+1069;help;ambulanc;9.11111111111111
+1070;help;ambulances;7.625
+1071;help;verbeter;8.01341991341991
+1072;help;wijzig;7.14285714285714
+1073;help;antwoord gev;8.5
+1074;help;vrag;8.41969696969697
+1075;help;vroeg;8.09090909090909
+1076;help;vraagt;8.875
+1077;help;help;9.73333333333333
+1078;help;bijstand;10
+1079;help;bijgestan;9.42857142857143
+1080;help;assister;10
+1081;help;bijwon;7.125
+1082;help;bijstan;9.57142857142857
+1083;help;steun;8.65
+1084;help;back-up;9.125
+1085;help;gunstig;9.72727272727273
+1086;help;bloed;8.2
+1087;help;booster;8.66666666666667
+1088;help;telefoongesprek;7.66666666666667
+1089;help;bell vor;9
+1090;help;roep;9.14285714285714
+1091;help;cardiolog;7.88888888888889
+1092;help;zorg;9.54545454545454
+1093;help;verzorg;8.35795454545454
+1094;help;zorgzam;9.125
+1095;help;communicatie;7.15384615384615
+1096;help;gemeenschapsdienst;8.375
+1097;help;samenwerk;9.71428571428571
+1098;help;cooperatie;9.33333333333333
+1099;help;huilt;7
+1100;help;misdaadbestrijd;8.375
+1101;help;schreeuw;8.10858585858586
+1102;help;uitschreeuw;9.71428571428571
+1103;help;verded;7.33333333333333
+1104;help;wanhop;7.83333333333333
+1105;help;benadeeld;7.75
+1106;help;ramp;7.9
+1107;help;verzender;7.375
+1108;help;stervend;7.3
+1109;help;economisch hulp;7.90909090909091
+1110;help;leerzam;8.125
+1111;help;poging;7.16666666666667
+1112;help;noodgeval;9.66666666666667
+1113;help;noodrem;8.18181818181818
+1114;help;ambulancemedewerker;10
+1115;help;emt;10
+1116;help;inschakel;8
+1117;help;aanbevel;7.42857142857143
+1118;help;informer;8.25694444444444
+1119;help;verzeker;7.22222222222222
+1120;help;evacuatie;7.6
+1121;help;deskund;7.83333333333333
+1122;help;vergemak;9.875
+1123;help;vergemakkelijkt;8
+1124;help;vader;7
+1125;help;financiel hulp;8
+1126;help;financiel steun;8.2375
+1127;help;brandwer;8.54545454545454
+1128;help;brandweerlied;7
+1129;help;vriend;8.72222222222222
+1130;help;financier;7.44444444444444
+1131;help;gendarmes;7
+1132;help;schenk;8.8
+1133;help;goed;8
+1134;help;goedheid;9
+1135;help;rouw;7.11111111111111
+1136;help;hulplijn;9.55555555555556
+1137;help;helper;8.25
+1138;help;om hulp schreeuw;8.6
+1139;help;ziekenhuis;9.625
+1140;help;humanitair;9.11111111111111
+1141;help;de mensheid;8
+1142;help;verbeterd;8.36363636363636
+1143;help;uitgeschakeld;7.1
+1144;help;onervar person;8.125
+1145;help;onschuld;7.25
+1146;help;interactie;7.875
+1147;help;ingrijp;8.63636363636364
+1148;help;vriendelijk;8.33333333333333
+1149;help;allen;8.25
+1150;help;noodoproep;8.4
+1151;help;medisch;8.33333333333333
+1152;help;medici;7.75
+1153;help;modificer;10
+1154;help;nodig zijn;8.25
+1155;help;behoeft;9
+1156;help;neurolog;7.44444444444444
+1157;help;leuk;8.28571428571429
+1158;help;verpleegster;8.41666666666667
+1159;help;wez;7.9
+1160;help;verontwaard;7
+1161;help;oxfam;8.57142857142857
+1162;help;paramedicus;9.6
+1163;help;paramedici;9
+1164;help;ouder;7
+1165;help;patronag;7.8
+1166;help;kinderart;7.55555555555556
+1167;help;verzoekschrift;7.77777777777778
+1168;help;petitie;7.77777777777778
+1169;help;art;7.3
+1170;help;pleit;9.21111111111111
+1171;help;smeekbed;9.125
+1172;help;politie;7.33333333333333
+1173;help;politieagent;8.31818181818181
+1174;help;machtelos;7.14285714285714
+1175;help;voortgang;7.66666666666667
+1176;help;promot;7.1
+1177;help;voorzien in;9.2
+1178;help;verstrek;7.9
+1179;help;psychiater;7.75
+1180;help;psycholog;7.66666666666667
+1181;help;publiek dienst;9.11111111111111
+1182;help;bereik;8.4
+1183;help;contact opnem;9.54545454545454
+1184;help;reik;9.11111111111111
+1185;help;verlosser;7.25
+1186;help;versterk;8.08928571428572
+1187;help;hervorm;7
+1188;help;familieled;7.375
+1189;help;verlicht;7.94444444444445
+1190;help;verzoek indien;7.5
+1191;help;aangevraagd;7.66666666666667
+1192;help;aanvrag;7.6
+1193;help;red;9.51388888888889
+1194;help;gered;9.22916666666666
+1195;help;redder;9.00238095238095
+1196;help;reager;8.46634615384616
+1197;help;reageert;7.25
+1198;help;s.o.s.;9.75
+1199;help;bespar;9.76923076923077
+1200;help;dien;8.5
+1201;help;roept;8.75
+1202;help;bekwam;7.7
+1203;help;soldat;7.7
+1204;help;sos;9.57142857142857
+1205;help;recht mak;7.81818181818182
+1206;help;zelfmoord;7.55555555555556
+1207;help;benodigd;7.25
+1208;help;ondersteund;9.7
+1209;help;ondersteuner;8.8
+1210;help;ondersteun;9.3
+1211;help;ondersteunt;9.42857142857143
+1212;help;chirurg;8.08333333333333
+1213;help;overlev;8.27272727272727
+1214;help;trauma;8.6
+1215;help;problem;7.2
+1216;help;begrip;7.875
+1217;help;unicef;8.42857142857143
+1218;help;slachtoffer;7.4702380952381
+1219;help;kwetsbar;7.75
+1220;help;wacht op;7
+1221;help;will;7.22222222222222
+1222;help;warm;7.14285714285714
+1223;help;waarschuwingssignal;8.18181818181818
+1224;help;verzwakt;7.66666666666667
+1225;help;welzijn;8.41666666666667
+1226;honour;zich houd aan;8.33333333333333
+1227;honour;prestatie;8.13392857142857
+1228;honour;verantwoord;7
+1229;honour;behaald;8.85714285714286
+1230;honour;bewonder;7.45454545454545
+1231;honour;bewonderd;7.18181818181818
+1232;honour;op prijs stell;7.5
+1233;honour;waarder;7.875
+1234;honour;prijs;7.54545454545455
+1235;honour;toegek;8.71428571428571
+1236;honour;toekenn;7.25
+1237;honour;onderscheid;8.77777777777778
+1238;honour;overtu;8
+1239;honour;van mening zijn;7.57142857142857
+1240;honour;voordel;7.42857142857143
+1241;honour;zegen;8
+1242;honour;moedig;8.62857142857143
+1243;honour;dapper;9.08249158249158
+1244;honour;moed;7.92693602693603
+1245;honour;viering;7.66666666666667
+1246;honour;klas;7.81818181818182
+1247;honour;cod;7.33333333333333
+1248;honour;inzet;9.6
+1249;honour;vertrouw;7.86666666666667
+1250;honour;feliciter;9.2
+1251;honour;gewet;7.25
+1252;honour;attent;7.28571428571429
+1253;honour;land;8.5
+1254;honour;geloofwaard;7.85714285714286
+1255;honour;fatsoen;8.77777777777778
+1256;honour;toewijd;8.51010101010101
+1257;honour;vreugd;7.875
+1258;honour;betrouw;8.38947510822511
+1259;honour;waardig;8.62121212121212
+1260;honour;goddelijk;7
+1261;honour;veredel;8.25
+1262;honour;toevertrouw;7.42857142857143
+1263;honour;gewaardeerd;9
+1264;honour;schatbar;7
+1265;honour;ethiek;8.75
+1266;honour;uitmunt;8
+1267;honour;eerlijk;7.38333333333333
+1268;honour;trouw;8.81818181818182
+1269;honour;familie;8.7
+1270;honour;familielijn;7
+1271;honour;vergev;7.5
+1272;honour;vriend;7
+1273;honour;galant;9.11111111111111
+1274;honour;heerlijk;9.22222222222222
+1275;honour;glorie;9.22222222222222
+1276;honour;goed;8.27272727272727
+1277;honour;goed wil;7.88888888888889
+1278;honour;goedheid;7.9
+1279;honour;welwill;7
+1280;honour;elegantie;7.9
+1281;honour;genad;7.4
+1282;honour;gracieus;7.8
+1283;honour;dankbar;7.33333333333333
+1284;honour;held;9.875
+1285;honour;heldenmoed;9
+1286;honour;eer;9.37857142857143
+1287;honour;eervol;10
+1288;honour;humanism;7.57142857142857
+1289;honour;belangrijk;7.57142857142857
+1290;honour;integriteit;9.875
+1291;honour;gerecht;8.75
+1292;honour;justitie;7.42857142857143
+1293;honour;rechtvaard;7.78571428571428
+1294;honour;vriendelijk;7.3
+1295;honour;bloedverwant;7.6
+1296;honour;ridder;7.44444444444444
+1297;honour;nalatenschap;7.1
+1298;honour;loyal;8.66666666666667
+1299;honour;loyalist;9.57142857142857
+1300;honour;medaill;8.33333333333333
+1301;honour;medaillewinnar;7
+1302;honour;medaillon;7.2
+1303;honour;medailles;8.8
+1304;honour;zendingswerk;7.2
+1305;honour;morel;8.42857142857143
+1306;honour;morel princip;8.36363636363636
+1307;honour;moral;8.72727272727273
+1308;honour;moeder;8
+1309;honour;adel;7.875
+1310;honour;edel;8.0741341991342
+1311;honour;edelman;8.5
+1312;honour;genomineerd;7.25
+1313;honour;patriottisch;7.55555555555556
+1314;honour;patriottism;8.18181818181818
+1315;honour;beloft;8.56363636363637
+1316;honour;toezegg;7.4375
+1317;honour;lov;8.55555555555556
+1318;honour;prestig;8.45454545454546
+1319;honour;prestigieus;9
+1320;honour;trot;8.43253968253968
+1321;honour;beginsel;7.11111111111111
+1322;honour;principes;9.45454545454546
+1323;honour;professionaliteit;7.36363636363636
+1324;honour;veelbelov;7
+1325;honour;acht;7.66666666666667
+1326;honour;afhank;7.2
+1327;honour;herinnerd;7.1
+1328;honour;beroemd;7.36363636363636
+1329;honour;gerenomeerd;7.36363636363636
+1330;honour;reputatie;8
+1331;honour;reputaties;9
+1332;honour;respect;9.22222222222222
+1333;honour;respectabel;8.88888888888889
+1334;honour;gerespecteerd;8.125
+1335;honour;respectvol;8.75
+1336;honour;eerbied;7.69318181818182
+1337;honour;juist;7.2
+1338;honour;het juist om te doen;8.44444444444444
+1339;honour;heilig;8.3125
+1340;honour;heilig waard;8.22222222222222
+1341;honour;samoerai;8.85714285714286
+1342;honour;schol;7.22222222222222
+1343;honour;zelfvertrouw;7
+1344;honour;eigenwaard;7.8
+1345;honour;altar;8.125
+1346;honour;heiligdomm;8.77777777777778
+1347;honour;oprecht;8.13131313131313
+1348;honour;mener;7.81818181818182
+1349;honour;norm;7.75
+1350;honour;vertrouwd;7.72727272727273
+1351;honour;waarheidsgetrouw;9.54545454545454
+1352;honour;eenheid;8
+1353;honour;opvoed;7
+1354;honour;waard hooghoud;8.5
+1355;honour;heldhaft;9.5
+1356;honour;waard;8.99285714285714
+1357;honour;waardesystem;8
+1358;honour;geloft;7.86742424242424
+1359;honour;gezwor;7.77777777777778
+1360;honour;strijder;8.63636363636364
+1361;honour;krijger;8.45454545454546
+1362;honour;goed doordacht;7.72727272727273
+1363;honour;woord;7.25
+1364;honour;woord van god;7.5
+1365;honour;erewoord;7.85714285714286
+1366;honour;aanbid;7.1
+1367;impostor;acter;7.75
+1368;impostor;funger als;7.91666666666667
+1369;impostor;gedrag als;7.91666666666667
+1370;impostor;acteur;7.69642857142857
+1371;impostor;optreden;7.625
+1372;impostor;verschijn;7.625
+1373;impostor;uiter;7.625
+1374;impostor;slecht;8.15
+1375;impostor;bedrieger;8.88936588103255
+1376;impostor;nep;9.1051282051282
+1377;impostor;onzin;7.4
+1378;impostor;camouflag;7.5
+1379;impostor;bedrieg;8.56220129077272
+1380;impostor;valsspeler;7
+1381;impostor;zwendel;8
+1382;impostor;oplichter;8.51603174603175
+1383;impostor;masker;7.69090909090909
+1384;impostor;verborg;7.68013468013468
+1385;impostor;verhull;8.33333333333333
+1386;impostor;verwarr;7.375
+1387;impostor;opgelicht;7.55555555555556
+1388;impostor;namak;9.375
+1389;impostor;vervalser;9.375
+1390;impostor;aan het bedek;8.44444444444444
+1391;impostor;misdrijf;7.77777777777778
+1392;impostor;criminel;7
+1393;impostor;strafbar feit;7
+1394;impostor;sluw;7.8125
+1395;impostor;bedrog;9.14987012987013
+1396;impostor;teleurstell;8.71428571428571
+1397;impostor;deceptie;8.71428571428571
+1398;impostor;misleid;7.71282051282051
+1399;impostor;depersonalisatie stoornis;7.85714285714286
+1400;impostor;deporsonalisatie;7.66666666666667
+1401;impostor;vermomm;8.42424242424242
+1402;impostor;vermomd;8.75
+1403;impostor;oner;8.97916666666666
+1404;impostor;wantrouw;8.33257575757576
+1405;impostor;onbetrouw;8.82962962962963
+1406;impostor;hoort er niet bij;9.45454545454546
+1407;impostor;twijfel;7.54545454545455
+1408;impostor;gedupeerd;7.7
+1409;impostor;oplichterij;8.26984126984127
+1410;impostor;dubbelhart;7.63636363636364
+1411;impostor;vijand;8.85714285714286
+1412;impostor;spionag;7.83333333333333
+1413;impostor;ontwijk;7.57142857142857
+1414;impostor;blootlegg;7.625
+1415;impostor;niet war;9.875
+1416;impostor;leug;7.72727272727272
+1417;impostor;vervalst;8.55555555555556
+1418;impostor;vervals;7.7
+1419;impostor;defect;7
+1420;impostor;angstig;7.09090909090909
+1421;impostor;misdadiger;7
+1422;impostor;misdad;8.2
+1423;impostor;verdacht;7.76142376142376
+1424;impostor;vor de gek houd;8.875
+1425;impostor;fraud;9.66666666666667
+1426;impostor;fraudeur;9.75
+1427;impostor;frauduleus;10
+1428;impostor;gevar;7.11111111111111
+1429;impostor;hoax;7.42857142857143
+1430;impostor;identiteit;8.25
+1431;impostor;identiteitselement;7.45454545454545
+1432;impostor;illusie;7.38333333333333
+1433;impostor;imiter;9.4375
+1434;impostor;imitatie;10
+1435;impostor;navolger;9.55555555555556
+1436;impostor;nagebootst;8.77777777777778
+1437;impostor;naboots;9.43055555555556
+1438;impostor;imitator;8.09090909090909
+1439;impostor;nabootser;9.75
+1440;impostor;infiltrant;8.4
+1441;impostor;indringer;8.375
+1442;impostor;indring;9
+1443;impostor;onregelmat;7.3
+1444;impostor;wetsovertred;8.66666666666667
+1445;impostor;leugenar;9.31818181818182
+1446;impostor;leugen;7.75
+1447;impostor;aan het lieg;9.1
+1448;impostor;doen gelov;8.63636363636364
+1449;impostor;fantasie;7.1
+1450;impostor;schijn;7.1
+1451;impostor;kwaadaard;7.71428571428571
+1452;impostor;manipuler;7.125
+1453;impostor;manipulatie;7
+1454;impostor;maskerad;7.75
+1455;impostor;aivd;8.2
+1456;impostor;verkeerd identificer;7.33333333333333
+1457;impostor;verkeerd informer;8
+1458;impostor;verkeerd voorstell;9.1
+1459;impostor;verkeerd voorstell van zak;9.375
+1460;impostor;mysterieus;8
+1461;impostor;niet gekwalificeerd;7.9
+1462;impostor;hoort hier niet te zijn;8.875
+1463;impostor;ander;7
+1464;impostor;vervolgd;7.28571428571429
+1465;impostor;nepperd;9.6
+1466;impostor;toneelstuk;7.42857142857143
+1467;impostor;portretter;8.33333333333333
+1468;impostor;poser;8.85714285714286
+1469;impostor;doen alsof;9.25
+1470;impostor;ded alsof;9.81818181818182
+1471;impostor;huichelar;9.58333333333333
+1472;impostor;pretendent;9.875
+1473;impostor;twijfelacht;7
+1474;impostor;vervang;7.6125
+1475;impostor;rollenspel;8.14285714285714
+1476;impostor;oplicht;8.45454545454546
+1477;impostor;regel;7.22222222222222
+1478;impostor;geheim;7.5
+1479;impostor;louch;8.11111111111111
+1480;impostor;schijnverton;8.75
+1481;impostor;beschaamd;8.85714285714286
+1482;impostor;sluwheid;7.1
+1483;impostor;sluip;8.36507936507936
+1484;impostor;stiekem;8.375
+1485;impostor;spionn;7.44444444444444
+1486;impostor;spion;8.91666666666667
+1487;impostor;stel;8.77777777777778
+1488;impostor;vreemd;7.27272727272727
+1489;impostor;vreemdel;8
+1490;impostor;achterdocht;7.90909090909091
+1491;impostor;tendentieus;8
+1492;impostor;diefstal;7
+1493;impostor;verrad;8.44444444444444
+1494;impostor;truc;9.57142857142857
+1495;impostor;ontdek;7.77777777777778
+1496;impostor;undercover agent;9.54545454545454
+1497;impostor;onterecht;7.7
+1498;impostor;onbek;7.22222222222222
+1499;impostor;ontmasker;7.11111111111111
+1500;impostor;onwerk;8.11111111111111
+1501;impostor;onwar;8.77777777777778
+1502;impostor;onwaaracht;9.4
+1503;impostor;onwelkom;7.28571428571429
+1504;impostor;overnam;7.25
+1505;impostor;bezetter;7.66666666666667
+1506;impostor;overtred;7.75
+1507;impostor;pruik;7.09090909090909
+1508;jealousy;beschuld;8.5
+1509;jealousy;woed;7.80606060606061
+1510;jealousy;bos;7.88888888888889
+1511;jealousy;vijand;8.00799663299663
+1512;jealousy;angst;7.11111111111111
+1513;jealousy;arrogantie;7
+1514;jealousy;aanval;7.42857142857143
+1515;jealousy;gierig;10
+1516;jealousy;hebzucht;9.16666666666667
+1517;jealousy;bitter;8.77777777777778
+1518;jealousy;afwijz;7.66666666666667
+1519;jealousy;bedrog;7.6
+1520;jealousy;bedrieg;9
+1521;jealousy;bedrieger;7.63636363636364
+1522;jealousy;consumer;7.90909090909091
+1523;jealousy;controleur;7.90909090909091
+1524;jealousy;beheers;8.77777777777778
+1525;jealousy;controles;7.77777777777778
+1526;jealousy;schadelijk;8.36363636363636
+1527;jealousy;ongenoeg;7.14285714285714
+1528;jealousy;ontevred;7.42857142857143
+1529;jealousy;wantrouw;8.01481481481481
+1530;jealousy;ego;8.375
+1531;jealousy;ego';8.875
+1532;jealousy;emotie;9.77777777777778
+1533;jealousy;emotionel;9
+1534;jealousy;emoties;8.14285714285714
+1535;jealousy;woedend;7.88888888888889
+1536;jealousy;jaloer;10
+1537;jealousy;afgunst;9.57142857142857
+1538;jealousy;jaloezie;10
+1539;jealousy;erotisch liefd;7.27272727272727
+1540;jealousy;slecht;7
+1541;jealousy;slechtheid;7.1875
+1542;jealousy;gevoel;9.375
+1543;jealousy;gevoelen;8.3
+1544;jealousy;voeld;7.16666666666667
+1545;jealousy;gefixeerd;7.63636363636364
+1546;jealousy;fixatie;7.33333333333333
+1547;jealousy;inten star;8
+1548;jealousy;hebber;7.875
+1549;jealousy;groen;7.4
+1550;jealousy;groen zien;8.85714285714286
+1551;jealousy;wrok;8.44444444444444
+1552;jealousy;rancunes;8
+1553;jealousy;led;7.625
+1554;jealousy;hat;7.72727272727273
+1555;jealousy;gewelddad;7.54545454545455
+1556;jealousy;men;7.18181818181818
+1557;jealousy;menselijk relatie;9
+1558;jealousy;mens;7.33333333333333
+1559;jealousy;kwets;7.66666666666667
+1560;jealousy;pijn doen;7.7
+1561;jealousy;tekortkom;7
+1562;jealousy;ontrouw;7
+1563;jealousy;toebreng;7
+1564;jealousy;onzeker;8.44444444444444
+1565;jealousy;instabiliteit;7.42857142857143
+1566;jealousy;ontoereik;7.375
+1567;jealousy;irrationel;8.57142857142857
+1568;jealousy;lust;8
+1569;jealousy;krankzinn;7.2
+1570;jealousy;kwaadaard;7.3
+1571;jealousy;manipulatief;7
+1572;jealousy;de mijn;8.71428571428571
+1573;jealousy;motief;7.42857142857143
+1574;jealousy;nodig hebb;7.11111111111111
+1575;jealousy;negatief;7.625
+1576;jealousy;negatief gelad;7
+1577;jealousy;ergernis;7
+1578;jealousy;geobsedeerd;9
+1579;jealousy;obsessie;8.88888888888889
+1580;jealousy;obsessies;9.1
+1581;jealousy;obsessief;7.25
+1582;jealousy;aanmat;8.88888888888889
+1583;jealousy;overjaloer;9
+1584;jealousy;pijn;7.47916666666667
+1585;jealousy;partner;7.42857142857143
+1586;jealousy;giftig;8.22222222222222
+1587;jealousy;bezit;8
+1588;jealousy;bezet;7.33333333333333
+1589;jealousy;bezitter;9.06666666666667
+1590;jealousy;preoccupatie;7
+1591;jealousy;problem;7.89583333333333
+1592;jealousy;psychologisch;7.28571428571429
+1593;jealousy;verhoud;9.25
+1594;jealousy;rancuneus;7.8
+1595;jealousy;rancun;9.25714285714286
+1596;jealousy;wrak;7.62592592592593
+1597;jealousy;vergeld;8
+1598;jealousy;roodzien;8
+1599;jealousy;egoistisch;7
+1600;jealousy;egoism;8.85714285714286
+1601;jealousy;zondig;7.85714285714286
+1602;jealousy;snobism;7
+1603;jealousy;lijd;7.63636363636364
+1604;jealousy;bedreig;7.5
+1605;jealousy;verrad;7.1
+1606;jealousy;vreemdgan;7
+1607;jealousy;onaanvaard;7.14285714285714
+1608;jealousy;oner;7.1
+1609;jealousy;ongeluk;8.75
+1610;jealousy;onvoorspel;7.28571428571429
+1611;jealousy;onred;7
+1612;jealousy;vendetta;7.3
+1613;jealousy;vendetta';8
+1614;jealousy;gemen;7.36363636363636
+1615;jealousy;gewild;7.57142857142857
+1616;jealousy;wens;7.57142857142857
+1617;loneliness;verlat;9.25
+1618;loneliness;alcoholism;7.8
+1619;loneliness;allen;9.25
+1620;loneliness;doodsangst;7.85714285714286
+1621;loneliness;angst;8.5
+1622;loneliness;spanning;8.21428571428572
+1623;loneliness;verwijderd;9.38461538461539
+1624;loneliness;somber;9.03703703703704
+1625;loneliness;vervel;8
+1626;loneliness;uit elkar gan;7.81818181818182
+1627;loneliness;uitmak;8
+1628;loneliness;uiteenvall;7.46153846153846
+1629;loneliness;klinisch depressie;8.63636363636364
+1630;loneliness;afsluit;7.875
+1631;loneliness;opgeslot;7.1
+1632;loneliness;opsluit;9.2
+1633;loneliness;donker;7.42857142857143
+1634;loneliness;sterfgevall;7.88888888888889
+1635;loneliness;depressief;8.77777777777778
+1636;loneliness;depressie;8.42857142857143
+1637;loneliness;depressiev stoornis;7.44444444444444
+1638;loneliness;troostelos;8.5
+1639;loneliness;wanhop;7.28571428571429
+1640;loneliness;ten eind rad;8.625
+1641;loneliness;berooid;7.5
+1642;loneliness;losgemaakt;9.5
+1643;loneliness;teleurstell;7.25
+1644;loneliness;ongemak;7.2
+1645;loneliness;loskoppel;8.13636363636364
+1646;loneliness;verbind verbrok;9.33333333333333
+1647;loneliness;ontkoppeld;7.375
+1648;loneliness;ongenoeg;7.26666666666667
+1649;loneliness;verdriet;7.99166666666667
+1650;loneliness;scheiding;8.42857142857143
+1651;loneliness;echtscheid;8.5
+1652;loneliness;down;8
+1653;loneliness;terneergeslag;7.88888888888889
+1654;loneliness;ouder;7.61428571428571
+1655;loneliness;leegt;8.42857142857143
+1656;loneliness;vijand;8
+1657;loneliness;uitsluit;7.125
+1658;loneliness;angstig;7.125
+1659;loneliness;voel;7.75
+1660;loneliness;verget;7.4
+1661;loneliness;bang;8.23076923076923
+1662;loneliness;frustratie;7.45454545454545
+1663;loneliness;teneergeslag;7.18181818181818
+1664;loneliness;neerslacht;8.23076923076923
+1665;loneliness;grauwheid;7
+1666;loneliness;hartverscheur;9.33333333333333
+1667;loneliness;hulpelos;7.16666666666667
+1668;loneliness;kluizenar;8.33766233766234
+1669;loneliness;hopelos;8.22510822510822
+1670;loneliness;vreselijk;7.45454545454545
+1671;loneliness;i;8
+1672;loneliness;onmacht;7.3
+1673;loneliness;gevangenisstraf;8
+1674;loneliness;individueel;8.125
+1675;loneliness;onzeker;8.25
+1676;loneliness;geisoleerd;9.875
+1677;loneliness;isolatie;9.625
+1678;loneliness;vertrek;8
+1679;loneliness;eenzam;8.87988862988863
+1680;loneliness;verlang;8.41666666666666
+1681;loneliness;verlor;8.375
+1682;loneliness;lag;7.45454545454545
+1683;loneliness;weergalos;7.16666666666667
+1684;loneliness;miserabel;8.625
+1685;loneliness;verwaarloosd;8
+1686;loneliness;gen vriend;9.85714285714286
+1687;loneliness;vriendlos;9.85714285714286
+1688;loneliness;niemand;8.55555555555556
+1689;loneliness;ongezell;9
+1690;loneliness;asociaal;8.57142857142857
+1691;loneliness;niet gewaardeerd;8.18181818181818
+1692;loneliness;oud;7.61538461538461
+1693;loneliness;een;8.85714285714286
+1694;loneliness;verbann;7.875
+1695;loneliness;verschoppel;9.7
+1696;loneliness;buitenbeentj;9.7
+1697;loneliness;buitenstaander;7.41666666666667
+1698;loneliness;straatarm;7.4
+1699;loneliness;machtelos;8.55555555555556
+1700;loneliness;afwijz;8.25
+1701;loneliness;afgewez;9.3
+1702;loneliness;op afstand;8.625
+1703;loneliness;helas;9.22222222222222
+1704;loneliness;droefheid;8
+1705;loneliness;afzonder;9.57142857142857
+1706;loneliness;uit elkar gehaald;7.88888888888889
+1707;loneliness;scheid;7.77777777777778
+1708;loneliness;apart gezet;9.71428571428571
+1709;loneliness;stilt;8.57142857142857
+1710;loneliness;alleenstaand;9.44444444444444
+1711;loneliness;singl;9.44444444444444
+1712;loneliness;enig;7.1
+1713;loneliness;eenzam opsluit;9.8
+1714;loneliness;solo;9.25
+1715;loneliness;gestrand;8.75
+1716;loneliness;zelfmoord;7
+1717;loneliness;tran;7.4
+1718;loneliness;zonder begeleid;8.45454545454546
+1719;loneliness;ondergewardeerd;7.3
+1720;loneliness;niet verbond;8.42857142857143
+1721;loneliness;ondergewaardeerd;7.18181818181818
+1722;loneliness;ongeluk;7.44444444444444
+1723;loneliness;niet geliefd;7
+1724;loneliness;onbeminn;7
+1725;loneliness;onbemind;9.125
+1726;loneliness;kwetsbar;8.2
+1727;loneliness;will;7.85714285714286
+1728;loneliness;weduwnar;7.81818181818182
+1729;loneliness;zonder;9.57142857142857
+1730;loneliness;zich zorg mak;7.1
+1731;murder;misbruik;8.1
+1732;murder;mishandel;7.3375
+1733;murder;medeplicht;8.77777777777778
+1734;murder;schrik;7.4
+1735;murder;agressief;9.33333333333333
+1736;murder;agressor;9
+1737;murder;nod;8.90909090909091
+1738;murder;zogenaamd;8
+1739;murder;hinderlag;7.09090909090909
+1740;murder;munitie;7.88888888888889
+1741;murder;amorel;8.55555555555556
+1742;murder;woed;7.89243881118881
+1743;murder;doodsangst;7
+1744;murder;vijand;7.96190476190476
+1745;murder;aanhoud;7.09090909090909
+1746;murder;vurig;7
+1747;murder;gewap;7.81818181818182
+1748;murder;arrester;8.11111111111111
+1749;murder;gearresteerd;8.25
+1750;murder;arrestaties;7.55555555555556
+1751;murder;brandsticht;7
+1752;murder;verstik;8.93148148148148
+1753;murder;aanvaller;8.64426573426573
+1754;murder;sluipmoordenar;7.125
+1755;murder;vermoord;9.48701298701299
+1756;murder;moord;9.82853084415584
+1757;murder;moordenar;9.5047619047619
+1758;murder;overval;9.27272727272727
+1759;murder;aangevall;8.71428571428572
+1760;murder;aanvall;9.275
+1761;murder;aanval;8.88888888888889
+1762;murder;slecht;9.42857142857143
+1763;murder;ballistiek;7
+1764;murder;geslag;8.77777777777778
+1765;murder;slan;9.125
+1766;murder;bedrog;9.18181818181818
+1767;murder;bloed;9.47272727272727
+1768;murder;bloedt;8.11111111111111
+1769;murder;bloedvergiet;9.14285714285714
+1770;murder;bloeder;9.875
+1771;murder;gekneusd;9.54545454545454
+1772;murder;knuppel;9.54545454545454
+1773;murder;licham;7.36931818181818
+1774;murder;bom;8.7
+1775;murder;bommenwerper;8.66666666666667
+1776;murder;bombardement;8.5625
+1777;murder;wred;9.5
+1778;murder;kogel;8.2
+1779;murder;begrafenis;7.91666666666667
+1780;murder;begrav;7.33333333333333
+1781;murder;hartelos;8.66666666666667
+1782;murder;uitvoer;7.91666666666667
+1783;murder;doodsoorzak;8.22222222222222
+1784;murder;cell;8
+1785;murder;begraafplat;8
+1786;murder;in reken breng;9
+1787;murder;opgelad;8.5
+1788;murder;kost;9.33333333333333
+1789;murder;stik;8.61688311688312
+1790;murder;gevecht;7.18253968253968
+1791;murder;verwerp;9.25
+1792;murder;bekentenis;8.66666666666667
+1793;murder;gevolg;7.125
+1794;murder;veroordeeld;8.9625
+1795;murder;overtu;8.6
+1796;murder;agent;7.77777777777778
+1797;murder;lijk;9.63383838383838
+1798;murder;rechtbank;7.77777777777778
+1799;murder;gekt;7.6
+1800;murder;gek;8.50649350649351
+1801;murder;misdrijf;9.77777777777778
+1802;murder;crim passionel;9.11111111111111
+1803;murder;misdad;9.42142857142857
+1804;murder;criminel;9.18928571428571
+1805;murder;strafbar feit;9.475
+1806;murder;strafrecht vervolg;8.3
+1807;murder;kruisig;7.11111111111111
+1808;murder;cyanid;9
+1809;murder;dolk;9.42857142857143
+1810;murder;schad;7.22222222222222
+1811;murder;gevar;8.91732804232804
+1812;murder;dod;9.67857142857143
+1813;murder;verdoofd;8.72727272727273
+1814;murder;dodelijk;9.37301587301587
+1815;murder;sterfgevall;9.58333333333333
+1816;murder;onthoofd;9.21428571428571
+1817;murder;overlijd;8.77678571428572
+1818;murder;ontbind;7.86666666666667
+1819;murder;verded;7.58333333333333
+1820;murder;verweerder;8.36363636363636
+1821;murder;betreurenswaard;7
+1822;murder;veracht;9.55555555555556
+1823;murder;kapot mak;7.57142857142857
+1824;murder;vernietigd;7.22222222222222
+1825;murder;verniet;8.65656565656565
+1826;murder;vernietigt;9.09090909090909
+1827;murder;verwoest;7.85416666666667
+1828;murder;detectiv;9.11111111111111
+1829;murder;rechercheur;7.65151515151515
+1830;murder;dod gan;9.7
+1831;murder;ging dod;9.66666666666667
+1832;murder;ontevred;7.25
+1833;murder;schandelijk;8.36363636363636
+1834;murder;walging;7.22222222222222
+1835;murder;walgelijk;7.83333333333333
+1836;murder;afschuw;8.42857142857143
+1837;murder;onter;7.27272727272727
+1838;murder;uiteengeret;9.125
+1839;murder;verzend;7.42857142857143
+1840;murder;beschik;7.77777777777778
+1841;murder;afvoer;8.66666666666667
+1842;murder;onsmak;8.22222222222222
+1843;murder;angst;7.86666666666667
+1844;murder;verstoord;7.71428571428571
+1845;murder;dna;7.2
+1846;murder;val dod;7.1
+1847;murder;doodvall;7.1
+1848;murder;dod ner vall;7.1
+1849;murder;stervend;9.44444444444444
+1850;murder;egoistisch;7.28571428571429
+1851;murder;elektrocutie;8.875
+1852;murder;eind;7.84821428571428
+1853;murder;in gevar breng;8.8
+1854;murder;bedreig;8.8978835978836
+1855;murder;slechtheid;8.09821428571428
+1856;murder;levenlos;8.07142857142857
+1857;murder;ondrag;7.22222222222222
+1858;murder;uitgevoerd;9
+1859;murder;voert uit;9.14285714285714
+1860;murder;executie;8.72727272727273
+1861;murder;executies;8.90909090909091
+1862;murder;explosie;8
+1863;murder;explosiev;8.45454545454546
+1864;murder;extremist;8.88888888888889
+1865;murder;ooggetu;8.22222222222222
+1866;murder;fatal;10
+1867;murder;wreedheid;7.90909090909091
+1868;murder;terugvecht;7
+1869;murder;vecht;8.02020202020202
+1870;murder;vingerafdruk;7.57692307692307
+1871;murder;vuurwapen;8.625
+1872;murder;kracht;8.5
+1873;murder;forensisch;8.5
+1874;murder;forensisch wetenschap;8.63636363636364
+1875;murder;forensisch onderzoek;9.07692307692308
+1876;murder;gevocht;7.2
+1877;murder;val;8.33333333333333
+1878;murder;bang;7.63636363636364
+1879;murder;begrafeniss;8.33333333333333
+1880;murder;afgrijs;9
+1881;murder;bederv;7
+1882;murder;graf;9.7
+1883;murder;grav;7
+1884;murder;rouw;7.125
+1885;murder;pijnlijk;8.84821428571428
+1886;murder;grimmig;8.5
+1887;murder;gruwelijk;9.25
+1888;murder;schuld;7.88888888888889
+1889;murder;schuldgevoelen;7.22222222222222
+1890;murder;schuldig;8.75
+1891;murder;schuldig gewet;8.46153846153846
+1892;murder;pistol;9.08035714285715
+1893;murder;geweervur;9.25
+1894;murder;schutter;8.86666666666667
+1895;murder;neergeschot;8.75
+1896;murder;gewer;8.2125
+1897;murder;geweerschot;9.15972222222222
+1898;murder;scherpschutter;7.25
+1899;murder;handgewer;8
+1900;murder;hang;7.8
+1901;murder;hariri;10
+1902;murder;led;8.73888888888889
+1903;murder;geschad;9.5
+1904;murder;schad toebreng;8.90909090909091
+1905;murder;schaadt;8.58333333333333
+1906;murder;een hekel hebb aan;9.28571428571429
+1907;murder;hat;8.14285714285714
+1908;murder;zwar wap;8.75
+1909;murder;hel;7
+1910;murder;gehuurd wap;8.63636363636364
+1911;murder;rak;7.36363636363636
+1912;murder;huurmoordenar;8.625
+1913;murder;heilig terreur;8
+1914;murder;vreselijk;9
+1915;murder;verschrik;9.22222222222222
+1916;murder;gewelddad;9.1
+1917;murder;menselijk;7
+1918;murder;men;7
+1919;murder;mens;8.42857142857143
+1920;murder;opgehang;8.2
+1921;murder;kwets;8.75
+1922;murder;pijn doen;8.5
+1923;murder;doet zer;9.18181818181818
+1924;murder;immoraliteit;7.3
+1925;murder;gevang zet;8.33333333333333
+1926;murder;gevangenisstraf;8.58333333333333
+1927;murder;incident;8.85714285714286
+1928;murder;toebreng;7
+1929;murder;onmens;9.6
+1930;murder;verwond;8.55092592592593
+1931;murder;gewond;8.31818181818182
+1932;murder;verwondt;7
+1933;murder;blessur;8.90909090909091
+1934;murder;gevangen;8.09090909090909
+1935;murder;navrag;7.91666666666667
+1936;murder;krankzinn;8.2
+1937;murder;bedoeld;7.22222222222222
+1938;murder;opzet;8.22142857142857
+1939;murder;intenties;7.4
+1940;murder;indring;7.5
+1941;murder;onderzoek;8.4448051948052
+1942;murder;onderzocht;9.07692307692308
+1943;murder;onderzoeker;8.38888888888889
+1944;murder;gevangenis;8.62962962962963
+1945;murder;gevangeniss;8.38888888888889
+1946;murder;rechter;7.14285714285714
+1947;murder;gedod;10
+1948;murder;doodt;9.38888888888889
+1949;murder;mes;7.55555555555556
+1950;murder;mes stot;7.7
+1951;murder;mess;9.33333333333333
+1952;murder;lapd;7.71428571428571
+1953;murder;wetsovertred;9.90909090909091
+1954;murder;lev;7.4
+1955;murder;levensbedreig;9.42857142857143
+1956;murder;ligatur;7.5
+1957;murder;verlies;8.63636363636364
+1958;murder;verliez;7.53846153846154
+1959;murder;macabr;8.75
+1960;murder;machet;7.72727272727273
+1961;murder;bos;8
+1962;murder;vermink;7.76818181818182
+1963;murder;boosdoener;7.16666666666667
+1964;murder;kwaadaard;7
+1965;murder;verminkt;7.66666666666667
+1966;murder;doodslag;8.88888888888889
+1967;murder;doodslager;8.92857142857143
+1968;murder;gemarteld;8.5
+1969;murder;chaos;7.25
+1970;murder;hersenlos;7
+1971;murder;raket;7.85714285714286
+1972;murder;monster;7.5
+1973;murder;morbid;8.09090909090909
+1974;murder;rouwend;7.75
+1975;murder;mysteries;7.45454545454545
+1976;murder;mysterie;8.33333333333333
+1977;murder;gemen;9.05334595959596
+1978;murder;misselijk;7
+1979;murder;nieuwswaard;8
+1980;murder;nypd;8.875
+1981;murder;uitwiss;9.71428571428571
+1982;murder;overtred;8.67464646464646
+1983;murder;pijn;9.25
+1984;murder;paniek;7
+1985;murder;sterv;7.63636363636364
+1986;murder;vergan;9.66666666666667
+1987;murder;person;7.55555555555556
+1988;murder;aanvalsplan;9.1
+1989;murder;gepland;8.28571428571429
+1990;murder;plann;7.44444444444444
+1991;murder;vergif;9.3
+1992;murder;gif;9.3
+1993;murder;vergiftigd;9.54545454545454
+1994;murder;vergift;9.5
+1995;murder;giftig substantie;8.25
+1996;murder;politie;7.22222222222222
+1997;murder;politieagent;8.90909090909091
+1998;murder;problem;7.75
+1999;murder;vervolg;9.22222222222222
+2000;murder;stot;7
+2001;murder;inslap;8.09090909090909
+2002;murder;ter dod breng;8.9
+2003;murder;qaeda;8.125
+2004;murder;razernij;8.4
+2005;murder;rod;8.09090909090909
+2006;murder;berouw;7.45454545454545
+2007;murder;laakbar;7.90909090909091
+2008;murder;weerzinwek;7.45454545454545
+2009;murder;ricin;8.5
+2010;murder;rust in vred;9
+2011;murder;meedogenlos;8
+2012;murder;lat schrik;7.77777777777778
+2013;murder;taferel;7.77777777777778
+2014;murder;schreeuw;7
+2015;murder;roodzien;7.6
+2016;murder;seriemoordernar;7.53333333333333
+2017;murder;echt;9.5
+2018;murder;erg;8.6
+2019;murder;ernstig;8.6
+2020;murder;schaamt;7
+2021;murder;bescham;9
+2022;murder;bloedverliez;9.08333333333333
+2023;murder;schiet;8.24107142857143
+2024;murder;neerschiet;8.25
+2025;murder;schietpartij;9.22222222222222
+2026;murder;schot;8.33928571428572
+2027;murder;granaatscherv;7.18181818181818
+2028;murder;zond;8.45454545454546
+2029;murder;zondig;8.5125
+2030;murder;smor;8
+2031;murder;sniper;8.11111111111111
+2032;murder;soldat;7.61111111111111
+2033;murder;oploss;7.72727272727273
+2034;murder;opgelost;8.44444444444444
+2035;murder;sper;7.77777777777778
+2036;murder;stek;9.78409090909091
+2037;murder;gestok;9.54545454545454
+2038;murder;steekt;9.77777777777778
+2039;murder;wurg;8.81481481481481
+2040;murder;gewurgd;9.66666666666667
+2041;murder;wurging;10
+2042;murder;spanning;7.5
+2043;murder;lijd;8.25
+2044;murder;lijdt;8.625
+2045;murder;verdacht;8.81861471861472
+2046;murder;zwaard;7.92142857142857
+2047;murder;lev ontnem;10
+2048;murder;in bewar nem;7.57142857142857
+2049;murder;beeindig;7.22222222222222
+2050;murder;doodsbang;8.53333333333333
+2051;murder;terreur;9.66666666666667
+2052;murder;terroriser;7.875
+2053;murder;terrorism;8
+2054;murder;terrorist;8.875
+2055;murder;dreig;7.85714285714286
+2056;murder;bedreigd;7.1
+2057;murder;gas gev;7.28571428571429
+2058;murder;martel;7.36363636363636
+2059;murder;giftig;7
+2060;murder;verrader;8.375
+2061;murder;trauma;8.85714285714286
+2062;murder;proces;9
+2063;murder;ongeremd;7.25
+2064;murder;overwinn;7.54545454545455
+2065;murder;uitsprak;9.5
+2066;murder;slachtoffer;9.51587301587302
+2067;murder;schurk;9.08441558441558
+2068;murder;schend;8.55555555555556
+2069;murder;geschond;9.57142857142857
+2070;murder;schendt;8.875
+2071;murder;geweld;9.66666666666667
+2072;murder;hevig;10
+2073;murder;gewelddad dod;8.27272727272727
+2074;murder;gewelddad stoornis;8.44444444444444
+2075;murder;oorlog;8.27777777777778
+2076;murder;oorlogsvoer;8.33333333333333
+2077;murder;wap;8.7
+2078;murder;wapensystem;7.9
+2079;murder;wapen;8.77777777777778
+2080;murder;whodunit;9.57142857142857
+2081;murder;wildheid;7.4
+2082;murder;uitveg;7.28571428571429
+2083;murder;getuig;8.1375
+2084;murder;wee;7.375
+2085;murder;wond;9.39444444444445
+2086;murder;toorn;8.22222222222222
+2087;paranoia;beschuld;7.76923076923077
+2088;paranoia;lat schrik;8.17777777777778
+2089;paranoia;bang;8.62205387205387
+2090;paranoia;buitenaard wezen;7.3
+2091;paranoia;doodsangst;8.14285714285714
+2092;paranoia;angst;9.20023809523809
+2093;paranoia;spanning;8.07828282828283
+2094;paranoia;gespann;9.14285714285714
+2095;paranoia;bezorgd;7.995670995671
+2096;paranoia;aanval;7.66666666666667
+2097;paranoia;aanvaller;7.125
+2098;paranoia;aanvall;7.125
+2099;paranoia;bekek word;9.27272727272727
+2100;paranoia;bipolair;7.7
+2101;paranoia;voorzicht;7
+2102;paranoia;cameratoezicht;7.14285714285714
+2103;paranoia;central inlichtingendienst;7.55555555555556
+2104;paranoia;dwangmat;7.375
+2105;paranoia;zorg;7.85521885521885
+2106;paranoia;complot;8.11111111111111
+2107;paranoia;samenzwer;7.36363636363636
+2108;paranoia;overtuigd;7.88888888888889
+2109;paranoia;gek;8.01111111111111
+2110;paranoia;gevar;7.9
+2111;paranoia;dod;7.14285714285714
+2112;paranoia;delirium;8.28571428571429
+2113;paranoia;misleid;7.98412698412698
+2114;paranoia;waanidee;9.5
+2115;paranoia;wan;9.57142857142857
+2116;paranoia;dementer;7.25
+2117;paranoia;depressief;7.46666666666667
+2118;paranoia;wanhop;7.125
+2119;paranoia;losgemaakt;7.33333333333333
+2120;paranoia;wanord;8
+2121;paranoia;stoorniss;7.57142857142857
+2122;paranoia;gedesorienteerd;7.375
+2123;paranoia;radelos;8
+2124;paranoia;verdriet;7.18181818181818
+2125;paranoia;wantrouw;8.65833333333333
+2126;paranoia;verstor;7.16666666666667
+2127;paranoia;verstoord;8.2
+2128;paranoia;twijfel;7.77678571428572
+2129;paranoia;vres;7.09090909090909
+2130;paranoia;gevreesd;7.2
+2131;paranoia;vreselijk;7
+2132;paranoia;afluister;7.2625
+2133;paranoia;emoties;9.2
+2134;paranoia;angstig;9.5
+2135;paranoia;vrezend;9.71428571428571
+2136;paranoia;angstaanjag;7.98095238095238
+2137;paranoia;voel;8
+2138;paranoia;gevoel;8.36363636363636
+2139;paranoia;gefixeerd;8.22222222222222
+2140;paranoia;schrik;9.08333333333333
+2141;paranoia;beangstig;8.27272727272727
+2142;paranoia;fsb;9
+2143;paranoia;geroddel;7.55555555555556
+2144;paranoia;schuld;7.28571428571429
+2145;paranoia;hallucinatie;9.08333333333333
+2146;paranoia;hallucinaties;9
+2147;paranoia;schadelijk;7.28571428571429
+2148;paranoia;vijand;7.11111111111111
+2149;paranoia;hysterie;8.375
+2150;paranoia;ziek;7
+2151;paranoia;ziekt;9.57142857142857
+2152;paranoia;onlogisch;7.375
+2153;paranoia;illusies;8.57142857142857
+2154;paranoia;fantasieen;8.5
+2155;paranoia;krankzinn;7.92272727272727
+2156;paranoia;onzeker;8.38888888888889
+2157;paranoia;instabiliteit;7
+2158;paranoia;irrationel;8.18181818181818
+2159;paranoia;jaloer;8.5
+2160;paranoia;zenuwacht;8.34027777777778
+2161;paranoia;luister;8.125
+2162;paranoia;eenzam;7.27272727272727
+2163;paranoia;over de schouder kijk;8.75
+2164;paranoia;bos;7.44444444444444
+2165;paranoia;manisch;7.72727272727273
+2166;paranoia;geneesmiddel;7.2
+2167;paranoia;medicatie;7.63636363636364
+2168;paranoia;medicijn;7.75
+2169;paranoia;mental;7.54545454545455
+2170;paranoia;mental ziekt;8.22222222222222
+2171;paranoia;psychisch stoornis;9.55555555555556
+2172;paranoia;mental stoornis;8.8
+2173;paranoia;mental gezond;8.64285714285714
+2174;paranoia;geestesziekt;9.16666666666667
+2175;paranoia;mental ziek;9.25
+2176;paranoia;verstand;8.81818181818182
+2177;paranoia;geest;8.42857142857143
+2178;paranoia;narcotica;7.4
+2179;paranoia;negatief;8.58333333333333
+2180;paranoia;zenuw;7.58333333333333
+2181;paranoia;nervositeit;8.75
+2182;paranoia;neurotisch;8
+2183;paranoia;idioot;8.63636363636364
+2184;paranoia;geobsedeerd;8
+2185;paranoia;obsessie;8.27272727272727
+2186;paranoia;obsessief;7.54545454545454
+2187;paranoia;prikkel;9.66666666666667
+2188;paranoia;overanalyser;9.11111111111111
+2189;paranoia;overreactie;8.72727272727273
+2190;paranoia;paniek;7.14285714285714
+2191;paranoia;in paniek;8.81818181818182
+2192;paranoia;paranoia;10
+2193;paranoia;paranoid;8.90909090909091
+2194;paranoia;fobieen;8
+2195;paranoia;fobisch stoornis;8.88888888888889
+2196;paranoia;beram;7.71428571428571
+2197;paranoia;preventiev maatregel;7.72727272727273
+2198;paranoia;problem;7.60846560846561
+2199;paranoia;psychiatrisch;7.57142857142857
+2200;paranoia;psychologisch;9.45454545454546
+2201;paranoia;psychopat;7.6
+2202;paranoia;psychos;8.41666666666667
+2203;paranoia;psychotisch;8.9
+2204;paranoia;psychotisch overtu;7.875
+2205;paranoia;eng;7.82916666666666
+2206;paranoia;schizoid;8.66666666666667
+2207;paranoia;schizofrenie;8.875
+2208;paranoia;schizofren;9.55555555555556
+2209;paranoia;schizofr stoornis;9.45454545454546
+2210;paranoia;schizofr psychos;7.55555555555556
+2211;paranoia;schizotypisch;8
+2212;paranoia;schizotypisch person;8.3
+2213;paranoia;afzonder;7.14285714285714
+2214;paranoia;geheimzinn;7.66666666666667
+2215;paranoia;sociopat;7.36363636363636
+2216;paranoia;sociopathisch;8.25
+2217;paranoia;spion;7.27272727272727
+2218;paranoia;spionag;7.875
+2219;paranoia;toezicht;8.7
+2220;paranoia;verdacht;7.88888888888889
+2221;paranoia;vermoed;8.1
+2222;paranoia;verdenk;9.625
+2223;paranoia;vermoeden;9.63636363636364
+2224;paranoia;achterdocht;9.09090909090909
+2225;paranoia;doodsbang;8.16666666666667
+2226;paranoia;terreur;8.90909090909091
+2227;paranoia;denk;7.25
+2228;paranoia;in gang zet;7
+2229;paranoia;ufo';7.375
+2230;paranoia;gewetenlos;7.25
+2231;paranoia;undercoveragent;7.27272727272727
+2232;paranoia;onbehag;7.90909090909091
+2233;paranoia;ongemak;9
+2234;paranoia;ongezond;7.55555555555556
+2235;paranoia;onveil;8
+2236;paranoia;ondeugd;7
+2237;paranoia;instabiel;8
+2238;paranoia;onwel;7
+2239;paranoia;slachtoffer;7.77777777777778
+2240;paranoia;waakzam;7.22222222222222
+2241;paranoia;kwetsbar;7.1
+2242;paranoia;behoedzam;7.63636363636364
+2243;paranoia;horlog;7.375
+2244;paranoia;bekek;7.6
+2245;paranoia;aan het kijk;7.72727272727273
+2246;paranoia;wiet;8
+2247;paranoia;vreemd;7.125
+2248;paranoia;tapp;8.2
+2249;paranoia;tap;8.125
+2250;paranoia;zich zorg mak;8.25
+2251;planning;prestaties;7.6
+2252;planning;nauwkeur;8.20833333333333
+2253;planning;accurat;7.11111111111111
+2254;planning;handel op;7.2
+2255;planning;acties;7.5
+2256;planning;adviser;8.11111111111111
+2257;planning;adviseur;8.18055555555556
+2258;planning;agenda;9.27272727272727
+2259;planning;doel;7.88888888888889
+2260;planning;analys;8.5
+2261;planning;benader;7.81818181818182
+2262;planning;architect;9
+2263;planning;bouwkund plan;7.44444444444444
+2264;planning;help;7.125
+2265;planning;assistent;8
+2266;planning;aanval;7.25
+2267;planning;aanvall;7.125
+2268;planning;poging;8.125
+2269;planning;aandacht;8.11111111111111
+2270;planning;bewustzijn;7.33333333333333
+2271;planning;begin;8.42857142857143
+2272;planning;gunstig;7.25
+2273;planning;blauwdruk;10
+2274;planning;gebouw;7.27272727272727
+2275;planning;gebouwd;8.28571428571429
+2276;planning;bedrijf;8.44444444444444
+2277;planning;zakelijk;7.125
+2278;planning;kalender;9.85714285714285
+2279;planning;in actie breng;7.69230769230769
+2280;planning;uitvoer;8.62698412698413
+2281;planning;peinz;7
+2282;planning;denkbeeld;7
+2283;planning;uitstippel;7
+2284;planning;chronologisch;8.8
+2285;planning;chronologie;8
+2286;planning;coordiner;9.33809523809524
+2287;planning;samenwerk;8.19843434343434
+2288;planning;overpeinz;7.25
+2289;planning;samengewerkt;7.55555555555556
+2290;planning;component;7.09090909090909
+2291;planning;componer;9.2
+2292;planning;concept;7.91666666666667
+2293;planning;bezorgd;7.22222222222222
+2294;planning;verbind;7.09090909090909
+2295;planning;overweg;7.75
+2296;planning;complot;7.07692307692308
+2297;planning;samenzwer;8.88888888888889
+2298;planning;constructie;9.28571428571429
+2299;planning;raadpleg;8.11111111111111
+2300;planning;consultant;7.7
+2301;planning;in overweg nemend;8.5
+2302;planning;context;8
+2303;planning;eventueel;7.22222222222222
+2304;planning;gesprek;8.54545454545454
+2305;planning;crer;8.07222222222222
+2306;planning;huidig;7.28571428571429
+2307;planning;leerplan;8.18181818181818
+2308;planning;gegeven;8.22222222222222
+2309;planning;datum;8.43055555555556
+2310;planning;beslot;7.81818181818182
+2311;planning;besliss;8.05555555555556
+2312;planning;vertrag;7
+2313;planning;opzet;7.375
+2314;planning;ontwerp;8.22222222222222
+2315;planning;detail-;9.72727272727273
+2316;planning;gedetailleerd;7.75
+2317;planning;detailler;8.875
+2318;planning;detail;9.11111111111111
+2319;planning;ontwikkel;8.66666666666667
+2320;planning;ontwikkeld;8.57142857142857
+2321;planning;bedenk;8.72727272727273
+2322;planning;bedenker;8.75
+2323;planning;verschill stadia;9
+2324;planning;besprek;8.30113636363637
+2325;planning;discussie;9.14285714285714
+2326;planning;discussies;8.46153846153846
+2327;planning;werk;7.5370670995671
+2328;planning;aan het doen;7.28571428571429
+2329;planning;effectief;7.45454545454545
+2330;planning;werkgeleg;7.9
+2331;planning;ingenieur;7.55555555555556
+2332;planning;omgev;7.48412698412699
+2333;planning;ontsnapt;7.11111111111111
+2334;planning;benodigd;7.71428571428571
+2335;planning;vestig;7
+2336;planning;precies;7.125
+2337;planning;exact;7.125
+2338;planning;uitgevoerd;7.55555555555556
+2339;planning;oefen;7.375
+2340;planning;vergemak;8.18181818181818
+2341;planning;vooruitzien;7.68571428571429
+2342;planning;erachter te kom;8.6
+2343;planning;financieel;8.77777777777778
+2344;planning;financier;7.85714285714286
+2345;planning;focus;8.36363636363636
+2346;planning;gefocust;7.4
+2347;planning;vooruitzi blik;9
+2348;planning;vooruitzi;9.1125
+2349;planning;voorbedacht rad;9.625
+2350;planning;kader;7.63636363636364
+2351;planning;functie;7.1
+2352;planning;toekomst;8.875
+2353;planning;klaarmak;7.36363636363636
+2354;planning;vakantie;8.2
+2355;planning;idee;9.11111111111111
+2356;planning;implementatie;8.66666666666667
+2357;planning;invloed;7.42857142857143
+2358;planning;info;9
+2359;planning;informatie;8.22222222222222
+2360;planning;infrastructur;8.88888888888889
+2361;planning;initiatiev;7.66666666666667
+2362;planning;geinstrueerd;7.71428571428571
+2363;planning;intelligentie-;7.88888888888889
+2364;planning;van plan zijn;9.27272727272727
+2365;planning;bedoeld;8.57142857142857
+2366;planning;ingewikkeld;8.16666666666667
+2367;planning;invester;8.14285714285714
+2368;planning;aanlegg;7.85714285714286
+2369;planning;aan het ler;7.375
+2370;planning;nuchter;7.6
+2371;planning;logistiek;8.5968660968661
+2372;planning;lang termijn;8.77777777777778
+2373;planning;langetermijn;8.98717948717949
+2374;planning;langer termijn;9.11111111111111
+2375;planning;beher;8.73333333333333
+2376;planning;manager;7.66666666666667
+2377;planning;in kaart gebracht;7.36363636363636
+2378;planning;in kaart breng;9.1
+2379;planning;kaart;8.7
+2380;planning;brein;8.14285714285714
+2381;planning;meesterbrein;8.6875
+2382;planning;material;7.18181818181818
+2383;planning;meting;7.55555555555556
+2384;planning;methodisch;9.2
+2385;planning;mijlpal;8.81818181818182
+2386;planning;mindmap;7.88888888888889
+2387;planning;gemobiliseerd;7.55555555555556
+2388;planning;modeller;7.5
+2389;planning;gemotiveerd;8.22222222222222
+2390;planning;moord;7.42857142857143
+2391;planning;nodig zijn;7.22222222222222
+2392;planning;volgend;7.9
+2393;planning;notities;8
+2394;planning;doelstell;7.875
+2395;planning;operationel;8.63636363636364
+2396;planning;operationel fas;8.57142857142857
+2397;planning;operaties;7.8
+2398;planning;agent;7
+2399;planning;orkestrer;8.33333333333334
+2400;planning;agendapunt;8.71428571428571
+2401;planning;organisatie;9.875
+2402;planning;organisaties;8.81818181818182
+2403;planning;organiser;9.76388888888889
+2404;planning;georganiseerd;10
+2405;planning;uitkomst;8.11111111111111
+2406;planning;overzicht;9.18181818181819
+2407;planning;geschetst;7.88888888888889
+2408;planning;contour;9.125
+2409;planning;schets;8.625
+2410;planning;patron;8.14285714285714
+2411;planning;dader;7.5
+2412;planning;plan;9.85714285714286
+2413;planning;aanvalsplan;8.5
+2414;planning;gepland;9.64444444444445
+2415;planning;planner;9.70833333333334
+2416;planning;planning;10
+2417;planning;plann;9.3
+2418;planning;verhal;9.25
+2419;planning;geplot;9.25
+2420;planning;plot;9.44444444444444
+2421;planning;beleid;7
+2422;planning;portefeuill;7.58333333333333
+2423;planning;positie;7
+2424;planning;positioner;7
+2425;planning;mogelijk;7.26984126984127
+2426;planning;potentieel;7.11111111111111
+2427;planning;beoefend;8.09090909090909
+2428;planning;voorgedefinieerd;7.66363636363636
+2429;planning;vooraf bepaald;8.3
+2430;planning;bereid;9.2
+2431;planning;voorbereid treff;10
+2432;planning;preventie;7.81818181818182
+2433;planning;prioriteit;8.66666666666667
+2434;planning;prioriter;7.875
+2435;planning;waarschijn;7.125
+2436;planning;verwerk;9
+2437;planning;projecter;9.28571428571429
+2438;planning;project;8.54545454545454
+2439;planning;voorstell;7.91666666666667
+2440;planning;voorgesteld;7.75
+2441;planning;voorspoed;8
+2442;planning;doelgericht;7.22222222222222
+2443;planning;lez;7.22222222222222
+2444;planning;klar;8.36363636363636
+2445;planning;vernieuw;8.57142857142857
+2446;planning;vereist;7.09090909090909
+2447;planning;bron;7.36363636363636
+2448;planning;vindingrijk;8.35714285714285
+2449;planning;bronn;7.375
+2450;planning;rigoureus;7.77777777777778
+2451;planning;stappenplan;9.11111111111111
+2452;planning;routes;8.54545454545454
+2453;planning;schema;9
+2454;planning;schema';9
+2455;planning;rooster;9.4
+2456;planning;regel;9.125
+2457;planning;wetenschapp;7.42857142857143
+2458;planning;zeker;7.09090909090909
+2459;planning;set;7.125
+2460;planning;uiteengezet;8.75
+2461;planning;opgericht;9.14285714285714
+2462;planning;vaardig;8.25
+2463;planning;slim;8.81818181818182
+2464;planning;oploss;8.57142857142857
+2465;planning;geensceneerd;8.125
+2466;planning;beginn;7.2
+2467;planning;strategieen;9.58333333333333
+2468;planning;strategie;9.375
+2469;planning;streng;7.33035714285715
+2470;planning;structurel;7.63636363636364
+2471;planning;structur;7.48214285714285
+2472;planning;studie;8.3
+2473;planning;success;7.5
+2474;planning;vragenlijst;8.72727272727273
+2475;planning;keur;8.63636363636364
+2476;planning;tactiek;9.8
+2477;planning;prat;7.09090909090909
+2478;planning;gericht op;7.25
+2479;planning;terroristisch aanslag;7.18181818181818
+2480;planning;denk;9.74107142857143
+2481;planning;vooruitdenk;9.42857142857143
+2482;planning;grondig;8.25
+2483;planning;diepgaand;8.11111111111111
+2484;planning;gedacht;9.44444444444444
+2485;planning;denkproces;9.1
+2486;planning;bedachtzam;8.0625
+2487;planning;tijdsspann;8
+2488;planning;tijdlijn;8.1875
+2489;planning;timing;8.5
+2490;planning;to do;9.75
+2491;planning;prober;7.3
+2492;planning;begrip;8.36363636363636
+2493;planning;veren;7.11111111111111
+2494;planning;weergav;7.11111111111111
+2495;planning;visualisatie;7
+2496;planning;will;7.18181818181818
+2497;planning;weekend;7.41666666666667
+2498;planning;goed geinformeerd;8.72727272727273
+2499;planning;train;8.14285714285714
+2500;planning;werkt;7.375
+2501;relationship;begeleid;7.2
+2502;relationship;bewonder;7.55555555555556
+2503;relationship;adoptie;7.875
+2504;relationship;overspel;7.66666666666667
+2505;relationship;affair;7.97474747474747
+2506;relationship;affectie;9.75
+2507;relationship;geneg;8.825
+2508;relationship;aangeslot;7.4
+2509;relationship;verbond;8.74603174603175
+2510;relationship;voorkeur;8.2
+2511;relationship;loyaliteit;8.45555555555556
+2512;relationship;sam;8.07142857142857
+2513;relationship;amour;9.44444444444444
+2514;relationship;gewaardeerd;8.5
+2515;relationship;waardeert;7.75
+2516;relationship;waarder;8
+2517;relationship;opgewond;7.48636363636363
+2518;relationship;associer;7.25
+2519;relationship;veren;9.1
+2520;relationship;gehecht;9
+2521;relationship;aandacht;8.875
+2522;relationship;intiem zijn;9.9
+2523;relationship;mooi;7.11111111111111
+2524;relationship;behoord;7.9
+2525;relationship;behor;7.7
+2526;relationship;geliefd;8.76363636363637
+2527;relationship;beter helft;9
+2528;relationship;verjaardag;7.7
+2529;relationship;biseksueel;7.6
+2530;relationship;beid;7
+2531;relationship;vriend;9.86039886039886
+2532;relationship;uitmak;9.66666666666667
+2533;relationship;bruid;7.9
+2534;relationship;broer;8.14285714285714
+2535;relationship;kameraadschap;7.3125
+2536;relationship;zorg;8.42857142857143
+2537;relationship;verzorgd;7.91269841269841
+2538;relationship;strel;7.75
+2539;relationship;zorgzam;8.55555555555556
+2540;relationship;flirt;8.22916666666666
+2541;relationship;chat;8.08333333333333
+2542;relationship;koester;8.48989898989899
+2543;relationship;gekoesterd;8.49444444444444
+2544;relationship;koestert;8.33333333333333
+2545;relationship;jeugd;7.5
+2546;relationship;kinder;8.54166666666666
+2547;relationship;geregistreerd partnerschap;8
+2548;relationship;dichtbij;8.90909090909091
+2549;relationship;geslot;7
+2550;relationship;nauw;8.18181818181818
+2551;relationship;nabij;9.1
+2552;relationship;samenkom;8.06666666666667
+2553;relationship;verbind;9.07587301587302
+2554;relationship;inzet;9
+2555;relationship;verplicht;9.14285714285714
+2556;relationship;toewijd;8.65416666666667
+2557;relationship;communicer;7.15384615384615
+2558;relationship;metgezel;9
+2559;relationship;metgezell;8.875
+2560;relationship;gezelschap;9.7
+2561;relationship;medelev;7
+2562;relationship;compatibiliteit;8.28571428571429
+2563;relationship;verenig;8.36363636363636
+2564;relationship;complex;8
+2565;relationship;ingewikkeld;7.77777777777778
+2566;relationship;condom;8.11111111111111
+2567;relationship;zelfverzekerd;7.36363636363636
+2568;relationship;aansluit;9.1
+2569;relationship;verbindingsstuk;7.75
+2570;relationship;contact;8.6
+2571;relationship;tevred;8.04861111111111
+2572;relationship;gesprek;7.1
+2573;relationship;samenwerk;8.48611111111111
+2574;relationship;medewerker;7.57142857142857
+2575;relationship;vrij;8.50396825396825
+2576;relationship;stel;9.45454545454546
+2577;relationship;koppel;8.93055555555556
+2578;relationship;par;8.4
+2579;relationship;beleefd;8.1
+2580;relationship;nef;8.125
+2581;relationship;knuffel;8.84561237373737
+2582;relationship;geknuffeld;8.41558441558442
+2583;relationship;afspraakj;9.4
+2584;relationship;datum;9
+2585;relationship;dat;10
+2586;relationship;dochter;8.8939393939394
+2587;relationship;liefst;7.7
+2588;relationship;betrouw;8.75416666666667
+2589;relationship;verlang;7.7
+2590;relationship;moeilijk;8
+2591;relationship;discussie;7.33333333333333
+2592;relationship;discussies;7.375
+2593;relationship;scheiding;7.88888888888889
+2594;relationship;gescheid;8.27272727272727
+2595;relationship;echtscheid;7.71428571428571
+2596;relationship;drama;7.09090909090909
+2597;relationship;drom;7.23809523809524
+2598;relationship;duet;8.5
+2599;relationship;duo;9.25
+2600;relationship;poging;8.2
+2601;relationship;omarm;8.63636363636364
+2602;relationship;emotie;8.90909090909091
+2603;relationship;emotionel;8.625
+2604;relationship;emoties;8.85714285714286
+2605;relationship;empathisch;7.6
+2606;relationship;eind;7
+2607;relationship;uithoudingsvermog;7
+2608;relationship;verlov;9
+2609;relationship;geniet van;7.44444444444444
+2610;relationship;onderhoud;8.11111111111111
+2611;relationship;toevertrouw;7.44444444444444
+2612;relationship;gelijk;7.5
+2613;relationship;erotisch liefd;9
+2614;relationship;eeuwigdur;7.19642857142857
+2615;relationship;iederen;7
+2616;relationship;opwind;7.45454545454545
+2617;relationship;trouw;9.10119047619048
+2618;relationship;bekend;8.76428571428572
+2619;relationship;gezinn;9.71428571428571
+2620;relationship;familie;9.41111111111111
+2621;relationship;familielijn;8.5
+2622;relationship;gezin;8.5
+2623;relationship;vader;7.725
+2624;relationship;voel;7.63636363636364
+2625;relationship;gevoelen;9.4
+2626;relationship;voelt;7.11111111111111
+2627;relationship;gelukk;7.5
+2628;relationship;gemeenschap;8.55555555555556
+2629;relationship;voeld;8.42857142857143
+2630;relationship;verloofd;9.35714285714285
+2631;relationship;vor eeuwig en altijd;7.5
+2632;relationship;vergevingsgezind;8.28571428571429
+2633;relationship;vriendschapp relatie;9.7
+2634;relationship;vriendschap;9.2
+2635;relationship;vriendschapp;9.9
+2636;relationship;plezier;7.375
+2637;relationship;homo;8.7
+2638;relationship;lesbisch;9.57142857142857
+2639;relationship;homo';7.18181818181818
+2640;relationship;vrijgev;7
+2641;relationship;liefd bedrijv;7.3
+2642;relationship;sek hebb;8.05555555555556
+2643;relationship;vriendin;9.26818181818182
+2644;relationship;meisjes;7.125
+2645;relationship;schenk;7.16666666666667
+2646;relationship;lhbt;8.4
+2647;relationship;verker;7.57142857142857
+2648;relationship;goed;7.63636363636364
+2649;relationship;kleinkinder;8.18181818181818
+2650;relationship;grootvader;7.55555555555556
+2651;relationship;grootmoeder;9.23076923076923
+2652;relationship;grootouder;9.5
+2653;relationship;bruidegom;9
+2654;relationship;geluk;8.875
+2655;relationship;vrolijk;8.625
+2656;relationship;geslachtsgemeenschap hebb;8
+2657;relationship;hart;7.2
+2658;relationship;hart en ziel;8.77777777777778
+2659;relationship;van hart tot hart;8.77777777777778
+2660;relationship;helper;7.44444444444444
+2661;relationship;thuis;7
+2662;relationship;homoseksueel;8.3
+2663;relationship;eerlijk;7.45075757575758
+2664;relationship;manlief;8.4
+2665;relationship;echtgenot;9.63636363636363
+2666;relationship;ideal;7.2
+2667;relationship;gepassioneerd;8.375
+2668;relationship;onverenig;7
+2669;relationship;uitzinn;7.45454545454545
+2670;relationship;ontrouw;8.5
+2671;relationship;inten;7.55555555555556
+2672;relationship;intern;7.2
+2673;relationship;intimiteit;9.5
+2674;relationship;intiem;8.375
+2675;relationship;geinvesteerd;8.88888888888889
+2676;relationship;invester;7.72727272727273
+2677;relationship;betrok;9.04895104895105
+2678;relationship;jaloezie;7.90909090909091
+2679;relationship;meedoen;8.625
+2680;relationship;toetred;8.77777777777778
+2681;relationship;reiz;7
+2682;relationship;vreugd;8.66666666666667
+2683;relationship;houd;7.7
+2684;relationship;gezelschap houd;8.16666666666667
+2685;relationship;vriendelijk;8.11111111111111
+2686;relationship;verwant;8.16666666666666
+2687;relationship;bloedverwant;7.16666666666667
+2688;relationship;kus;7.5
+2689;relationship;kust;8.84615384615385
+2690;relationship;kusjes;9.5
+2691;relationship;kuss;8.94615384615384
+2692;relationship;lesbienn;7.875
+2693;relationship;lesbiennes;8.875
+2694;relationship;lhbti;7.22222222222222
+2695;relationship;lgbtq;8.28571428571429
+2696;relationship;lev;7
+2697;relationship;levensgeschiedenis;8.71428571428571
+2698;relationship;levenslang;8.24305555555556
+2699;relationship;leuk gevond;8.27272727272727
+2700;relationship;gekoppeld;9
+2701;relationship;lang tijd;7.5
+2702;relationship;liefd;10
+2703;relationship;liefdesaffair;9
+2704;relationship;liefdeslev;9.625
+2705;relationship;liefdesverhal;9.125
+2706;relationship;minnar;9.15
+2707;relationship;houdt van;9.25
+2708;relationship;liefdevol;8.42361111111111
+2709;relationship;lust;7.73333333333333
+2710;relationship;wellust;7.71428571428571
+2711;relationship;de liefd bedrijv;9.5
+2712;relationship;goedmak;8.22222222222222
+2713;relationship;man en vrouw;9.25
+2714;relationship;echtelijk;9.3
+2715;relationship;huwelijk;9.12380952380952
+2716;relationship;huwelijksceremonie;8.75
+2717;relationship;getrouwd;9.75
+2718;relationship;echtpar;9.07142857142857
+2719;relationship;getrouwd man;9.25
+2720;relationship;gehuwd person;9.16666666666667
+2721;relationship;getrouwd vrouw;9.18181818181818
+2722;relationship;bij elkar pass;8.85714285714286
+2723;relationship;mat;9.85714285714286
+2724;relationship;maatjes;8.42857142857143
+2725;relationship;mak kennis met;7.63636363636364
+2726;relationship;herinner;9.1
+2727;relationship;minnares;8.625
+2728;relationship;moment;7
+2729;relationship;monogam;9.875
+2730;relationship;monogamie;9.1
+2731;relationship;moeder;9.13846153846154
+2732;relationship;wederzijd;9
+2733;relationship;netwerk;7.33333333333333
+2734;relationship;verband;7.42857142857143
+2735;relationship;open;7.55555555555556
+2736;relationship;blootgev;8.125
+2737;relationship;optimistisch;7.28571428571429
+2738;relationship;ander;7
+2739;relationship;paar-;8.85714285714286
+2740;relationship;ouder;8.5
+2741;relationship;partner;9.82857142857143
+2742;relationship;partnerschapp;9.33333333333333
+2743;relationship;passie;9.28571428571429
+2744;relationship;hartstocht;8.5
+2745;relationship;mens;8.625
+2746;relationship;fysiek;7
+2747;relationship;speelsheid;7.71428571428571
+2748;relationship;verheugd;7.57142857142857
+2749;relationship;beloft;8.14285714285715
+2750;relationship;polygamie;7.2
+2751;relationship;kostbar;7.2
+2752;relationship;trot;7.14285714285714
+2753;relationship;beschermd;8.2
+2754;relationship;bescherm;7.55555555555556
+2755;relationship;beschermt;8.63636363636364
+2756;relationship;voorzien in;7.1
+2757;relationship;het verstrek van;7.25
+2758;relationship;relaties;8.83333333333333
+2759;relationship;relatie;10
+2760;relationship;familieled;8.44444444444444
+2761;relationship;afhank;7.6
+2762;relationship;bouw op;7.42857142857143
+2763;relationship;hertrouw;7.8
+2764;relationship;hertrouwd;7.63636363636364
+2765;relationship;respect;8.72727272727273
+2766;relationship;respectvol;8.88888888888889
+2767;relationship;eerbied;8.11111111111111
+2768;relationship;rol;7.88888888888889
+2769;relationship;romantiek;9.18333333333333
+2770;relationship;romances;10
+2771;relationship;romantisch;9.5
+2772;relationship;kamergenot;8.8
+2773;relationship;heilig;7.75
+2774;relationship;veilig;7.2625
+2775;relationship;hetzelfd geslacht;9.22222222222222
+2776;relationship;sek;8.7
+2777;relationship;seksuel activiteit;8.625
+2778;relationship;seksueel;8.54545454545454
+2779;relationship;seksuel liefd;8.44444444444444
+2780;relationship;seksuel drang;7.44444444444444
+2781;relationship;seksualiteit;7.5
+2782;relationship;del;7.63636363636364
+2783;relationship;gedeeld;7.1
+2784;relationship;broer en zuss;9.27272727272727
+2785;relationship;blijv slap;9.22222222222222
+2786;relationship;glimlacht;8.4
+2787;relationship;zoen;8.18181818181818
+2788;relationship;sociaal;7.7
+2789;relationship;solid;7.375
+2790;relationship;zon;9.14285714285714
+2791;relationship;echtelijk relatie;9.45454545454546
+2792;relationship;stal;7.6
+2793;relationship;stiefvader;8.88888888888889
+2794;relationship;kracht;7.4
+2795;relationship;sterk;8.54545454545454
+2796;relationship;steun;7.88888888888889
+2797;relationship;ondersteund;8
+2798;relationship;ondersteun;9
+2799;relationship;ondersteunt;9.125
+2800;relationship;prat;8.65151515151516
+2801;relationship;team;7.2
+2802;relationship;ploeg;8.77777777777778
+2803;relationship;teamwerk;8
+2804;relationship;tran;8.42857142857143
+2805;relationship;band;8.66666666666667
+2806;relationship;saamhor;9.7
+2807;relationship;aanrak;7.6
+2808;relationship;waarheid;8.45454545454546
+2809;relationship;vertrouw;8.91919191919192
+2810;relationship;vertrouwt;8.09090909090909
+2811;relationship;tweeling;7.2
+2812;relationship;tweetal;8.72727272727273
+2813;relationship;oom;8
+2814;relationship;begrip;7.66666666666667
+2815;relationship;unie;8.58333333333333
+2816;relationship;verenigd;8.18181818181818
+2817;relationship;valentijnsdag;9.28571428571429
+2818;relationship;waard;7.4
+2819;relationship;hartelijk;9.28571428571429
+2820;relationship;warmt;8.9375
+2821;relationship;wij;9
+2822;relationship;bruiloft;7.875
+2823;relationship;huwelijksplecht;9.18181818181818
+2824;relationship;huwelijksfeest;7.625
+2825;relationship;welzijn;8
+2826;relationship;gehel;7.375
+2827;relationship;vrouw;9.36363636363636
+2828;relationship;prachtig;7.1
+2829;soldier;actief;7.3
+2830;soldier;afghan;8.125
+2831;soldier;afghanistan;8.81818181818182
+2832;soldier;luchtmacht;8.79285714285714
+2833;soldier;luchtmachtofficier;8
+2834;soldier;vliegtuig;7.45454545454545
+2835;soldier;vliegveld;8.22222222222222
+2836;soldier;vliegenier;7.875
+2837;soldier;geallieerd;8.55555555555556
+2838;soldier;hinderlag;8.21590909090909
+2839;soldier;in een hinderlag gelokt;7.25
+2840;soldier;munitie;8.34646464646465
+2841;soldier;gewap;9.28571428571429
+2842;soldier;gewap strijd;10
+2843;soldier;krijgsmacht;10
+2844;soldier;gewap dienst;9.55555555555556
+2845;soldier;gepantserd;9.14285714285714
+2846;soldier;gepantserd gevechtsvoertu;9.33333333333333
+2847;soldier;wapen;8.58297258297258
+2848;soldier;leger;8.23295454545454
+2849;soldier;legertank;9.85714285714286
+2850;soldier;artillerie;8.85714285714286
+2851;soldier;aanvall;8.19940476190476
+2852;soldier;aanval;8.22222222222222
+2853;soldier;toegewez;8.3
+2854;soldier;wreedheid;7.35
+2855;soldier;vliegtuig aanvall;9.55555555555556
+2856;soldier;aangevall;8
+2857;soldier;auschwitz;7.1
+2858;soldier;bagdad;7.77777777777778
+2859;soldier;ballistisch;7.33333333333333
+2860;soldier;bataljon;9.33333333333333
+2861;soldier;strijd;9.875
+2862;soldier;strijder;9.10444444444444
+2863;soldier;gevecht;9.84126984126984
+2864;soldier;vecht;9.50909090909091
+2865;soldier;baret;7.85714285714286
+2866;soldier;biologisch oorlogsvoer;8.66666666666667
+2867;soldier;biologisch wapen;7.28571428571429
+2868;soldier;ontploff;8.45454545454546
+2869;soldier;bom;9.45454545454546
+2870;soldier;bommenwerper;8.75
+2871;soldier;bombardement;8.78636363636364
+2872;soldier;bomm;9.25
+2873;soldier;grenz;7.11111111111111
+2874;soldier;kogel;8.92307692307692
+2875;soldier;cadet;9.55555555555555
+2876;soldier;camouflag;8.62777777777778
+2877;soldier;kamp;8.26363636363637
+2878;soldier;campagn;8
+2879;soldier;kanonn;8.85714285714286
+2880;soldier;vang;8.125
+2881;soldier;gevangennem;7.33333333333333
+2882;soldier;staakt-het-vur;8.1
+2883;soldier;ceremonie;7.375
+2884;soldier;commandostructur;8.45454545454546
+2885;soldier;charg;7.66666666666667
+2886;soldier;chef;8.28571428571429
+2887;soldier;burger;7.85714285714286
+2888;soldier;botsing;8.42857142857143
+2889;soldier;col.;8.2
+2890;soldier;kolonel;8.11111111111111
+2891;soldier;verwond;8.02962962962963
+2892;soldier;gevechtsklar;9.375
+2893;soldier;opdracht;8.9
+2894;soldier;commandant;8.72348484848485
+2895;soldier;bevol;7.8
+2896;soldier;bevelvoer;8.42857142857143
+2897;soldier;commando';9
+2898;soldier;herdenk;8.42857142857143
+2899;soldier;inzet;7.92307692307692
+2900;soldier;kamerad;8.66666666666666
+2901;soldier;conflict;9
+2902;soldier;verover;8.77777777777778
+2903;soldier;corp;9.11111111111111
+2904;soldier;land;7.66666666666667
+2905;soldier;d.p.r.k.;8
+2906;soldier;dolk;7
+2907;soldier;gevar;8.35
+2908;soldier;sterfgevall;8.88888888888889
+2909;soldier;verded;9.55555555555556
+2910;soldier;uitgezond;8.57142857142857
+2911;soldier;hulpsheriff;7.15384615384615
+2912;soldier;plaatsvervang;7.15384615384615
+2913;soldier;kapot mak;8.33333333333333
+2914;soldier;vernietigt;7.3
+2915;soldier;vastberad;7.75
+2916;soldier;ontploft;7.42857142857143
+2917;soldier;toewijd;7.4
+2918;soldier;doodgan;9
+2919;soldier;ging dod;8.09090909090909
+2920;soldier;ontslag;8
+2921;soldier;disciplin;9
+2922;soldier;verzend;7.09090909090909
+2923;soldier;plicht;9.4375
+2924;soldier;noodgeval;7.57142857142857
+2925;soldier;vijand;8.0625
+2926;soldier;handhav;7.1
+2927;soldier;apparatur;7.27272727272727
+2928;soldier;explosies;8.81818181818182
+2929;soldier;explosief;7.85714285714286
+2930;soldier;explosiev;8.90909090909091
+2931;soldier;angst;7.925
+2932;soldier;felheid;7.16666666666667
+2933;soldier;terugvecht;8.30769230769231
+2934;soldier;vechter;9.63636363636364
+2935;soldier;vuurwapen;9.75
+2936;soldier;brand;7.77777777777778
+2937;soldier;vur;7.09090909090909
+2938;soldier;vlot;8.55555555555556
+2939;soldier;kracht;8.44444444444444
+2940;soldier;buitenland missie;9
+2941;soldier;gevocht;9.75
+2942;soldier;general;8.90909090909091
+2943;soldier;algemen;7.8
+2944;soldier;reger;7.3
+2945;soldier;granat;7.33333333333333
+2946;soldier;grondmacht;8.55555555555556
+2947;soldier;grondtroep;7.71428571428571
+2948;soldier;guantanamo;7.28571428571429
+2949;soldier;bewaker;8.52083333333334
+2950;soldier;wachtdienst;8.61111111111111
+2951;soldier;guerilla-oorlog;8.66666666666667
+2952;soldier;pistol;8.96767676767677
+2953;soldier;schutter;9.23051948051948
+2954;soldier;gewer;8.98015873015873
+2955;soldier;geweerschot;7
+2956;soldier;handgewer;7.55555555555556
+2957;soldier;zwar wap;8.85714285714286
+2958;soldier;helikopter;7.4
+2959;soldier;held;7.77777777777778
+2960;soldier;hierarchieen;8.33333333333333
+2961;soldier;hierarchie;7.44444444444444
+2962;soldier;huurmoordenar;7.5
+2963;soldier;pijn doen;7.63636363636364
+2964;soldier;ideologie;7.75
+2965;soldier;infanterie;9.5
+2966;soldier;blessur;7
+2967;soldier;instructie;7
+2968;soldier;instrument;7.71428571428571
+2969;soldier;opstandel;7.58333333333333
+2970;soldier;invasie;7.63636363636364
+2971;soldier;irak;8
+2972;soldier;irakez;8.22222222222222
+2973;soldier;israel-palestina;7.33333333333333
+2974;soldier;israel/palestina;7.54545454545455
+2975;soldier;functie;8.375
+2976;soldier;kaboel;8.42857142857143
+2977;soldier;dod;8.01140873015873
+2978;soldier;gedod;8.42857142857143
+2979;soldier;moord;9.14285714285714
+2980;soldier;doodt;8
+2981;soldier;koeweit;8
+2982;soldier;leiderschap;7.57142857142857
+2983;soldier;op de loer ligg;7.2
+2984;soldier;luitenant;9.55555555555556
+2985;soldier;loyalist;7.25
+2986;soldier;loyaliteit;8.125
+2987;soldier;luftwaff;7.63636363636364
+2988;soldier;maj.;9.8
+2989;soldier;marcher;9
+2990;soldier;marinier;9.11111111111111
+2991;soldier;maritiem;8.42857142857143
+2992;soldier;bloedbad;7.33333333333333
+2993;soldier;gedenktek;7.7
+2994;soldier;militant;8
+2995;soldier;militair vermog;8.8
+2996;soldier;militair control;9.22222222222222
+2997;soldier;militair kracht;9.46031746031746
+2998;soldier;militair groep;9.54545454545454
+2999;soldier;militair machin;8.27272727272727
+3000;soldier;militair missie;9.875
+3001;soldier;militair officier;9.84615384615385
+3002;soldier;militair houding;9.46153846153846
+3003;soldier;militair dienst;9.77777777777778
+3004;soldier;militair eenheid;8.81818181818182
+3005;soldier;militie;9
+3006;soldier;militieled;9.54545454545454
+3007;soldier;milities;9.22222222222222
+3008;soldier;raket;8.94444444444444
+3009;soldier;missie;8.77777777777778
+3010;soldier;missies;9.8
+3011;soldier;monument;7.77777777777778
+3012;soldier;mortier;9.125
+3013;soldier;vermink;7.11111111111111
+3014;soldier;napalm;7.42857142857143
+3015;soldier;natie;9.42857142857143
+3016;soldier;nationalism;8.55555555555556
+3017;soldier;marin;8.25
+3018;soldier;zeemacht;8.77777777777778
+3019;soldier;doelwit neutraliser;9
+3020;soldier;noord korea;7.44444444444444
+3021;soldier;gehoorzam;8.125
+3022;soldier;verplicht;7.8
+3023;soldier;bezig;8
+3024;soldier;officier;8.65454545454546
+3025;soldier;het vur open;8.58333333333333
+3026;soldier;operaties;7.875
+3027;soldier;oppositie;7.4
+3028;soldier;order;8.5
+3029;soldier;bevel;8.08333333333333
+3030;soldier;pakistan;7.25
+3031;soldier;optocht;7.42857142857143
+3032;soldier;paramilitair;7.375
+3033;soldier;patriottism;9.71428571428571
+3034;soldier;patrouill;9.4
+3035;soldier;pionn;8.14285714285714
+3036;soldier;pikord;7.85714285714286
+3037;soldier;mens;7
+3038;soldier;vergan;7.63636363636364
+3039;soldier;personel;7.53472222222222
+3040;soldier;aanvalsplan;8.66666666666667
+3041;soldier;posttraumatisch;8.475
+3042;soldier;post-traumatisch stress-stoornis;8.375
+3043;soldier;professionaliteit;7.55555555555556
+3044;soldier;bescherm;7.97916666666667
+3045;soldier;beschermd;7.85714285714286
+3046;soldier;ptss;8.88888888888889
+3047;soldier;open veilig;7
+3048;soldier;doel;7.84175084175084
+3049;soldier;qaida;8.5
+3050;soldier;raf;8.125
+3051;soldier;herover;7.44444444444444
+3052;soldier;verkenningsmissie;9.71428571428571
+3053;soldier;rot armee fraktion;8.9
+3054;soldier;regulier leger;9.3
+3055;soldier;red;7.63636363636363
+3056;soldier;redder;7.625
+3057;soldier;reserves;7.36363636363636
+3058;soldier;weerstand;8
+3059;soldier;veerkracht;8
+3060;soldier;respect;8.125
+3061;soldier;verantwoord;8.66666666666667
+3062;soldier;risico;7.72727272727273
+3063;soldier;risico';8.77777777777778
+3064;soldier;konink luchtmacht;9.5
+3065;soldier;rusland;7.85714285714286
+3066;soldier;samoerai;8.88888888888889
+3067;soldier;veilig;8.63636363636364
+3068;soldier;veiligheidsafdel;7.42857142857143
+3069;soldier;veiligheidsmaatregel;7.375
+3070;soldier;beveiligingssystem;7.77777777777778
+3071;soldier;wegstur;7.5
+3072;soldier;sergeant;8.32386363636363
+3073;soldier;dien;9.71428571428571
+3074;soldier;dienst;8.7375
+3075;soldier;soldat aan boord;7.14285714285714
+3076;soldier;schiet;9.28571428571428
+3077;soldier;neerschiet;9
+3078;soldier;schot;8.3
+3079;soldier;vaardig;7.80909090909091
+3080;soldier;sniper;7.55555555555556
+3081;soldier;soldat;10
+3082;soldier;eskader;9.41428571428571
+3083;soldier;stek;7.5
+3084;soldier;stat van oorlog;9.1
+3085;soldier;gestationeerd;7.83333333333333
+3086;soldier;sterk;9.25
+3087;soldier;structur;7.375
+3088;soldier;worstel;7.625
+3089;soldier;lijd;7.625
+3090;soldier;overst general;8.625
+3091;soldier;overlev;7.29166666666667
+3092;soldier;syrie;8.33333333333333
+3093;soldier;tactisch;7.33333333333333
+3094;soldier;taliban;7.9
+3095;soldier;tank;9.2
+3096;soldier;tak;7.625
+3097;soldier;territoria;7.2
+3098;soldier;grondgebied;7.1
+3099;soldier;terreur;8.33333333333333
+3100;soldier;terrorism;7.4
+3101;soldier;terrorist;8.11111111111111
+3102;soldier;getraind;9.42857142857143
+3103;soldier;opleid;8.58333333333333
+3104;soldier;trekker;8.4
+3105;soldier;troep;9.28571428571429
+3106;soldier;u. s. air forc;9.375
+3107;soldier;u. s. army;9.7
+3108;soldier;uniform;9.03333333333333
+3109;soldier;onvoorwaard;8.33333333333333
+3110;soldier;amerikan luchtmacht;9.55555555555556
+3111;soldier;amerikan marin;8.22222222222222
+3112;soldier;vs;7
+3113;soldier;vest;7
+3114;soldier;veteran;9.9
+3115;soldier;slachtoffer;7
+3116;soldier;vietnam;8.25
+3117;soldier;vietnames oorlog;9.75
+3118;soldier;geweld;9.5
+3119;soldier;oorlog;9.41666666666666
+3120;soldier;oorlogsmachin;8.4
+3121;soldier;oorlogvoer;9
+3122;soldier;kernkop;7.75
+3123;soldier;kernkopp;7
+3124;soldier;oorlogspaard;7
+3125;soldier;gevechtsvliegtu;7.54545454545455
+3126;soldier;krijger;7
+3127;soldier;oorlogsschep;8.55555555555556
+3128;soldier;oorlogstijd;9.88888888888889
+3129;soldier;wap;9.45454545454546
+3130;soldier;wapensystem;8.45454545454546
+3131;soldier;werk;7.77777777777778
+3132;soldier;wereldoorlog;10
+3133;soldier;wereldwijd;7
+3134;soldier;wond;8.33333333333334
+3135;soldier;gewond;8.83333333333333
+3136;soldier;ww1;9.23076923076923
+3137;soldier;ww2;9.85714285714286
+3138;soldier;wwi;10
+3139;soldier;twed wereldoorlog;9.2
+3140;suicide;naslep;7.375
+3141;suicide;nod;7.83333333333333
+3142;suicide;lijd;8.4
+3143;suicide;vervreemd;7.18181818181818
+3144;suicide;allen;8.2310606060606
+3145;suicide;eenzam;8.60349206349206
+3146;suicide;ambulanc;8.2
+3147;suicide;ambulances;7.5
+3148;suicide;doodsangst;8.90909090909091
+3149;suicide;gekweld;9.125
+3150;suicide;spanning;8
+3151;suicide;gespann;7.45454545454545
+3152;suicide;poging;8.01923076923077
+3153;suicide;geprobeerd;7.90909090909091
+3154;suicide;prober;7.36363636363636
+3155;suicide;vreselijk;8.47222222222222
+3156;suicide;bloed;7.44444444444444
+3157;suicide;licham;7.6
+3158;suicide;bom;8.625
+3159;suicide;bombardement;8.125
+3160;suicide;bomm;8.1
+3161;suicide;geestesziek;7.25
+3162;suicide;ineenstort;8.5
+3163;suicide;kogel;8.625
+3164;suicide;catastrof;8
+3165;suicide;ophoud;9.22222222222222
+3166;suicide;klinisch depressie;9.44444444444444
+3167;suicide;bezorgd;7.42857142857143
+3168;suicide;twijfel;8.5
+3169;suicide;huilt;7.1
+3170;suicide;creper;7.8
+3171;suicide;om hulp roep;9.125
+3172;suicide;huil;7.72727272727273
+3173;suicide;cyberpest;7.13636363636363
+3174;suicide;schad;7.7
+3175;suicide;gevar;8.17857142857143
+3176;suicide;donker;7.45454545454545
+3177;suicide;duisternis;7.22222222222222
+3178;suicide;dod;9.45925925925926
+3179;suicide;lijk;9.66666666666667
+3180;suicide;sterfgevall;9.91666666666667
+3181;suicide;overlijd;9.12820512820512
+3182;suicide;verlies;8.05357142857143
+3183;suicide;vertrek;8.33333333333333
+3184;suicide;depressie;9.88888888888889
+3185;suicide;depressiev stoornis;8.11111111111111
+3186;suicide;verwoest;7.63939393939394
+3187;suicide;wanhop;9.4920634920635
+3188;suicide;ten eind rad;9.66666666666667
+3189;suicide;kaptomak;7.54545454545455
+3190;suicide;doodgan;10
+3191;suicide;ging dod;9.72727272727273
+3192;suicide;ontevred;8.14285714285714
+3193;suicide;ongenoeg;8.72727272727273
+3194;suicide;radelos;9.71428571428571
+3195;suicide;angst;8.66750841750842
+3196;suicide;verdriet;9.125
+3197;suicide;schrijnend;8.7
+3198;suicide;verstoord;7.6
+3199;suicide;doodvall;8.92307692307692
+3200;suicide;stervend;9.76923076923077
+3201;suicide;eind;9.13068181818182
+3202;suicide;in gevar breng;7
+3203;suicide;geeindigd;8.625
+3204;suicide;loopt af;9
+3205;suicide;ontsnapp;9.75
+3206;suicide;ondrag;7.8
+3207;suicide;uitgeput;7.22222222222222
+3208;suicide;uitgang;7
+3209;suicide;explosiev;7.625
+3210;suicide;vertrouw;7
+3211;suicide;beu;8.375
+3212;suicide;gevoel;8.125
+3213;suicide;laatst stadium;9.44444444444444
+3214;suicide;finish;8.11111111111111
+3215;suicide;verlat;9.5
+3216;suicide;rouw;7.3
+3217;suicide;grimmig;7.11111111111111
+3218;suicide;gruwelijk;8.28956228956229
+3219;suicide;geweervur;7.6
+3220;suicide;schutter;7
+3221;suicide;geweerschot;8.25
+3222;suicide;ophang;9.07142857142857
+3223;suicide;hangt;9.5
+3224;suicide;ontber;8.08333333333333
+3225;suicide;led;9.08636363636364
+3226;suicide;geschad;8.09090909090909
+3227;suicide;schad toebreng;9.36363636363636
+3228;suicide;schaadt;9.125
+3229;suicide;gezond;7
+3230;suicide;hartverscheur;8
+3231;suicide;help;7.875
+3232;suicide;hulpelos;8.5
+3233;suicide;hopelos;8.275
+3234;suicide;ziekenhuis;7.57142857142857
+3235;suicide;opgenom in het ziekenhuis;7.08333333333333
+3236;suicide;menselijk;7.625
+3237;suicide;opgehang;8.27272727272727
+3238;suicide;kwets;10
+3239;suicide;pijn doen;8.625
+3240;suicide;ziek;7
+3241;suicide;ziekt;8.5
+3242;suicide;ziektes;9.22222222222222
+3243;suicide;onmiddel;7.1
+3244;suicide;arbeidsongeschikt;7.1
+3245;suicide;incident;7.6
+3246;suicide;toegebracht;8
+3247;suicide;verwond;9
+3248;suicide;blessur;7.55555555555556
+3249;suicide;onomker;9.72727272727273
+3250;suicide;onherroep;9.16666666666667
+3251;suicide;geisoleerd;8.625
+3252;suicide;isolatie;8.85714285714286
+3253;suicide;spring;7.0625
+3254;suicide;eraf spring;8.44444444444444
+3255;suicide;van gebouw spring;7.5
+3256;suicide;springt;7.36363636363636
+3257;suicide;gedod;7.625
+3258;suicide;doodt;9.07692307692308
+3259;suicide;laatst redmiddel;8.66666666666667
+3260;suicide;achterlat;8.5
+3261;suicide;lev;7.33333333333333
+3262;suicide;verliez;7.77083333333333
+3263;suicide;verlor;7.15384615384615
+3264;suicide;macabr;8
+3265;suicide;manisch depressie;8
+3266;suicide;manisch depressief;8.6
+3267;suicide;manisch-depressiev psychos;8.3
+3268;suicide;massa;7.72727272727273
+3269;suicide;medisch;7
+3270;suicide;mental;7.69230769230769
+3271;suicide;mental ziekt;8.2
+3272;suicide;mental gezond;9.63636363636364
+3273;suicide;geestesziekt;9.11111111111111
+3274;suicide;miserabel;7.27272727272727
+3275;suicide;gen uitweg;8
+3276;suicide;overdosis;10
+3277;suicide;overdoses;9.18181818181818
+3278;suicide;beduusd;7.6
+3279;suicide;pijn;9.46527777777778
+3280;suicide;pijnlijk;8.63888888888889
+3281;suicide;sterv;8.66666666666667
+3282;suicide;vergan;7
+3283;suicide;permanent;8.57142857142857
+3284;suicide;euthanasie;7.7
+3285;suicide;pill;9.125
+3286;suicide;gepland;9.22222222222222
+3287;suicide;vergif;8.875
+3288;suicide;vergift;8.8
+3289;suicide;slecht;7.66666666666667
+3290;suicide;psychos;7.71428571428571
+3291;suicide;ptss;7.55555555555556
+3292;suicide;hal de trekker over;7.66666666666667
+3293;suicide;ter dod breng;8.5
+3294;suicide;scheermesjes;8
+3295;suicide;rust in vred;8
+3296;suicide;touw;8.875
+3297;suicide;droefheid;9.11111111111111
+3298;suicide;litteken;7.08333333333333
+3299;suicide;eng;8.55555555555556
+3300;suicide;schreeuw;7
+3301;suicide;schreeuwt;7.125
+3302;suicide;zelfverwond;9.21212121212121
+3303;suicide;automutilatie;9.09090909090909
+3304;suicide;zelfverloochen;7.77777777777778
+3305;suicide;onzeker;8.11111111111111
+3306;suicide;zelfhat;7.81818181818182
+3307;suicide;zelfvermink;8.93333333333333
+3308;suicide;erg;7.375
+3309;suicide;ernstig;7.375
+3310;suicide;schiet;7.80681818181818
+3311;suicide;schot;8.4875
+3312;suicide;sorry;7.625
+3313;suicide;stek;8.625
+3314;suicide;stres;7.66666666666667
+3315;suicide;worstel;8.375
+3316;suicide;geled;9.09090909090909
+3317;suicide;lijdt;8.58333333333333
+3318;suicide;zelfmoord;10
+3319;suicide;zelfmoordterrorism;7.63636363636364
+3320;suicide;zelfmoordvest;7.6
+3321;suicide;nem;7.55555555555556
+3322;suicide;terminal;7.88888888888889
+3323;suicide;beeindig;8.9
+3324;suicide;verschrik;8.875
+3325;suicide;doodsbang;7.5
+3326;suicide;dreig;7
+3327;suicide;moe van;7.36363636363636
+3328;suicide;kwelling;8.47474747474747
+3329;suicide;gemarteld;7.11111111111111
+3330;suicide;tragedies;9.81818181818182
+3331;suicide;tragedie;9.3
+3332;suicide;tragisch;9.75
+3333;suicide;trauma;7.81818181818182
+3334;suicide;traumatisch;7.625
+3335;suicide;getraumatiseerd;8.75
+3336;suicide;verontrust;9.25
+3337;suicide;turbulent;7.83333333333333
+3338;suicide;ongeluk;10
+3339;suicide;ongelukk;9.71428571428571
+3340;suicide;instabiel;8.36363636363636
+3341;suicide;onwel zijn;8
+3342;suicide;van strek;7.45454545454545
+3343;suicide;verer;7
+3344;suicide;slachtoffer;8.81818181818182
+3345;suicide;kwetsbar;9
+3346;suicide;zich zorg mak;7.5
+3347;suicide;wond;7.5
+3348;suicide;gewond;8.25
+3349;surveillance;adwar;7.69230769230769
+3350;surveillance;bescherm;8.03964646464647
+3351;surveillance;antenn;7.91964285714285
+3352;surveillance;bureau;7.89444444444445
+3353;surveillance;geanalyseerd;7.71428571428571
+3354;surveillance;mivd;8.6
+3355;surveillance;kunstmat intelligentie;7
+3356;surveillance;ai;7
+3357;surveillance;artificial intelligenc;7
+3358;surveillance;schat;8.44444444444444
+3359;surveillance;audio;8.63636363636364
+3360;surveillance;autoriteit;7.7
+3361;surveillance;gezag;9
+3362;surveillance;automatisch gezichtsherkenn;8.72727272727273
+3363;surveillance;achternazit;8.28571428571429
+3364;surveillance;getuig zijn van;7.83333333333333
+3365;surveillance;big brother;8.9
+3366;surveillance;bluehydra;8
+3367;surveillance;browsergeschiedenis;7.375
+3368;surveillance;camcorder;9.75
+3369;surveillance;camera;9.56060606060607
+3370;surveillance;camera';9.8
+3371;surveillance;vastlegg;7.125
+3372;surveillance;zak;7.44444444444444
+3373;surveillance;vangst;7.125
+3374;surveillance;gevang;9.125
+3375;surveillance;cameratoezicht;9.54545454545454
+3376;surveillance;mobiel telefon;8.275
+3377;surveillance;controler;8.25
+3378;surveillance;kijk hoe het gat met;7.7
+3379;surveillance;check;7
+3380;surveillance;chip;7.66666666666667
+3381;surveillance;cia;8.875
+3382;surveillance;clandestien;7.66666666666667
+3383;surveillance;geslot circuit;8.22222222222222
+3384;surveillance;opdracht;7.41666666666667
+3385;surveillance;computer;9
+3386;surveillance;vertrouw;7.1
+3387;surveillance;politie;9.00984848484849
+3388;surveillance;control;8.25
+3389;surveillance;gecontroleerd;7.36363636363636
+3390;surveillance;controleur;7
+3391;surveillance;beheers;8.625
+3392;surveillance;controles;7.22222222222222
+3393;surveillance;corruptie;7.25
+3394;surveillance;contraspionag;8.44444444444444
+3395;surveillance;terrorismebestrijd;8.9
+3396;surveillance;dekmantel;8.76111111111111
+3397;surveillance;verhull;7.30769230769231
+3398;surveillance;verborg;7.86363636363637
+3399;surveillance;misdad;7.57142857142857
+3400;surveillance;strafblad;8
+3401;surveillance;criminel;8.875
+3402;surveillance;gegeven;8.1
+3403;surveillance;dataverzamel;8.7
+3404;surveillance;databank;7.98412698412699
+3405;surveillance;databas;8.11111111111111
+3406;surveillance;detecter;9.05555555555556
+3407;surveillance;gedetecteerd;8.71428571428571
+3408;surveillance;detectie;9.44444444444444
+3409;surveillance;detectiv werk;9.54545454545454
+3410;surveillance;detector;8.92857142857143
+3411;surveillance;apparat;8.11111111111111
+3412;surveillance;ontdek;7.125
+3413;surveillance;ontdekt;8.25
+3414;surveillance;wantrouw;7.80555555555556
+3415;surveillance;oortj;8.15384615384615
+3416;surveillance;oren;7.71428571428571
+3417;surveillance;afluister;8.6151455026455
+3418;surveillance;afgeluisterd;8
+3419;surveillance;handhav;8.42857142857143
+3420;surveillance;spionag;8.94444444444444
+3421;surveillance;spion;9.825
+3422;surveillance;bewijs;9.14285714285714
+3423;surveillance;onderzoek;8.55873015873016
+3424;surveillance;oog;8.1
+3425;surveillance;ogen;8.425
+3426;surveillance;gezicht;7.77777777777778
+3427;surveillance;gezichtsherkenn;8.62857142857143
+3428;surveillance;fbi;9
+3429;surveillance;bestand;7
+3430;surveillance;vind;7.47474747474747
+3431;surveillance;erachter kom;8.72727272727273
+3432;surveillance;bevind;7.66666666666667
+3433;surveillance;volg;9.26111111111111
+3434;surveillance;filmmateriaal;9.44444444444444
+3435;surveillance;aivd;8.75
+3436;surveillance;geoint;9
+3437;surveillance;reger;8.01363636363637
+3438;surveillance;overheidsactiviteit;8.5
+3439;surveillance;inlichtingendienst;8.83571428571429
+3440;surveillance;bewaker;8.56428571428571
+3441;surveillance;wachtdienst;8.125
+3442;surveillance;hacker;7.125
+3443;surveillance;hack;7.90909090909091
+3444;surveillance;koptelefon;8.71428571428571
+3445;surveillance;hor;7.8
+3446;surveillance;helikopter;8.85714285714286
+3447;surveillance;geheim;8.26578282828283
+3448;surveillance;identificatie;7.125
+3449;surveillance;geidentificeerd;8.8
+3450;surveillance;afbeeld;8.58368298368298
+3451;surveillance;informatie;9
+3452;surveillance;inspectie;8.5
+3453;surveillance;inlicht;9.27272727272727
+3454;surveillance;indring;8.125
+3455;surveillance;ingrijp;8.14285714285714
+3456;surveillance;onderzocht;8.1
+3457;surveillance;onderzoeker;7.42857142857143
+3458;surveillance;ip-gebaseerd;7.875
+3459;surveillance;in de gat houd;9.5
+3460;surveillance;in het garel houd;8
+3461;surveillance;keylogger;7.4
+3462;surveillance;kgb;8.66666666666667
+3463;surveillance;wet;8.57142857142857
+3464;surveillance;wetsovertred;8.44444444444444
+3465;surveillance;luister;7.9
+3466;surveillance;luisterd;8.18181818181818
+3467;surveillance;rondhang;7.11111111111111
+3468;surveillance;kijk;9
+3469;surveillance;bekijk;9.32380952380952
+3470;surveillance;toekijk;8.5
+3471;surveillance;uitkijk;9.5625
+3472;surveillance;kek;9
+3473;surveillance;op zoek;9.75
+3474;surveillance;kijk nar;9.72727272727273
+3475;surveillance;malwar;9.44444444444444
+3476;surveillance;mi5;7.22222222222222
+3477;surveillance;mi6;8.27272727272727
+3478;surveillance;microfon;8
+3479;surveillance;leger;8.5
+3480;surveillance;bewak;9.77272727272727
+3481;surveillance;bewaakt;9.76923076923077
+3482;surveillance;toezicht houd;8.86363636363637
+3483;surveillance;afluisterapparat;10
+3484;surveillance;monitor;10
+3485;surveillance;moszad;7
+3486;surveillance;mysterieus;7.125
+3487;surveillance;mysterie;7.57142857142857
+3488;surveillance;national veiligheidsdienst;9.11111111111111
+3489;surveillance;neurotisch;7
+3490;surveillance;opmerk;8.58928571428572
+3491;surveillance;in de gat hebb;8.23076923076923
+3492;surveillance;nsa;9.125
+3493;surveillance;observatie;9.33333333333333
+3494;surveillance;observer;9.66666666666666
+3495;surveillance;opgemerkt;9.41666666666667
+3496;surveillance;obsessief;7.8
+3497;surveillance;officier;8.4
+3498;surveillance;opensourc intelligenc;7.1
+3499;surveillance;osint;7.1
+3500;surveillance;onderdruk;7.75
+3501;surveillance;paranoid;7.9
+3502;surveillance;patrouill;9.45454545454546
+3503;surveillance;pentagon;8.57142857142857
+3504;surveillance;telefon;7.9
+3505;surveillance;gepland;7.36363636363636
+3506;surveillance;politieagent;8.30113636363637
+3507;surveillance;prooi;7.125
+3508;surveillance;privacy;7
+3509;surveillance;priv;8.125
+3510;surveillance;doorvrag;7.41666666666667
+3511;surveillance;procedures;7
+3512;surveillance;proctor;7.16666666666667
+3513;surveillance;programma;7.10795454545454
+3514;surveillance;verbied;7.22222222222222
+3515;surveillance;beschermt;8.8
+3516;surveillance;poetin;7.625
+3517;surveillance;radar;9.28571428571429
+3518;surveillance;verkenn;9.33333333333334
+3519;surveillance;verkenningsmissie;8.4
+3520;surveillance;vermeld;7.75
+3521;surveillance;logboek;8.88888888888889
+3522;surveillance;opgenom;8.92307692307692
+3523;surveillance;opnam;9.77777777777778
+3524;surveillance;opnames;9.375
+3525;surveillance;verslag;7.28571428571429
+3526;surveillance;regim;7
+3527;surveillance;reguler;7.23076923076923
+3528;surveillance;rapport;8.67676767676767
+3529;surveillance;gemeld;8
+3530;surveillance;rootkit;7.25
+3531;surveillance;veiligheidsapparat;7.8
+3532;surveillance;verkenner;8.18181818181818
+3533;surveillance;scherm;8.16666666666666
+3534;surveillance;gescreend;8.6
+3535;surveillance;screening;8.8
+3536;surveillance;verton;8.71428571428571
+3537;surveillance;zoekopdracht;9.125
+3538;surveillance;fouiller;9.125
+3539;surveillance;doorzoek;8.33333333333333
+3540;surveillance;geheimhoud;9
+3541;surveillance;geheimzinn;7.71428571428571
+3542;surveillance;in het geheim;7.125
+3543;surveillance;veilig;8
+3544;surveillance;veiligheidsafdel;8.3
+3545;surveillance;veiligheidsmaatregel;8.83333333333333
+3546;surveillance;beveiligingssystem;10
+3547;surveillance;zien;9.35714285714286
+3548;surveillance;gezien;7.77777777777778
+3549;surveillance;sensor;8.3051948051948
+3550;surveillance;schildwacht;8.75
+3551;surveillance;ton;7.44444444444444
+3552;surveillance;zicht;7.55555555555556
+3553;surveillance;signal detectie;8.1
+3554;surveillance;speurder;8.2
+3555;surveillance;snuffel;8.375
+3556;surveillance;social netwerk;8.22222222222222
+3557;surveillance;softwar;7
+3558;surveillance;sovjet rusland;7.27272727272727
+3559;surveillance;bespioneerd;9.54545454545454
+3560;surveillance;spionn;9.85714285714286
+3561;surveillance;spotter;8.125
+3562;surveillance;spot;7.125
+3563;surveillance;spywar;8.75
+3564;surveillance;ssl;7
+3565;surveillance;gestalkt;8.42857142857143
+3566;surveillance;stalker;7.33333333333333
+3567;surveillance;stalk;7.9
+3568;surveillance;stat;7.42857142857143
+3569;surveillance;onderwerp;7
+3570;surveillance;toezicht;10
+3571;surveillance;verdacht;8.39259259259259
+3572;surveillance;vermoed;7.375
+3573;surveillance;vermoeden;7.33333333333333
+3574;surveillance;achterdocht;7.71428571428571
+3575;surveillance;system;8.4
+3576;surveillance;tactisch;7.22222222222222
+3577;surveillance;notities mak;8.09090909090909
+3578;surveillance;plakband;7.88888888888889
+3579;surveillance;doel;7
+3580;surveillance;doelwit;7
+3581;surveillance;doelgebied;8.66666666666667
+3582;surveillance;gericht;7.66666666666667
+3583;surveillance;gericht op;7.6
+3584;surveillance;technologie;8.91071428571428
+3585;surveillance;tech;8.25
+3586;surveillance;technologisch;8.33333333333333
+3587;surveillance;technologieen;8.18181818181818
+3588;surveillance;telecom;7.85714285714286
+3589;surveillance;bedreig;8.7
+3590;surveillance;gevar;7.28571428571429
+3591;surveillance;spor;8.97402597402597
+3592;surveillance;tv;8.71428571428571
+3593;surveillance;undercover;9.22222222222222
+3594;surveillance;undercover agent;9.25
+3595;surveillance;undercover werk;8.8
+3596;surveillance;verificatie;7
+3597;surveillance;video-;7.7
+3598;surveillance;video-opnam;9.57142857142857
+3599;surveillance;videos;9.75
+3600;surveillance;videoband;8.9
+3601;surveillance;weergav;9.125
+3602;surveillance;vpn;8.5
+3603;surveillance;kijk uit;7.4
+3604;surveillance;wak over;9.61538461538461
+3605;surveillance;waakhond;8.66666666666667
+3606;surveillance;bekek;9.88888888888889
+3607;surveillance;aan het kijk;8.66666666666667
+3608;surveillance;tapp;8.8
+3609;surveillance;getuig;7.75
+3610;threat;ontvoerd;7.25555555555555
+3611;threat;terroristisch aanslag;8.83333333333333
+3612;threat;actie;7.71428571428571
+3613;threat;tegenstander;8.87301587301587
+3614;threat;bang;7.83653846153846
+3615;threat;vererger;7.30769230769231
+3616;threat;uitlok;7.30769230769231
+3617;threat;agressie;9.14285714285714
+3618;threat;alarm;8.85385101010101
+3619;threat;woed;8.24350649350649
+3620;threat;antagonist;7.5
+3621;threat;angst;7.96642857142857
+3622;threat;ruziemak;7
+3623;threat;argument;7.5
+3624;threat;argumentatie;7.44444444444444
+3625;threat;overval;8.66666666666667
+3626;threat;aanval;8.8125
+3627;threat;aangevall;9.8
+3628;threat;aanvall;8.5
+3629;threat;poging;7.625
+3630;threat;autoriteit;8.28571428571429
+3631;threat;wrek;7.36363636363636
+3632;threat;slecht;7
+3633;threat;strijd;8.375
+3634;threat;slagveld;7.54545454545455
+3635;threat;gevecht;8.64880952380952
+3636;threat;bom;9.07692307692308
+3637;threat;bombardement;9.875
+3638;threat;neerhal;8.5
+3639;threat;wred;7.2
+3640;threat;brutaliteit;7
+3641;threat;pest;7.27272727272727
+3642;threat;gevang;7.25
+3643;threat;zorg;7
+3644;threat;bezorgd;7.125
+3645;threat;conflict;8.5
+3646;threat;gevolg;7.44444444444444
+3647;threat;misdrijf;9.14285714285714
+3648;threat;misdad;8
+3649;threat;criminel;8.91666666666666
+3650;threat;strafbar feit;8.5
+3651;threat;schad;7.07142857142857
+3652;threat;schadelijk;8.4
+3653;threat;gevar;9.29122023809524
+3654;threat;dod;7.6875
+3655;threat;dodelijk;8.57142857142857
+3656;threat;weerlos;7
+3657;threat;afschrik;8.16305916305916
+3658;threat;verstor;8.14285714285714
+3659;threat;radelos;7.09090909090909
+3660;threat;dominer;7.11111111111111
+3661;threat;overheers;7.8
+3662;threat;in gevar breng;8.5
+3663;threat;bedreig;9.78787878787879
+3664;threat;escaler;8.85714285714286
+3665;threat;evacueer;8.625
+3666;threat;explosie;7.5
+3667;threat;blootstell;7.85714285714286
+3668;threat;extremism;9.11111111111111
+3669;threat;vrez;8.625
+3670;threat;wreedheid;7.11111111111111
+3671;threat;krachtig;7.89158249158249
+3672;threat;felheid;8.75
+3673;threat;terugvecht;7
+3674;threat;vecht;8.03333333333333
+3675;threat;vur;7.44444444444444
+3676;threat;overstrom;8.4
+3677;threat;vijand;8.36363636363636
+3678;threat;kracht;8.25
+3679;threat;gedwong;7.25
+3680;threat;dwing;8.18181818181818
+3681;threat;gevocht;7.58333333333333
+3682;threat;schrik;8.39015151515151
+3683;threat;wegjag;8.84090909090909
+3684;threat;bend;7.85714285714286
+3685;threat;kwell;7.85714285714286
+3686;threat;intimidatie;9.02491582491582
+3687;threat;led;9.6
+3688;threat;een hekel hebb aan;8.07692307692308
+3689;threat;hat;9.1
+3690;threat;moord;8.28855218855219
+3691;threat;gegijzeld;9
+3692;threat;gijzelar;8.41666666666667
+3693;threat;pijn doen;8.5
+3694;threat;opstok;7.5
+3695;threat;toebreng;7.43333333333334
+3696;threat;verwond;7.53846153846154
+3697;threat;van plan zijn;8
+3698;threat;opzet;7.36363636363636
+3699;threat;bedoel;9.71428571428571
+3700;threat;intimider;9.9
+3701;threat;in het garel houd;7.375
+3702;threat;kidnapp;7.06666666666667
+3703;threat;ontvoerder;9.3
+3704;threat;ontvoer;7.9
+3705;threat;gedod;7
+3706;threat;aanklag;7.8
+3707;threat;redener;7.42857142857143
+3708;threat;bos;7.36363636363636
+3709;threat;manipuler;8
+3710;threat;manipulatie;8.28571428571429
+3711;threat;dreiging;9.07692307692308
+3712;threat;bericht;7.54545454545455
+3713;threat;leger;8.2
+3714;threat;militair actie;9.77777777777778
+3715;threat;molester;8.88888888888889
+3716;threat;overtred;9
+3717;threat;zich verzet teg;7.44444444444444
+3718;threat;tegenwerk;7.5
+3719;threat;oppositie;7.57142857142857
+3720;threat;verontwaard;9.25
+3721;threat;pijn;8.875
+3722;threat;pijnlijk;7
+3723;threat;paniek;9.5
+3724;threat;paniekaanval;7.91666666666667
+3725;threat;paranoia;7.875
+3726;threat;pedofiel;8.22222222222222
+3727;threat;aanvalsplan;7.9
+3728;threat;politie;7.5
+3729;threat;politiek;7.6
+3730;threat;houding;7.28571428571429
+3731;threat;prooi;8.23333333333333
+3732;threat;aasd;8.27272727272727
+3733;threat;azen;8.25
+3734;threat;provocer;8.25568181818182
+3735;threat;geprovoceerd;7.11111111111111
+3736;threat;straff;8.2
+3737;threat;ruzie;7.16666666666667
+3738;threat;racism;8.44444444444444
+3739;threat;racistisch;7
+3740;threat;inval;8
+3741;threat;rod;7.33333333333333
+3742;threat;wrak nem;7.11111111111111
+3743;threat;wrak genom;7.90909090909091
+3744;threat;wrak;8.54285714285714
+3745;threat;vergeld;7.25
+3746;threat;opstand;7.6
+3747;threat;rel;7.6
+3748;threat;risico;9.4
+3749;threat;infectierisico;9.09090909090909
+3750;threat;risico';8.44444444444444
+3751;threat;risico lop;8.5
+3752;threat;lat schrik;9.5
+3753;threat;schrikt;8.33333333333333
+3754;threat;veilig;8.77777777777778
+3755;threat;veiligheidsafdel;8.08333333333333
+3756;threat;veiligheidsmaatregel;8.22142857142857
+3757;threat;beveiligingssystem;8.28571428571429
+3758;threat;echt;8.625
+3759;threat;spanning;7.76923076923077
+3760;threat;lijd;7.73888888888889
+3761;threat;zelfmoord;7.44444444444444
+3762;threat;doodsbang;9
+3763;threat;terreur;9.45454545454546
+3764;threat;terroriser;9.11111111111111
+3765;threat;terrorism;9.77777777777778
+3766;threat;terrorist;9.61742424242425
+3767;threat;terroristisch aanval;10
+3768;threat;dreig;10
+3769;threat;bedreigd;9.18181818181818
+3770;threat;dreigt;9.55555555555556
+3771;threat;trauma;7.8
+3772;threat;schietgrag;7.25
+3773;threat;problem;8.66666666666667
+3774;threat;onbehag;8.125
+3775;threat;onrust;7.42857142857143
+3776;threat;onveil;8.75
+3777;threat;heftig;7.2
+3778;threat;ergernis;7
+3779;threat;gemen;9
+3780;threat;slachtoffer;7.725
+3781;threat;geweld;9.5
+3782;threat;gewelddad;8.11111111111111
+3783;threat;waarschuw;8.36574074074074
+3784;threat;gewaarschuwd;9.28571428571429
+3785;threat;waarschuwingssignal;9.2
+3786;threat;waarschuwt;9.57142857142857
+3787;threat;verzwak;7.125
+3788;threat;zich zorg mak;7.22222222222222
+3789;threat;fout;7
+3790;violence;ontvoer;8.125
+3791;violence;misbruik;9.7
+3792;violence;mishandel;9.57222222222222
+3793;violence;misbruiker;9.35714285714285
+3794;violence;beled;9.43650793650793
+3795;violence;terroristisch aanslag;9.60714285714285
+3796;violence;tegenstander;7.54545454545455
+3797;violence;bang;8.55555555555556
+3798;violence;vererger;8.125
+3799;violence;agressie;8.41414141414142
+3800;violence;agressor;9.34090909090909
+3801;violence;beroer;8
+3802;violence;ager;8
+3803;violence;opwind;8
+3804;violence;woordenwissel;8.68181818181818
+3805;violence;aanvar;8
+3806;violence;hinderlag;8.25
+3807;violence;munitie;9.14285714285714
+3808;violence;woed;9.41193181818182
+3809;violence;gewap;8.77777777777778
+3810;violence;leger;8.0625
+3811;violence;arrester;8.81818181818182
+3812;violence;gearresteerd;8.3
+3813;violence;brandsticht;9
+3814;violence;artillerie;9
+3815;violence;aanvall;8.81818181818182
+3816;violence;aanvaller;9.27247474747475
+3817;violence;overval;10
+3818;violence;aanval;9.11616161616162
+3819;violence;aangevall;9.75
+3820;violence;slecht;8.19318181818182
+3821;violence;knal;8.77777777777778
+3822;violence;barbar;8.7
+3823;violence;strijd;9.55555555555556
+3824;violence;gevecht;9.49116161616162
+3825;violence;vecht;9.34259259259259
+3826;violence;gedrag;7.2
+3827;violence;bet;7.33333333333333
+3828;violence;bitter;7.85714285714286
+3829;violence;ontploff;7
+3830;violence;bloed;9.20833333333333
+3831;violence;bloedvergiet;10
+3832;violence;bloeddorst;9
+3833;violence;bloeder;8.81818181818182
+3834;violence;bom;8.75
+3835;violence;bommenwerper;9.45454545454546
+3836;violence;bombardement;9.69230769230769
+3837;violence;bomm;9.66666666666667
+3838;violence;vechtpartij;8.67878787878788
+3839;violence;nar bened breng;7
+3840;violence;kneuzing;9.5
+3841;violence;blauw plek;9.5
+3842;violence;wred;9.40092592592593
+3843;violence;brutaliteit;9.66666666666667
+3844;violence;brut;9.57142857142857
+3845;violence;kogel;9.6
+3846;violence;pest;8.8
+3847;violence;inbrak;7.125
+3848;violence;brandwond;8.77777777777778
+3849;violence;verbrand;8.77777777777778
+3850;violence;slachtoffer;9.2797619047619
+3851;violence;ongeval;8.72727272727273
+3852;violence;charger;7.55555555555556
+3853;violence;botsing;7.28571428571429
+3854;violence;gevechtsklar;7.91666666666667
+3855;violence;bestrijd;8.83333333333333
+3856;violence;conflict;10
+3857;violence;confrontatie;7.5079365079365
+3858;violence;confrontaties;8.77777777777778
+3859;violence;overtu;7.30769230769231
+3860;violence;misdrijf;9.25
+3861;violence;misdad;9.81818181818182
+3862;violence;criminel;7.95833333333333
+3863;violence;strafbar feit;8.8125
+3864;violence;criminaliser;8.3
+3865;violence;kruistocht;7.6
+3866;violence;dader;7.875
+3867;violence;boosdoener;8.01428571428571
+3868;violence;snee;8.625
+3869;violence;schad;8.34126984126984
+3870;violence;gevar;8.80079365079365
+3871;violence;dod;8.7962962962963
+3872;violence;dodelijk;9.7
+3873;violence;sterfgevall;8.25
+3874;violence;overlijd;7.6
+3875;violence;verded;7.44444444444444
+3876;violence;slop;7.73333333333333
+3877;violence;kapot mak;9.44444444444444
+3878;violence;verniet;8.78846153846154
+3879;violence;vernietigt;8.4
+3880;violence;verwoest;8.26666666666667
+3881;violence;destructief;9.85714285714286
+3882;violence;verafschuw;7
+3883;violence;ontploft;8.5
+3884;violence;nadel;7.75
+3885;violence;doodgegan;8.375
+3886;violence;meningsverschil;8
+3887;violence;walging;8.45454545454546
+3888;violence;ongenoeg;8
+3889;violence;geschill;8.46666666666667
+3890;violence;onen;7.6
+3891;violence;angst;8.35069444444444
+3892;violence;huiselijk;7.125
+3893;violence;in gevar breng;8.375
+3894;violence;vijand;8.2253391053391
+3895;violence;escaler;7.7
+3896;violence;escalatie;8.66666666666667
+3897;violence;executie;9
+3898;violence;explodeerd;8.6
+3899;violence;explosies;8.54545454545454
+3900;violence;explosief;8.66666666666667
+3901;violence;explosiev;9.3
+3902;violence;extremism;9
+3903;violence;duel;7
+3904;violence;dodelijk ongeluk;7
+3905;violence;dodelijk slachtoffer;8.11111111111111
+3906;violence;fatal;8.8
+3907;violence;vrezend;8.33333333333333
+3908;violence;misdadiger;8.94285714285714
+3909;violence;krachtig;9
+3910;violence;terugvecht;7.6
+3911;violence;kracht;8.57142857142857
+3912;violence;gevocht;7.5
+3913;violence;ruzie;8.28571428571429
+3914;violence;schrik;7.28571428571429
+3915;violence;frustratie;7.08333333333333
+3916;violence;bend;9.11111111111111
+3917;violence;grijp;8.7
+3918;violence;granat;8.8021978021978
+3919;violence;pijnlijk;8.64285714285715
+3920;violence;pistol;8.625
+3921;violence;schutter;8.6875
+3922;violence;gewer;9.33333333333333
+3923;violence;geweerschot;8.42857142857143
+3924;violence;kwell;7.69230769230769
+3925;violence;intimidatie;8.29924242424243
+3926;violence;led;9.1
+3927;violence;geschad;9
+3928;violence;schad toebreng;9
+3929;violence;gedoe;7.625
+3930;violence;een hekel hebb aan;9.09090909090909
+3931;violence;hat;9.55555555555556
+3932;violence;rak;9.44444444444444
+3933;violence;slan;9.8
+3934;violence;moord;8.88968253968254
+3935;violence;gruwelijk;9.14285714285714
+3936;violence;kwets;9.77777777777778
+3937;violence;pijn doen;9.7
+3938;violence;doet zer;8.71428571428571
+3939;violence;hysterisch;7
+3940;violence;gevangenisstraf;7.375
+3941;violence;gevangennam;7.375
+3942;violence;uitschakel;7.55555555555556
+3943;violence;incident;7.75
+3944;violence;aanwakker;7.55555555555556
+3945;violence;toebreng;7.875
+3946;violence;verwond;9.33333333333333
+3947;violence;verwondt;9.8
+3948;violence;blessur;9.45454545454546
+3949;violence;gevangen;7.2
+3950;violence;onschuld mens;7.72727272727273
+3951;violence;opzet;8.63636363636364
+3952;violence;onderzoeker;7.125
+3953;violence;stot;8.90625
+3954;violence;gevangenis;8.61111111111111
+3955;violence;gevangeniss;8.28571428571428
+3956;violence;jaloezie;7.875
+3957;violence;trap;9.11111111111111
+3958;violence;geschopt;9.14285714285714
+3959;violence;schopp;8.75
+3960;violence;trapp;8.18181818181818
+3961;violence;gedod;9.5
+3962;violence;doodt;8.5
+3963;violence;mes;8.91666666666667
+3964;violence;uithal;8.5
+3965;violence;wet;8.33333333333333
+3966;violence;wetsovertred;10
+3967;violence;levensbedreig;9.30769230769231
+3968;violence;plunder;7.66666666666667
+3969;violence;verlies;7.1
+3970;violence;machet;7.2
+3971;violence;krankzinn;7.09090909090909
+3972;violence;vermink;8.71666666666667
+3973;violence;bocht;8.66666666666667
+3974;violence;melee;8
+3975;violence;dreiging;9.85714285714286
+3976;violence;militair eenheid;7.58333333333333
+3977;violence;hersenlos;7.46153846153846
+3978;violence;raket;8.20833333333334
+3979;violence;molester;7.875
+3980;violence;aanrander;8.25
+3981;violence;nabestaand;7.08333333333333
+3982;violence;moordenar;10
+3983;violence;moorddad;9.11111111111111
+3984;violence;verpletter;8.55555555555556
+3985;violence;overtred;8
+3986;violence;overtreder;8.8030303030303
+3987;violence;onderdruk;8.42857142857143
+3988;violence;onderdrukker;8.4
+3989;violence;uit de hand gelop;8.25
+3990;violence;uitbarst;9.875
+3991;violence;verontwaard;8
+3992;violence;pijn;8.9
+3993;violence;aanvalsplan;8
+3994;violence;politie;8.42857142857143
+3995;violence;prooi;8.7
+3996;violence;provocer;8.5
+3997;violence;geprovoceerd;7.18181818181818
+3998;violence;verpulver;8.125
+3999;violence;geslag;9.4375
+4000;violence;puncher;9
+4001;violence;duw;7.88888888888889
+4002;violence;ter dod breng;8.7
+4003;violence;racism;8.25
+4004;violence;racistisch;8
+4005;violence;radicaliser;7.81818181818182
+4006;violence;razernij;9.22222222222222
+4007;violence;verkracht;8.77777777777778
+4008;violence;verkrachter;9.33333333333333
+4009;violence;opstand;8.25
+4010;violence;rell;9.18181818181818
+4011;violence;risico;7.7
+4012;violence;risico';7.3
+4013;violence;berov;9.5
+4014;violence;ruig;7
+4015;violence;ruiner;7
+4016;violence;genadelos;8.66666666666667
+4017;violence;wild;8.44444444444444
+4018;violence;schreeuw;8.42087542087542
+4019;violence;schreeuwend;9.33333333333333
+4020;violence;schreeuwt;8.4
+4021;violence;handgemen;7.74545454545455
+4022;violence;knokpartij;7.4
+4023;violence;rod zien;9.1
+4024;violence;zinlos;8.14285714285714
+4025;violence;echt;7.36363636363636
+4026;violence;erg;7.1
+4027;violence;ernstig;7.1
+4028;violence;schiet;9.5909090909091
+4029;violence;neerschiet;7.42857142857143
+4030;violence;schietpartij;10
+4031;violence;schot;9.2125
+4032;violence;roep;8.44444444444444
+4033;violence;granaatscherv;8
+4034;violence;gil;7.7
+4035;violence;gillend;8
+4036;violence;ziek mak;9.25
+4037;violence;gesned;8.25
+4038;violence;doorsnijd;7.2
+4039;violence;kapot slan;9
+4040;violence;knaller;7.5
+4041;violence;knapp;7.27272727272727
+4042;violence;sniper;7.88888888888889
+4043;violence;soldat;7.75
+4044;violence;rancun;7.72727272727273
+4045;violence;stek;9.8
+4046;violence;steekt;8
+4047;violence;oorlog;9.23333333333333
+4048;violence;spanning;8.55541125541126
+4049;violence;klap;8.45454545454546
+4050;violence;lijd;8.61805555555556
+4051;violence;zelfmoord;7.875
+4052;violence;verdacht;7.7
+4053;violence;neerhal;7.25
+4054;violence;doel;7.55555555555556
+4055;violence;doelwit;8
+4056;violence;doelgebied;7.36363636363636
+4057;violence;gericht;7.25
+4058;violence;gericht op;8.55555555555556
+4059;violence;scheur;7.55555555555556
+4060;violence;gespann;7.55555555555556
+4061;violence;terreur;9.77777777777778
+4062;violence;terroriser;9.3
+4063;violence;terrorism;9.5
+4064;violence;terrorist;9.375
+4065;violence;diefstal;7.09090909090909
+4066;violence;stel;8
+4067;violence;bedreig;7.36363636363636
+4068;violence;dreig;9
+4069;violence;mensenhandel;8.2
+4070;violence;trauma;8.66666666666667
+4071;violence;proces;8.14285714285714
+4072;violence;schietgrag;7.36363636363636
+4073;violence;ongecontroleerd;8.81818181818182
+4074;violence;onverbid;9.3
+4075;violence;onhandel;8.6
+4076;violence;onveil;8.66666666666667
+4077;violence;vandalism;7.66666666666667
+4078;violence;gemen;7.875
+4079;violence;geweld;10
+4080;violence;hevig;10
+4081;violence;geweldad dod;9.54545454545454
+4082;violence;oorlogvoer;9
+4083;violence;kernkop;9.42857142857143
+4084;violence;wap;8.81818181818182
+4085;violence;wapensystem;9.25
+4086;violence;wapen;9.2020202020202
+4087;violence;bezorgd;7
+4088;violence;slechter;7.72727272727273
+4089;violence;wond;9
+4090;violence;gewond;8.75
+4091;violence;toorn;7.9
+4092;weaponry;155mm;9.57142857142857
+4093;weaponry;actie;7.625
+4094;weaponry;agressie;8.33333333333333
+4095;weaponry;doel;8.78902116402116
+4096;weaponry;ak-47;10
+4097;weaponry;hinderlag;7.81818181818182
+4098;weaponry;amerikan;8.5
+4099;weaponry;munitie;9.69065656565657
+4100;weaponry;luchtafwer;9.2
+4101;weaponry;anti-tank;8
+4102;weaponry;bewapen;8.90909090909091
+4103;weaponry;gewap;8.72727272727273
+4104;weaponry;krijgsmacht;7.55555555555556
+4105;weaponry;gewap person;9.7
+4106;weaponry;gewap dienst;8.81818181818182
+4107;weaponry;schild;8.91558441558442
+4108;weaponry;gepantserd;9.58035714285715
+4109;weaponry;gepantserd gevechtsvoertu;8.42857142857143
+4110;weaponry;wapen;9.54444444444444
+4111;weaponry;leger;9.1
+4112;weaponry;tank;9.83068783068783
+4113;weaponry;artillerie;9.5
+4114;weaponry;aanvall;8.69761904761905
+4115;weaponry;aanvaller;7
+4116;weaponry;overval;8.58333333333333
+4117;weaponry;atoomwap;7.9
+4118;weaponry;atoomoorlog;8.77777777777778
+4119;weaponry;aanval;7.85064935064935
+4120;weaponry;aangevall;8.28571428571429
+4121;weaponry;bijl;8.875
+4122;weaponry;slecht;8.4
+4123;weaponry;slan;7.6984126984127
+4124;weaponry;strijd;9.36363636363636
+4125;weaponry;slagschep;8.55555555555556
+4126;weaponry;bazooka;9.8
+4127;weaponry;riem;7.18181818181818
+4128;weaponry;biologisch wap;7.92307692307692
+4129;weaponry;zwart markt;7.27272727272727
+4130;weaponry;mes;9.40952380952381
+4131;weaponry;ontploff;9.32373737373737
+4132;weaponry;bloed;8.88888888888889
+4133;weaponry;bloedvergiet;8.2
+4134;weaponry;opblaz;8.375
+4135;weaponry;bom;9.91666666666667
+4136;weaponry;bombardement;9.30769230769231
+4137;weaponry;bomm;9.61538461538461
+4138;weaponry;klap;9
+4139;weaponry;boksbeugel;8.76719576719577
+4140;weaponry;kogel;8.97222222222222
+4141;weaponry;verborg wapen;7.44444444444444
+4142;weaponry;kaliber;8.875
+4143;weaponry;kanonn;9
+4144;weaponry;slachtoffer;8.2875
+4145;weaponry;in reken breng;7.14285714285714
+4146;weaponry;botsing;7.42857142857143
+4147;weaponry;gebald vuist;7.27272727272727
+4148;weaponry;commandant;7.54545454545455
+4149;weaponry;conflict;8.28571428571429
+4150;weaponry;smokkelwar;7.53846153846154
+4151;weaponry;misdad;7.36363636363636
+4152;weaponry;criminel;8
+4153;weaponry;crisis;7.66666666666667
+4154;weaponry;dolk;9.11111111111111
+4155;weaponry;schad;9.72727272727273
+4156;weaponry;gevar;8.3125
+4157;weaponry;pijl;8.3
+4158;weaponry;dod;8.62568542568543
+4159;weaponry;dodelijk;8.48333333333333
+4160;weaponry;verded;9.05555555555556
+4161;weaponry;defensie;9.88888888888889
+4162;weaponry;slop;7.9
+4163;weaponry;kapot mak;8.875
+4164;weaponry;vernietiger;7.5
+4165;weaponry;verniet;8.25
+4166;weaponry;verwoest;7.48611111111111
+4167;weaponry;destructief;8.6
+4168;weaponry;ontploft;8.54545454545454
+4169;weaponry;rampzal;7.11111111111111
+4170;weaponry;in gevar breng;7.42857142857143
+4171;weaponry;bedreig;8.77222222222222
+4172;weaponry;uitvoer;8.875
+4173;weaponry;voert uit;7.125
+4174;weaponry;explodeerd;9.18181818181818
+4175;weaponry;explosie;8.88888888888889
+4176;weaponry;explosies;9.2
+4177;weaponry;explosief;8.75
+4178;weaponry;explosiev;9.875
+4179;weaponry;extremist;9.5
+4180;weaponry;dodelijk slachtoffer;8.81818181818182
+4181;weaponry;angst;7.5
+4182;weaponry;felheid;7.33333333333333
+4183;weaponry;vecht;9.5
+4184;weaponry;vur;8.0974358974359
+4185;weaponry;vuurwapen;10
+4186;weaponry;vuurwap;9.83333333333333
+4187;weaponry;vuurkracht;8.875
+4188;weaponry;vlammenwerper;7.63636363636364
+4189;weaponry;kracht;8.68831168831169
+4190;weaponry;oorlogsschip;7
+4191;weaponry;bang;7
+4192;weaponry;woed;7
+4193;weaponry;gas;8.3
+4194;weaponry;genocid;7.57142857142857
+4195;weaponry;in woed uitbarst;8.22222222222222
+4196;weaponry;granat;9.07142857142857
+4197;weaponry;grondtroep;8
+4198;weaponry;bewaker;8.33333333333333
+4199;weaponry;pistol;9.91666666666667
+4200;weaponry;huurwap;8.8
+4201;weaponry;schutter;9.69444444444444
+4202;weaponry;gewer;9.8301282051282
+4203;weaponry;geweerschot;9.38461538461539
+4204;weaponry;handgewer;9.77777777777778
+4205;weaponry;led;8.57142857142857
+4206;weaponry;hat;7.1
+4207;weaponry;zwar wap;9.5
+4208;weaponry;helikopter;8.33333333333333
+4209;weaponry;heft;7.85714285714286
+4210;weaponry;gehuurd wap;7.33333333333333
+4211;weaponry;rak;8.375
+4212;weaponry;huurmoordenar;8.5
+4213;weaponry;houwitser;8.66666666666667
+4214;weaponry;kwets;8.44444444444444
+4215;weaponry;doet zer;8.1
+4216;weaponry;ikbm;10
+4217;weaponry;i.e.d.;8.90909090909091
+4218;weaponry;geimproviseerd bom;8.90909090909091
+4219;weaponry;onwett;8.16666666666666
+4220;weaponry;implementer;8.125
+4221;weaponry;geimproviseerd explosief apparat;9.6
+4222;weaponry;infanterie;9.1
+4223;weaponry;toebreng;8.2
+4224;weaponry;verwond;8.5047619047619
+4225;weaponry;verwondt;8
+4226;weaponry;blessur;7.8
+4227;weaponry;invasie;7.55555555555556
+4228;weaponry;irak;8.3
+4229;weaponry;kalashnikov;7
+4230;weaponry;gedod;8.90909090909091
+4231;weaponry;moord;8.45925925925926
+4232;weaponry;doodt;9.61538461538461
+4233;weaponry;messtek;7.1
+4234;weaponry;mess;9.5
+4235;weaponry;lancer;8.22222222222222
+4236;weaponry;draagraket;7.66666666666667
+4237;weaponry;levensbedreig;7.16666666666667
+4238;weaponry;m-16;9.33333333333333
+4239;weaponry;machet;9.8
+4240;weaponry;machetes;7.25
+4241;weaponry;machin;8.71428571428571
+4242;weaponry;machinegewer;9.90277777777778
+4243;weaponry;machin gewer;9.91666666666667
+4244;weaponry;vermink;7.81818181818182
+4245;weaponry;bloedbad;8.625
+4246;weaponry;dreiging;7.44444444444444
+4247;weaponry;metal;7.375
+4248;weaponry;militant;8.23076923076923
+4249;weaponry;raket;9.59375
+4250;weaponry;mortier;7.28571428571429
+4251;weaponry;nationalism;7.2
+4252;weaponry;nucleair;8.375
+4253;weaponry;uitwiss;7.33333333333333
+4254;weaponry;pijn;7.6
+4255;weaponry;pijnlijk;7.45454545454545
+4256;weaponry;pentagon;8.28571428571429
+4257;weaponry;dader;8.375
+4258;weaponry;doorbor;7.375
+4259;weaponry;aanvalsplan;8
+4260;weaponry;plutonium;8
+4261;weaponry;vergif;7.55555555555556
+4262;weaponry;politie;7.44444444444444
+4263;weaponry;politieagent;8.57142857142857
+4264;weaponry;prooi;7.125
+4265;weaponry;projectiel;9.63636363636364
+4266;weaponry;bescherm;8.46666666666667
+4267;weaponry;ter dod breng;7.44444444444444
+4268;weaponry;inval;8.22222222222222
+4269;weaponry;terugslag;8.28571428571429
+4270;weaponry;opstand;8.875
+4271;weaponry;risico';7.375
+4272;weaponry;berov;8
+4273;weaponry;raketgedrev;9.875
+4274;weaponry;letsel toebreng;7.85714285714286
+4275;weaponry;schar;7
+4276;weaponry;gesel;7
+4277;weaponry;halfautomatisch;8.54545454545454
+4278;weaponry;echt;7
+4279;weaponry;schiet;9.04166666666666
+4280;weaponry;neerschiet;9.1
+4281;weaponry;schot;8.88888888888889
+4282;weaponry;granaatscherv;9.66666666666667
+4283;weaponry;handvuurwapen;9.83333333333333
+4284;weaponry;kapot slan;7.6
+4285;weaponry;kapotslan;7
+4286;weaponry;sniper;9.3
+4287;weaponry;soldat;9.53030303030303
+4288;weaponry;sper;10
+4289;weaponry;stek;8.11111111111111
+4290;weaponry;steekt;9.33333333333333
+4291;weaponry;opberg;7.27272727272727
+4292;weaponry;oorlog;9.21031746031746
+4293;weaponry;stal;7.22222222222222
+4294;weaponry;stok;7.4
+4295;weaponry;voorrad;8.5
+4296;weaponry;onderzeeer;7.33333333333333
+4297;weaponry;lijd;7.77222222222222
+4298;weaponry;bomvest;8.875
+4299;weaponry;zwaard;9.69444444444444
+4300;weaponry;doelwit;7.875
+4301;weaponry;doelgebied;9.42857142857143
+4302;weaponry;gericht;8.5
+4303;weaponry;terreur;7.375
+4304;weaponry;terroriser;8.16666666666667
+4305;weaponry;terrorism;7.1
+4306;weaponry;terrorist;9.15714285714285
+4307;weaponry;torpedo;9.72727272727273
+4308;weaponry;trauma;7.90909090909091
+4309;weaponry;trekker;9
+4310;weaponry;troep;8
+4311;weaponry;problem;7.11111111111111
+4312;weaponry;wapenstok;9.22222222222222
+4313;weaponry;uranium;7.75
+4314;weaponry;geweld;9
+4315;weaponry;hevig;9.125
+4316;weaponry;geweldad dod;7.55555555555556
+4317;weaponry;oorlogvoer;9.25
+4318;weaponry;kernkop;9.6
+4319;weaponry;kernkopp;9.25
+4320;weaponry;strijder;9.42857142857143
+4321;weaponry;oorlogsschep;9.33333333333333
+4322;weaponry;wap;9.72727272727273
+4323;weaponry;wapensystem;9.9
+4324;weaponry;uitroei;7.08333333333333
+4325;weaponry;wond;8.9
+4326;weaponry;gewond;8
